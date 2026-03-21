@@ -19,7 +19,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 # 📈 融資餘額總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-03-21 17:05:33 CST  
+    **:calendar: 產生時間**: 2026-03-21 21:23:58 CST  
     **:building_construction: 分析股票總數**: 127 檔  
     **:chart_with_upwards_trend: 報告類型**: 融資餘額總覽  
     **:file_folder: 資料來源**: Stage 2 cleaned_margin_daily.csv + cleaned_margin_weekly.csv + cleaned_margin_monthly.csv
@@ -267,9 +267,9 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-3.52%</td>
 <td>-1.44%</td>
 <td>479.50</td>
-<td>2471.9 億元</td>
-<td>0.70%</td>
-<td>🟠</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>-</td>
 <td>2026-03-20</td>
 </tr>
 <tr>
@@ -867,7 +867,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+1400.00%</td>
 <td>+125.00%</td>
 <td>53.50</td>
-<td>38.1 億元</td>
+<td>37.4 億元</td>
 <td>0.06%</td>
 <td>🟢</td>
 <td>2026-03-20</td>
@@ -1155,7 +1155,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+316.67%</td>
 <td>-47.37%</td>
 <td>42.60</td>
-<td>14.1 億元</td>
+<td>14.0 億元</td>
 <td>0.01%</td>
 <td>🟢</td>
 <td>2026-03-20</td>
@@ -1395,7 +1395,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+2233.33%</td>
 <td>+55.56%</td>
 <td>38.05</td>
-<td>11.3 億元</td>
+<td>11.2 億元</td>
 <td>0.03%</td>
 <td>🟢</td>
 <td>2026-03-20</td>
