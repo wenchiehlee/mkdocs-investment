@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-23
+date: 2026-03-24
 categories:
   - 股票
   - ROE/ROA
@@ -37,4 +37,4 @@ description: ROA/ROE 報告 光鼎生技 (6850) - 資料不足
 
 ---
 *本報告由 Stock Analysis System 自動生成*
-*產生時間：2026-03-23 22:03:15 CST*
+*產生時間：2026-03-24 01:28:38 CST*
