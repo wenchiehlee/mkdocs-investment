@@ -24,7 +24,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 123 檔) - 自動
 # :bar_chart: 股利分配總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-03-26 13:11:49 CST  
+    **:calendar: 產生時間**: 2026-03-26 17:45:03 CST  
     **:building_construction: 分析股票總數**: 126 檔 (有效 123 檔)  
     **:chart_with_upwards_trend: 報告類型**: 完整股利分配分析  
     **:file_folder: 資料來源**: Stage 2 cleaned_dividends.csv + cleaned_performance1.csv
@@ -1004,14 +1004,14 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 123 檔) - 自動
 <td>[**5536**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-5536/)</td>
 <td>聖暉</td>
 <td>20.00</td>
-<td>🔽 19.02</td>
-<td>🔽 19.59</td>
+<td>🔽 19.74</td>
+<td>🔽 19.54</td>
 <td>-</td>
 <td>2.50%</td>
 <td>03/25 11:55</td>
 <td>3.36%</td>
 <td>2.37%</td>
-<td>98%</td>
+<td>70%</td>
 <td>🟡 7.5</td>
 </tr>
 <tr>
@@ -1718,15 +1718,15 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 123 檔) - 自動
 <td>[**8045**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-8045/)</td>
 <td>達運光電</td>
 <td>1.00</td>
-<td>🔽 0.75</td>
-<td>🔽 0.66</td>
+<td>🔽 0.67</td>
+<td>🔽 0.50</td>
 <td>-</td>
 <td>1.33%</td>
 <td>03/25 11:48</td>
 <td>1.41%</td>
 <td>1.06%</td>
-<td>227%</td>
-<td>🔴 2.0</td>
+<td>154%</td>
+<td>🔴 2.5</td>
 </tr>
 <tr>
 <td>[**8272**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-8272/)</td>
@@ -1825,7 +1825,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 123 檔) - 自動
     - **平均資料品質**: 9.5/10
 
 !!! info "報告元資訊"
-    - **報告產生時間**: 2026-03-26 13:11:49
+    - **報告產生時間**: 2026-03-26 17:45:03
     - **資料來源**: Stage 2 資料清理股利報告系統
     - **主要資料**: `cleaned_dividends.csv` (Type 1: DividendDetail)
     - **EPS資料**: `cleaned_performance1.csv` (Type 7: Quarterly Performance)
