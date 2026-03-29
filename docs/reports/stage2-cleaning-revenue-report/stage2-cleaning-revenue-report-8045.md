@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-29
+date: 2026-03-30
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 達運光電 (8045) - 自動產生
     **:building_construction: 公司名稱**: 達運光電  
     **:identification_card: 股票代號**: 8045  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-03-29 21:43:00 CST
+    **:clock3: 更新時間**: 2026-03-30 03:26:18 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 達運光電 (8045) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **0.62** | **0.86** | **1.66** |
-| **P/E倍數** | **79.23** | **115.35** | **164.51** |
+| **EPS(元)** | **0.57** | **0.81** | **1.64** |
+| **P/E倍數** | **81.07** | **121.53** | **162.74** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 達運光電 歷史平均獲利能力 (σup=0.80, σlo=0.24)
-    - **P/Ebase**: 達運光電 歷史平均估值水準 (σup=49.16, σlo=36.12)
+    - **EPSbase**: 達運光電 歷史平均獲利能力 (σup=0.83, σlo=0.24)
+    - **P/Ebase**: 達運光電 歷史平均估值水準 (σup=41.21, σlo=40.46)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,17 +79,17 @@ description: 月營收表 達運光電 (8045) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/02** | **1.19** | <span style="color: #B22222; font-weight: bold;">+11.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+59.7</span> | **81** | <span style="color: #002818; font-weight: bold;">0.79</span> | <span style="color: #002818; font-weight: bold;">102.5</span> |
-| **2026/01** | **1.62** | <span style="color: #FF7F7F; font-weight: bold;">+134.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+134.9</span> | **82.8** | <span style="color: #002818; font-weight: bold;">0.79</span> | <span style="color: #002818; font-weight: bold;">104.8</span> |
-| **2025/12** | **1.06** | <span style="color: #002818; font-weight: bold;">-3.07</span> | <span style="color: #228B22; font-weight: bold;">-30.3</span> | **76.4** | <span style="color: #002818; font-weight: bold;">0.79</span> | <span style="color: #004225; font-weight: bold;">96.71</span> |
-| **2025/11** | **0.481** | <span style="color: #90EE90; font-weight: bold;">-52.8</span> | <span style="color: #228B22; font-weight: bold;">-32.1</span> | **77.9** | <span style="color: #002818; font-weight: bold;">0.79</span> | <span style="color: #002818; font-weight: bold;">98.61</span> |
-| **2025/10** | **0.576** | <span style="color: #90EE90; font-weight: bold;">-58.4</span> | <span style="color: #228B22; font-weight: bold;">-30.7</span> | **81** | <span style="color: #002818; font-weight: bold;">0.79</span> | <span style="color: #002818; font-weight: bold;">102.5</span> |
+| **2026/02** | **1.19** | <span style="color: #B22222; font-weight: bold;">+11.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+59.7</span> | **81** | <span style="color: #004225; font-weight: bold;">0.64</span> | <span style="color: #8B0000; font-weight: bold;">126.6</span> |
+| **2026/01** | **1.62** | <span style="color: #FF7F7F; font-weight: bold;">+134.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+134.9</span> | **82.8** | <span style="color: #004225; font-weight: bold;">0.64</span> | <span style="color: #8B0000; font-weight: bold;">129.4</span> |
+| **2025/12** | **1.06** | <span style="color: #002818; font-weight: bold;">-3.07</span> | <span style="color: #228B22; font-weight: bold;">-30.3</span> | **76.4** | <span style="color: #004225; font-weight: bold;">0.64</span> | <span style="color: #002818; font-weight: bold;">119.4</span> |
+| **2025/11** | **0.481** | <span style="color: #90EE90; font-weight: bold;">-52.8</span> | <span style="color: #228B22; font-weight: bold;">-32.1</span> | **77.9** | <span style="color: #004225; font-weight: bold;">0.64</span> | <span style="color: #002818; font-weight: bold;">112.9</span> |
+| **2025/10** | **0.576** | <span style="color: #90EE90; font-weight: bold;">-58.4</span> | <span style="color: #228B22; font-weight: bold;">-30.7</span> | **81** | <span style="color: #004225; font-weight: bold;">0.64</span> | <span style="color: #002818; font-weight: bold;">109.5</span> |
 | **2025/09** | **1.06** | <span style="color: #FF7F7F; font-weight: bold;">+173.2</span> | <span style="color: #006400; font-weight: bold;">-28</span> | **89.2** | <span style="color: #002818; font-weight: bold;">0.79</span> | <span style="color: #002818; font-weight: bold;">112.9</span> |
-| **2025/08** | **1.07** | <span style="color: #8B0000; font-weight: bold;">+5.64</span> | <span style="color: #228B22; font-weight: bold;">-33.8</span> | **122** | <span style="color: #002818; font-weight: bold;">0.79</span> | <span style="color: #DC143C; font-weight: bold;">183.9</span> |
+| **2025/08** | **1.07** | <span style="color: #8B0000; font-weight: bold;">+5.64</span> | <span style="color: #228B22; font-weight: bold;">-33.8</span> | **122** | <span style="color: #002818; font-weight: bold;">0.79</span> | <span style="color: #FF4500; font-weight: bold;">183.9</span> |
 | **2025/07** | **1.39** | <span style="color: #32CD32; font-weight: bold;">-44.5</span> | <span style="color: #228B22; font-weight: bold;">-37</span> | **106.5** | <span style="color: #002818; font-weight: bold;">0.79</span> | <span style="color: #FF4500; font-weight: bold;">198.4</span> |
 | **2025/06** | **1.11** | <span style="color: #228B22; font-weight: bold;">-38.2</span> | <span style="color: #228B22; font-weight: bold;">-35.1</span> | **66.4** | <span style="color: #228B22; font-weight: bold;">0.41</span> | <span style="color: #B22222; font-weight: bold;">162.0</span> |
 | **2025/05** | **1.04** | <span style="color: #228B22; font-weight: bold;">-37.1</span> | <span style="color: #228B22; font-weight: bold;">-34.4</span> | **83** | <span style="color: #228B22; font-weight: bold;">0.41</span> | <span style="color: #8B0000; font-weight: bold;">139.9</span> |
-| **2025/04** | **1.19** | <span style="color: #DC143C; font-weight: bold;">+25.5</span> | <span style="color: #228B22; font-weight: bold;">-33.7</span> | **90** | <span style="color: #228B22; font-weight: bold;">0.41</span> | <span style="color: #8B0000; font-weight: bold;">115.9</span> |
+| **2025/04** | **1.19** | <span style="color: #DC143C; font-weight: bold;">+25.5</span> | <span style="color: #228B22; font-weight: bold;">-33.7</span> | **90** | <span style="color: #228B22; font-weight: bold;">0.41</span> | <span style="color: #002818; font-weight: bold;">115.9</span> |
 | **2025/03** | **1.35** | <span style="color: #8B0000; font-weight: bold;">+9.05</span> | <span style="color: #32CD32; font-weight: bold;">-43.9</span> | **121.5** | <span style="color: #8B0000; font-weight: bold;">0.96</span> | <span style="color: #8B0000; font-weight: bold;">126.6</span> |
 | **2025/02** | **1.07** | <span style="color: #006400; font-weight: bold;">-29.7</span> | <span style="color: #90EE90; font-weight: bold;">-59.1</span> | **138.5** | <span style="color: #8B0000; font-weight: bold;">0.96</span> | <span style="color: #004225; font-weight: bold;">95.08</span> |
 | **2025/01** | **0.689** | <span style="color: #90EE90; font-weight: bold;">-75.2</span> | <span style="color: #90EE90; font-weight: bold;">-75.2</span> | **117** | <span style="color: #8B0000; font-weight: bold;">0.96</span> | <span style="color: #228B22; font-weight: bold;">59.9</span> |
@@ -411,7 +411,7 @@ description: 月營收表 達運光電 (8045) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-29 21:43:00 CST
+- **產生時間**: 2026-03-30 03:26:18 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
