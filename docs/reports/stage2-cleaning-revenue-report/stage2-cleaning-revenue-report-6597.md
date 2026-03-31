@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-31
+date: 2026-04-01
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 立誠 (6597) - 自動產生
     **:building_construction: 公司名稱**: 立誠  
     **:identification_card: 股票代號**: 6597  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-03-31 17:48:25 CST
+    **:clock3: 更新時間**: 2026-04-01 01:41:36 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 立誠 (6597) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **2.51** | **2.59** | **2.69** |
-| **P/E倍數** | **22.92** | **25.21** | **28.33** |
+| **EPS(元)** | **2.51** | **2.58** | **2.69** |
+| **P/E倍數** | **22.73** | **25.01** | **27.96** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 立誠 歷史平均獲利能力 (σup=0.10, σlo=0.08)
-    - **P/Ebase**: 立誠 歷史平均估值水準 (σup=3.12, σlo=2.29)
+    - **EPSbase**: 立誠 歷史平均獲利能力 (σup=0.11, σlo=0.07)
+    - **P/Ebase**: 立誠 歷史平均估值水準 (σup=2.95, σlo=2.28)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -82,11 +82,11 @@ description: 月營收表 立誠 (6597) - 自動產生
 | **2026/02** | **0.414** | <span style="color: #32CD32; font-weight: bold;">-40.6</span> | <span style="color: #228B22; font-weight: bold;">-31</span> | **64.5** | <span style="color: #004225; font-weight: bold;">2.51</span> | <span style="color: #8B0000; font-weight: bold;">25.7</span> |
 | **2026/01** | **0.54** | <span style="color: #006400; font-weight: bold;">-21.2</span> | <span style="color: #006400; font-weight: bold;">-21.2</span> | **59.5** | <span style="color: #004225; font-weight: bold;">2.51</span> | <span style="color: #004225; font-weight: bold;">23.71</span> |
 | **2025/12** | **0.642** | <span style="color: #002818; font-weight: bold;">-3.02</span> | <span style="color: #004225; font-weight: bold;">-11.8</span> | **59.5** | <span style="color: #004225; font-weight: bold;">2.51</span> | <span style="color: #004225; font-weight: bold;">23.71</span> |
-| **2025/11** | **0.578** | <span style="color: #004225; font-weight: bold;">-17.4</span> | <span style="color: #004225; font-weight: bold;">-12.5</span> | **64** | <span style="color: #004225; font-weight: bold;">2.51</span> | <span style="color: #002818; font-weight: bold;">25.16</span> |
+| **2025/11** | **0.578** | <span style="color: #004225; font-weight: bold;">-17.4</span> | <span style="color: #004225; font-weight: bold;">-12.5</span> | **64** | <span style="color: #004225; font-weight: bold;">2.51</span> | <span style="color: #8B0000; font-weight: bold;">25.16</span> |
 | **2025/10** | **0.741** | <span style="color: #002818; font-weight: bold;">-3.4</span> | <span style="color: #004225; font-weight: bold;">-12</span> | **56.5** | <span style="color: #004225; font-weight: bold;">2.51</span> | <span style="color: #006400; font-weight: bold;">21.93</span> |
 | **2025/09** | **0.706** | <span style="color: #004225; font-weight: bold;">-14.5</span> | <span style="color: #004225; font-weight: bold;">-13</span> | **55.5** | <span style="color: #8B0000; font-weight: bold;">2.61</span> | <span style="color: #228B22; font-weight: bold;">21.26</span> |
 | **2025/08** | **0.664** | <span style="color: #006400; font-weight: bold;">-26.4</span> | <span style="color: #004225; font-weight: bold;">-12.8</span> | **65** | <span style="color: #8B0000; font-weight: bold;">2.61</span> | <span style="color: #002818; font-weight: bold;">24.47</span> |
-| **2025/07** | **0.605** | <span style="color: #004225; font-weight: bold;">-19.2</span> | <span style="color: #004225; font-weight: bold;">-10.3</span> | **79.8** | <span style="color: #8B0000; font-weight: bold;">2.61</span> | <span style="color: #DC143C; font-weight: bold;">29.52</span> |
+| **2025/07** | **0.605** | <span style="color: #004225; font-weight: bold;">-19.2</span> | <span style="color: #004225; font-weight: bold;">-10.3</span> | **79.8** | <span style="color: #8B0000; font-weight: bold;">2.61</span> | <span style="color: #FF4500; font-weight: bold;">29.52</span> |
 | **2025/06** | **0.576** | <span style="color: #004225; font-weight: bold;">-18.7</span> | <span style="color: #002818; font-weight: bold;">-8.67</span> | **79.6** | <span style="color: #FF4500; font-weight: bold;">2.75</span> | <span style="color: #DC143C; font-weight: bold;">28.95</span> |
 | **2025/05** | **0.556** | <span style="color: #228B22; font-weight: bold;">-32.2</span> | <span style="color: #002818; font-weight: bold;">-6.56</span> | **76.1** | <span style="color: #FF4500; font-weight: bold;">2.75</span> | <span style="color: #B22222; font-weight: bold;">27.67</span> |
 | **2025/04** | **0.513** | <span style="color: #006400; font-weight: bold;">-23.1</span> | <span style="color: #8B0000; font-weight: bold;">+1.71</span> | **-** | N/A | N/A |
@@ -288,7 +288,7 @@ description: 月營收表 立誠 (6597) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-31 17:48:25 CST
+- **產生時間**: 2026-04-01 01:41:36 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

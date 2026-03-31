@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-31
+date: 2026-04-01
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 健喬 (4114) - 自動產生
     **:building_construction: 公司名稱**: 健喬  
     **:identification_card: 股票代號**: 4114  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-03-31 17:48:25 CST
+    **:clock3: 更新時間**: 2026-04-01 01:41:36 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 健喬 (4114) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **0.08** | **0.89** | **1.80** |
-| **P/E倍數** | **32.55** | **104.46** | **2350.83** |
+| **P/E倍數** | **32.48** | **104.41** | **2350.79** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 健喬 歷史平均獲利能力 (σup=0.91, σlo=0.81)
-    - **P/Ebase**: 健喬 歷史平均估值水準 (σup=2246.37, σlo=71.91)
+    - **P/Ebase**: 健喬 歷史平均估值水準 (σup=2246.38, σlo=71.93)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,11 +79,11 @@ description: 月營收表 健喬 (4114) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/02** | **4.3** | <span style="color: #002818; font-weight: bold;">-7.8</span> | <span style="color: #8B0000; font-weight: bold;">+9.47</span> | **32.35** | <span style="color: #B22222; font-weight: bold;">1.56</span> | <span style="color: #006400; font-weight: bold;">20.74</span> |
-| **2026/01** | **6.35** | <span style="color: #DC143C; font-weight: bold;">+25.4</span> | <span style="color: #DC143C; font-weight: bold;">+25.4</span> | **32.4** | <span style="color: #B22222; font-weight: bold;">1.56</span> | <span style="color: #006400; font-weight: bold;">20.77</span> |
-| **2025/12** | **5.44** | <span style="color: #8B0000; font-weight: bold;">+4.33</span> | <span style="color: #B22222; font-weight: bold;">+11.3</span> | **32.4** | <span style="color: #B22222; font-weight: bold;">1.56</span> | <span style="color: #006400; font-weight: bold;">20.77</span> |
-| **2025/11** | **5.03** | <span style="color: #8B0000; font-weight: bold;">+0.9</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **32.15** | <span style="color: #B22222; font-weight: bold;">1.56</span> | <span style="color: #006400; font-weight: bold;">20.61</span> |
-| **2025/10** | **5.43** | <span style="color: #8B0000; font-weight: bold;">+9.2</span> | <span style="color: #B22222; font-weight: bold;">+13.2</span> | **33.55** | <span style="color: #B22222; font-weight: bold;">1.56</span> | <span style="color: #006400; font-weight: bold;">21.51</span> |
+| **2026/02** | **4.3** | <span style="color: #002818; font-weight: bold;">-7.8</span> | <span style="color: #8B0000; font-weight: bold;">+9.47</span> | **32.35** | <span style="color: #B22222; font-weight: bold;">1.66</span> | <span style="color: #006400; font-weight: bold;">19.49</span> |
+| **2026/01** | **6.35** | <span style="color: #DC143C; font-weight: bold;">+25.4</span> | <span style="color: #DC143C; font-weight: bold;">+25.4</span> | **32.4** | <span style="color: #B22222; font-weight: bold;">1.66</span> | <span style="color: #006400; font-weight: bold;">19.52</span> |
+| **2025/12** | **5.44** | <span style="color: #8B0000; font-weight: bold;">+4.33</span> | <span style="color: #B22222; font-weight: bold;">+11.3</span> | **32.4** | <span style="color: #B22222; font-weight: bold;">1.66</span> | <span style="color: #006400; font-weight: bold;">19.52</span> |
+| **2025/11** | **5.03** | <span style="color: #8B0000; font-weight: bold;">+0.9</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **32.15** | <span style="color: #B22222; font-weight: bold;">1.66</span> | <span style="color: #006400; font-weight: bold;">19.76</span> |
+| **2025/10** | **5.43** | <span style="color: #8B0000; font-weight: bold;">+9.2</span> | <span style="color: #B22222; font-weight: bold;">+13.2</span> | **33.55** | <span style="color: #B22222; font-weight: bold;">1.66</span> | <span style="color: #006400; font-weight: bold;">21.06</span> |
 | **2025/09** | **5.39** | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | <span style="color: #B22222; font-weight: bold;">+13.7</span> | **34.25** | <span style="color: #B22222; font-weight: bold;">1.56</span> | <span style="color: #006400; font-weight: bold;">21.96</span> |
 | **2025/08** | **5.03** | <span style="color: #8B0000; font-weight: bold;">+1.99</span> | <span style="color: #B22222; font-weight: bold;">+12.7</span> | **34.75** | <span style="color: #B22222; font-weight: bold;">1.56</span> | <span style="color: #006400; font-weight: bold;">22.61</span> |
 | **2025/07** | **4.95** | <span style="color: #8B0000; font-weight: bold;">+1.31</span> | <span style="color: #B22222; font-weight: bold;">+14.4</span> | **36.95** | <span style="color: #B22222; font-weight: bold;">1.56</span> | <span style="color: #006400; font-weight: bold;">24.42</span> |
@@ -318,7 +318,7 @@ description: 月營收表 健喬 (4114) - 自動產生
 | **2006/06** | **-** | N/A | N/A | **13.3** | <span style="color: #004225; font-weight: bold;">0.47</span> | <span style="color: #006400; font-weight: bold;">28.3</span> |
 | **2006/05** | **-** | N/A | N/A | **13.2** | <span style="color: #004225; font-weight: bold;">0.47</span> | <span style="color: #006400; font-weight: bold;">26.23</span> |
 | **2006/04** | **-** | N/A | N/A | **13.5** | <span style="color: #004225; font-weight: bold;">0.47</span> | <span style="color: #006400; font-weight: bold;">25.16</span> |
-| **2006/03** | **-** | N/A | N/A | **13.7** | <span style="color: #002818; font-weight: bold;">0.57</span> | <span style="color: #006400; font-weight: bold;">24.04</span> |
+| **2006/03** | **-** | N/A | N/A | **13.7** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 健喬 (4114) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-31 17:48:25 CST
+- **產生時間**: 2026-04-01 01:41:36 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

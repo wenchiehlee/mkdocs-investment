@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-31
+date: 2026-04-01
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 威力德生醫 (7713) - 自動產生
     **:building_construction: 公司名稱**: 威力德生醫  
     **:identification_card: 股票代號**: 7713  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-03-31 17:48:25 CST
+    **:clock3: 更新時間**: 2026-04-01 01:41:36 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 威力德生醫 (7713) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **3.99** | **4.28** | **4.64** |
-| **P/E倍數** | **15.26** | **16.03** | **17.12** |
+| **EPS(元)** | **4.00** | **4.30** | **4.64** |
+| **P/E倍數** | **15.08** | **15.93** | **17.01** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 威力德生醫 歷史平均獲利能力 (σup=0.36, σlo=0.29)
-    - **P/Ebase**: 威力德生醫 歷史平均估值水準 (σup=1.09, σlo=0.77)
+    - **EPSbase**: 威力德生醫 歷史平均獲利能力 (σup=0.34, σlo=0.31)
+    - **P/Ebase**: 威力德生醫 歷史平均估值水準 (σup=1.08, σlo=0.85)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,17 +79,17 @@ description: 月營收表 威力德生醫 (7713) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/02** | **0.783** | <span style="color: #8B0000; font-weight: bold;">+4.62</span> | <span style="color: #B22222; font-weight: bold;">+13.5</span> | **69.9** | <span style="color: #DC143C; font-weight: bold;">4.64</span> | <span style="color: #006400; font-weight: bold;">15.06</span> |
-| **2026/01** | **0.983** | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | **70.6** | <span style="color: #DC143C; font-weight: bold;">4.64</span> | <span style="color: #006400; font-weight: bold;">15.22</span> |
-| **2025/12** | **0.966** | <span style="color: #DC143C; font-weight: bold;">+21</span> | <span style="color: #B22222; font-weight: bold;">+11.9</span> | **73.4** | <span style="color: #DC143C; font-weight: bold;">4.64</span> | <span style="color: #002818; font-weight: bold;">15.82</span> |
-| **2025/11** | **1.01** | <span style="color: #B22222; font-weight: bold;">+14.7</span> | <span style="color: #B22222; font-weight: bold;">+11.1</span> | **73.8** | <span style="color: #DC143C; font-weight: bold;">4.64</span> | <span style="color: #8B0000; font-weight: bold;">16.34</span> |
-| **2025/10** | **0.977** | <span style="color: #DC143C; font-weight: bold;">+22</span> | <span style="color: #B22222; font-weight: bold;">+10.7</span> | **74.5** | <span style="color: #DC143C; font-weight: bold;">4.64</span> | <span style="color: #B22222; font-weight: bold;">16.96</span> |
+| **2026/02** | **0.783** | <span style="color: #8B0000; font-weight: bold;">+4.62</span> | <span style="color: #B22222; font-weight: bold;">+13.5</span> | **69.9** | <span style="color: #B22222; font-weight: bold;">4.64</span> | <span style="color: #006400; font-weight: bold;">15.06</span> |
+| **2026/01** | **0.983** | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | **70.6** | <span style="color: #B22222; font-weight: bold;">4.64</span> | <span style="color: #004225; font-weight: bold;">15.22</span> |
+| **2025/12** | **0.966** | <span style="color: #DC143C; font-weight: bold;">+21</span> | <span style="color: #B22222; font-weight: bold;">+11.9</span> | **73.4** | <span style="color: #B22222; font-weight: bold;">4.64</span> | <span style="color: #002818; font-weight: bold;">15.82</span> |
+| **2025/11** | **1.01** | <span style="color: #B22222; font-weight: bold;">+14.7</span> | <span style="color: #B22222; font-weight: bold;">+11.1</span> | **73.8** | <span style="color: #B22222; font-weight: bold;">4.64</span> | <span style="color: #8B0000; font-weight: bold;">16.34</span> |
+| **2025/10** | **0.977** | <span style="color: #DC143C; font-weight: bold;">+22</span> | <span style="color: #B22222; font-weight: bold;">+10.7</span> | **74.5** | <span style="color: #B22222; font-weight: bold;">4.64</span> | <span style="color: #B22222; font-weight: bold;">16.96</span> |
 | **2025/09** | **0.998** | <span style="color: #DC143C; font-weight: bold;">+25.8</span> | <span style="color: #8B0000; font-weight: bold;">+9.53</span> | **76.7** | <span style="color: #002818; font-weight: bold;">4.27</span> | <span style="color: #FF4500; font-weight: bold;">17.96</span> |
 | **2025/08** | **1.01** | <span style="color: #B22222; font-weight: bold;">+10.2</span> | <span style="color: #8B0000; font-weight: bold;">+7.59</span> | **69.9** | <span style="color: #002818; font-weight: bold;">4.27</span> | <span style="color: #B22222; font-weight: bold;">16.79</span> |
-| **2025/07** | **0.949** | <span style="color: #B22222; font-weight: bold;">+12.5</span> | <span style="color: #8B0000; font-weight: bold;">+7.17</span> | **64.9** | <span style="color: #002818; font-weight: bold;">4.27</span> | <span style="color: #002818; font-weight: bold;">16.0</span> |
+| **2025/07** | **0.949** | <span style="color: #B22222; font-weight: bold;">+12.5</span> | <span style="color: #8B0000; font-weight: bold;">+7.17</span> | **64.9** | <span style="color: #002818; font-weight: bold;">4.27</span> | <span style="color: #8B0000; font-weight: bold;">16.0</span> |
 | **2025/06** | **0.979** | <span style="color: #8B0000; font-weight: bold;">+0.08</span> | <span style="color: #8B0000; font-weight: bold;">+6.26</span> | **61** | <span style="color: #006400; font-weight: bold;">3.95</span> | <span style="color: #004225; font-weight: bold;">15.44</span> |
 | **2025/05** | **0.923** | <span style="color: #B22222; font-weight: bold;">+14.9</span> | <span style="color: #8B0000; font-weight: bold;">+7.81</span> | **62.3** | <span style="color: #006400; font-weight: bold;">3.95</span> | <span style="color: #002818; font-weight: bold;">15.88</span> |
-| **2025/04** | **0.828** | <span style="color: #B22222; font-weight: bold;">+11.3</span> | <span style="color: #8B0000; font-weight: bold;">+5.96</span> | **56.2** | <span style="color: #006400; font-weight: bold;">3.95</span> | <span style="color: #32CD32; font-weight: bold;">14.42</span> |
+| **2025/04** | **0.828** | <span style="color: #B22222; font-weight: bold;">+11.3</span> | <span style="color: #8B0000; font-weight: bold;">+5.96</span> | **56.2** | <span style="color: #006400; font-weight: bold;">3.95</span> | <span style="color: #228B22; font-weight: bold;">14.42</span> |
 | **2025/03** | **0.895** | <span style="color: #8B0000; font-weight: bold;">+6.31</span> | <span style="color: #8B0000; font-weight: bold;">+4.28</span> | **60.8** | <span style="color: #006400; font-weight: bold;">3.87</span> | <span style="color: #002818; font-weight: bold;">15.71</span> |
 | **2025/02** | **0.749** | <span style="color: #B22222; font-weight: bold;">+10.6</span> | <span style="color: #8B0000; font-weight: bold;">+3.15</span> | **65.2** | <span style="color: #006400; font-weight: bold;">3.87</span> | <span style="color: #B22222; font-weight: bold;">16.85</span> |
 | **2025/01** | **0.807** | <span style="color: #002818; font-weight: bold;">-2.94</span> | <span style="color: #002818; font-weight: bold;">-2.94</span> | **-** | N/A | N/A |
@@ -203,7 +203,7 @@ description: 月營收表 威力德生醫 (7713) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-31 17:48:25 CST
+- **產生時間**: 2026-04-01 01:41:36 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

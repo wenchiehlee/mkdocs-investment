@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-31
+date: 2026-04-01
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 廣運 (6125) - 自動產生
     **:building_construction: 公司名稱**: 廣運  
     **:identification_card: 股票代號**: 6125  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-03-31 17:48:25 CST
+    **:clock3: 更新時間**: 2026-04-01 01:41:36 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,7 +63,7 @@ description: 月營收表 廣運 (6125) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **-1.16** | **0.82** | **3.93** |
-| **P/E倍數** | **67.62** | **689913134405760.00** | **689913134405761.00** |
+| **P/E倍數** | **72.00** | **689913134405764.38** | **689913134405765.38** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
@@ -79,11 +79,11 @@ description: 月營收表 廣運 (6125) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/02** | **2.21** | <span style="color: #B22222; font-weight: bold;">+15.4</span> | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | **64.2** | <span style="color: #002818; font-weight: bold;">0.13</span> | <span style="color: #004225; font-weight: bold;">493.8</span> |
-| **2026/01** | **2.58** | <span style="color: #DC143C; font-weight: bold;">+25</span> | <span style="color: #DC143C; font-weight: bold;">+25</span> | **69.3** | <span style="color: #002818; font-weight: bold;">0.13</span> | <span style="color: #004225; font-weight: bold;">533.1</span> |
-| **2025/12** | **3.05** | <span style="color: #FF4500; font-weight: bold;">+31.1</span> | <span style="color: #DC143C; font-weight: bold;">+23.6</span> | **72.1** | <span style="color: #002818; font-weight: bold;">0.13</span> | <span style="color: #004225; font-weight: bold;">554.6</span> |
-| **2025/11** | **3.44** | <span style="color: #FF7F7F; font-weight: bold;">+71.5</span> | <span style="color: #DC143C; font-weight: bold;">+22.9</span> | **62.3** | <span style="color: #002818; font-weight: bold;">0.13</span> | <span style="color: #004225; font-weight: bold;">479.2</span> |
-| **2025/10** | **3.18** | <span style="color: #FF6347; font-weight: bold;">+49.3</span> | <span style="color: #B22222; font-weight: bold;">+18.6</span> | **70.3** | <span style="color: #002818; font-weight: bold;">0.13</span> | <span style="color: #004225; font-weight: bold;">540.8</span> |
+| **2026/02** | **2.21** | <span style="color: #B22222; font-weight: bold;">+15.4</span> | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | **64.2** | <span style="color: #002818; font-weight: bold;">0.1</span> | <span style="color: #004225; font-weight: bold;">642.0</span> |
+| **2026/01** | **2.58** | <span style="color: #DC143C; font-weight: bold;">+25</span> | <span style="color: #DC143C; font-weight: bold;">+25</span> | **69.3** | <span style="color: #002818; font-weight: bold;">0.1</span> | <span style="color: #004225; font-weight: bold;">693.0</span> |
+| **2025/12** | **3.05** | <span style="color: #FF4500; font-weight: bold;">+31.1</span> | <span style="color: #DC143C; font-weight: bold;">+23.6</span> | **72.1** | <span style="color: #002818; font-weight: bold;">0.1</span> | <span style="color: #004225; font-weight: bold;">721.0</span> |
+| **2025/11** | **3.44** | <span style="color: #FF7F7F; font-weight: bold;">+71.5</span> | <span style="color: #DC143C; font-weight: bold;">+22.9</span> | **62.3** | <span style="color: #002818; font-weight: bold;">0.1</span> | <span style="color: #004225; font-weight: bold;">566.4</span> |
+| **2025/10** | **3.18** | <span style="color: #FF6347; font-weight: bold;">+49.3</span> | <span style="color: #B22222; font-weight: bold;">+18.6</span> | **70.3** | <span style="color: #002818; font-weight: bold;">0.1</span> | <span style="color: #004225; font-weight: bold;">585.8</span> |
 | **2025/09** | **3.5** | <span style="color: #FF7F7F; font-weight: bold;">+52.1</span> | <span style="color: #B22222; font-weight: bold;">+15.4</span> | **73.2** | <span style="color: #002818; font-weight: bold;">0.13</span> | <span style="color: #004225; font-weight: bold;">563.1</span> |
 | **2025/08** | **3.44** | <span style="color: #FF7F7F; font-weight: bold;">+54.3</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **79.7** | <span style="color: #002818; font-weight: bold;">0.13</span> | <span style="color: #000000;">-</span> |
 | **2025/07** | **3.51** | <span style="color: #FF7F7F; font-weight: bold;">+57.9</span> | <span style="color: #8B0000; font-weight: bold;">+4.74</span> | **73.5** | <span style="color: #002818; font-weight: bold;">0.13</span> | <span style="color: #000000;">-</span> |
@@ -96,7 +96,7 @@ description: 月營收表 廣運 (6125) - 自動產生
 | **2024/12** | **2.33** | <span style="color: #006400; font-weight: bold;">-22.6</span> | <span style="color: #90EE90; font-weight: bold;">-51.4</span> | **90.1** | <span style="color: #004225; font-weight: bold;">-0.56</span> | <span style="color: #000000;">-</span> |
 | **2024/11** | **2** | <span style="color: #228B22; font-weight: bold;">-34.5</span> | <span style="color: #90EE90; font-weight: bold;">-53.1</span> | **85.2** | <span style="color: #004225; font-weight: bold;">-0.56</span> | <span style="color: #004225; font-weight: bold;">1345.0</span> |
 | **2024/10** | **2.13** | <span style="color: #32CD32; font-weight: bold;">-41.3</span> | <span style="color: #90EE90; font-weight: bold;">-54.2</span> | **88.5** | <span style="color: #004225; font-weight: bold;">-0.56</span> | <span style="color: #004225; font-weight: bold;">128.9</span> |
-| **2024/09** | **2.3** | <span style="color: #32CD32; font-weight: bold;">-47.1</span> | <span style="color: #90EE90; font-weight: bold;">-55.2</span> | **91** | <span style="color: #8B0000; font-weight: bold;">1.31</span> | <span style="color: #004225; font-weight: bold;">69.47</span> |
+| **2024/09** | **2.3** | <span style="color: #32CD32; font-weight: bold;">-47.1</span> | <span style="color: #90EE90; font-weight: bold;">-55.2</span> | **91** | <span style="color: #8B0000; font-weight: bold;">1.31</span> | <span style="color: #006400; font-weight: bold;">69.47</span> |
 | **2024/08** | **2.23** | <span style="color: #90EE90; font-weight: bold;">-55.6</span> | <span style="color: #90EE90; font-weight: bold;">-56.1</span> | **95.2** | <span style="color: #8B0000; font-weight: bold;">1.31</span> | <span style="color: #006400; font-weight: bold;">64.18</span> |
 | **2024/07** | **2.22** | <span style="color: #90EE90; font-weight: bold;">-62.8</span> | <span style="color: #90EE90; font-weight: bold;">-56.1</span> | **99.1** | <span style="color: #8B0000; font-weight: bold;">1.31</span> | <span style="color: #006400; font-weight: bold;">59.82</span> |
 | **2024/06** | **1.68** | <span style="color: #90EE90; font-weight: bold;">-72</span> | <span style="color: #90EE90; font-weight: bold;">-54.8</span> | **110** | <span style="color: #8B0000; font-weight: bold;">1.83</span> | <span style="color: #006400; font-weight: bold;">60.11</span> |
@@ -193,7 +193,7 @@ description: 月營收表 廣運 (6125) - 自動產生
 | **2016/11** | **7.07** | <span style="color: #006400; font-weight: bold;">-25.8</span> | <span style="color: #002818; font-weight: bold;">-4.13</span> | **10.6** | <span style="color: #006400; font-weight: bold;">-1.93</span> | <span style="color: #000000;">-</span> |
 | **2016/10** | **5.2** | <span style="color: #32CD32; font-weight: bold;">-43</span> | <span style="color: #002818; font-weight: bold;">-1.65</span> | **11.7** | <span style="color: #006400; font-weight: bold;">-1.93</span> | <span style="color: #000000;">-</span> |
 | **2016/09** | **1.69** | <span style="color: #90EE90; font-weight: bold;">-84.2</span> | <span style="color: #006400; font-weight: bold;">-24.9</span> | **11.85** | <span style="color: #002818; font-weight: bold;">-0.09</span> | <span style="color: #000000;">-</span> |
-| **2016/08** | **2.46** | <span style="color: #90EE90; font-weight: bold;">-71.9</span> | <span style="color: #004225; font-weight: bold;">-14.9</span> | **12.2** | <span style="color: #002818; font-weight: bold;">-0.09</span> | <span style="color: #004225; font-weight: bold;">69.06</span> |
+| **2016/08** | **2.46** | <span style="color: #90EE90; font-weight: bold;">-71.9</span> | <span style="color: #004225; font-weight: bold;">-14.9</span> | **12.2** | <span style="color: #002818; font-weight: bold;">-0.09</span> | <span style="color: #006400; font-weight: bold;">69.06</span> |
 | **2016/07** | **2.25** | <span style="color: #90EE90; font-weight: bold;">-69.5</span> | <span style="color: #002818; font-weight: bold;">-5.74</span> | **11.7** | <span style="color: #002818; font-weight: bold;">-0.09</span> | <span style="color: #006400; font-weight: bold;">26.39</span> |
 | **2016/06** | **0.777** | <span style="color: #90EE90; font-weight: bold;">-89.4</span> | <span style="color: #8B0000; font-weight: bold;">+4.21</span> | **12.5** | <span style="color: #002818; font-weight: bold;">0.71</span> | <span style="color: #006400; font-weight: bold;">17.61</span> |
 | **2016/05** | **11.16** | <span style="color: #FF7F7F; font-weight: bold;">+59.1</span> | <span style="color: #DC143C; font-weight: bold;">+21.5</span> | **12** | <span style="color: #002818; font-weight: bold;">0.71</span> | <span style="color: #006400; font-weight: bold;">19.67</span> |
@@ -252,7 +252,7 @@ description: 月營收表 廣運 (6125) - 自動產生
 | **2011/12** | **5.18** | <span style="color: #32CD32; font-weight: bold;">-43.6</span> | <span style="color: #002818; font-weight: bold;">-1.94</span> | **11.7** | <span style="color: #004225; font-weight: bold;">-1.07</span> | <span style="color: #000000;">-</span> |
 | **2011/11** | **-** | N/A | N/A | **11.15** | <span style="color: #004225; font-weight: bold;">-1.07</span> | <span style="color: #000000;">-</span> |
 | **2011/10** | **5.41** | <span style="color: #228B22; font-weight: bold;">-36</span> | <span style="color: #B22222; font-weight: bold;">+11.1</span> | **15.3** | <span style="color: #004225; font-weight: bold;">-1.07</span> | <span style="color: #000000;">-</span> |
-| **2011/09** | **6.6** | <span style="color: #002818; font-weight: bold;">-6.3</span> | <span style="color: #B22222; font-weight: bold;">+18.1</span> | **15.8** | <span style="color: #002818; font-weight: bold;">0.22</span> | <span style="color: #004225; font-weight: bold;">71.82</span> |
+| **2011/09** | **6.6** | <span style="color: #002818; font-weight: bold;">-6.3</span> | <span style="color: #B22222; font-weight: bold;">+18.1</span> | **15.8** | <span style="color: #002818; font-weight: bold;">0.22</span> | <span style="color: #006400; font-weight: bold;">71.82</span> |
 | **2011/08** | **5.62** | <span style="color: #228B22; font-weight: bold;">-33.1</span> | <span style="color: #DC143C; font-weight: bold;">+21.6</span> | **17.8** | <span style="color: #002818; font-weight: bold;">0.22</span> | <span style="color: #006400; font-weight: bold;">48.55</span> |
 | **2011/07** | **6.76** | <span style="color: #002818; font-weight: bold;">-4.71</span> | <span style="color: #FF4500; font-weight: bold;">+32.6</span> | **22.9** | <span style="color: #002818; font-weight: bold;">0.22</span> | <span style="color: #006400; font-weight: bold;">44.61</span> |
 | **2011/06** | **6.43** | <span style="color: #006400; font-weight: bold;">-22.3</span> | <span style="color: #FF6347; font-weight: bold;">+40.3</span> | **23.45** | <span style="color: #002818; font-weight: bold;">0.66</span> | <span style="color: #006400; font-weight: bold;">35.53</span> |
@@ -414,7 +414,7 @@ description: 月營收表 廣運 (6125) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-31 17:48:25 CST
+- **產生時間**: 2026-04-01 01:41:36 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

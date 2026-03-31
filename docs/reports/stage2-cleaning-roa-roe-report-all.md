@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-31
+date: 2026-04-01
 categories:
   - 股票
   - ROE/ROA
@@ -24,8 +24,8 @@ description: ROA/ROE 總覽 - 所有股票 - 自動產生
 # :chart: ROA/ROE 總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-03-31 17:47:06 CST  
-    **:building_construction: 分析股票總數**: 117 檔  
+    **:calendar: 產生時間**: 2026-04-01 01:40:18 CST  
+    **:building_construction: 分析股票總數**: 123 檔  
     **:chart_with_upwards_trend: 報告類型**: 各股盈利能力分析  
     **:file_folder: 資料來源**: Stage 2 cleaned_performance1.csv
 
@@ -39,11 +39,11 @@ description: ROA/ROE 總覽 - 所有股票 - 自動產生
 
 - :chart_with_downwards_trend: **負 ROE 股票**
     ---
-    **5** 檔
+    **8** 檔
 
 - :page_with_curl: **總處理股票**
     ---
-    **117** 檔
+    **123** 檔
 
 </div>
 
@@ -54,15 +54,18 @@ description: ROA/ROE 總覽 - 所有股票 - 自動產生
 | :identification_card: 代號 | :building_construction: 公司 | :factory: 產業 | :chart: ROE | :chart_with_upwards_trend: ROA | :link: 連結 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [**3356**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-3356/) | 奇偶 | 光電業 | 10.20% | 8.53% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-3356/) |
+| [**6125**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-6125/) | 廣運 | 光電業 | -1.77% | -0.88% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-6125/) |
 | [**9917**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-9917/) | 中保科 | 其他業 | 5.82% | 2.64% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-9917/) |
 | [**2317**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2317/) | 鴻海 | 其他電子業 | 2.83% | 1.07% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2317/) |
 | [**2354**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2354/) | 鴻準 | 其他電子業 | 0.75% | 0.49% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2354/) |
+| [**2359**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2359/) | 所羅門 | 其他電子業 | 3.49% | 2.15% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2359/) |
 | [**2360**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2360/) | 致茂 | 其他電子業 | 8.46% | 5.87% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2360/) |
 | [**2474**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2474/) | 可成 | 其他電子業 | 1.61% | 1.04% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2474/) |
 | [**3665**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-3665/) | 貿聯-KY | 其他電子業 | 6.18% | 3.47% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-3665/) |
 | [**5536**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-5536/) | 聖暉 | 其他電子業 | 6.75% | 3.18% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-5536/) |
 | [**6613**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-6613/) | 朋億 | 其他電子業 | 4.35% | 2.64% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-6613/) |
 | [**7703**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-7703/) | 銳澤 | 其他電子業 | 3.16% | 2.32% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-7703/) |
+| [**7728**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-7728/) | 光焱科技 | 其他電子業 | 5.73% | 4.71% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-7728/) |
 | [**2303**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2303/) | 聯電 | 半導體業 | 2.70% | 1.76% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2303/) |
 | [**2330**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2330/) | 台積電 | 半導體業 | 9.63% | 6.61% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2330/) |
 | [**2379**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2379/) | 瑞昱 | 半導體業 | 5.33% | 2.04% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2379/) |
@@ -114,6 +117,7 @@ description: ROA/ROE 總覽 - 所有股票 - 自動產生
 | [**3293**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-3293/) | 鈊象 | 文化創意業 | 17.00% | 12.90% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-3293/) |
 | [**7732**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-7732/) | 金興精密 | 汽車工業 | 1.53% | 1.27% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-7732/) |
 | [**7736**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-7736/) | 虎山 | 汽車工業 | 3.45% | 2.88% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-7736/) |
+| [**4114**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-4114/) | 健喬 | 生技醫療業 | 1.37% | 0.98% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-4114/) |
 | [**6918**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-6918/) | 愛派司 | 生技醫療業 | 3.10% | 2.54% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-6918/) |
 | [**7713**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-7713/) | 威力德生醫 | 生技醫療業 | 4.80% | 2.42% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-7713/) |
 | [**6506**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-6506/) | 雙邦 | 紡織纖維 | 2.37% | 1.21% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-6506/) |
@@ -143,6 +147,7 @@ description: ROA/ROE 總覽 - 所有股票 - 自動產生
 | [**6561**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-6561/) | 是方 | 通信網路業 | 8.43% | 4.33% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-6561/) |
 | [**8045**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-8045/) | 達運光電 | 通信網路業 | 1.00% | 0.78% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-8045/) |
 | [**9914**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-9914/) | 美利達 | 運動休閒 | -1.45% | -0.80% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-9914/) |
+| [**9921**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-9921/) | 巨大 | 運動休閒 | -0.43% | -0.22% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-9921/) |
 | [**2881**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2881/) | 富邦金 | 金融保險業 | 3.06% | 0.24% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2881/) |
 | [**2882**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2882/) | 國泰金 | 金融保險業 | 3.55% | 0.23% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2882/) |
 | [**2884**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2884/) | 玉山金 | 金融保險業 | 3.05% | 0.18% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2884/) |
@@ -166,6 +171,7 @@ description: ROA/ROE 總覽 - 所有股票 - 自動產生
 | [**2377**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2377/) | 微星 | 電腦及週邊設備業 | 3.06% | 1.34% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2377/) |
 | [**2382**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2382/) | 廣達 | 電腦及週邊設備業 | 9.31% | 1.87% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2382/) |
 | [**2395**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2395/) | 研華 | 電腦及週邊設備業 | 5.81% | 4.24% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2395/) |
+| [**2405**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2405/) | 輔信 | 電腦及週邊設備業 | -0.65% | -0.53% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2405/) |
 | [**3022**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-3022/) | 威強電 | 電腦及週邊設備業 | 3.46% | 2.56% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-3022/) |
 | [**3231**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-3231/) | 緯創 | 電腦及週邊設備業 | 6.81% | 1.59% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-3231/) |
 | [**4938**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-4938/) | 和碩 | 電腦及週邊設備業 | 2.69% | 1.03% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-4938/) |

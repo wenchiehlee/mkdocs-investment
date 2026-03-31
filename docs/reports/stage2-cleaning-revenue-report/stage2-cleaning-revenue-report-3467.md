@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-31
+date: 2026-04-01
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 台灣精材 (3467) - 自動產生
     **:building_construction: 公司名稱**: 台灣精材  
     **:identification_card: 股票代號**: 3467  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-03-31 17:48:25 CST
+    **:clock3: 更新時間**: 2026-04-01 01:41:36 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 台灣精材 (3467) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **0.58** | **0.71** | **0.87** |
-| **P/E倍數** | **55.74** | **66.40** | **76.94** |
+| **EPS(元)** | **0.58** | **0.70** | **0.87** |
+| **P/E倍數** | **55.79** | **66.73** | **76.35** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 台灣精材 歷史平均獲利能力 (σup=0.16, σlo=0.13)
-    - **P/Ebase**: 台灣精材 歷史平均估值水準 (σup=10.55, σlo=10.66)
+    - **EPSbase**: 台灣精材 歷史平均獲利能力 (σup=0.17, σlo=0.12)
+    - **P/Ebase**: 台灣精材 歷史平均估值水準 (σup=9.62, σlo=10.94)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -86,8 +86,8 @@ description: 月營收表 台灣精材 (3467) - 自動產生
 | **2025/10** | **0.501** | <span style="color: #002818; font-weight: bold;">-0.63</span> | <span style="color: #002818; font-weight: bold;">-0.79</span> | **41.1** | <span style="color: #004225; font-weight: bold;">0.58</span> | <span style="color: #004225; font-weight: bold;">61.04</span> |
 | **2025/09** | **0.492** | <span style="color: #002818; font-weight: bold;">-5.89</span> | <span style="color: #002818; font-weight: bold;">-0.8</span> | **45** | <span style="color: #8B0000; font-weight: bold;">0.72</span> | <span style="color: #002818; font-weight: bold;">62.5</span> |
 | **2025/08** | **0.507** | <span style="color: #002818; font-weight: bold;">-1.36</span> | <span style="color: #002818; font-weight: bold;">-0.16</span> | **50.4** | <span style="color: #8B0000; font-weight: bold;">0.72</span> | <span style="color: #8B0000; font-weight: bold;">68.11</span> |
-| **2025/07** | **0.516** | <span style="color: #002818; font-weight: bold;">-4.5</span> | <span style="color: #8B0000; font-weight: bold;">+0.01</span> | **58.2** | <span style="color: #8B0000; font-weight: bold;">0.72</span> | <span style="color: #B22222; font-weight: bold;">76.58</span> |
-| **2025/06** | **0.531** | <span style="color: #002818; font-weight: bold;">-5.05</span> | <span style="color: #8B0000; font-weight: bold;">+0.8</span> | **63.8** | <span style="color: #8B0000; font-weight: bold;">0.78</span> | <span style="color: #DC143C; font-weight: bold;">81.79</span> |
+| **2025/07** | **0.516** | <span style="color: #002818; font-weight: bold;">-4.5</span> | <span style="color: #8B0000; font-weight: bold;">+0.01</span> | **58.2** | <span style="color: #8B0000; font-weight: bold;">0.72</span> | <span style="color: #DC143C; font-weight: bold;">76.58</span> |
+| **2025/06** | **0.531** | <span style="color: #002818; font-weight: bold;">-5.05</span> | <span style="color: #8B0000; font-weight: bold;">+0.8</span> | **63.8** | <span style="color: #8B0000; font-weight: bold;">0.78</span> | <span style="color: #FF4500; font-weight: bold;">81.79</span> |
 | **2025/05** | **0.523** | <span style="color: #002818; font-weight: bold;">-7.92</span> | <span style="color: #8B0000; font-weight: bold;">+2.12</span> | **56** | <span style="color: #8B0000; font-weight: bold;">0.78</span> | <span style="color: #002818; font-weight: bold;">62.69</span> |
 | **2025/04** | **0.497** | <span style="color: #002818; font-weight: bold;">-8.18</span> | <span style="color: #8B0000; font-weight: bold;">+5.07</span> | **48.6** | <span style="color: #8B0000; font-weight: bold;">0.78</span> | <span style="color: #228B22; font-weight: bold;">48.28</span> |
 | **2025/03** | **0.495** | <span style="color: #002818; font-weight: bold;">-1.01</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **56.8** | <span style="color: #FF6347; font-weight: bold;">1.12</span> | <span style="color: #006400; font-weight: bold;">50.71</span> |
@@ -205,7 +205,7 @@ description: 月營收表 台灣精材 (3467) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-31 17:48:25 CST
+- **產生時間**: 2026-04-01 01:41:36 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

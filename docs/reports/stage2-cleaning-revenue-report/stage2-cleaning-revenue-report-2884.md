@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-31
+date: 2026-04-01
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 玉山金 (2884) - 自動產生
     **:building_construction: 公司名稱**: 玉山金  
     **:identification_card: 股票代號**: 2884  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-03-31 17:48:25 CST
+    **:clock3: 更新時間**: 2026-04-01 01:41:36 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,7 +62,7 @@ description: 月營收表 玉山金 (2884) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **0.64** | **1.26** | **1.60** |
+| **EPS(元)** | **0.64** | **1.27** | **1.61** |
 | **P/E倍數** | **15.05** | **22.29** | **84.85** |
 
 !!! tip "非對稱統計基準說明"
@@ -84,9 +84,9 @@ description: 月營收表 玉山金 (2884) - 自動產生
 | **2025/12** | **77.74** | <span style="color: #B22222; font-weight: bold;">+15</span> | <span style="color: #DC143C; font-weight: bold;">+20.5</span> | **33.75** | <span style="color: #FF6347; font-weight: bold;">2.12</span> | <span style="color: #004225; font-weight: bold;">15.92</span> |
 | **2025/11** | **80.94** | <span style="color: #FF6347; font-weight: bold;">+46.6</span> | <span style="color: #DC143C; font-weight: bold;">+21.1</span> | **30.35** | <span style="color: #FF6347; font-weight: bold;">2.12</span> | <span style="color: #006400; font-weight: bold;">14.73</span> |
 | **2025/10** | **81.54** | <span style="color: #FF7F7F; font-weight: bold;">+55.1</span> | <span style="color: #B22222; font-weight: bold;">+18.9</span> | **29.75** | <span style="color: #FF6347; font-weight: bold;">2.12</span> | <span style="color: #006400; font-weight: bold;">14.88</span> |
-| **2025/09** | **80.15** | <span style="color: #B22222; font-weight: bold;">+16.8</span> | <span style="color: #B22222; font-weight: bold;">+15.6</span> | **33.35** | <span style="color: #FF6347; font-weight: bold;">1.94</span> | <span style="color: #004225; font-weight: bold;">17.19</span> |
-| **2025/08** | **82.48** | <span style="color: #8B0000; font-weight: bold;">+6.82</span> | <span style="color: #B22222; font-weight: bold;">+15.5</span> | **33.45** | <span style="color: #FF6347; font-weight: bold;">1.94</span> | <span style="color: #004225; font-weight: bold;">17.45</span> |
-| **2025/07** | **83.64** | <span style="color: #8B0000; font-weight: bold;">+6.19</span> | <span style="color: #B22222; font-weight: bold;">+17</span> | **32.05** | <span style="color: #FF6347; font-weight: bold;">1.94</span> | <span style="color: #004225; font-weight: bold;">16.93</span> |
+| **2025/09** | **80.15** | <span style="color: #B22222; font-weight: bold;">+16.8</span> | <span style="color: #B22222; font-weight: bold;">+15.6</span> | **33.35** | <span style="color: #FF4500; font-weight: bold;">1.94</span> | <span style="color: #004225; font-weight: bold;">17.19</span> |
+| **2025/08** | **82.48** | <span style="color: #8B0000; font-weight: bold;">+6.82</span> | <span style="color: #B22222; font-weight: bold;">+15.5</span> | **33.45** | <span style="color: #FF4500; font-weight: bold;">1.94</span> | <span style="color: #004225; font-weight: bold;">17.45</span> |
+| **2025/07** | **83.64** | <span style="color: #8B0000; font-weight: bold;">+6.19</span> | <span style="color: #B22222; font-weight: bold;">+17</span> | **32.05** | <span style="color: #FF4500; font-weight: bold;">1.94</span> | <span style="color: #004225; font-weight: bold;">16.93</span> |
 | **2025/06** | **74.72** | <span style="color: #DC143C; font-weight: bold;">+23.4</span> | <span style="color: #B22222; font-weight: bold;">+19.3</span> | **32.85** | <span style="color: #FF4500; font-weight: bold;">1.87</span> | <span style="color: #004225; font-weight: bold;">17.57</span> |
 | **2025/05** | **74.22** | <span style="color: #8B0000; font-weight: bold;">+8.02</span> | <span style="color: #B22222; font-weight: bold;">+18.5</span> | **29.8** | <span style="color: #FF4500; font-weight: bold;">1.87</span> | <span style="color: #004225; font-weight: bold;">16.17</span> |
 | **2025/04** | **67.97** | <span style="color: #B22222; font-weight: bold;">+18.8</span> | <span style="color: #DC143C; font-weight: bold;">+21.6</span> | **28.3** | <span style="color: #FF4500; font-weight: bold;">1.87</span> | <span style="color: #004225; font-weight: bold;">15.58</span> |
@@ -318,7 +318,7 @@ description: 月營收表 玉山金 (2884) - 自動產生
 | **2006/06** | **-** | N/A | N/A | **21.6** | <span style="color: #228B22; font-weight: bold;">0.26</span> | <span style="color: #B22222; font-weight: bold;">83.08</span> |
 | **2006/05** | **-** | N/A | N/A | **21.5** | <span style="color: #228B22; font-weight: bold;">0.26</span> | <span style="color: #8B0000; font-weight: bold;">34.13</span> |
 | **2006/04** | **-** | N/A | N/A | **23.1** | <span style="color: #228B22; font-weight: bold;">0.26</span> | <span style="color: #8B0000; font-weight: bold;">23.1</span> |
-| **2006/03** | **-** | N/A | N/A | **20.8** | <span style="color: #8B0000; font-weight: bold;">1.37</span> | <span style="color: #004225; font-weight: bold;">15.18</span> |
+| **2006/03** | **-** | N/A | N/A | **20.8** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 玉山金 (2884) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-31 17:48:25 CST
+- **產生時間**: 2026-04-01 01:41:36 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

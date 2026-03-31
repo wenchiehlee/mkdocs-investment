@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-31
+date: 2026-04-01
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 可成 (2474) - 自動產生
     **:building_construction: 公司名稱**: 可成  
     **:identification_card: 股票代號**: 2474  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-03-31 17:48:25 CST
+    **:clock3: 更新時間**: 2026-04-01 01:41:36 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 可成 (2474) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **11.31** | **17.97** | **28.35** |
-| **P/E倍數** | **9.22** | **12.44** | **16.65** |
+| **EPS(元)** | **12.16** | **14.66** | **17.59** |
+| **P/E倍數** | **11.80** | **13.81** | **16.82** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 可成 歷史平均獲利能力 (σup=10.38, σlo=6.66)
-    - **P/Ebase**: 可成 歷史平均估值水準 (σup=4.21, σlo=3.22)
+    - **EPSbase**: 可成 歷史平均獲利能力 (σup=2.93, σlo=2.51)
+    - **P/Ebase**: 可成 歷史平均估值水準 (σup=3.01, σlo=2.00)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,246 +79,246 @@ description: 月營收表 可成 (2474) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/02** | **10.91** | <span style="color: #006400; font-weight: bold;">-21.2</span> | <span style="color: #002818; font-weight: bold;">-6.54</span> | **191.5** | <span style="color: #004225; font-weight: bold;">11.33</span> | <span style="color: #DC143C; font-weight: bold;">16.9</span> |
-| **2026/01** | **14.83** | <span style="color: #8B0000; font-weight: bold;">+8.25</span> | <span style="color: #8B0000; font-weight: bold;">+8.25</span> | **200.5** | <span style="color: #004225; font-weight: bold;">11.33</span> | <span style="color: #DC143C; font-weight: bold;">17.7</span> |
-| **2025/12** | **13.87** | <span style="color: #006400; font-weight: bold;">-25.9</span> | <span style="color: #8B0000; font-weight: bold;">+3.17</span> | **208** | <span style="color: #004225; font-weight: bold;">11.33</span> | <span style="color: #DC143C; font-weight: bold;">18.36</span> |
-| **2025/11** | **15.22** | <span style="color: #8B0000; font-weight: bold;">+9.27</span> | <span style="color: #8B0000; font-weight: bold;">+6.51</span> | **201** | <span style="color: #004225; font-weight: bold;">11.33</span> | <span style="color: #DC143C; font-weight: bold;">16.76</span> |
-| **2025/10** | **14.53** | <span style="color: #8B0000; font-weight: bold;">+5.82</span> | <span style="color: #8B0000; font-weight: bold;">+6.25</span> | **198.5** | <span style="color: #004225; font-weight: bold;">11.33</span> | <span style="color: #B22222; font-weight: bold;">15.68</span> |
-| **2025/09** | **15.62** | <span style="color: #8B0000; font-weight: bold;">+6.76</span> | <span style="color: #8B0000; font-weight: bold;">+6.3</span> | **182.5** | <span style="color: #004225; font-weight: bold;">13.32</span> | <span style="color: #8B0000; font-weight: bold;">13.7</span> |
-| **2025/08** | **16.85** | <span style="color: #8B0000; font-weight: bold;">+1.17</span> | <span style="color: #8B0000; font-weight: bold;">+6.19</span> | **188.5** | <span style="color: #004225; font-weight: bold;">13.32</span> | <span style="color: #B22222; font-weight: bold;">15.06</span> |
+| **2026/02** | **10.91** | <span style="color: #006400; font-weight: bold;">-21.2</span> | <span style="color: #002818; font-weight: bold;">-6.54</span> | **191.5** | <span style="color: #006400; font-weight: bold;">11.33</span> | <span style="color: #DC143C; font-weight: bold;">16.9</span> |
+| **2026/01** | **14.83** | <span style="color: #8B0000; font-weight: bold;">+8.25</span> | <span style="color: #8B0000; font-weight: bold;">+8.25</span> | **200.5** | <span style="color: #006400; font-weight: bold;">11.33</span> | <span style="color: #DC143C; font-weight: bold;">17.7</span> |
+| **2025/12** | **13.87** | <span style="color: #006400; font-weight: bold;">-25.9</span> | <span style="color: #8B0000; font-weight: bold;">+3.17</span> | **208** | <span style="color: #006400; font-weight: bold;">11.33</span> | <span style="color: #FF4500; font-weight: bold;">18.36</span> |
+| **2025/11** | **15.22** | <span style="color: #8B0000; font-weight: bold;">+9.27</span> | <span style="color: #8B0000; font-weight: bold;">+6.51</span> | **201** | <span style="color: #006400; font-weight: bold;">11.33</span> | <span style="color: #B22222; font-weight: bold;">16.76</span> |
+| **2025/10** | **14.53** | <span style="color: #8B0000; font-weight: bold;">+5.82</span> | <span style="color: #8B0000; font-weight: bold;">+6.25</span> | **198.5** | <span style="color: #006400; font-weight: bold;">11.33</span> | <span style="color: #B22222; font-weight: bold;">15.68</span> |
+| **2025/09** | **15.62** | <span style="color: #8B0000; font-weight: bold;">+6.76</span> | <span style="color: #8B0000; font-weight: bold;">+6.3</span> | **182.5** | <span style="color: #004225; font-weight: bold;">13.32</span> | <span style="color: #002818; font-weight: bold;">13.7</span> |
+| **2025/08** | **16.85** | <span style="color: #8B0000; font-weight: bold;">+1.17</span> | <span style="color: #8B0000; font-weight: bold;">+6.19</span> | **188.5** | <span style="color: #004225; font-weight: bold;">13.32</span> | <span style="color: #8B0000; font-weight: bold;">15.06</span> |
 | **2025/07** | **16.08** | <span style="color: #004225; font-weight: bold;">-19.3</span> | <span style="color: #8B0000; font-weight: bold;">+6.96</span> | **212** | <span style="color: #004225; font-weight: bold;">13.32</span> | <span style="color: #DC143C; font-weight: bold;">18.1</span> |
 | **2025/06** | **17.91** | <span style="color: #B22222; font-weight: bold;">+14.3</span> | <span style="color: #B22222; font-weight: bold;">+13.2</span> | **212** | <span style="color: #006400; font-weight: bold;">10.91</span> | <span style="color: #FF4500; font-weight: bold;">19.43</span> |
 | **2025/05** | **17.75** | <span style="color: #8B0000; font-weight: bold;">+8.41</span> | <span style="color: #B22222; font-weight: bold;">+12.9</span> | **210** | <span style="color: #006400; font-weight: bold;">10.91</span> | <span style="color: #B22222; font-weight: bold;">15.96</span> |
 | **2025/04** | **15.02** | <span style="color: #8B0000; font-weight: bold;">+2.31</span> | <span style="color: #B22222; font-weight: bold;">+14.1</span> | **217** | <span style="color: #006400; font-weight: bold;">10.91</span> | <span style="color: #8B0000; font-weight: bold;">14.09</span> |
-| **2025/03** | **15.96** | <span style="color: #B22222; font-weight: bold;">+17.7</span> | <span style="color: #B22222; font-weight: bold;">+18.9</span> | **209.5** | <span style="color: #002818; font-weight: bold;">17.65</span> | <span style="color: #002818; font-weight: bold;">11.87</span> |
-| **2025/02** | **13.84** | <span style="color: #FF4500; font-weight: bold;">+37.7</span> | <span style="color: #B22222; font-weight: bold;">+19.5</span> | **206.5** | <span style="color: #002818; font-weight: bold;">17.65</span> | <span style="color: #002818; font-weight: bold;">11.33</span> |
-| **2025/01** | **13.7** | <span style="color: #8B0000; font-weight: bold;">+5.48</span> | <span style="color: #8B0000; font-weight: bold;">+5.48</span> | **199** | <span style="color: #002818; font-weight: bold;">17.65</span> | <span style="color: #004225; font-weight: bold;">10.58</span> |
-| **2024/12** | **18.71** | <span style="color: #FF7F7F; font-weight: bold;">+81.5</span> | <span style="color: #8B0000; font-weight: bold;">+0.05</span> | **194** | <span style="color: #8B0000; font-weight: bold;">19.4</span> | <span style="color: #004225; font-weight: bold;">10.0</span> |
-| **2024/11** | **13.93** | <span style="color: #B22222; font-weight: bold;">+17.8</span> | <span style="color: #002818; font-weight: bold;">-4.86</span> | **196.5** | <span style="color: #8B0000; font-weight: bold;">19.4</span> | <span style="color: #002818; font-weight: bold;">11.41</span> |
-| **2024/10** | **13.73** | <span style="color: #DC143C; font-weight: bold;">+25.6</span> | <span style="color: #002818; font-weight: bold;">-6.54</span> | **236** | <span style="color: #8B0000; font-weight: bold;">19.4</span> | <span style="color: #B22222; font-weight: bold;">15.7</span> |
-| **2024/09** | **14.63** | <span style="color: #DC143C; font-weight: bold;">+23.4</span> | <span style="color: #002818; font-weight: bold;">-8.92</span> | **236.5** | <span style="color: #004225; font-weight: bold;">12.85</span> | <span style="color: #DC143C; font-weight: bold;">18.4</span> |
+| **2025/03** | **15.96** | <span style="color: #B22222; font-weight: bold;">+17.7</span> | <span style="color: #B22222; font-weight: bold;">+18.9</span> | **209.5** | <span style="color: #DC143C; font-weight: bold;">17.65</span> | <span style="color: #004225; font-weight: bold;">11.87</span> |
+| **2025/02** | **13.84** | <span style="color: #FF4500; font-weight: bold;">+37.7</span> | <span style="color: #B22222; font-weight: bold;">+19.5</span> | **206.5** | <span style="color: #DC143C; font-weight: bold;">17.65</span> | <span style="color: #006400; font-weight: bold;">11.33</span> |
+| **2025/01** | **13.7** | <span style="color: #8B0000; font-weight: bold;">+5.48</span> | <span style="color: #8B0000; font-weight: bold;">+5.48</span> | **199** | <span style="color: #DC143C; font-weight: bold;">17.65</span> | <span style="color: #228B22; font-weight: bold;">10.58</span> |
+| **2024/12** | **18.71** | <span style="color: #FF7F7F; font-weight: bold;">+81.5</span> | <span style="color: #8B0000; font-weight: bold;">+0.05</span> | **194** | <span style="color: #FF4500; font-weight: bold;">19.4</span> | <span style="color: #228B22; font-weight: bold;">10.0</span> |
+| **2024/11** | **13.93** | <span style="color: #B22222; font-weight: bold;">+17.8</span> | <span style="color: #002818; font-weight: bold;">-4.86</span> | **196.5** | <span style="color: #FF4500; font-weight: bold;">19.4</span> | <span style="color: #006400; font-weight: bold;">11.41</span> |
+| **2024/10** | **13.73** | <span style="color: #DC143C; font-weight: bold;">+25.6</span> | <span style="color: #002818; font-weight: bold;">-6.54</span> | **236** | <span style="color: #FF4500; font-weight: bold;">19.4</span> | <span style="color: #B22222; font-weight: bold;">15.7</span> |
+| **2024/09** | **14.63** | <span style="color: #DC143C; font-weight: bold;">+23.4</span> | <span style="color: #002818; font-weight: bold;">-8.92</span> | **236.5** | <span style="color: #004225; font-weight: bold;">12.85</span> | <span style="color: #FF4500; font-weight: bold;">18.4</span> |
 | **2024/08** | **16.65** | <span style="color: #B22222; font-weight: bold;">+18.5</span> | <span style="color: #004225; font-weight: bold;">-11.7</span> | **236** | <span style="color: #004225; font-weight: bold;">12.85</span> | <span style="color: #B22222; font-weight: bold;">16.45</span> |
-| **2024/07** | **19.92** | <span style="color: #B22222; font-weight: bold;">+14.7</span> | <span style="color: #004225; font-weight: bold;">-15.2</span> | **213** | <span style="color: #004225; font-weight: bold;">12.85</span> | <span style="color: #8B0000; font-weight: bold;">13.45</span> |
-| **2024/06** | **15.66** | <span style="color: #006400; font-weight: bold;">-26.1</span> | <span style="color: #006400; font-weight: bold;">-20.1</span> | **232** | <span style="color: #002818; font-weight: bold;">17.33</span> | <span style="color: #8B0000; font-weight: bold;">13.39</span> |
-| **2024/05** | **16.37** | <span style="color: #228B22; font-weight: bold;">-37</span> | <span style="color: #004225; font-weight: bold;">-18.7</span> | **224.5** | <span style="color: #002818; font-weight: bold;">17.33</span> | <span style="color: #8B0000; font-weight: bold;">12.58</span> |
-| **2024/04** | **14.68** | <span style="color: #228B22; font-weight: bold;">-32.5</span> | <span style="color: #004225; font-weight: bold;">-10.3</span> | **218** | <span style="color: #002818; font-weight: bold;">17.33</span> | <span style="color: #002818; font-weight: bold;">11.87</span> |
-| **2024/03** | **13.56** | <span style="color: #8B0000; font-weight: bold;">+5.65</span> | <span style="color: #8B0000; font-weight: bold;">+3.3</span> | **219** | <span style="color: #8B0000; font-weight: bold;">18.89</span> | <span style="color: #002818; font-weight: bold;">11.59</span> |
-| **2024/02** | **10.05** | <span style="color: #002818; font-weight: bold;">-6.73</span> | <span style="color: #8B0000; font-weight: bold;">+2.05</span> | **197** | <span style="color: #8B0000; font-weight: bold;">18.89</span> | <span style="color: #002818; font-weight: bold;">11.56</span> |
-| **2024/01** | **12.98** | <span style="color: #8B0000; font-weight: bold;">+9.96</span> | <span style="color: #8B0000; font-weight: bold;">+9.96</span> | **194.5** | <span style="color: #8B0000; font-weight: bold;">18.89</span> | <span style="color: #8B0000; font-weight: bold;">12.81</span> |
-| **2023/12** | **10.31** | <span style="color: #228B22; font-weight: bold;">-36.5</span> | <span style="color: #228B22; font-weight: bold;">-35</span> | **194** | <span style="color: #004225; font-weight: bold;">13.33</span> | <span style="color: #B22222; font-weight: bold;">14.55</span> |
+| **2024/07** | **19.92** | <span style="color: #B22222; font-weight: bold;">+14.7</span> | <span style="color: #004225; font-weight: bold;">-15.2</span> | **213** | <span style="color: #004225; font-weight: bold;">12.85</span> | <span style="color: #002818; font-weight: bold;">13.45</span> |
+| **2024/06** | **15.66** | <span style="color: #006400; font-weight: bold;">-26.1</span> | <span style="color: #006400; font-weight: bold;">-20.1</span> | **232** | <span style="color: #B22222; font-weight: bold;">17.33</span> | <span style="color: #002818; font-weight: bold;">13.39</span> |
+| **2024/05** | **16.37** | <span style="color: #228B22; font-weight: bold;">-37</span> | <span style="color: #004225; font-weight: bold;">-18.7</span> | **224.5** | <span style="color: #B22222; font-weight: bold;">17.33</span> | <span style="color: #004225; font-weight: bold;">12.58</span> |
+| **2024/04** | **14.68** | <span style="color: #228B22; font-weight: bold;">-32.5</span> | <span style="color: #004225; font-weight: bold;">-10.3</span> | **218** | <span style="color: #B22222; font-weight: bold;">17.33</span> | <span style="color: #004225; font-weight: bold;">11.87</span> |
+| **2024/03** | **13.56** | <span style="color: #8B0000; font-weight: bold;">+5.65</span> | <span style="color: #8B0000; font-weight: bold;">+3.3</span> | **219** | <span style="color: #DC143C; font-weight: bold;">18.89</span> | <span style="color: #006400; font-weight: bold;">11.59</span> |
+| **2024/02** | **10.05** | <span style="color: #002818; font-weight: bold;">-6.73</span> | <span style="color: #8B0000; font-weight: bold;">+2.05</span> | **197** | <span style="color: #DC143C; font-weight: bold;">18.89</span> | <span style="color: #006400; font-weight: bold;">11.56</span> |
+| **2024/01** | **12.98** | <span style="color: #8B0000; font-weight: bold;">+9.96</span> | <span style="color: #8B0000; font-weight: bold;">+9.96</span> | **194.5** | <span style="color: #DC143C; font-weight: bold;">18.89</span> | <span style="color: #002818; font-weight: bold;">12.81</span> |
+| **2023/12** | **10.31** | <span style="color: #228B22; font-weight: bold;">-36.5</span> | <span style="color: #228B22; font-weight: bold;">-35</span> | **194** | <span style="color: #004225; font-weight: bold;">13.33</span> | <span style="color: #8B0000; font-weight: bold;">14.55</span> |
 | **2023/11** | **11.82** | <span style="color: #32CD32; font-weight: bold;">-47.5</span> | <span style="color: #228B22; font-weight: bold;">-35</span> | **194.5** | <span style="color: #004225; font-weight: bold;">13.33</span> | <span style="color: #8B0000; font-weight: bold;">14.1</span> |
-| **2023/10** | **10.93** | <span style="color: #90EE90; font-weight: bold;">-60.7</span> | <span style="color: #228B22; font-weight: bold;">-33.8</span> | **181.5** | <span style="color: #004225; font-weight: bold;">13.33</span> | <span style="color: #8B0000; font-weight: bold;">12.72</span> |
-| **2023/09** | **11.86** | <span style="color: #90EE90; font-weight: bold;">-60.3</span> | <span style="color: #228B22; font-weight: bold;">-30.3</span> | **182.5** | <span style="color: #002818; font-weight: bold;">14.73</span> | <span style="color: #002818; font-weight: bold;">12.39</span> |
-| **2023/08** | **14.05** | <span style="color: #90EE90; font-weight: bold;">-51</span> | <span style="color: #006400; font-weight: bold;">-25.4</span> | **180.5** | <span style="color: #002818; font-weight: bold;">14.73</span> | <span style="color: #002818; font-weight: bold;">12.06</span> |
-| **2023/07** | **17.37** | <span style="color: #228B22; font-weight: bold;">-38.4</span> | <span style="color: #006400; font-weight: bold;">-20.6</span> | **173.5** | <span style="color: #002818; font-weight: bold;">14.73</span> | <span style="color: #002818; font-weight: bold;">11.41</span> |
-| **2023/06** | **21.2** | <span style="color: #002818; font-weight: bold;">-3.76</span> | <span style="color: #004225; font-weight: bold;">-16.5</span> | **175.5** | <span style="color: #002818; font-weight: bold;">15.45</span> | <span style="color: #002818; font-weight: bold;">11.36</span> |
-| **2023/05** | **25.98** | <span style="color: #FF4500; font-weight: bold;">+33.2</span> | <span style="color: #004225; font-weight: bold;">-19.2</span> | **185.5** | <span style="color: #002818; font-weight: bold;">15.45</span> | <span style="color: #8B0000; font-weight: bold;">12.46</span> |
-| **2023/04** | **21.77** | <span style="color: #FF7F7F; font-weight: bold;">+94.8</span> | <span style="color: #228B22; font-weight: bold;">-31.4</span> | **181** | <span style="color: #002818; font-weight: bold;">15.45</span> | <span style="color: #8B0000; font-weight: bold;">12.64</span> |
-| **2023/03** | **12.83** | <span style="color: #90EE90; font-weight: bold;">-52.2</span> | <span style="color: #90EE90; font-weight: bold;">-51</span> | **190** | <span style="color: #004225; font-weight: bold;">13.76</span> | <span style="color: #8B0000; font-weight: bold;">13.81</span> |
-| **2023/02** | **10.78** | <span style="color: #228B22; font-weight: bold;">-36.7</span> | <span style="color: #90EE90; font-weight: bold;">-50.3</span> | **184.5** | <span style="color: #004225; font-weight: bold;">13.76</span> | <span style="color: #8B0000; font-weight: bold;">12.97</span> |
-| **2023/01** | **11.81** | <span style="color: #90EE90; font-weight: bold;">-58.4</span> | <span style="color: #90EE90; font-weight: bold;">-58.4</span> | **178** | <span style="color: #004225; font-weight: bold;">13.76</span> | <span style="color: #002818; font-weight: bold;">12.13</span> |
-| **2022/12** | **16.24** | <span style="color: #228B22; font-weight: bold;">-38.3</span> | <span style="color: #228B22; font-weight: bold;">-32.3</span> | **169** | <span style="color: #002818; font-weight: bold;">15.14</span> | <span style="color: #002818; font-weight: bold;">11.16</span> |
-| **2022/11** | **22.5** | <span style="color: #004225; font-weight: bold;">-17.6</span> | <span style="color: #228B22; font-weight: bold;">-31.9</span> | **183** | <span style="color: #002818; font-weight: bold;">15.14</span> | <span style="color: #002818; font-weight: bold;">11.06</span> |
-| **2022/10** | **27.83** | <span style="color: #002818; font-weight: bold;">-1.7</span> | <span style="color: #228B22; font-weight: bold;">-32.9</span> | **169.5** | <span style="color: #002818; font-weight: bold;">15.14</span> | <span style="color: #004225; font-weight: bold;">9.44</span> |
-| **2022/09** | **29.85** | <span style="color: #002818; font-weight: bold;">-5.28</span> | <span style="color: #228B22; font-weight: bold;">-35.6</span> | **172.5** | <span style="color: #8B0000; font-weight: bold;">19.37</span> | <span style="color: #006400; font-weight: bold;">8.91</span> |
-| **2022/08** | **28.7** | <span style="color: #004225; font-weight: bold;">-11.6</span> | <span style="color: #228B22; font-weight: bold;">-38.8</span> | **185.5** | <span style="color: #8B0000; font-weight: bold;">19.37</span> | <span style="color: #004225; font-weight: bold;">10.34</span> |
-| **2022/07** | **28.21** | <span style="color: #004225; font-weight: bold;">-18.7</span> | <span style="color: #32CD32; font-weight: bold;">-42.2</span> | **170.5** | <span style="color: #8B0000; font-weight: bold;">19.37</span> | <span style="color: #004225; font-weight: bold;">10.33</span> |
-| **2022/06** | **22.03** | <span style="color: #228B22; font-weight: bold;">-33.9</span> | <span style="color: #32CD32; font-weight: bold;">-45.7</span> | **165.5** | <span style="color: #002818; font-weight: bold;">15.08</span> | <span style="color: #002818; font-weight: bold;">10.97</span> |
-| **2022/05** | **19.5** | <span style="color: #32CD32; font-weight: bold;">-40.3</span> | <span style="color: #32CD32; font-weight: bold;">-47.7</span> | **164** | <span style="color: #002818; font-weight: bold;">15.08</span> | <span style="color: #002818; font-weight: bold;">11.93</span> |
-| **2022/04** | **11.18** | <span style="color: #90EE90; font-weight: bold;">-70.6</span> | <span style="color: #32CD32; font-weight: bold;">-49.2</span> | **145** | <span style="color: #002818; font-weight: bold;">15.08</span> | <span style="color: #002818; font-weight: bold;">11.67</span> |
-| **2022/03** | **26.83** | <span style="color: #32CD32; font-weight: bold;">-41</span> | <span style="color: #32CD32; font-weight: bold;">-42.8</span> | **144.5** | <span style="color: #006400; font-weight: bold;">11.09</span> | <span style="color: #8B0000; font-weight: bold;">13.03</span> |
-| **2022/02** | **17.02** | <span style="color: #90EE90; font-weight: bold;">-52.5</span> | <span style="color: #32CD32; font-weight: bold;">-43.8</span> | **143** | <span style="color: #006400; font-weight: bold;">11.09</span> | <span style="color: #8B0000; font-weight: bold;">12.81</span> |
-| **2022/01** | **28.36** | <span style="color: #228B22; font-weight: bold;">-36.9</span> | <span style="color: #228B22; font-weight: bold;">-36.9</span> | **154.5** | <span style="color: #006400; font-weight: bold;">11.09</span> | <span style="color: #8B0000; font-weight: bold;">13.75</span> |
-| **2021/12** | **26.33** | <span style="color: #90EE90; font-weight: bold;">-60.2</span> | <span style="color: #90EE90; font-weight: bold;">-50.2</span> | **156.5** | <span style="color: #004225; font-weight: bold;">11.31</span> | <span style="color: #8B0000; font-weight: bold;">13.84</span> |
-| **2021/11** | **27.32** | <span style="color: #90EE90; font-weight: bold;">-53.3</span> | <span style="color: #32CD32; font-weight: bold;">-49.3</span> | **155** | <span style="color: #004225; font-weight: bold;">11.31</span> | <span style="color: #004225; font-weight: bold;">9.76</span> |
-| **2021/10** | **28.31** | <span style="color: #90EE90; font-weight: bold;">-54.4</span> | <span style="color: #32CD32; font-weight: bold;">-49</span> | **161** | <span style="color: #004225; font-weight: bold;">11.31</span> | <span style="color: #006400; font-weight: bold;">7.87</span> |
-| **2021/09** | **31.52** | <span style="color: #90EE90; font-weight: bold;">-61.1</span> | <span style="color: #32CD32; font-weight: bold;">-48.4</span> | **167.5** | <span style="color: #B22222; font-weight: bold;">25.04</span> | <span style="color: #228B22; font-weight: bold;">6.69</span> |
-| **2021/08** | **32.47** | <span style="color: #90EE90; font-weight: bold;">-58</span> | <span style="color: #32CD32; font-weight: bold;">-46.6</span> | **167** | <span style="color: #B22222; font-weight: bold;">25.04</span> | <span style="color: #228B22; font-weight: bold;">6.84</span> |
-| **2021/07** | **34.71** | <span style="color: #90EE90; font-weight: bold;">-55.8</span> | <span style="color: #32CD32; font-weight: bold;">-44.8</span> | **185** | <span style="color: #B22222; font-weight: bold;">25.04</span> | <span style="color: #006400; font-weight: bold;">7.78</span> |
-| **2021/06** | **33.35** | <span style="color: #90EE90; font-weight: bold;">-55.3</span> | <span style="color: #32CD32; font-weight: bold;">-42.6</span> | **182** | <span style="color: #8B0000; font-weight: bold;">23.13</span> | <span style="color: #006400; font-weight: bold;">7.87</span> |
-| **2021/05** | **32.65** | <span style="color: #90EE90; font-weight: bold;">-55.6</span> | <span style="color: #228B22; font-weight: bold;">-39.7</span> | **184** | <span style="color: #8B0000; font-weight: bold;">23.13</span> | <span style="color: #006400; font-weight: bold;">7.65</span> |
-| **2021/04** | **38.04** | <span style="color: #90EE90; font-weight: bold;">-50.7</span> | <span style="color: #228B22; font-weight: bold;">-35.1</span> | **197.5** | <span style="color: #8B0000; font-weight: bold;">23.13</span> | <span style="color: #006400; font-weight: bold;">7.91</span> |
-| **2021/03** | **45.52** | <span style="color: #32CD32; font-weight: bold;">-40.8</span> | <span style="color: #006400; font-weight: bold;">-28.3</span> | **211.5** | <span style="color: #B22222; font-weight: bold;">25.9</span> | <span style="color: #006400; font-weight: bold;">8.17</span> |
-| **2021/02** | **35.82** | <span style="color: #FF7F7F; font-weight: bold;">+77.2</span> | <span style="color: #004225; font-weight: bold;">-18.7</span> | **192** | <span style="color: #B22222; font-weight: bold;">25.9</span> | <span style="color: #228B22; font-weight: bold;">7.25</span> |
-| **2021/01** | **44.95** | <span style="color: #32CD32; font-weight: bold;">-43.2</span> | <span style="color: #32CD32; font-weight: bold;">-43.2</span> | **198** | <span style="color: #B22222; font-weight: bold;">25.9</span> | <span style="color: #228B22; font-weight: bold;">7.32</span> |
-| **2020/12** | **66.2** | <span style="color: #006400; font-weight: bold;">-25.1</span> | <span style="color: #002818; font-weight: bold;">-9.95</span> | **206** | <span style="color: #B22222; font-weight: bold;">27.65</span> | <span style="color: #228B22; font-weight: bold;">7.45</span> |
-| **2020/11** | **58.57** | <span style="color: #32CD32; font-weight: bold;">-46.7</span> | <span style="color: #002818; font-weight: bold;">-8.34</span> | **188** | <span style="color: #B22222; font-weight: bold;">27.65</span> | <span style="color: #006400; font-weight: bold;">8.13</span> |
-| **2020/10** | **62.12** | <span style="color: #32CD32; font-weight: bold;">-48.7</span> | <span style="color: #002818; font-weight: bold;">-2.47</span> | **180.5** | <span style="color: #B22222; font-weight: bold;">27.65</span> | <span style="color: #004225; font-weight: bold;">9.71</span> |
-| **2020/09** | **80.95** | <span style="color: #006400; font-weight: bold;">-22.2</span> | <span style="color: #8B0000; font-weight: bold;">+6.91</span> | **181.5** | <span style="color: #004225; font-weight: bold;">14.06</span> | <span style="color: #8B0000; font-weight: bold;">12.91</span> |
-| **2020/08** | **77.24** | <span style="color: #004225; font-weight: bold;">-11.6</span> | <span style="color: #B22222; font-weight: bold;">+13</span> | **200.5** | <span style="color: #004225; font-weight: bold;">14.06</span> | <span style="color: #8B0000; font-weight: bold;">13.11</span> |
-| **2020/07** | **78.52** | <span style="color: #002818; font-weight: bold;">-9.54</span> | <span style="color: #B22222; font-weight: bold;">+18.4</span> | **216** | <span style="color: #004225; font-weight: bold;">14.06</span> | <span style="color: #8B0000; font-weight: bold;">13.06</span> |
-| **2020/06** | **74.68** | <span style="color: #B22222; font-weight: bold;">+18.8</span> | <span style="color: #DC143C; font-weight: bold;">+26</span> | **222** | <span style="color: #002818; font-weight: bold;">17.77</span> | <span style="color: #8B0000; font-weight: bold;">12.49</span> |
-| **2020/05** | **73.5** | <span style="color: #FF4500; font-weight: bold;">+34.5</span> | <span style="color: #DC143C; font-weight: bold;">+27.7</span> | **218** | <span style="color: #002818; font-weight: bold;">17.77</span> | <span style="color: #002818; font-weight: bold;">12.32</span> |
-| **2020/04** | **77.19** | <span style="color: #FF7F7F; font-weight: bold;">+78.7</span> | <span style="color: #DC143C; font-weight: bold;">+25.9</span> | **228** | <span style="color: #002818; font-weight: bold;">17.77</span> | <span style="color: #8B0000; font-weight: bold;">12.95</span> |
-| **2020/03** | **76.83** | <span style="color: #8B0000; font-weight: bold;">+3.16</span> | <span style="color: #B22222; font-weight: bold;">+11.5</span> | **195.5** | <span style="color: #002818; font-weight: bold;">17.52</span> | <span style="color: #002818; font-weight: bold;">11.16</span> |
-| **2020/02** | **20.22** | <span style="color: #32CD32; font-weight: bold;">-41.3</span> | <span style="color: #B22222; font-weight: bold;">+18.8</span> | **237** | <span style="color: #002818; font-weight: bold;">17.52</span> | <span style="color: #8B0000; font-weight: bold;">14.31</span> |
-| **2020/01** | **79.11** | <span style="color: #FF7F7F; font-weight: bold;">+61.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+61.1</span> | **244** | <span style="color: #002818; font-weight: bold;">17.52</span> | <span style="color: #B22222; font-weight: bold;">15.65</span> |
-| **2019/12** | **88.36** | <span style="color: #FF4500; font-weight: bold;">+31.9</span> | <span style="color: #002818; font-weight: bold;">-3.97</span> | **227** | <span style="color: #004225; font-weight: bold;">14.63</span> | <span style="color: #B22222; font-weight: bold;">15.52</span> |
-| **2019/11** | **109.8** | <span style="color: #B22222; font-weight: bold;">+14.2</span> | <span style="color: #002818; font-weight: bold;">-6.67</span> | **249.5** | <span style="color: #004225; font-weight: bold;">14.63</span> | <span style="color: #B22222; font-weight: bold;">15.47</span> |
-| **2019/10** | **121.2** | <span style="color: #002818; font-weight: bold;">-5.66</span> | <span style="color: #002818; font-weight: bold;">-9.2</span> | **258** | <span style="color: #004225; font-weight: bold;">14.63</span> | <span style="color: #B22222; font-weight: bold;">14.63</span> |
-| **2019/09** | **104.1** | <span style="color: #B22222; font-weight: bold;">+12.7</span> | <span style="color: #002818; font-weight: bold;">-9.89</span> | **235** | <span style="color: #8B0000; font-weight: bold;">19.13</span> | <span style="color: #002818; font-weight: bold;">12.28</span> |
-| **2019/08** | **87.38** | <span style="color: #8B0000; font-weight: bold;">+4.7</span> | <span style="color: #004225; font-weight: bold;">-13.5</span> | **220.5** | <span style="color: #8B0000; font-weight: bold;">19.13</span> | <span style="color: #004225; font-weight: bold;">10.76</span> |
-| **2019/07** | **86.8** | <span style="color: #B22222; font-weight: bold;">+15.8</span> | <span style="color: #004225; font-weight: bold;">-16.6</span> | **231** | <span style="color: #8B0000; font-weight: bold;">19.13</span> | <span style="color: #004225; font-weight: bold;">10.57</span> |
-| **2019/06** | **62.85** | <span style="color: #004225; font-weight: bold;">-12.7</span> | <span style="color: #006400; font-weight: bold;">-22.6</span> | **222.5** | <span style="color: #B22222; font-weight: bold;">23.23</span> | <span style="color: #004225; font-weight: bold;">9.58</span> |
-| **2019/05** | **54.65** | <span style="color: #006400; font-weight: bold;">-21.4</span> | <span style="color: #006400; font-weight: bold;">-24.6</span> | **192** | <span style="color: #B22222; font-weight: bold;">23.23</span> | <span style="color: #228B22; font-weight: bold;">7.18</span> |
-| **2019/04** | **43.18** | <span style="color: #228B22; font-weight: bold;">-34.6</span> | <span style="color: #006400; font-weight: bold;">-25.5</span> | **244.5** | <span style="color: #B22222; font-weight: bold;">23.23</span> | <span style="color: #006400; font-weight: bold;">8.09</span> |
-| **2019/03** | **74.48** | <span style="color: #B22222; font-weight: bold;">+14.3</span> | <span style="color: #006400; font-weight: bold;">-22.6</span> | **237** | <span style="color: #FF4500; font-weight: bold;">33.73</span> | <span style="color: #228B22; font-weight: bold;">7.03</span> |
-| **2019/02** | **34.44** | <span style="color: #228B22; font-weight: bold;">-39.6</span> | <span style="color: #228B22; font-weight: bold;">-39.8</span> | **234** | <span style="color: #FF4500; font-weight: bold;">33.73</span> | <span style="color: #228B22; font-weight: bold;">6.76</span> |
-| **2019/01** | **49.09** | <span style="color: #228B22; font-weight: bold;">-40</span> | <span style="color: #228B22; font-weight: bold;">-40</span> | **231.5** | <span style="color: #FF4500; font-weight: bold;">33.73</span> | <span style="color: #228B22; font-weight: bold;">6.53</span> |
-| **2018/12** | **66.98** | <span style="color: #006400; font-weight: bold;">-28</span> | <span style="color: #8B0000; font-weight: bold;">+2.27</span> | **225** | <span style="color: #FF4500; font-weight: bold;">36.31</span> | <span style="color: #228B22; font-weight: bold;">6.2</span> |
-| **2018/11** | **96.21** | <span style="color: #004225; font-weight: bold;">-13.3</span> | <span style="color: #8B0000; font-weight: bold;">+5.61</span> | **264.5** | <span style="color: #FF4500; font-weight: bold;">36.31</span> | <span style="color: #228B22; font-weight: bold;">7.17</span> |
-| **2018/10** | **128.4** | <span style="color: #8B0000; font-weight: bold;">+3.63</span> | <span style="color: #8B0000; font-weight: bold;">+8.5</span> | **311.5** | <span style="color: #FF4500; font-weight: bold;">36.31</span> | <span style="color: #006400; font-weight: bold;">8.31</span> |
-| **2018/09** | **92.38** | <span style="color: #004225; font-weight: bold;">-19.3</span> | <span style="color: #8B0000; font-weight: bold;">+9.5</span> | **336** | <span style="color: #FF4500; font-weight: bold;">38.07</span> | <span style="color: #006400; font-weight: bold;">8.83</span> |
-| **2018/08** | **83.46** | <span style="color: #002818; font-weight: bold;">-2.09</span> | <span style="color: #B22222; font-weight: bold;">+16.2</span> | **376.5** | <span style="color: #FF4500; font-weight: bold;">38.07</span> | <span style="color: #004225; font-weight: bold;">9.8</span> |
-| **2018/07** | **74.97** | <span style="color: #8B0000; font-weight: bold;">+0.64</span> | <span style="color: #DC143C; font-weight: bold;">+20</span> | **376.5** | <span style="color: #FF4500; font-weight: bold;">38.07</span> | <span style="color: #004225; font-weight: bold;">9.71</span> |
-| **2018/06** | **71.99** | <span style="color: #002818; font-weight: bold;">-1.23</span> | <span style="color: #DC143C; font-weight: bold;">+24.4</span> | **341** | <span style="color: #FF6347; font-weight: bold;">39.14</span> | <span style="color: #006400; font-weight: bold;">8.71</span> |
-| **2018/05** | **69.51** | <span style="color: #B22222; font-weight: bold;">+14.2</span> | <span style="color: #FF4500; font-weight: bold;">+31.6</span> | **348.5** | <span style="color: #FF6347; font-weight: bold;">39.14</span> | <span style="color: #004225; font-weight: bold;">9.62</span> |
-| **2018/04** | **66.01** | <span style="color: #DC143C; font-weight: bold;">+28.5</span> | <span style="color: #FF4500; font-weight: bold;">+37</span> | **331** | <span style="color: #FF6347; font-weight: bold;">39.14</span> | <span style="color: #004225; font-weight: bold;">9.94</span> |
-| **2018/03** | **65.15** | <span style="color: #FF4500; font-weight: bold;">+31.1</span> | <span style="color: #FF6347; font-weight: bold;">+40</span> | **356** | <span style="color: #DC143C; font-weight: bold;">30.4</span> | <span style="color: #002818; font-weight: bold;">11.71</span> |
-| **2018/02** | **57.02** | <span style="color: #DC143C; font-weight: bold;">+20.2</span> | <span style="color: #FF6347; font-weight: bold;">+44.6</span> | **354** | <span style="color: #DC143C; font-weight: bold;">30.4</span> | <span style="color: #002818; font-weight: bold;">11.91</span> |
-| **2018/01** | **81.86** | <span style="color: #FF7F7F; font-weight: bold;">+68.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+68.4</span> | **334** | <span style="color: #DC143C; font-weight: bold;">30.4</span> | <span style="color: #002818; font-weight: bold;">11.5</span> |
-| **2017/12** | **92.98** | <span style="color: #DC143C; font-weight: bold;">+21.9</span> | <span style="color: #B22222; font-weight: bold;">+17.9</span> | **328** | <span style="color: #B22222; font-weight: bold;">28.35</span> | <span style="color: #002818; font-weight: bold;">11.57</span> |
-| **2017/11** | **111** | <span style="color: #FF4500; font-weight: bold;">+35.3</span> | <span style="color: #B22222; font-weight: bold;">+17.5</span> | **323** | <span style="color: #B22222; font-weight: bold;">28.35</span> | <span style="color: #002818; font-weight: bold;">11.18</span> |
-| **2017/10** | **123.9** | <span style="color: #FF7F7F; font-weight: bold;">+51.5</span> | <span style="color: #B22222; font-weight: bold;">+15.2</span> | **320** | <span style="color: #B22222; font-weight: bold;">28.35</span> | <span style="color: #002818; font-weight: bold;">10.87</span> |
-| **2017/09** | **114.5** | <span style="color: #FF6347; font-weight: bold;">+48.2</span> | <span style="color: #8B0000; font-weight: bold;">+9.8</span> | **295** | <span style="color: #DC143C; font-weight: bold;">29.99</span> | <span style="color: #004225; font-weight: bold;">9.84</span> |
-| **2017/08** | **85.24** | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | <span style="color: #8B0000; font-weight: bold;">+3.56</span> | **384** | <span style="color: #DC143C; font-weight: bold;">29.99</span> | <span style="color: #8B0000; font-weight: bold;">13.37</span> |
-| **2017/07** | **74.49** | <span style="color: #DC143C; font-weight: bold;">+24.2</span> | <span style="color: #8B0000; font-weight: bold;">+0.41</span> | **347** | <span style="color: #DC143C; font-weight: bold;">29.99</span> | <span style="color: #8B0000; font-weight: bold;">12.63</span> |
-| **2017/06** | **72.89** | <span style="color: #FF4500; font-weight: bold;">+30</span> | <span style="color: #002818; font-weight: bold;">-3.74</span> | **363.5** | <span style="color: #B22222; font-weight: bold;">26.21</span> | <span style="color: #8B0000; font-weight: bold;">13.87</span> |
-| **2017/05** | **60.84** | <span style="color: #8B0000; font-weight: bold;">+3.5</span> | <span style="color: #004225; font-weight: bold;">-10.3</span> | **318** | <span style="color: #B22222; font-weight: bold;">26.21</span> | <span style="color: #002818; font-weight: bold;">12.19</span> |
-| **2017/04** | **51.36** | <span style="color: #004225; font-weight: bold;">-14.9</span> | <span style="color: #004225; font-weight: bold;">-13.8</span> | **310** | <span style="color: #B22222; font-weight: bold;">26.21</span> | <span style="color: #002818; font-weight: bold;">11.93</span> |
-| **2017/03** | **49.71** | <span style="color: #006400; font-weight: bold;">-22.8</span> | <span style="color: #004225; font-weight: bold;">-13.4</span> | **300** | <span style="color: #B22222; font-weight: bold;">25.86</span> | <span style="color: #002818; font-weight: bold;">11.6</span> |
-| **2017/02** | **47.45** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #002818; font-weight: bold;">-7.62</span> | **257** | <span style="color: #B22222; font-weight: bold;">25.86</span> | <span style="color: #004225; font-weight: bold;">9.6</span> |
-| **2017/01** | **48.6** | <span style="color: #006400; font-weight: bold;">-22</span> | <span style="color: #006400; font-weight: bold;">-22</span> | **255** | <span style="color: #B22222; font-weight: bold;">25.86</span> | <span style="color: #006400; font-weight: bold;">9.21</span> |
-| **2016/12** | **76.27** | <span style="color: #B22222; font-weight: bold;">+10.3</span> | <span style="color: #002818; font-weight: bold;">-4</span> | **224** | <span style="color: #DC143C; font-weight: bold;">28.58</span> | <span style="color: #006400; font-weight: bold;">7.84</span> |
-| **2016/11** | **82.05** | <span style="color: #002818; font-weight: bold;">-1.63</span> | <span style="color: #002818; font-weight: bold;">-5.31</span> | **231.5** | <span style="color: #DC143C; font-weight: bold;">28.58</span> | <span style="color: #006400; font-weight: bold;">8.41</span> |
-| **2016/10** | **81.81** | <span style="color: #002818; font-weight: bold;">-0.52</span> | <span style="color: #002818; font-weight: bold;">-5.77</span> | **247.5** | <span style="color: #DC143C; font-weight: bold;">28.58</span> | <span style="color: #004225; font-weight: bold;">9.36</span> |
-| **2016/09** | **77.22** | <span style="color: #002818; font-weight: bold;">-3.25</span> | <span style="color: #002818; font-weight: bold;">-6.5</span> | **254.5** | <span style="color: #B22222; font-weight: bold;">25.38</span> | <span style="color: #004225; font-weight: bold;">10.03</span> |
-| **2016/08** | **70.02** | <span style="color: #002818; font-weight: bold;">-2.55</span> | <span style="color: #002818; font-weight: bold;">-7.03</span> | **228** | <span style="color: #B22222; font-weight: bold;">25.38</span> | <span style="color: #006400; font-weight: bold;">8.45</span> |
-| **2016/07** | **59.96** | <span style="color: #002818; font-weight: bold;">-3.84</span> | <span style="color: #002818; font-weight: bold;">-7.77</span> | **222** | <span style="color: #B22222; font-weight: bold;">25.38</span> | <span style="color: #006400; font-weight: bold;">7.77</span> |
-| **2016/06** | **56.08** | <span style="color: #002818; font-weight: bold;">-9.37</span> | <span style="color: #002818; font-weight: bold;">-8.42</span> | **237.5** | <span style="color: #DC143C; font-weight: bold;">30.17</span> | <span style="color: #006400; font-weight: bold;">7.87</span> |
-| **2016/05** | **58.78** | <span style="color: #004225; font-weight: bold;">-14.2</span> | <span style="color: #002818; font-weight: bold;">-8.24</span> | **248** | <span style="color: #DC143C; font-weight: bold;">30.17</span> | <span style="color: #006400; font-weight: bold;">8.06</span> |
-| **2016/04** | **60.35** | <span style="color: #004225; font-weight: bold;">-14.8</span> | <span style="color: #002818; font-weight: bold;">-6.57</span> | **227** | <span style="color: #DC143C; font-weight: bold;">30.17</span> | <span style="color: #228B22; font-weight: bold;">7.24</span> |
-| **2016/03** | **64.43** | <span style="color: #002818; font-weight: bold;">-7.06</span> | <span style="color: #002818; font-weight: bold;">-3.19</span> | **264** | <span style="color: #DC143C; font-weight: bold;">31.97</span> | <span style="color: #006400; font-weight: bold;">8.26</span> |
-| **2016/02** | **41.67** | <span style="color: #002818; font-weight: bold;">-7.5</span> | <span style="color: #002818; font-weight: bold;">-0.66</span> | **260** | <span style="color: #DC143C; font-weight: bold;">31.97</span> | <span style="color: #006400; font-weight: bold;">8.08</span> |
-| **2016/01** | **62.31** | <span style="color: #8B0000; font-weight: bold;">+4.48</span> | <span style="color: #8B0000; font-weight: bold;">+4.48</span> | **259** | <span style="color: #DC143C; font-weight: bold;">31.97</span> | <span style="color: #006400; font-weight: bold;">7.99</span> |
-| **2015/12** | **69.14** | <span style="color: #B22222; font-weight: bold;">+14.4</span> | <span style="color: #FF6347; font-weight: bold;">+49.1</span> | **276** | <span style="color: #DC143C; font-weight: bold;">32.61</span> | <span style="color: #006400; font-weight: bold;">8.46</span> |
-| **2015/11** | **83.41** | <span style="color: #FF7F7F; font-weight: bold;">+50.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+53.4</span> | **316** | <span style="color: #DC143C; font-weight: bold;">32.61</span> | <span style="color: #004225; font-weight: bold;">9.77</span> |
-| **2015/10** | **82.25** | <span style="color: #FF7F7F; font-weight: bold;">+52</span> | <span style="color: #FF7F7F; font-weight: bold;">+53.8</span> | **320** | <span style="color: #DC143C; font-weight: bold;">32.61</span> | <span style="color: #004225; font-weight: bold;">9.98</span> |
-| **2015/09** | **79.82** | <span style="color: #FF7F7F; font-weight: bold;">+63.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+54</span> | **350.5** | <span style="color: #DC143C; font-weight: bold;">31.79</span> | <span style="color: #002818; font-weight: bold;">11.03</span> |
-| **2015/08** | **71.86** | <span style="color: #FF6347; font-weight: bold;">+43.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+52.6</span> | **332** | <span style="color: #DC143C; font-weight: bold;">31.79</span> | <span style="color: #002818; font-weight: bold;">10.94</span> |
-| **2015/07** | **62.36** | <span style="color: #FF4500; font-weight: bold;">+34.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+54.2</span> | **348** | <span style="color: #DC143C; font-weight: bold;">31.79</span> | <span style="color: #002818; font-weight: bold;">12.04</span> |
-| **2015/06** | **61.88** | <span style="color: #FF4500; font-weight: bold;">+33.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+58.1</span> | **386** | <span style="color: #B22222; font-weight: bold;">27.45</span> | <span style="color: #8B0000; font-weight: bold;">14.06</span> |
-| **2015/05** | **68.54** | <span style="color: #FF7F7F; font-weight: bold;">+55.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+64</span> | **360** | <span style="color: #B22222; font-weight: bold;">27.45</span> | <span style="color: #8B0000; font-weight: bold;">13.45</span> |
-| **2015/04** | **70.88** | <span style="color: #FF7F7F; font-weight: bold;">+66</span> | <span style="color: #FF7F7F; font-weight: bold;">+66.7</span> | **360** | <span style="color: #B22222; font-weight: bold;">27.45</span> | <span style="color: #8B0000; font-weight: bold;">13.81</span> |
-| **2015/03** | **69.32** | <span style="color: #FF7F7F; font-weight: bold;">+70.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+67</span> | **328** | <span style="color: #B22222; font-weight: bold;">25.38</span> | <span style="color: #8B0000; font-weight: bold;">12.92</span> |
-| **2015/02** | **45.05** | <span style="color: #FF7F7F; font-weight: bold;">+63.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+65.1</span> | **287** | <span style="color: #B22222; font-weight: bold;">25.38</span> | <span style="color: #002818; font-weight: bold;">11.59</span> |
-| **2015/01** | **59.64** | <span style="color: #FF7F7F; font-weight: bold;">+66.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+66.7</span> | **278.5** | <span style="color: #B22222; font-weight: bold;">25.38</span> | <span style="color: #002818; font-weight: bold;">11.54</span> |
-| **2014/12** | **60.45** | <span style="color: #FF7F7F; font-weight: bold;">+54.7</span> | <span style="color: #DC143C; font-weight: bold;">+27.8</span> | **246.5** | <span style="color: #B22222; font-weight: bold;">23.52</span> | <span style="color: #004225; font-weight: bold;">10.48</span> |
-| **2014/11** | **55.51** | <span style="color: #B22222; font-weight: bold;">+19.3</span> | <span style="color: #DC143C; font-weight: bold;">+25.1</span> | **262** | <span style="color: #B22222; font-weight: bold;">23.52</span> | <span style="color: #002818; font-weight: bold;">11.78</span> |
-| **2014/10** | **54.1** | <span style="color: #B22222; font-weight: bold;">+18.8</span> | <span style="color: #DC143C; font-weight: bold;">+25.9</span> | **256** | <span style="color: #B22222; font-weight: bold;">23.52</span> | <span style="color: #002818; font-weight: bold;">12.21</span> |
-| **2014/09** | **48.8** | <span style="color: #DC143C; font-weight: bold;">+28.1</span> | <span style="color: #DC143C; font-weight: bold;">+27</span> | **282** | <span style="color: #8B0000; font-weight: bold;">19.7</span> | <span style="color: #8B0000; font-weight: bold;">14.31</span> |
-| **2014/08** | **50.05** | <span style="color: #FF7F7F; font-weight: bold;">+55.1</span> | <span style="color: #DC143C; font-weight: bold;">+26.9</span> | **303** | <span style="color: #8B0000; font-weight: bold;">19.7</span> | <span style="color: #B22222; font-weight: bold;">16.09</span> |
-| **2014/07** | **46.44** | <span style="color: #FF4500; font-weight: bold;">+36.8</span> | <span style="color: #DC143C; font-weight: bold;">+22.9</span> | **248** | <span style="color: #8B0000; font-weight: bold;">19.7</span> | <span style="color: #8B0000; font-weight: bold;">13.8</span> |
-| **2014/06** | **46.3** | <span style="color: #FF4500; font-weight: bold;">+38.2</span> | <span style="color: #DC143C; font-weight: bold;">+20.5</span> | **278.5** | <span style="color: #002818; font-weight: bold;">17.11</span> | <span style="color: #B22222; font-weight: bold;">16.28</span> |
-| **2014/05** | **44.18** | <span style="color: #DC143C; font-weight: bold;">+26.5</span> | <span style="color: #B22222; font-weight: bold;">+16.9</span> | **268** | <span style="color: #002818; font-weight: bold;">17.11</span> | <span style="color: #B22222; font-weight: bold;">15.66</span> |
-| **2014/04** | **42.7** | <span style="color: #B22222; font-weight: bold;">+18.1</span> | <span style="color: #B22222; font-weight: bold;">+14.3</span> | **254.5** | <span style="color: #002818; font-weight: bold;">17.11</span> | <span style="color: #B22222; font-weight: bold;">14.87</span> |
-| **2014/03** | **40.76** | <span style="color: #8B0000; font-weight: bold;">+5.08</span> | <span style="color: #B22222; font-weight: bold;">+12.8</span> | **220.5** | <span style="color: #002818; font-weight: bold;">17.11</span> | <span style="color: #8B0000; font-weight: bold;">12.89</span> |
-| **2014/02** | **27.63** | <span style="color: #FF4500; font-weight: bold;">+34.6</span> | <span style="color: #B22222; font-weight: bold;">+18.4</span> | **220** | <span style="color: #002818; font-weight: bold;">17.11</span> | <span style="color: #8B0000; font-weight: bold;">12.55</span> |
-| **2014/01** | **35.77** | <span style="color: #8B0000; font-weight: bold;">+8.44</span> | <span style="color: #8B0000; font-weight: bold;">+8.44</span> | **202** | <span style="color: #002818; font-weight: bold;">17.11</span> | <span style="color: #002818; font-weight: bold;">11.25</span> |
-| **2013/12** | **39.06** | <span style="color: #8B0000; font-weight: bold;">+4</span> | <span style="color: #B22222; font-weight: bold;">+16.8</span> | **193.5** | <span style="color: #8B0000; font-weight: bold;">18.38</span> | <span style="color: #004225; font-weight: bold;">10.53</span> |
-| **2013/11** | **46.52** | <span style="color: #FF6347; font-weight: bold;">+49.9</span> | <span style="color: #B22222; font-weight: bold;">+18.2</span> | **180** | <span style="color: #8B0000; font-weight: bold;">18.38</span> | <span style="color: #004225; font-weight: bold;">9.54</span> |
-| **2013/10** | **45.54** | <span style="color: #FF6347; font-weight: bold;">+49.1</span> | <span style="color: #B22222; font-weight: bold;">+15</span> | **171** | <span style="color: #8B0000; font-weight: bold;">18.38</span> | <span style="color: #006400; font-weight: bold;">8.83</span> |
-| **2013/09** | **38.1** | <span style="color: #DC143C; font-weight: bold;">+26.8</span> | <span style="color: #B22222; font-weight: bold;">+11.1</span> | **156.5** | <span style="color: #8B0000; font-weight: bold;">19.87</span> | <span style="color: #006400; font-weight: bold;">7.88</span> |
-| **2013/08** | **32.26** | <span style="color: #B22222; font-weight: bold;">+19</span> | <span style="color: #8B0000; font-weight: bold;">+9.15</span> | **142.5** | <span style="color: #8B0000; font-weight: bold;">19.87</span> | <span style="color: #228B22; font-weight: bold;">7.3</span> |
-| **2013/07** | **33.95** | <span style="color: #8B0000; font-weight: bold;">+9.68</span> | <span style="color: #8B0000; font-weight: bold;">+7.9</span> | **130** | <span style="color: #8B0000; font-weight: bold;">19.87</span> | <span style="color: #228B22; font-weight: bold;">6.78</span> |
-| **2013/06** | **33.51** | <span style="color: #8B0000; font-weight: bold;">+0.61</span> | <span style="color: #8B0000; font-weight: bold;">+7.6</span> | **156** | <span style="color: #8B0000; font-weight: bold;">18.81</span> | <span style="color: #006400; font-weight: bold;">8.29</span> |
-| **2013/05** | **34.93** | <span style="color: #8B0000; font-weight: bold;">+6.07</span> | <span style="color: #8B0000; font-weight: bold;">+9.13</span> | **169** | <span style="color: #8B0000; font-weight: bold;">18.81</span> | <span style="color: #004225; font-weight: bold;">9.46</span> |
-| **2013/04** | **36.15** | <span style="color: #B22222; font-weight: bold;">+19.5</span> | <span style="color: #8B0000; font-weight: bold;">+9.99</span> | **149.5** | <span style="color: #8B0000; font-weight: bold;">18.81</span> | <span style="color: #006400; font-weight: bold;">8.84</span> |
-| **2013/03** | **38.79** | <span style="color: #DC143C; font-weight: bold;">+28.5</span> | <span style="color: #8B0000; font-weight: bold;">+6.66</span> | **136** | <span style="color: #002818; font-weight: bold;">15.96</span> | <span style="color: #006400; font-weight: bold;">8.52</span> |
-| **2013/02** | **20.53** | <span style="color: #006400; font-weight: bold;">-27.2</span> | <span style="color: #002818; font-weight: bold;">-4.99</span> | **134** | <span style="color: #002818; font-weight: bold;">15.96</span> | <span style="color: #006400; font-weight: bold;">8.68</span> |
-| **2013/01** | **32.98** | <span style="color: #B22222; font-weight: bold;">+17.1</span> | <span style="color: #B22222; font-weight: bold;">+17.1</span> | **132** | <span style="color: #002818; font-weight: bold;">15.96</span> | <span style="color: #006400; font-weight: bold;">8.85</span> |
-| **2012/12** | **37.56** | <span style="color: #B22222; font-weight: bold;">+15.7</span> | <span style="color: #8B0000; font-weight: bold;">+3.1</span> | **144** | <span style="color: #004225; font-weight: bold;">14.41</span> | <span style="color: #004225; font-weight: bold;">10.0</span> |
-| **2012/11** | **31.03** | <span style="color: #B22222; font-weight: bold;">+19.1</span> | <span style="color: #8B0000; font-weight: bold;">+2.12</span> | **149** | <span style="color: #004225; font-weight: bold;">14.41</span> | <span style="color: #002818; font-weight: bold;">10.98</span> |
-| **2012/10** | **30.54** | <span style="color: #002818; font-weight: bold;">-4.9</span> | <span style="color: #8B0000; font-weight: bold;">+0.65</span> | **127** | <span style="color: #004225; font-weight: bold;">14.41</span> | <span style="color: #004225; font-weight: bold;">9.97</span> |
-| **2012/09** | **30.06** | <span style="color: #006400; font-weight: bold;">-21.2</span> | <span style="color: #8B0000; font-weight: bold;">+1.31</span> | **138** | <span style="color: #004225; font-weight: bold;">11.9</span> | <span style="color: #002818; font-weight: bold;">11.6</span> |
-| **2012/08** | **27.11** | <span style="color: #006400; font-weight: bold;">-25.7</span> | <span style="color: #8B0000; font-weight: bold;">+4.98</span> | **149.5** | <span style="color: #004225; font-weight: bold;">11.9</span> | <span style="color: #002818; font-weight: bold;">11.81</span> |
-| **2012/07** | **30.95** | <span style="color: #002818; font-weight: bold;">-6.81</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **145** | <span style="color: #004225; font-weight: bold;">11.9</span> | <span style="color: #004225; font-weight: bold;">10.8</span> |
-| **2012/06** | **33.31** | <span style="color: #8B0000; font-weight: bold;">+3.36</span> | <span style="color: #B22222; font-weight: bold;">+14.4</span> | **198.5** | <span style="color: #004225; font-weight: bold;">14.19</span> | <span style="color: #8B0000; font-weight: bold;">13.99</span> |
-| **2012/05** | **32.93** | <span style="color: #B22222; font-weight: bold;">+10.2</span> | <span style="color: #B22222; font-weight: bold;">+17.2</span> | **189.5** | <span style="color: #004225; font-weight: bold;">14.19</span> | <span style="color: #8B0000; font-weight: bold;">13.01</span> |
-| **2012/04** | **30.25** | <span style="color: #B22222; font-weight: bold;">+12.6</span> | <span style="color: #B22222; font-weight: bold;">+19.4</span> | **187** | <span style="color: #004225; font-weight: bold;">14.19</span> | <span style="color: #8B0000; font-weight: bold;">12.51</span> |
-| **2012/03** | **30.18** | <span style="color: #B22222; font-weight: bold;">+10.9</span> | <span style="color: #DC143C; font-weight: bold;">+22</span> | **208.5** | <span style="color: #002818; font-weight: bold;">15.33</span> | <span style="color: #8B0000; font-weight: bold;">13.6</span> |
-| **2012/02** | **28.2** | <span style="color: #FF6347; font-weight: bold;">+43.6</span> | <span style="color: #DC143C; font-weight: bold;">+28.8</span> | **215.5** | <span style="color: #002818; font-weight: bold;">15.33</span> | <span style="color: #8B0000; font-weight: bold;">14.18</span> |
-| **2012/01** | **28.16** | <span style="color: #B22222; font-weight: bold;">+16.7</span> | <span style="color: #B22222; font-weight: bold;">+16.7</span> | **184** | <span style="color: #002818; font-weight: bold;">15.33</span> | <span style="color: #002818; font-weight: bold;">12.22</span> |
-| **2011/12** | **32.47** | <span style="color: #FF4500; font-weight: bold;">+32.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+64.4</span> | **140.5** | <span style="color: #002818; font-weight: bold;">14.93</span> | <span style="color: #004225; font-weight: bold;">9.41</span> |
-| **2011/11** | **26.05** | <span style="color: #8B0000; font-weight: bold;">+3.21</span> | <span style="color: #FF7F7F; font-weight: bold;">+68.5</span> | **141.5** | <span style="color: #002818; font-weight: bold;">14.93</span> | <span style="color: #004225; font-weight: bold;">9.65</span> |
-| **2011/10** | **32.11** | <span style="color: #FF6347; font-weight: bold;">+44.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+78</span> | **170** | <span style="color: #002818; font-weight: bold;">14.93</span> | <span style="color: #002818; font-weight: bold;">11.8</span> |
-| **2011/09** | **38.16** | <span style="color: #FF7F7F; font-weight: bold;">+89.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+83</span> | **179** | <span style="color: #004225; font-weight: bold;">14.15</span> | <span style="color: #8B0000; font-weight: bold;">12.65</span> |
-| **2011/08** | **-** | N/A | N/A | **227.5** | <span style="color: #004225; font-weight: bold;">14.15</span> | <span style="color: #DC143C; font-weight: bold;">17.49</span> |
-| **2011/07** | **-** | N/A | N/A | **252** | <span style="color: #004225; font-weight: bold;">14.15</span> | <span style="color: #FF6347; font-weight: bold;">21.23</span> |
-| **2011/06** | **-** | N/A | N/A | **181** | <span style="color: #006400; font-weight: bold;">10.73</span> | <span style="color: #DC143C; font-weight: bold;">16.87</span> |
-| **2011/05** | **-** | N/A | N/A | **187** | <span style="color: #006400; font-weight: bold;">10.73</span> | <span style="color: #DC143C; font-weight: bold;">18.64</span> |
-| **2011/04** | **-** | N/A | N/A | **180** | <span style="color: #006400; font-weight: bold;">10.73</span> | <span style="color: #FF4500; font-weight: bold;">19.28</span> |
-| **2011/03** | **-** | N/A | N/A | **145.5** | <span style="color: #006400; font-weight: bold;">8.64</span> | <span style="color: #DC143C; font-weight: bold;">16.84</span> |
-| **2011/02** | **-** | N/A | N/A | **124** | <span style="color: #006400; font-weight: bold;">8.64</span> | <span style="color: #B22222; font-weight: bold;">15.54</span> |
-| **2011/01** | **-** | N/A | N/A | **120.5** | <span style="color: #006400; font-weight: bold;">8.64</span> | <span style="color: #B22222; font-weight: bold;">16.46</span> |
-| **2010/12** | **-** | N/A | N/A | **108** | <span style="color: #228B22; font-weight: bold;">6.66</span> | <span style="color: #B22222; font-weight: bold;">16.22</span> |
-| **2010/11** | **-** | N/A | N/A | **93.5** | <span style="color: #228B22; font-weight: bold;">6.66</span> | <span style="color: #B22222; font-weight: bold;">15.21</span> |
-| **2010/10** | **-** | N/A | N/A | **81.5** | <span style="color: #228B22; font-weight: bold;">6.66</span> | <span style="color: #8B0000; font-weight: bold;">14.47</span> |
-| **2010/09** | **-** | N/A | N/A | **72** | <span style="color: #228B22; font-weight: bold;">5.12</span> | <span style="color: #8B0000; font-weight: bold;">14.06</span> |
-| **2010/08** | **-** | N/A | N/A | **70.8** | <span style="color: #228B22; font-weight: bold;">5.12</span> | <span style="color: #8B0000; font-weight: bold;">13.93</span> |
-| **2010/07** | **-** | N/A | N/A | **72.1** | <span style="color: #228B22; font-weight: bold;">5.12</span> | <span style="color: #8B0000; font-weight: bold;">14.29</span> |
-| **2010/06** | **-** | N/A | N/A | **70** | <span style="color: #228B22; font-weight: bold;">5.01</span> | <span style="color: #8B0000; font-weight: bold;">13.97</span> |
-| **2010/05** | **-** | N/A | N/A | **78.9** | <span style="color: #228B22; font-weight: bold;">5.01</span> | <span style="color: #B22222; font-weight: bold;">15.93</span> |
-| **2010/04** | **-** | N/A | N/A | **83.2** | <span style="color: #228B22; font-weight: bold;">5.01</span> | <span style="color: #DC143C; font-weight: bold;">16.99</span> |
-| **2010/03** | **-** | N/A | N/A | **78** | <span style="color: #228B22; font-weight: bold;">4.84</span> | <span style="color: #B22222; font-weight: bold;">16.12</span> |
-| **2010/02** | **-** | N/A | N/A | **65.5** | <span style="color: #228B22; font-weight: bold;">4.84</span> | <span style="color: #8B0000; font-weight: bold;">13.38</span> |
-| **2010/01** | **-** | N/A | N/A | **71.9** | <span style="color: #228B22; font-weight: bold;">4.84</span> | <span style="color: #8B0000; font-weight: bold;">14.52</span> |
-| **2009/12** | **-** | N/A | N/A | **89.3** | <span style="color: #228B22; font-weight: bold;">5.01</span> | <span style="color: #DC143C; font-weight: bold;">17.82</span> |
-| **2009/11** | **-** | N/A | N/A | **90.8** | <span style="color: #228B22; font-weight: bold;">5.01</span> | <span style="color: #DC143C; font-weight: bold;">17.69</span> |
-| **2009/10** | **-** | N/A | N/A | **80.3** | <span style="color: #228B22; font-weight: bold;">5.01</span> | <span style="color: #B22222; font-weight: bold;">15.28</span> |
-| **2009/09** | **-** | N/A | N/A | **85.4** | <span style="color: #228B22; font-weight: bold;">5.38</span> | <span style="color: #B22222; font-weight: bold;">15.87</span> |
-| **2009/08** | **-** | N/A | N/A | **85** | <span style="color: #228B22; font-weight: bold;">5.38</span> | <span style="color: #B22222; font-weight: bold;">14.67</span> |
-| **2009/07** | **-** | N/A | N/A | **92** | <span style="color: #228B22; font-weight: bold;">5.38</span> | <span style="color: #B22222; font-weight: bold;">14.82</span> |
-| **2009/06** | **-** | N/A | N/A | **78.2** | <span style="color: #228B22; font-weight: bold;">6.62</span> | <span style="color: #002818; font-weight: bold;">11.81</span> |
-| **2009/05** | **-** | N/A | N/A | **92.1** | <span style="color: #228B22; font-weight: bold;">6.62</span> | <span style="color: #8B0000; font-weight: bold;">13.71</span> |
-| **2009/04** | **-** | N/A | N/A | **83.3** | <span style="color: #228B22; font-weight: bold;">6.62</span> | <span style="color: #002818; font-weight: bold;">12.23</span> |
-| **2009/03** | **-** | N/A | N/A | **74.5** | <span style="color: #228B22; font-weight: bold;">6.91</span> | <span style="color: #004225; font-weight: bold;">10.78</span> |
-| **2009/02** | **-** | N/A | N/A | **59.3** | <span style="color: #228B22; font-weight: bold;">6.91</span> | <span style="color: #006400; font-weight: bold;">8.44</span> |
-| **2009/01** | **-** | N/A | N/A | **56.8** | <span style="color: #228B22; font-weight: bold;">6.91</span> | <span style="color: #006400; font-weight: bold;">7.96</span> |
-| **2008/12** | **-** | N/A | N/A | **54.4** | <span style="color: #228B22; font-weight: bold;">7.25</span> | <span style="color: #228B22; font-weight: bold;">7.5</span> |
-| **2008/11** | **-** | N/A | N/A | **57.2** | <span style="color: #228B22; font-weight: bold;">7.25</span> | <span style="color: #228B22; font-weight: bold;">7.31</span> |
-| **2008/10** | **-** | N/A | N/A | **83** | <span style="color: #228B22; font-weight: bold;">7.25</span> | <span style="color: #004225; font-weight: bold;">9.88</span> |
-| **2008/09** | **-** | N/A | N/A | **100** | <span style="color: #006400; font-weight: bold;">8.97</span> | <span style="color: #002818; font-weight: bold;">11.15</span> |
-| **2008/08** | **-** | N/A | N/A | **107** | <span style="color: #006400; font-weight: bold;">8.97</span> | <span style="color: #002818; font-weight: bold;">11.07</span> |
-| **2008/07** | **-** | N/A | N/A | **85.1** | <span style="color: #006400; font-weight: bold;">8.97</span> | <span style="color: #006400; font-weight: bold;">8.21</span> |
-| **2008/06** | **-** | N/A | N/A | **86.5** | <span style="color: #006400; font-weight: bold;">11.07</span> | <span style="color: #006400; font-weight: bold;">7.81</span> |
-| **2008/05** | **-** | N/A | N/A | **105** | <span style="color: #006400; font-weight: bold;">11.07</span> | <span style="color: #004225; font-weight: bold;">9.32</span> |
-| **2008/04** | **-** | N/A | N/A | **119.5** | <span style="color: #006400; font-weight: bold;">11.07</span> | <span style="color: #004225; font-weight: bold;">10.42</span> |
-| **2008/03** | **-** | N/A | N/A | **113** | <span style="color: #004225; font-weight: bold;">11.67</span> | <span style="color: #004225; font-weight: bold;">9.68</span> |
-| **2008/02** | **-** | N/A | N/A | **116.5** | <span style="color: #004225; font-weight: bold;">11.67</span> | <span style="color: #004225; font-weight: bold;">9.54</span> |
-| **2008/01** | **-** | N/A | N/A | **94** | <span style="color: #004225; font-weight: bold;">11.67</span> | <span style="color: #228B22; font-weight: bold;">7.37</span> |
-| **2007/12** | **-** | N/A | N/A | **189** | <span style="color: #004225; font-weight: bold;">13.29</span> | <span style="color: #8B0000; font-weight: bold;">14.22</span> |
-| **2007/11** | **-** | N/A | N/A | **198.5** | <span style="color: #004225; font-weight: bold;">13.29</span> | <span style="color: #B22222; font-weight: bold;">14.95</span> |
-| **2007/10** | **-** | N/A | N/A | **221.5** | <span style="color: #004225; font-weight: bold;">13.29</span> | <span style="color: #DC143C; font-weight: bold;">16.71</span> |
-| **2007/09** | **-** | N/A | N/A | **241** | <span style="color: #004225; font-weight: bold;">13.24</span> | <span style="color: #DC143C; font-weight: bold;">18.2</span> |
-| **2007/08** | **-** | N/A | N/A | **264** | <span style="color: #004225; font-weight: bold;">13.24</span> | <span style="color: #DC143C; font-weight: bold;">18.56</span> |
-| **2007/07** | **-** | N/A | N/A | **302** | <span style="color: #004225; font-weight: bold;">13.24</span> | <span style="color: #FF4500; font-weight: bold;">19.85</span> |
-| **2007/06** | **-** | N/A | N/A | **307.5** | <span style="color: #002818; font-weight: bold;">16.2</span> | <span style="color: #FF4500; font-weight: bold;">18.98</span> |
-| **2007/05** | **-** | N/A | N/A | **315** | <span style="color: #002818; font-weight: bold;">16.2</span> | <span style="color: #FF4500; font-weight: bold;">19.23</span> |
-| **2007/04** | **-** | N/A | N/A | **256** | <span style="color: #002818; font-weight: bold;">16.2</span> | <span style="color: #B22222; font-weight: bold;">15.45</span> |
-| **2007/03** | **-** | N/A | N/A | **260** | <span style="color: #002818; font-weight: bold;">16.75</span> | <span style="color: #B22222; font-weight: bold;">15.52</span> |
-| **2007/02** | **-** | N/A | N/A | **330** | <span style="color: #002818; font-weight: bold;">16.75</span> | <span style="color: #FF4500; font-weight: bold;">20.13</span> |
-| **2007/01** | **-** | N/A | N/A | **353** | <span style="color: #002818; font-weight: bold;">16.75</span> | <span style="color: #FF6347; font-weight: bold;">22.01</span> |
-| **2006/12** | **-** | N/A | N/A | **318.5** | <span style="color: #002818; font-weight: bold;">15.68</span> | <span style="color: #FF4500; font-weight: bold;">20.31</span> |
-| **2006/11** | **-** | N/A | N/A | **287.5** | <span style="color: #002818; font-weight: bold;">15.68</span> | <span style="color: #FF4500; font-weight: bold;">19.35</span> |
-| **2006/10** | **-** | N/A | N/A | **287** | <span style="color: #002818; font-weight: bold;">15.68</span> | <span style="color: #FF4500; font-weight: bold;">20.45</span> |
-| **2006/09** | **-** | N/A | N/A | **284** | <span style="color: #004225; font-weight: bold;">13.21</span> | <span style="color: #FF6347; font-weight: bold;">21.5</span> |
-| **2006/08** | **-** | N/A | N/A | **258** | <span style="color: #004225; font-weight: bold;">13.21</span> | <span style="color: #DC143C; font-weight: bold;">17.87</span> |
-| **2006/07** | **-** | N/A | N/A | **335** | <span style="color: #004225; font-weight: bold;">13.21</span> | <span style="color: #FF6347; font-weight: bold;">21.38</span> |
-| **2006/06** | **-** | N/A | N/A | **343** | <span style="color: #002818; font-weight: bold;">16.9</span> | <span style="color: #FF4500; font-weight: bold;">20.3</span> |
-| **2006/05** | **-** | N/A | N/A | **386** | <span style="color: #002818; font-weight: bold;">16.9</span> | <span style="color: #FF6347; font-weight: bold;">23.57</span> |
-| **2006/04** | **-** | N/A | N/A | **356** | <span style="color: #002818; font-weight: bold;">16.9</span> | <span style="color: #FF6347; font-weight: bold;">22.45</span> |
-| **2006/03** | **-** | N/A | N/A | **292** | <span style="color: #002818; font-weight: bold;">15.34</span> | <span style="color: #FF4500; font-weight: bold;">19.04</span> |
+| **2023/10** | **10.93** | <span style="color: #90EE90; font-weight: bold;">-60.7</span> | <span style="color: #228B22; font-weight: bold;">-33.8</span> | **181.5** | <span style="color: #004225; font-weight: bold;">13.33</span> | <span style="color: #004225; font-weight: bold;">12.72</span> |
+| **2023/09** | **11.86** | <span style="color: #90EE90; font-weight: bold;">-60.3</span> | <span style="color: #228B22; font-weight: bold;">-30.3</span> | **182.5** | <span style="color: #8B0000; font-weight: bold;">14.73</span> | <span style="color: #004225; font-weight: bold;">12.39</span> |
+| **2023/08** | **14.05** | <span style="color: #90EE90; font-weight: bold;">-51</span> | <span style="color: #006400; font-weight: bold;">-25.4</span> | **180.5** | <span style="color: #8B0000; font-weight: bold;">14.73</span> | <span style="color: #004225; font-weight: bold;">12.06</span> |
+| **2023/07** | **17.37** | <span style="color: #228B22; font-weight: bold;">-38.4</span> | <span style="color: #006400; font-weight: bold;">-20.6</span> | **173.5** | <span style="color: #8B0000; font-weight: bold;">14.73</span> | <span style="color: #006400; font-weight: bold;">11.41</span> |
+| **2023/06** | **21.2** | <span style="color: #002818; font-weight: bold;">-3.76</span> | <span style="color: #004225; font-weight: bold;">-16.5</span> | **175.5** | <span style="color: #8B0000; font-weight: bold;">15.45</span> | <span style="color: #006400; font-weight: bold;">11.36</span> |
+| **2023/05** | **25.98** | <span style="color: #FF4500; font-weight: bold;">+33.2</span> | <span style="color: #004225; font-weight: bold;">-19.2</span> | **185.5** | <span style="color: #8B0000; font-weight: bold;">15.45</span> | <span style="color: #004225; font-weight: bold;">12.46</span> |
+| **2023/04** | **21.77** | <span style="color: #FF7F7F; font-weight: bold;">+94.8</span> | <span style="color: #228B22; font-weight: bold;">-31.4</span> | **181** | <span style="color: #8B0000; font-weight: bold;">15.45</span> | <span style="color: #004225; font-weight: bold;">12.64</span> |
+| **2023/03** | **12.83** | <span style="color: #90EE90; font-weight: bold;">-52.2</span> | <span style="color: #90EE90; font-weight: bold;">-51</span> | **190** | <span style="color: #002818; font-weight: bold;">13.76</span> | <span style="color: #8B0000; font-weight: bold;">13.81</span> |
+| **2023/02** | **10.78** | <span style="color: #228B22; font-weight: bold;">-36.7</span> | <span style="color: #90EE90; font-weight: bold;">-50.3</span> | **184.5** | <span style="color: #002818; font-weight: bold;">13.76</span> | <span style="color: #002818; font-weight: bold;">12.97</span> |
+| **2023/01** | **11.81** | <span style="color: #90EE90; font-weight: bold;">-58.4</span> | <span style="color: #90EE90; font-weight: bold;">-58.4</span> | **178** | <span style="color: #002818; font-weight: bold;">13.76</span> | <span style="color: #004225; font-weight: bold;">12.13</span> |
+| **2022/12** | **16.24** | <span style="color: #228B22; font-weight: bold;">-38.3</span> | <span style="color: #228B22; font-weight: bold;">-32.3</span> | **169** | <span style="color: #8B0000; font-weight: bold;">15.14</span> | <span style="color: #006400; font-weight: bold;">11.16</span> |
+| **2022/11** | **22.5** | <span style="color: #004225; font-weight: bold;">-17.6</span> | <span style="color: #228B22; font-weight: bold;">-31.9</span> | **183** | <span style="color: #8B0000; font-weight: bold;">15.14</span> | <span style="color: #006400; font-weight: bold;">11.06</span> |
+| **2022/10** | **27.83** | <span style="color: #002818; font-weight: bold;">-1.7</span> | <span style="color: #228B22; font-weight: bold;">-32.9</span> | **169.5** | N/A | N/A |
+| **2022/09** | **29.85** | <span style="color: #002818; font-weight: bold;">-5.28</span> | <span style="color: #228B22; font-weight: bold;">-35.6</span> | **172.5** | N/A | N/A |
+| **2022/08** | **28.7** | <span style="color: #004225; font-weight: bold;">-11.6</span> | <span style="color: #228B22; font-weight: bold;">-38.8</span> | **185.5** | N/A | N/A |
+| **2022/07** | **28.21** | <span style="color: #004225; font-weight: bold;">-18.7</span> | <span style="color: #32CD32; font-weight: bold;">-42.2</span> | **170.5** | N/A | N/A |
+| **2022/06** | **22.03** | <span style="color: #228B22; font-weight: bold;">-33.9</span> | <span style="color: #32CD32; font-weight: bold;">-45.7</span> | **165.5** | N/A | N/A |
+| **2022/05** | **19.5** | <span style="color: #32CD32; font-weight: bold;">-40.3</span> | <span style="color: #32CD32; font-weight: bold;">-47.7</span> | **164** | N/A | N/A |
+| **2022/04** | **11.18** | <span style="color: #90EE90; font-weight: bold;">-70.6</span> | <span style="color: #32CD32; font-weight: bold;">-49.2</span> | **145** | N/A | N/A |
+| **2022/03** | **26.83** | <span style="color: #32CD32; font-weight: bold;">-41</span> | <span style="color: #32CD32; font-weight: bold;">-42.8</span> | **144.5** | N/A | N/A |
+| **2022/02** | **17.02** | <span style="color: #90EE90; font-weight: bold;">-52.5</span> | <span style="color: #32CD32; font-weight: bold;">-43.8</span> | **143** | N/A | N/A |
+| **2022/01** | **28.36** | <span style="color: #228B22; font-weight: bold;">-36.9</span> | <span style="color: #228B22; font-weight: bold;">-36.9</span> | **154.5** | N/A | N/A |
+| **2021/12** | **26.33** | <span style="color: #90EE90; font-weight: bold;">-60.2</span> | <span style="color: #90EE90; font-weight: bold;">-50.2</span> | **156.5** | N/A | N/A |
+| **2021/11** | **27.32** | <span style="color: #90EE90; font-weight: bold;">-53.3</span> | <span style="color: #32CD32; font-weight: bold;">-49.3</span> | **155** | N/A | N/A |
+| **2021/10** | **28.31** | <span style="color: #90EE90; font-weight: bold;">-54.4</span> | <span style="color: #32CD32; font-weight: bold;">-49</span> | **161** | N/A | N/A |
+| **2021/09** | **31.52** | <span style="color: #90EE90; font-weight: bold;">-61.1</span> | <span style="color: #32CD32; font-weight: bold;">-48.4</span> | **167.5** | N/A | N/A |
+| **2021/08** | **32.47** | <span style="color: #90EE90; font-weight: bold;">-58</span> | <span style="color: #32CD32; font-weight: bold;">-46.6</span> | **167** | N/A | N/A |
+| **2021/07** | **34.71** | <span style="color: #90EE90; font-weight: bold;">-55.8</span> | <span style="color: #32CD32; font-weight: bold;">-44.8</span> | **185** | N/A | N/A |
+| **2021/06** | **33.35** | <span style="color: #90EE90; font-weight: bold;">-55.3</span> | <span style="color: #32CD32; font-weight: bold;">-42.6</span> | **182** | N/A | N/A |
+| **2021/05** | **32.65** | <span style="color: #90EE90; font-weight: bold;">-55.6</span> | <span style="color: #228B22; font-weight: bold;">-39.7</span> | **184** | N/A | N/A |
+| **2021/04** | **38.04** | <span style="color: #90EE90; font-weight: bold;">-50.7</span> | <span style="color: #228B22; font-weight: bold;">-35.1</span> | **197.5** | N/A | N/A |
+| **2021/03** | **45.52** | <span style="color: #32CD32; font-weight: bold;">-40.8</span> | <span style="color: #006400; font-weight: bold;">-28.3</span> | **211.5** | N/A | N/A |
+| **2021/02** | **35.82** | <span style="color: #FF7F7F; font-weight: bold;">+77.2</span> | <span style="color: #004225; font-weight: bold;">-18.7</span> | **192** | N/A | N/A |
+| **2021/01** | **44.95** | <span style="color: #32CD32; font-weight: bold;">-43.2</span> | <span style="color: #32CD32; font-weight: bold;">-43.2</span> | **198** | N/A | N/A |
+| **2020/12** | **66.2** | <span style="color: #006400; font-weight: bold;">-25.1</span> | <span style="color: #002818; font-weight: bold;">-9.95</span> | **206** | N/A | N/A |
+| **2020/11** | **58.57** | <span style="color: #32CD32; font-weight: bold;">-46.7</span> | <span style="color: #002818; font-weight: bold;">-8.34</span> | **188** | N/A | N/A |
+| **2020/10** | **62.12** | <span style="color: #32CD32; font-weight: bold;">-48.7</span> | <span style="color: #002818; font-weight: bold;">-2.47</span> | **180.5** | N/A | N/A |
+| **2020/09** | **80.95** | <span style="color: #006400; font-weight: bold;">-22.2</span> | <span style="color: #8B0000; font-weight: bold;">+6.91</span> | **181.5** | N/A | N/A |
+| **2020/08** | **77.24** | <span style="color: #004225; font-weight: bold;">-11.6</span> | <span style="color: #B22222; font-weight: bold;">+13</span> | **200.5** | N/A | N/A |
+| **2020/07** | **78.52** | <span style="color: #002818; font-weight: bold;">-9.54</span> | <span style="color: #B22222; font-weight: bold;">+18.4</span> | **216** | N/A | N/A |
+| **2020/06** | **74.68** | <span style="color: #B22222; font-weight: bold;">+18.8</span> | <span style="color: #DC143C; font-weight: bold;">+26</span> | **222** | N/A | N/A |
+| **2020/05** | **73.5** | <span style="color: #FF4500; font-weight: bold;">+34.5</span> | <span style="color: #DC143C; font-weight: bold;">+27.7</span> | **218** | N/A | N/A |
+| **2020/04** | **77.19** | <span style="color: #FF7F7F; font-weight: bold;">+78.7</span> | <span style="color: #DC143C; font-weight: bold;">+25.9</span> | **228** | N/A | N/A |
+| **2020/03** | **76.83** | <span style="color: #8B0000; font-weight: bold;">+3.16</span> | <span style="color: #B22222; font-weight: bold;">+11.5</span> | **195.5** | N/A | N/A |
+| **2020/02** | **20.22** | <span style="color: #32CD32; font-weight: bold;">-41.3</span> | <span style="color: #B22222; font-weight: bold;">+18.8</span> | **237** | N/A | N/A |
+| **2020/01** | **79.11** | <span style="color: #FF7F7F; font-weight: bold;">+61.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+61.1</span> | **244** | N/A | N/A |
+| **2019/12** | **88.36** | <span style="color: #FF4500; font-weight: bold;">+31.9</span> | <span style="color: #002818; font-weight: bold;">-3.97</span> | **227** | N/A | N/A |
+| **2019/11** | **109.8** | <span style="color: #B22222; font-weight: bold;">+14.2</span> | <span style="color: #002818; font-weight: bold;">-6.67</span> | **249.5** | N/A | N/A |
+| **2019/10** | **121.2** | <span style="color: #002818; font-weight: bold;">-5.66</span> | <span style="color: #002818; font-weight: bold;">-9.2</span> | **258** | N/A | N/A |
+| **2019/09** | **104.1** | <span style="color: #B22222; font-weight: bold;">+12.7</span> | <span style="color: #002818; font-weight: bold;">-9.89</span> | **235** | N/A | N/A |
+| **2019/08** | **87.38** | <span style="color: #8B0000; font-weight: bold;">+4.7</span> | <span style="color: #004225; font-weight: bold;">-13.5</span> | **220.5** | N/A | N/A |
+| **2019/07** | **86.8** | <span style="color: #B22222; font-weight: bold;">+15.8</span> | <span style="color: #004225; font-weight: bold;">-16.6</span> | **231** | N/A | N/A |
+| **2019/06** | **62.85** | <span style="color: #004225; font-weight: bold;">-12.7</span> | <span style="color: #006400; font-weight: bold;">-22.6</span> | **222.5** | N/A | N/A |
+| **2019/05** | **54.65** | <span style="color: #006400; font-weight: bold;">-21.4</span> | <span style="color: #006400; font-weight: bold;">-24.6</span> | **192** | N/A | N/A |
+| **2019/04** | **43.18** | <span style="color: #228B22; font-weight: bold;">-34.6</span> | <span style="color: #006400; font-weight: bold;">-25.5</span> | **244.5** | N/A | N/A |
+| **2019/03** | **74.48** | <span style="color: #B22222; font-weight: bold;">+14.3</span> | <span style="color: #006400; font-weight: bold;">-22.6</span> | **237** | N/A | N/A |
+| **2019/02** | **34.44** | <span style="color: #228B22; font-weight: bold;">-39.6</span> | <span style="color: #228B22; font-weight: bold;">-39.8</span> | **234** | N/A | N/A |
+| **2019/01** | **49.09** | <span style="color: #228B22; font-weight: bold;">-40</span> | <span style="color: #228B22; font-weight: bold;">-40</span> | **231.5** | N/A | N/A |
+| **2018/12** | **66.98** | <span style="color: #006400; font-weight: bold;">-28</span> | <span style="color: #8B0000; font-weight: bold;">+2.27</span> | **225** | N/A | N/A |
+| **2018/11** | **96.21** | <span style="color: #004225; font-weight: bold;">-13.3</span> | <span style="color: #8B0000; font-weight: bold;">+5.61</span> | **264.5** | N/A | N/A |
+| **2018/10** | **128.4** | <span style="color: #8B0000; font-weight: bold;">+3.63</span> | <span style="color: #8B0000; font-weight: bold;">+8.5</span> | **311.5** | N/A | N/A |
+| **2018/09** | **92.38** | <span style="color: #004225; font-weight: bold;">-19.3</span> | <span style="color: #8B0000; font-weight: bold;">+9.5</span> | **336** | N/A | N/A |
+| **2018/08** | **83.46** | <span style="color: #002818; font-weight: bold;">-2.09</span> | <span style="color: #B22222; font-weight: bold;">+16.2</span> | **376.5** | N/A | N/A |
+| **2018/07** | **74.97** | <span style="color: #8B0000; font-weight: bold;">+0.64</span> | <span style="color: #DC143C; font-weight: bold;">+20</span> | **376.5** | N/A | N/A |
+| **2018/06** | **71.99** | <span style="color: #002818; font-weight: bold;">-1.23</span> | <span style="color: #DC143C; font-weight: bold;">+24.4</span> | **341** | N/A | N/A |
+| **2018/05** | **69.51** | <span style="color: #B22222; font-weight: bold;">+14.2</span> | <span style="color: #FF4500; font-weight: bold;">+31.6</span> | **348.5** | N/A | N/A |
+| **2018/04** | **66.01** | <span style="color: #DC143C; font-weight: bold;">+28.5</span> | <span style="color: #FF4500; font-weight: bold;">+37</span> | **331** | N/A | N/A |
+| **2018/03** | **65.15** | <span style="color: #FF4500; font-weight: bold;">+31.1</span> | <span style="color: #FF6347; font-weight: bold;">+40</span> | **356** | N/A | N/A |
+| **2018/02** | **57.02** | <span style="color: #DC143C; font-weight: bold;">+20.2</span> | <span style="color: #FF6347; font-weight: bold;">+44.6</span> | **354** | N/A | N/A |
+| **2018/01** | **81.86** | <span style="color: #FF7F7F; font-weight: bold;">+68.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+68.4</span> | **334** | N/A | N/A |
+| **2017/12** | **92.98** | <span style="color: #DC143C; font-weight: bold;">+21.9</span> | <span style="color: #B22222; font-weight: bold;">+17.9</span> | **328** | N/A | N/A |
+| **2017/11** | **111** | <span style="color: #FF4500; font-weight: bold;">+35.3</span> | <span style="color: #B22222; font-weight: bold;">+17.5</span> | **323** | N/A | N/A |
+| **2017/10** | **123.9** | <span style="color: #FF7F7F; font-weight: bold;">+51.5</span> | <span style="color: #B22222; font-weight: bold;">+15.2</span> | **320** | N/A | N/A |
+| **2017/09** | **114.5** | <span style="color: #FF6347; font-weight: bold;">+48.2</span> | <span style="color: #8B0000; font-weight: bold;">+9.8</span> | **295** | N/A | N/A |
+| **2017/08** | **85.24** | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | <span style="color: #8B0000; font-weight: bold;">+3.56</span> | **384** | N/A | N/A |
+| **2017/07** | **74.49** | <span style="color: #DC143C; font-weight: bold;">+24.2</span> | <span style="color: #8B0000; font-weight: bold;">+0.41</span> | **347** | N/A | N/A |
+| **2017/06** | **72.89** | <span style="color: #FF4500; font-weight: bold;">+30</span> | <span style="color: #002818; font-weight: bold;">-3.74</span> | **363.5** | N/A | N/A |
+| **2017/05** | **60.84** | <span style="color: #8B0000; font-weight: bold;">+3.5</span> | <span style="color: #004225; font-weight: bold;">-10.3</span> | **318** | N/A | N/A |
+| **2017/04** | **51.36** | <span style="color: #004225; font-weight: bold;">-14.9</span> | <span style="color: #004225; font-weight: bold;">-13.8</span> | **310** | N/A | N/A |
+| **2017/03** | **49.71** | <span style="color: #006400; font-weight: bold;">-22.8</span> | <span style="color: #004225; font-weight: bold;">-13.4</span> | **300** | N/A | N/A |
+| **2017/02** | **47.45** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #002818; font-weight: bold;">-7.62</span> | **257** | N/A | N/A |
+| **2017/01** | **48.6** | <span style="color: #006400; font-weight: bold;">-22</span> | <span style="color: #006400; font-weight: bold;">-22</span> | **255** | N/A | N/A |
+| **2016/12** | **76.27** | <span style="color: #B22222; font-weight: bold;">+10.3</span> | <span style="color: #002818; font-weight: bold;">-4</span> | **224** | N/A | N/A |
+| **2016/11** | **82.05** | <span style="color: #002818; font-weight: bold;">-1.63</span> | <span style="color: #002818; font-weight: bold;">-5.31</span> | **231.5** | N/A | N/A |
+| **2016/10** | **81.81** | <span style="color: #002818; font-weight: bold;">-0.52</span> | <span style="color: #002818; font-weight: bold;">-5.77</span> | **247.5** | N/A | N/A |
+| **2016/09** | **77.22** | <span style="color: #002818; font-weight: bold;">-3.25</span> | <span style="color: #002818; font-weight: bold;">-6.5</span> | **254.5** | N/A | N/A |
+| **2016/08** | **70.02** | <span style="color: #002818; font-weight: bold;">-2.55</span> | <span style="color: #002818; font-weight: bold;">-7.03</span> | **228** | N/A | N/A |
+| **2016/07** | **59.96** | <span style="color: #002818; font-weight: bold;">-3.84</span> | <span style="color: #002818; font-weight: bold;">-7.77</span> | **222** | N/A | N/A |
+| **2016/06** | **56.08** | <span style="color: #002818; font-weight: bold;">-9.37</span> | <span style="color: #002818; font-weight: bold;">-8.42</span> | **237.5** | N/A | N/A |
+| **2016/05** | **58.78** | <span style="color: #004225; font-weight: bold;">-14.2</span> | <span style="color: #002818; font-weight: bold;">-8.24</span> | **248** | N/A | N/A |
+| **2016/04** | **60.35** | <span style="color: #004225; font-weight: bold;">-14.8</span> | <span style="color: #002818; font-weight: bold;">-6.57</span> | **227** | N/A | N/A |
+| **2016/03** | **64.43** | <span style="color: #002818; font-weight: bold;">-7.06</span> | <span style="color: #002818; font-weight: bold;">-3.19</span> | **264** | N/A | N/A |
+| **2016/02** | **41.67** | <span style="color: #002818; font-weight: bold;">-7.5</span> | <span style="color: #002818; font-weight: bold;">-0.66</span> | **260** | N/A | N/A |
+| **2016/01** | **62.31** | <span style="color: #8B0000; font-weight: bold;">+4.48</span> | <span style="color: #8B0000; font-weight: bold;">+4.48</span> | **259** | N/A | N/A |
+| **2015/12** | **69.14** | <span style="color: #B22222; font-weight: bold;">+14.4</span> | <span style="color: #FF6347; font-weight: bold;">+49.1</span> | **276** | N/A | N/A |
+| **2015/11** | **83.41** | <span style="color: #FF7F7F; font-weight: bold;">+50.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+53.4</span> | **316** | N/A | N/A |
+| **2015/10** | **82.25** | <span style="color: #FF7F7F; font-weight: bold;">+52</span> | <span style="color: #FF7F7F; font-weight: bold;">+53.8</span> | **320** | N/A | N/A |
+| **2015/09** | **79.82** | <span style="color: #FF7F7F; font-weight: bold;">+63.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+54</span> | **350.5** | N/A | N/A |
+| **2015/08** | **71.86** | <span style="color: #FF6347; font-weight: bold;">+43.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+52.6</span> | **332** | N/A | N/A |
+| **2015/07** | **62.36** | <span style="color: #FF4500; font-weight: bold;">+34.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+54.2</span> | **348** | N/A | N/A |
+| **2015/06** | **61.88** | <span style="color: #FF4500; font-weight: bold;">+33.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+58.1</span> | **386** | N/A | N/A |
+| **2015/05** | **68.54** | <span style="color: #FF7F7F; font-weight: bold;">+55.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+64</span> | **360** | N/A | N/A |
+| **2015/04** | **70.88** | <span style="color: #FF7F7F; font-weight: bold;">+66</span> | <span style="color: #FF7F7F; font-weight: bold;">+66.7</span> | **360** | N/A | N/A |
+| **2015/03** | **69.32** | <span style="color: #FF7F7F; font-weight: bold;">+70.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+67</span> | **328** | N/A | N/A |
+| **2015/02** | **45.05** | <span style="color: #FF7F7F; font-weight: bold;">+63.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+65.1</span> | **287** | N/A | N/A |
+| **2015/01** | **59.64** | <span style="color: #FF7F7F; font-weight: bold;">+66.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+66.7</span> | **278.5** | N/A | N/A |
+| **2014/12** | **60.45** | <span style="color: #FF7F7F; font-weight: bold;">+54.7</span> | <span style="color: #DC143C; font-weight: bold;">+27.8</span> | **246.5** | N/A | N/A |
+| **2014/11** | **55.51** | <span style="color: #B22222; font-weight: bold;">+19.3</span> | <span style="color: #DC143C; font-weight: bold;">+25.1</span> | **262** | N/A | N/A |
+| **2014/10** | **54.1** | <span style="color: #B22222; font-weight: bold;">+18.8</span> | <span style="color: #DC143C; font-weight: bold;">+25.9</span> | **256** | N/A | N/A |
+| **2014/09** | **48.8** | <span style="color: #DC143C; font-weight: bold;">+28.1</span> | <span style="color: #DC143C; font-weight: bold;">+27</span> | **282** | N/A | N/A |
+| **2014/08** | **50.05** | <span style="color: #FF7F7F; font-weight: bold;">+55.1</span> | <span style="color: #DC143C; font-weight: bold;">+26.9</span> | **303** | N/A | N/A |
+| **2014/07** | **46.44** | <span style="color: #FF4500; font-weight: bold;">+36.8</span> | <span style="color: #DC143C; font-weight: bold;">+22.9</span> | **248** | N/A | N/A |
+| **2014/06** | **46.3** | <span style="color: #FF4500; font-weight: bold;">+38.2</span> | <span style="color: #DC143C; font-weight: bold;">+20.5</span> | **278.5** | N/A | N/A |
+| **2014/05** | **44.18** | <span style="color: #DC143C; font-weight: bold;">+26.5</span> | <span style="color: #B22222; font-weight: bold;">+16.9</span> | **268** | N/A | N/A |
+| **2014/04** | **42.7** | <span style="color: #B22222; font-weight: bold;">+18.1</span> | <span style="color: #B22222; font-weight: bold;">+14.3</span> | **254.5** | N/A | N/A |
+| **2014/03** | **40.76** | <span style="color: #8B0000; font-weight: bold;">+5.08</span> | <span style="color: #B22222; font-weight: bold;">+12.8</span> | **220.5** | N/A | N/A |
+| **2014/02** | **27.63** | <span style="color: #FF4500; font-weight: bold;">+34.6</span> | <span style="color: #B22222; font-weight: bold;">+18.4</span> | **220** | N/A | N/A |
+| **2014/01** | **35.77** | <span style="color: #8B0000; font-weight: bold;">+8.44</span> | <span style="color: #8B0000; font-weight: bold;">+8.44</span> | **202** | N/A | N/A |
+| **2013/12** | **39.06** | <span style="color: #8B0000; font-weight: bold;">+4</span> | <span style="color: #B22222; font-weight: bold;">+16.8</span> | **193.5** | N/A | N/A |
+| **2013/11** | **46.52** | <span style="color: #FF6347; font-weight: bold;">+49.9</span> | <span style="color: #B22222; font-weight: bold;">+18.2</span> | **180** | N/A | N/A |
+| **2013/10** | **45.54** | <span style="color: #FF6347; font-weight: bold;">+49.1</span> | <span style="color: #B22222; font-weight: bold;">+15</span> | **171** | N/A | N/A |
+| **2013/09** | **38.1** | <span style="color: #DC143C; font-weight: bold;">+26.8</span> | <span style="color: #B22222; font-weight: bold;">+11.1</span> | **156.5** | N/A | N/A |
+| **2013/08** | **32.26** | <span style="color: #B22222; font-weight: bold;">+19</span> | <span style="color: #8B0000; font-weight: bold;">+9.15</span> | **142.5** | N/A | N/A |
+| **2013/07** | **33.95** | <span style="color: #8B0000; font-weight: bold;">+9.68</span> | <span style="color: #8B0000; font-weight: bold;">+7.9</span> | **130** | N/A | N/A |
+| **2013/06** | **33.51** | <span style="color: #8B0000; font-weight: bold;">+0.61</span> | <span style="color: #8B0000; font-weight: bold;">+7.6</span> | **156** | N/A | N/A |
+| **2013/05** | **34.93** | <span style="color: #8B0000; font-weight: bold;">+6.07</span> | <span style="color: #8B0000; font-weight: bold;">+9.13</span> | **169** | N/A | N/A |
+| **2013/04** | **36.15** | <span style="color: #B22222; font-weight: bold;">+19.5</span> | <span style="color: #8B0000; font-weight: bold;">+9.99</span> | **149.5** | N/A | N/A |
+| **2013/03** | **38.79** | <span style="color: #DC143C; font-weight: bold;">+28.5</span> | <span style="color: #8B0000; font-weight: bold;">+6.66</span> | **136** | N/A | N/A |
+| **2013/02** | **20.53** | <span style="color: #006400; font-weight: bold;">-27.2</span> | <span style="color: #002818; font-weight: bold;">-4.99</span> | **134** | N/A | N/A |
+| **2013/01** | **32.98** | <span style="color: #B22222; font-weight: bold;">+17.1</span> | <span style="color: #B22222; font-weight: bold;">+17.1</span> | **132** | N/A | N/A |
+| **2012/12** | **37.56** | <span style="color: #B22222; font-weight: bold;">+15.7</span> | <span style="color: #8B0000; font-weight: bold;">+3.1</span> | **144** | N/A | N/A |
+| **2012/11** | **31.03** | <span style="color: #B22222; font-weight: bold;">+19.1</span> | <span style="color: #8B0000; font-weight: bold;">+2.12</span> | **149** | N/A | N/A |
+| **2012/10** | **30.54** | <span style="color: #002818; font-weight: bold;">-4.9</span> | <span style="color: #8B0000; font-weight: bold;">+0.65</span> | **127** | N/A | N/A |
+| **2012/09** | **30.06** | <span style="color: #006400; font-weight: bold;">-21.2</span> | <span style="color: #8B0000; font-weight: bold;">+1.31</span> | **138** | N/A | N/A |
+| **2012/08** | **27.11** | <span style="color: #006400; font-weight: bold;">-25.7</span> | <span style="color: #8B0000; font-weight: bold;">+4.98</span> | **149.5** | N/A | N/A |
+| **2012/07** | **30.95** | <span style="color: #002818; font-weight: bold;">-6.81</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **145** | N/A | N/A |
+| **2012/06** | **33.31** | <span style="color: #8B0000; font-weight: bold;">+3.36</span> | <span style="color: #B22222; font-weight: bold;">+14.4</span> | **198.5** | N/A | N/A |
+| **2012/05** | **32.93** | <span style="color: #B22222; font-weight: bold;">+10.2</span> | <span style="color: #B22222; font-weight: bold;">+17.2</span> | **189.5** | N/A | N/A |
+| **2012/04** | **30.25** | <span style="color: #B22222; font-weight: bold;">+12.6</span> | <span style="color: #B22222; font-weight: bold;">+19.4</span> | **187** | N/A | N/A |
+| **2012/03** | **30.18** | <span style="color: #B22222; font-weight: bold;">+10.9</span> | <span style="color: #DC143C; font-weight: bold;">+22</span> | **208.5** | N/A | N/A |
+| **2012/02** | **28.2** | <span style="color: #FF6347; font-weight: bold;">+43.6</span> | <span style="color: #DC143C; font-weight: bold;">+28.8</span> | **215.5** | N/A | N/A |
+| **2012/01** | **28.16** | <span style="color: #B22222; font-weight: bold;">+16.7</span> | <span style="color: #B22222; font-weight: bold;">+16.7</span> | **184** | N/A | N/A |
+| **2011/12** | **32.47** | <span style="color: #FF4500; font-weight: bold;">+32.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+64.4</span> | **140.5** | N/A | N/A |
+| **2011/11** | **26.05** | <span style="color: #8B0000; font-weight: bold;">+3.21</span> | <span style="color: #FF7F7F; font-weight: bold;">+68.5</span> | **141.5** | N/A | N/A |
+| **2011/10** | **32.11** | <span style="color: #FF6347; font-weight: bold;">+44.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+78</span> | **170** | N/A | N/A |
+| **2011/09** | **38.16** | <span style="color: #FF7F7F; font-weight: bold;">+89.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+83</span> | **179** | N/A | N/A |
+| **2011/08** | **-** | N/A | N/A | **227.5** | N/A | N/A |
+| **2011/07** | **-** | N/A | N/A | **252** | N/A | N/A |
+| **2011/06** | **-** | N/A | N/A | **181** | N/A | N/A |
+| **2011/05** | **-** | N/A | N/A | **187** | N/A | N/A |
+| **2011/04** | **-** | N/A | N/A | **180** | N/A | N/A |
+| **2011/03** | **-** | N/A | N/A | **145.5** | N/A | N/A |
+| **2011/02** | **-** | N/A | N/A | **124** | N/A | N/A |
+| **2011/01** | **-** | N/A | N/A | **120.5** | N/A | N/A |
+| **2010/12** | **-** | N/A | N/A | **108** | N/A | N/A |
+| **2010/11** | **-** | N/A | N/A | **93.5** | N/A | N/A |
+| **2010/10** | **-** | N/A | N/A | **81.5** | N/A | N/A |
+| **2010/09** | **-** | N/A | N/A | **72** | N/A | N/A |
+| **2010/08** | **-** | N/A | N/A | **70.8** | N/A | N/A |
+| **2010/07** | **-** | N/A | N/A | **72.1** | N/A | N/A |
+| **2010/06** | **-** | N/A | N/A | **70** | N/A | N/A |
+| **2010/05** | **-** | N/A | N/A | **78.9** | N/A | N/A |
+| **2010/04** | **-** | N/A | N/A | **83.2** | N/A | N/A |
+| **2010/03** | **-** | N/A | N/A | **78** | N/A | N/A |
+| **2010/02** | **-** | N/A | N/A | **65.5** | N/A | N/A |
+| **2010/01** | **-** | N/A | N/A | **71.9** | N/A | N/A |
+| **2009/12** | **-** | N/A | N/A | **89.3** | N/A | N/A |
+| **2009/11** | **-** | N/A | N/A | **90.8** | N/A | N/A |
+| **2009/10** | **-** | N/A | N/A | **80.3** | N/A | N/A |
+| **2009/09** | **-** | N/A | N/A | **85.4** | N/A | N/A |
+| **2009/08** | **-** | N/A | N/A | **85** | N/A | N/A |
+| **2009/07** | **-** | N/A | N/A | **92** | N/A | N/A |
+| **2009/06** | **-** | N/A | N/A | **78.2** | N/A | N/A |
+| **2009/05** | **-** | N/A | N/A | **92.1** | N/A | N/A |
+| **2009/04** | **-** | N/A | N/A | **83.3** | N/A | N/A |
+| **2009/03** | **-** | N/A | N/A | **74.5** | N/A | N/A |
+| **2009/02** | **-** | N/A | N/A | **59.3** | N/A | N/A |
+| **2009/01** | **-** | N/A | N/A | **56.8** | N/A | N/A |
+| **2008/12** | **-** | N/A | N/A | **54.4** | N/A | N/A |
+| **2008/11** | **-** | N/A | N/A | **57.2** | N/A | N/A |
+| **2008/10** | **-** | N/A | N/A | **83** | N/A | N/A |
+| **2008/09** | **-** | N/A | N/A | **100** | N/A | N/A |
+| **2008/08** | **-** | N/A | N/A | **107** | N/A | N/A |
+| **2008/07** | **-** | N/A | N/A | **85.1** | N/A | N/A |
+| **2008/06** | **-** | N/A | N/A | **86.5** | N/A | N/A |
+| **2008/05** | **-** | N/A | N/A | **105** | N/A | N/A |
+| **2008/04** | **-** | N/A | N/A | **119.5** | N/A | N/A |
+| **2008/03** | **-** | N/A | N/A | **113** | N/A | N/A |
+| **2008/02** | **-** | N/A | N/A | **116.5** | N/A | N/A |
+| **2008/01** | **-** | N/A | N/A | **94** | N/A | N/A |
+| **2007/12** | **-** | N/A | N/A | **189** | N/A | N/A |
+| **2007/11** | **-** | N/A | N/A | **198.5** | N/A | N/A |
+| **2007/10** | **-** | N/A | N/A | **221.5** | N/A | N/A |
+| **2007/09** | **-** | N/A | N/A | **241** | N/A | N/A |
+| **2007/08** | **-** | N/A | N/A | **264** | N/A | N/A |
+| **2007/07** | **-** | N/A | N/A | **302** | N/A | N/A |
+| **2007/06** | **-** | N/A | N/A | **307.5** | N/A | N/A |
+| **2007/05** | **-** | N/A | N/A | **315** | N/A | N/A |
+| **2007/04** | **-** | N/A | N/A | **256** | N/A | N/A |
+| **2007/03** | **-** | N/A | N/A | **260** | N/A | N/A |
+| **2007/02** | **-** | N/A | N/A | **330** | N/A | N/A |
+| **2007/01** | **-** | N/A | N/A | **353** | N/A | N/A |
+| **2006/12** | **-** | N/A | N/A | **318.5** | N/A | N/A |
+| **2006/11** | **-** | N/A | N/A | **287.5** | N/A | N/A |
+| **2006/10** | **-** | N/A | N/A | **287** | N/A | N/A |
+| **2006/09** | **-** | N/A | N/A | **284** | N/A | N/A |
+| **2006/08** | **-** | N/A | N/A | **258** | N/A | N/A |
+| **2006/07** | **-** | N/A | N/A | **335** | N/A | N/A |
+| **2006/06** | **-** | N/A | N/A | **343** | N/A | N/A |
+| **2006/05** | **-** | N/A | N/A | **386** | N/A | N/A |
+| **2006/04** | **-** | N/A | N/A | **356** | N/A | N/A |
+| **2006/03** | **-** | N/A | N/A | **292** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 可成 (2474) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-31 17:48:25 CST
+- **產生時間**: 2026-04-01 01:41:36 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-31
+date: 2026-04-01
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 世芯-KY (3661) - 自動產生
     **:building_construction: 公司名稱**: 世芯-KY  
     **:identification_card: 股票代號**: 3661  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-03-31 17:48:25 CST
+    **:clock3: 更新時間**: 2026-04-01 01:41:36 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 世芯-KY (3661) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **5.39** | **22.51** | **61.48** |
-| **P/E倍數** | **23.84** | **37.85** | **56.39** |
+| **EPS(元)** | **5.43** | **22.84** | **61.73** |
+| **P/E倍數** | **23.94** | **37.83** | **56.39** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 世芯-KY 歷史平均獲利能力 (σup=38.98, σlo=17.11)
-    - **P/Ebase**: 世芯-KY 歷史平均估值水準 (σup=18.54, σlo=14.01)
+    - **EPSbase**: 世芯-KY 歷史平均獲利能力 (σup=38.88, σlo=17.42)
+    - **P/Ebase**: 世芯-KY 歷史平均估值水準 (σup=18.55, σlo=13.89)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -99,9 +99,9 @@ description: 月營收表 世芯-KY (3661) - 自動產生
 | **2024/09** | **53.01** | <span style="color: #FF7F7F; font-weight: bold;">+82.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+83.1</span> | **1975** | <span style="color: #DC143C; font-weight: bold;">72.62</span> | <span style="color: #004225; font-weight: bold;">27.2</span> |
 | **2024/08** | **46.69** | <span style="color: #FF7F7F; font-weight: bold;">+89.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+83</span> | **2650** | <span style="color: #DC143C; font-weight: bold;">72.62</span> | <span style="color: #8B0000; font-weight: bold;">38.45</span> |
 | **2024/07** | **48.78** | <span style="color: #FF7F7F; font-weight: bold;">+116.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+82</span> | **2620** | <span style="color: #DC143C; font-weight: bold;">72.62</span> | <span style="color: #8B0000; font-weight: bold;">40.17</span> |
-| **2024/06** | **52.36** | <span style="color: #FF7F7F; font-weight: bold;">+100.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+76.4</span> | **2455** | <span style="color: #DC143C; font-weight: bold;">61.52</span> | <span style="color: #8B0000; font-weight: bold;">39.91</span> |
-| **2024/05** | **43.73** | <span style="color: #FF7F7F; font-weight: bold;">+60.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+70.8</span> | **2870** | <span style="color: #DC143C; font-weight: bold;">61.52</span> | <span style="color: #B22222; font-weight: bold;">49.44</span> |
-| **2024/04** | **40.14** | <span style="color: #FF7F7F; font-weight: bold;">+53.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+74.2</span> | **3120** | <span style="color: #DC143C; font-weight: bold;">61.52</span> | <span style="color: #DC143C; font-weight: bold;">57.16</span> |
+| **2024/06** | **52.36** | <span style="color: #FF7F7F; font-weight: bold;">+100.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+76.4</span> | **2455** | <span style="color: #B22222; font-weight: bold;">61.52</span> | <span style="color: #8B0000; font-weight: bold;">39.91</span> |
+| **2024/05** | **43.73** | <span style="color: #FF7F7F; font-weight: bold;">+60.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+70.8</span> | **2870** | <span style="color: #B22222; font-weight: bold;">61.52</span> | <span style="color: #B22222; font-weight: bold;">49.44</span> |
+| **2024/04** | **40.14** | <span style="color: #FF7F7F; font-weight: bold;">+53.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+74.2</span> | **3120** | <span style="color: #B22222; font-weight: bold;">61.52</span> | <span style="color: #DC143C; font-weight: bold;">57.16</span> |
 | **2024/03** | **38.76** | <span style="color: #FF7F7F; font-weight: bold;">+51.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+83.5</span> | **3340** | <span style="color: #B22222; font-weight: bold;">51.12</span> | <span style="color: #DC143C; font-weight: bold;">65.34</span> |
 | **2024/02** | **32.43** | <span style="color: #FF7F7F; font-weight: bold;">+110.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+108.7</span> | **4140** | <span style="color: #B22222; font-weight: bold;">51.12</span> | <span style="color: #FF6347; font-weight: bold;">84.08</span> |
 | **2024/01** | **33.74** | <span style="color: #FF7F7F; font-weight: bold;">+106.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+106.7</span> | **3900** | <span style="color: #B22222; font-weight: bold;">51.12</span> | <span style="color: #FF6347; font-weight: bold;">82.36</span> |
@@ -357,7 +357,7 @@ description: 月營收表 世芯-KY (3661) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-31 17:48:25 CST
+- **產生時間**: 2026-04-01 01:41:36 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
