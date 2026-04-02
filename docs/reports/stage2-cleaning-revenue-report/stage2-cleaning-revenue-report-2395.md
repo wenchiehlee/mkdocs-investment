@@ -25,13 +25,13 @@ description: 月營收表 研華 (2395) - 自動產生
     **:building_construction: 公司名稱**: 研華  
     **:identification_card: 股票代號**: 2395  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-02 12:54:47 CST
+    **:clock3: 更新時間**: 2026-04-02 15:56:24 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+6.26</span> | <span style="color: #B22222; font-weight: bold;">+15</span> | **240** 個月 | 2006/03 至 2026/02 |
+| <span style="color: #8B0000; font-weight: bold;">+6.26</span> | <span style="color: #B22222; font-weight: bold;">+15</span> | **239** 個月 | 2006/04 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -318,7 +318,6 @@ description: 月營收表 研華 (2395) - 自動產生
 | **2006/06** | **-** | N/A | N/A | **92.8** | <span style="color: #004225; font-weight: bold;">6.25</span> | <span style="color: #006400; font-weight: bold;">14.85</span> |
 | **2006/05** | **-** | N/A | N/A | **86.7** | <span style="color: #004225; font-weight: bold;">6.25</span> | <span style="color: #006400; font-weight: bold;">14.23</span> |
 | **2006/04** | **-** | N/A | N/A | **87.5** | <span style="color: #004225; font-weight: bold;">6.25</span> | <span style="color: #006400; font-weight: bold;">14.74</span> |
-| **2006/03** | **-** | N/A | N/A | **89.9** | <span style="color: #006400; font-weight: bold;">5.78</span> | <span style="color: #004225; font-weight: bold;">15.55</span> |
 
 </div>
 
@@ -414,7 +413,7 @@ description: 月營收表 研華 (2395) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-02 12:54:47 CST
+- **產生時間**: 2026-04-02 15:56:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

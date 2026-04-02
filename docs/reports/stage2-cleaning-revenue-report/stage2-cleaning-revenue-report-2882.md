@@ -25,13 +25,13 @@ description: 月營收表 國泰金 (2882) - 自動產生
     **:building_construction: 公司名稱**: 國泰金  
     **:identification_card: 股票代號**: 2882  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-02 12:54:47 CST
+    **:clock3: 更新時間**: 2026-04-02 15:56:24 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #004225; font-weight: bold;">-11</span> | <span style="color: #002818; font-weight: bold;">-5.24</span> | **240** 個月 | 2006/03 至 2026/02 |
+| <span style="color: #004225; font-weight: bold;">-11</span> | <span style="color: #002818; font-weight: bold;">-5.24</span> | **239** 個月 | 2006/04 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -318,7 +318,6 @@ description: 月營收表 國泰金 (2882) - 自動產生
 | **2006/06** | **-** | N/A | N/A | **70.8** | <span style="color: #004225; font-weight: bold;">2.4</span> | <span style="color: #8B0000; font-weight: bold;">29.5</span> |
 | **2006/05** | **-** | N/A | N/A | **70.4** | <span style="color: #004225; font-weight: bold;">2.4</span> | <span style="color: #002818; font-weight: bold;">27.25</span> |
 | **2006/04** | **-** | N/A | N/A | **71.5** | <span style="color: #004225; font-weight: bold;">2.4</span> | <span style="color: #002818; font-weight: bold;">25.84</span> |
-| **2006/03** | **-** | N/A | N/A | **58** | N/A | N/A |
 
 </div>
 
@@ -414,7 +413,7 @@ description: 月營收表 國泰金 (2882) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-02 12:54:47 CST
+- **產生時間**: 2026-04-02 15:56:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

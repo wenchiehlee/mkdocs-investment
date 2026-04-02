@@ -25,13 +25,13 @@ description: 月營收表 台光電 (2383) - 自動產生
     **:building_construction: 公司名稱**: 台光電  
     **:identification_card: 股票代號**: 2383  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-02 12:54:47 CST
+    **:clock3: 更新時間**: 2026-04-02 15:56:24 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF6347; font-weight: bold;">+45</span> | <span style="color: #FF7F7F; font-weight: bold;">+50.2</span> | **240** 個月 | 2006/03 至 2026/02 |
+| <span style="color: #FF6347; font-weight: bold;">+45</span> | <span style="color: #FF7F7F; font-weight: bold;">+50.2</span> | **239** 個月 | 2006/04 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -318,7 +318,6 @@ description: 月營收表 台光電 (2383) - 自動產生
 | **2006/06** | **6.17** | <span style="color: #FF7F7F; font-weight: bold;">+82.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+86.7</span> | **13.5** | <span style="color: #006400; font-weight: bold;">1.03</span> | <span style="color: #002818; font-weight: bold;">13.11</span> |
 | **2006/05** | **5.63** | <span style="color: #FF7F7F; font-weight: bold;">+80.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+87.8</span> | **16.1** | <span style="color: #006400; font-weight: bold;">1.03</span> | <span style="color: #8B0000; font-weight: bold;">17.01</span> |
 | **2006/04** | **5.1** | <span style="color: #FF7F7F; font-weight: bold;">+82.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+90.1</span> | **18.2** | <span style="color: #006400; font-weight: bold;">1.03</span> | <span style="color: #B22222; font-weight: bold;">21.08</span> |
-| **2006/03** | **5.13** | <span style="color: #FF7F7F; font-weight: bold;">+84.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+93.1</span> | **17.45** | N/A | N/A |
 
 </div>
 
@@ -414,7 +413,7 @@ description: 月營收表 台光電 (2383) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-02 12:54:47 CST
+- **產生時間**: 2026-04-02 15:56:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -25,13 +25,13 @@ description: 月營收表 台灣大 (3045) - 自動產生
     **:building_construction: 公司名稱**: 台灣大  
     **:identification_card: 股票代號**: 3045  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-02 12:54:47 CST
+    **:clock3: 更新時間**: 2026-04-02 15:56:24 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #002818; font-weight: bold;">-0.02</span> | <span style="color: #8B0000; font-weight: bold;">+2.12</span> | **240** 個月 | 2006/03 至 2026/02 |
+| <span style="color: #002818; font-weight: bold;">-0.02</span> | <span style="color: #8B0000; font-weight: bold;">+2.12</span> | **239** 個月 | 2006/04 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -318,7 +318,6 @@ description: 月營收表 台灣大 (3045) - 自動產生
 | **2006/06** | **49.36** | <span style="color: #002818; font-weight: bold;">-2.5</span> | <span style="color: #002818; font-weight: bold;">-0.17</span> | **32.2** | <span style="color: #006400; font-weight: bold;">3.19</span> | <span style="color: #228B22; font-weight: bold;">10.09</span> |
 | **2006/05** | **49.49** | <span style="color: #002818; font-weight: bold;">-1.54</span> | <span style="color: #8B0000; font-weight: bold;">+0.31</span> | **32** | <span style="color: #006400; font-weight: bold;">3.19</span> | <span style="color: #228B22; font-weight: bold;">10.11</span> |
 | **2006/04** | **48.05** | <span style="color: #002818; font-weight: bold;">-0.65</span> | <span style="color: #8B0000; font-weight: bold;">+0.8</span> | **32.1** | <span style="color: #006400; font-weight: bold;">3.19</span> | <span style="color: #228B22; font-weight: bold;">10.21</span> |
-| **2006/03** | **49.91** | <span style="color: #8B0000; font-weight: bold;">+0.47</span> | <span style="color: #8B0000; font-weight: bold;">+1.29</span> | **30.9** | <span style="color: #006400; font-weight: bold;">3.12</span> | <span style="color: #228B22; font-weight: bold;">9.9</span> |
 
 </div>
 
@@ -414,7 +413,7 @@ description: 月營收表 台灣大 (3045) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-02 12:54:47 CST
+- **產生時間**: 2026-04-02 15:56:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

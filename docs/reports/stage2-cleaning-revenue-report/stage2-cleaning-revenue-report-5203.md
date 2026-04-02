@@ -25,13 +25,13 @@ description: 月營收表 訊連 (5203) - 自動產生
     **:building_construction: 公司名稱**: 訊連  
     **:identification_card: 股票代號**: 5203  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-02 12:54:47 CST
+    **:clock3: 更新時間**: 2026-04-02 15:56:24 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+5.93</span> | <span style="color: #8B0000; font-weight: bold;">+3.47</span> | **240** 個月 | 2006/03 至 2026/02 |
+| <span style="color: #8B0000; font-weight: bold;">+5.93</span> | <span style="color: #8B0000; font-weight: bold;">+3.47</span> | **239** 個月 | 2006/04 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -318,7 +318,6 @@ description: 月營收表 訊連 (5203) - 自動產生
 | **2006/06** | **2.32** | <span style="color: #FF7F7F; font-weight: bold;">+54.4</span> | <span style="color: #FF4500; font-weight: bold;">+31.4</span> | **112.5** | <span style="color: #DC143C; font-weight: bold;">8.41</span> | <span style="color: #006400; font-weight: bold;">13.38</span> |
 | **2006/05** | **2.45** | <span style="color: #FF6347; font-weight: bold;">+41.9</span> | <span style="color: #DC143C; font-weight: bold;">+27.8</span> | **108.5** | <span style="color: #DC143C; font-weight: bold;">8.41</span> | <span style="color: #006400; font-weight: bold;">13.11</span> |
 | **2006/04** | **2.26** | <span style="color: #B22222; font-weight: bold;">+12</span> | <span style="color: #DC143C; font-weight: bold;">+24.8</span> | **126** | <span style="color: #DC143C; font-weight: bold;">8.41</span> | <span style="color: #004225; font-weight: bold;">15.49</span> |
-| **2006/03** | **2.63** | <span style="color: #FF4500; font-weight: bold;">+30.3</span> | <span style="color: #DC143C; font-weight: bold;">+28.9</span> | **88.3** | <span style="color: #DC143C; font-weight: bold;">8.0</span> | <span style="color: #006400; font-weight: bold;">11.04</span> |
 
 </div>
 
@@ -414,7 +413,7 @@ description: 月營收表 訊連 (5203) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-02 12:54:47 CST
+- **產生時間**: 2026-04-02 15:56:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
