@@ -114,17 +114,13 @@ plugins:
         - tags.md
         - .*reports/.*
   - git-revision-date-localized:
-      enabled: !ENV [CI, false]
-      type: timeago
-      custom_format: "%d. %B %Y"
+      enabled: !ENV [CI, false] # 本地開發預設關閉
+      type: date
+      custom_format: "%Y-%m-%d"
       timezone: Asia/Taipei
-      locale: en
-      fallback_to_build_date: false
+      locale: zh_TW
+      fallback_to_build_date: true
       enable_creation_date: true
-#      exclude:
-#          - index.md
-      enabled: true
-      strict: true
 #  - minify:
 #      minify_html: true
   - rss:
@@ -148,19 +144,6 @@ validation:
 
 # Customization
 extra:
-  # alternate:
-  #   - name: 簡體中文
-  #     link: /
-  #     # https://wcowin-work.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=wapp
-  #     lang: zh-TW   
-  #   # - name: English
-  #   #   link: /Mkdocs-Wcowin/en/
-  #   #   # https://wcowin-work.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=wapp
-  #   #   lang: en
-  #   # - name: China(TW)
-  #   #   link: /Mkdocs-Wcowin/ZH-TW/
-  #   #   # https://wcowin-work.translate.goog/?_x_tr_sl=zh-CN&_x_tr_tl=zh-TW&_x_tr_hl=zh-CN&_x_tr_pto=wapp
-  #   #   lang: zh-TW
   annotate:
     json: [.s2] 
   generator: true #是否刪除頁尾顯示“使用 MkDocs 材料製造”
@@ -287,7 +270,7 @@ markdown_extensions: #詳見https://squidfunk.github.io/mkdocs-material/setup/ex
 
 extra_javascript:
   # - javascripts/extra.js #自定義javascript
-  - https://cdn.jsdelivr.net/gh/Wcowin/Wcowin.github.io@main/docs/javascripts/extra.js  # extra的cdn
+  - https://cdn.jsdelivr.gh/gh/Wcowin/Wcowin.github.io@main/docs/javascripts/extra.js  # extra的cdn
   - javascripts/mathjax.js #Latex支援
   # Removed polyfill.io (service shut down) - MathJax 3 includes necessary polyfills
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js #Latex支援
@@ -306,18 +289,18 @@ extra_javascript:
   # - https://cdn.jsdelivr.net/npm/gitalk@latest/dist/gitalk.min.js  #gitalk支援
   - https://cdn.jsdelivr.net/npm/mermaid@10.0.2/dist/add-html-label-6e56ed67.min.js 
 extra_css:
-  - stylesheets/timeline.css
-  - stylesheets/cards.css
-  - stylesheets/extra.css # 自定義CSS
-  - stylesheets/link.css #友鏈配置
-  - stylesheets/customize.css # 搜尋圓角最佳化
+  - stylesheets/extra.css # 自定義CSS (包含已合併的 timeline, cards, tables, link, customize)
+  # - stylesheets/timeline.css
+  # - stylesheets/cards.css
+  # - stylesheets/link.css #友鏈配置
+  # - stylesheets/customize.css # 搜尋圓角最佳化
   # DataTables for sortable/filterable stock tables
   - https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css  # DataTables CSS
   - stylesheets/tables.css  # Custom table styling
   # - stylesheets/video.css #播放器可選配置
   # - https://cdn.jsdelivr.net/npm/gitalk@latest/dist/gitalk.css #gitalk支援
   # - ckplayer/css/ckplayer.css   #播放器配置
-  - https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css # font-awesome表情支援
+  # - https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css # 移除外部CDN以防超時
   # - https://cdnjs.cloudflare.com/ajax/libs/social-share.js/1.0.16/css/share.min.css  #分享支援
 
   # - https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css #字型
