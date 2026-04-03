@@ -19,7 +19,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 # 📈 融資餘額總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-04-03 12:50:36 CST  
+    **:calendar: 產生時間**: 2026-04-03 17:24:59 CST  
     **:building_construction: 分析股票總數**: 127 檔  
     **:chart_with_upwards_trend: 報告類型**: 融資餘額總覽  
     **:file_folder: 資料來源**: Stage 2 cleaned_margin_daily.csv + cleaned_margin_weekly.csv + cleaned_margin_monthly.csv
@@ -203,14 +203,14 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**2357**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2357/)</td>
 <td>華碩</td>
-<td>15.0</td>
+<td>14.6</td>
 <td>+7.27%</td>
 <td>-13.97%</td>
-<td>567.00</td>
+<td>555.00</td>
 <td>4122.3 億元</td>
-<td>0.36%</td>
+<td>0.35%</td>
 <td>🟡</td>
-<td>2026-04-01</td>
+<td>2026-04-02</td>
 </tr>
 <tr>
 <td markdown="span">[**2359**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2359/)</td>
