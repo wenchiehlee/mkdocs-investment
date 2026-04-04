@@ -2,7 +2,7 @@
 title: "2884 玉山金 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-21"
+date: "2026-04-04"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "2884 玉山金 (金融保險業) 本益比與未來報酬率關係
     - **產業別**: 金融保險業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-03-21 12:38:33 CST
+    - **報告生成時間**: 2026-04-04 12:46:46 CST
 
 ## 📈 互動式圖表
 
@@ -35,15 +35,6 @@ description: "2884 玉山金 (金融保險業) 本益比與未來報酬率關係
   "title": "2884 玉山金 - 本益比與未來報酬率分析",
   "data": {
     "values": [
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2006-03-16",
-        "pe_ratio": 15.18,
-        "forward_return": 0.0,
-        "start_price": 20.8,
-        "start_year": 2006
-      },
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
@@ -2160,13 +2151,22 @@ description: "2884 玉山金 (金融保險業) 本益比與未來報酬率關係
         "start_year": 2025
       },
       {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2006-03-16",
-        "pe_ratio": 15.18,
-        "forward_return": 9.62,
-        "start_price": 20.8,
-        "start_year": 2006
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2025-11-15",
+        "pe_ratio": 14.73,
+        "forward_return": 14.71,
+        "start_price": 30.35,
+        "start_year": 2025
+      },
+      {
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2025-12-16",
+        "pe_ratio": 15.92,
+        "forward_return": -21.96,
+        "start_price": 33.75,
+        "start_year": 2025
       },
       {
         "horizon": "0.5y",
@@ -4257,13 +4257,22 @@ description: "2884 玉山金 (金融保險業) 本益比與未來報酬率關係
         "start_year": 2025
       },
       {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2006-03-16",
-        "pe_ratio": 15.18,
-        "forward_return": 0.24,
-        "start_price": 20.8,
-        "start_year": 2006
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2025-08-16",
+        "pe_ratio": 17.45,
+        "forward_return": -8.59,
+        "start_price": 33.45,
+        "start_year": 2025
+      },
+      {
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2025-09-15",
+        "pe_ratio": 17.19,
+        "forward_return": -9.45,
+        "start_price": 33.35,
+        "start_year": 2025
       },
       {
         "horizon": "1y",
@@ -6309,13 +6318,13 @@ description: "2884 玉山金 (金融保險業) 本益比與未來報酬率關係
         "start_year": 2025
       },
       {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2006-03-16",
-        "pe_ratio": 15.18,
-        "forward_return": -3.05,
-        "start_price": 20.8,
-        "start_year": 2006
+        "horizon": "1y",
+        "horizon_label": "1年",
+        "start_date": "2025-03-16",
+        "pe_ratio": 16.06,
+        "forward_return": 14.62,
+        "start_price": 28.75,
+        "start_year": 2025
       },
       {
         "horizon": "2y",
@@ -8244,13 +8253,22 @@ description: "2884 玉山金 (金融保險業) 本益比與未來報酬率關係
         "start_year": 2024
       },
       {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2006-03-16",
-        "pe_ratio": 15.18,
-        "forward_return": -22.45,
-        "start_price": 20.8,
-        "start_year": 2006
+        "horizon": "2y",
+        "horizon_label": "2年",
+        "start_date": "2024-02-15",
+        "pe_ratio": 17.99,
+        "forward_return": 15.62,
+        "start_price": 25.25,
+        "start_year": 2024
+      },
+      {
+        "horizon": "2y",
+        "horizon_label": "2年",
+        "start_date": "2024-03-16",
+        "pe_ratio": 19.46,
+        "forward_return": 11.96,
+        "start_price": 27.25,
+        "start_year": 2024
       },
       {
         "horizon": "3y",
@@ -10080,13 +10098,13 @@ description: "2884 玉山金 (金融保險業) 本益比與未來報酬率關係
         "start_year": 2023
       },
       {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2006-03-16",
-        "pe_ratio": 15.18,
-        "forward_return": -9.02,
-        "start_price": 20.8,
-        "start_year": 2006
+        "horizon": "3y",
+        "horizon_label": "3年",
+        "start_date": "2023-03-16",
+        "pe_ratio": 20.91,
+        "forward_return": 10.72,
+        "start_price": 25.3,
+        "start_year": 2023
       },
       {
         "horizon": "4y",
@@ -11808,13 +11826,13 @@ description: "2884 玉山金 (金融保險業) 本益比與未來報酬率關係
         "start_year": 2022
       },
       {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2006-03-16",
-        "pe_ratio": 15.18,
-        "forward_return": -0.68,
-        "start_price": 20.8,
-        "start_year": 2006
+        "horizon": "4y",
+        "horizon_label": "4年",
+        "start_date": "2022-03-16",
+        "pe_ratio": 22.64,
+        "forward_return": 1.45,
+        "start_price": 33.05,
+        "start_year": 2022
       },
       {
         "horizon": "5y",
@@ -13428,13 +13446,13 @@ description: "2884 玉山金 (金融保險業) 本益比與未來報酬率關係
         "start_year": 2021
       },
       {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2006-03-16",
-        "pe_ratio": 15.18,
-        "forward_return": -2.38,
-        "start_price": 20.8,
-        "start_year": 2006
+        "horizon": "5y",
+        "horizon_label": "5年",
+        "start_date": "2021-03-16",
+        "pe_ratio": 17.76,
+        "forward_return": 6.42,
+        "start_price": 26.1,
+        "start_year": 2021
       },
       {
         "horizon": "6y",
@@ -14931,13 +14949,22 @@ description: "2884 玉山金 (金融保險業) 本益比與未來報酬率關係
         "start_year": 2020
       },
       {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2006-03-16",
-        "pe_ratio": 15.18,
-        "forward_return": -0.09,
-        "start_price": 20.8,
-        "start_year": 2006
+        "horizon": "6y",
+        "horizon_label": "6年",
+        "start_date": "2020-02-15",
+        "pe_ratio": 17.19,
+        "forward_return": 3.78,
+        "start_price": 29.05,
+        "start_year": 2020
+      },
+      {
+        "horizon": "6y",
+        "horizon_label": "6年",
+        "start_date": "2020-03-16",
+        "pe_ratio": 14.52,
+        "forward_return": 7.01,
+        "start_price": 24.25,
+        "start_year": 2020
       },
       {
         "horizon": "8y",
@@ -16227,13 +16254,13 @@ description: "2884 玉山金 (金融保險業) 本益比與未來報酬率關係
         "start_year": 2018
       },
       {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2006-03-16",
-        "pe_ratio": 15.18,
-        "forward_return": 0.1,
-        "start_price": 20.8,
-        "start_year": 2006
+        "horizon": "8y",
+        "horizon_label": "8年",
+        "start_date": "2018-03-16",
+        "pe_ratio": 12.61,
+        "forward_return": 8.57,
+        "start_price": 19.55,
+        "start_year": 2018
       },
       {
         "horizon": "10y",
@@ -17296,6 +17323,24 @@ description: "2884 玉山金 (金融保險業) 本益比與未來報酬率關係
         "forward_return": 8.58,
         "start_price": 17.7,
         "start_year": 2016
+      },
+      {
+        "horizon": "10y",
+        "horizon_label": "10年",
+        "start_date": "2016-02-15",
+        "pe_ratio": 10.3,
+        "forward_return": 8.36,
+        "start_price": 17.2,
+        "start_year": 2016
+      },
+      {
+        "horizon": "10y",
+        "horizon_label": "10年",
+        "start_date": "2016-03-16",
+        "pe_ratio": 10.65,
+        "forward_return": 7.94,
+        "start_price": 18.0,
+        "start_year": 2016
       }
     ]
   },
@@ -17507,16 +17552,6 @@ description: "2884 玉山金 (金融保險業) 本益比與未來報酬率關係
   "title": "2884 玉山金 - 本益比河流帶",
   "data": {
     "values": [
-      {
-        "date": "2006-03-16",
-        "price": 20.8,
-        "pe": 15.18,
-        "pe_10": 16.77,
-        "pe_25": 18.12,
-        "pe_50": 22.67,
-        "pe_75": 25.84,
-        "pe_90": 35.05
-      },
       {
         "date": "2006-04-15",
         "price": 23.1,
@@ -19906,6 +19941,16 @@ description: "2884 玉山金 (金融保險業) 本益比與未來報酬率關係
         "pe_50": 35.07,
         "pe_75": 39.97,
         "pe_90": 54.22
+      },
+      {
+        "date": "2026-03-16",
+        "price": 31.75,
+        "pe": 14.98,
+        "pe_10": 25.94,
+        "pe_25": 28.03,
+        "pe_50": 35.07,
+        "pe_75": 39.97,
+        "pe_90": 54.22
       }
     ]
   },
@@ -21033,16 +21078,16 @@ description: "2884 玉山金 (金融保險業) 本益比與未來報酬率關係
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 22.4 | +15.0% | 0.005 | 2009-02 (+291.8%) | 2008-06 (-91.4%) |
-| 6個月 | 22.5 | +9.9% | 0.020 | 2010-06 (+136.7%) | 2008-04 (-80.9%) |
+| 3個月 | 22.4 | +14.9% | 0.005 | 2009-02 (+291.8%) | 2008-06 (-91.4%) |
+| 6個月 | 22.5 | +9.8% | 0.019 | 2010-06 (+136.7%) | 2008-04 (-80.9%) |
 | 1年 | 22.6 | +6.9% | 0.023 | 2008-10 (+69.8%) | 2007-10 (-56.7%) |
-| 2年 | 22.9 | +5.5% | 0.186 | 2009-01 (+61.9%) | 2007-01 (-38.6%) |
-| 3年 | 23.1 | +5.6% | 0.212 | 2009-02 (+27.3%) | 2006-04 (-23.6%) |
-| 4年 | 23.1 | +6.1% | 0.079 | 2009-02 (+23.1%) | 2006-05 (-9.8%) |
-| 5年 | 23.5 | +6.2% | 0.176 | 2008-10 (+22.0%) | 2006-11 (-9.4%) |
-| 6年 | 24.0 | +6.2% | 0.196 | 2009-01 (+17.9%) | 2006-10 (-4.7%) |
-| 8年 | 25.4 | +6.2% | 0.228 | 2009-01 (+13.1%) | 2006-04 (-1.4%) |
-| 10年 | 28.2 | +5.8% | 0.164 | 2009-03 (+12.5%) | 2006-04 (-1.0%) |
+| 2年 | 22.9 | +5.7% | 0.187 | 2009-01 (+61.9%) | 2007-01 (-38.6%) |
+| 3年 | 23.1 | +5.8% | 0.227 | 2009-02 (+27.3%) | 2006-04 (-23.6%) |
+| 4年 | 23.2 | +6.1% | 0.083 | 2009-02 (+23.1%) | 2006-05 (-9.8%) |
+| 5年 | 23.5 | +6.2% | 0.180 | 2008-10 (+22.0%) | 2006-11 (-9.4%) |
+| 6年 | 23.9 | +6.2% | 0.203 | 2009-01 (+17.9%) | 2006-10 (-4.7%) |
+| 8年 | 25.4 | +6.2% | 0.240 | 2009-01 (+13.1%) | 2006-04 (-1.4%) |
+| 10年 | 28.0 | +5.9% | 0.176 | 2009-03 (+12.5%) | 2006-04 (-1.0%) |
 
 
 ## 🎯 使用說明
@@ -21061,4 +21106,4 @@ description: "2884 玉山金 (金融保險業) 本益比與未來報酬率關係
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-21 12:38:33 CST*
+*數據更新時間: 2026-04-04 12:46:46 CST*

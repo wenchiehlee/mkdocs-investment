@@ -2,7 +2,7 @@
 title: "2383 台光電 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-21"
+date: "2026-04-04"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "2383 台光電 (電子零組件業) 本益比與未來報酬率關
     - **產業別**: 電子零組件業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-03-21 12:36:25 CST
+    - **報告生成時間**: 2026-04-04 12:45:03 CST
 
 ## 📈 互動式圖表
 
@@ -35,15 +35,6 @@ description: "2383 台光電 (電子零組件業) 本益比與未來報酬率關
   "title": "2383 台光電 - 本益比與未來報酬率分析",
   "data": {
     "values": [
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2006-03-16",
-        "pe_ratio": 22.37,
-        "forward_return": -53.62,
-        "start_price": 17.45,
-        "start_year": 2006
-      },
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
@@ -2160,13 +2151,22 @@ description: "2383 台光電 (電子零組件業) 本益比與未來報酬率關
         "start_year": 2025
       },
       {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2006-03-16",
-        "pe_ratio": 22.37,
-        "forward_return": -9.58,
-        "start_price": 17.45,
-        "start_year": 2006
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2025-11-15",
+        "pe_ratio": 37.45,
+        "forward_return": 407.28,
+        "start_price": 1525.0,
+        "start_year": 2025
+      },
+      {
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2025-12-16",
+        "pe_ratio": 39.48,
+        "forward_return": 540.95,
+        "start_price": 1645.0,
+        "start_year": 2025
       },
       {
         "horizon": "0.5y",
@@ -4257,13 +4257,22 @@ description: "2383 台光電 (電子零組件業) 本益比與未來報酬率關
         "start_year": 2025
       },
       {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2006-03-16",
-        "pe_ratio": 22.37,
-        "forward_return": -2.58,
-        "start_price": 17.45,
-        "start_year": 2006
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2025-08-16",
+        "pe_ratio": 32.52,
+        "forward_return": 268.27,
+        "start_price": 1220.0,
+        "start_year": 2025
+      },
+      {
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2025-09-15",
+        "pe_ratio": 31.56,
+        "forward_return": 356.61,
+        "start_price": 1225.0,
+        "start_year": 2025
       },
       {
         "horizon": "1y",
@@ -6309,13 +6318,13 @@ description: "2383 台光電 (電子零組件業) 本益比與未來報酬率關
         "start_year": 2025
       },
       {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2006-03-16",
-        "pe_ratio": 22.37,
-        "forward_return": -14.54,
-        "start_price": 17.45,
-        "start_year": 2006
+        "horizon": "1y",
+        "horizon_label": "1年",
+        "start_date": "2025-03-16",
+        "pe_ratio": 17.06,
+        "forward_return": 380.62,
+        "start_price": 545.0,
+        "start_year": 2025
       },
       {
         "horizon": "2y",
@@ -8244,13 +8253,22 @@ description: "2383 台光電 (電子零組件業) 本益比與未來報酬率關
         "start_year": 2024
       },
       {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2006-03-16",
-        "pe_ratio": 22.37,
-        "forward_return": -19.08,
-        "start_price": 17.45,
-        "start_year": 2006
+        "horizon": "2y",
+        "horizon_label": "2年",
+        "start_date": "2024-02-15",
+        "pe_ratio": 26.04,
+        "forward_return": 123.01,
+        "start_price": 495.0,
+        "start_year": 2024
+      },
+      {
+        "horizon": "2y",
+        "horizon_label": "2年",
+        "start_date": "2024-03-16",
+        "pe_ratio": 19.84,
+        "forward_return": 155.3,
+        "start_price": 403.5,
+        "start_year": 2024
       },
       {
         "horizon": "3y",
@@ -10080,13 +10098,13 @@ description: "2383 台光電 (電子零組件業) 本益比與未來報酬率關
         "start_year": 2023
       },
       {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2006-03-16",
-        "pe_ratio": 22.37,
-        "forward_return": 16.13,
-        "start_price": 17.45,
-        "start_year": 2006
+        "horizon": "3y",
+        "horizon_label": "3年",
+        "start_date": "2023-03-16",
+        "pe_ratio": 14.34,
+        "forward_return": 143.68,
+        "start_price": 182.0,
+        "start_year": 2023
       },
       {
         "horizon": "4y",
@@ -11808,13 +11826,13 @@ description: "2383 台光電 (電子零組件業) 本益比與未來報酬率關
         "start_year": 2022
       },
       {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2006-03-16",
-        "pe_ratio": 22.37,
-        "forward_return": 14.13,
-        "start_price": 17.45,
-        "start_year": 2006
+        "horizon": "4y",
+        "horizon_label": "4年",
+        "start_date": "2022-03-16",
+        "pe_ratio": 14.66,
+        "forward_return": 78.94,
+        "start_price": 258.0,
+        "start_year": 2022
       },
       {
         "horizon": "5y",
@@ -13428,13 +13446,13 @@ description: "2383 台光電 (電子零組件業) 本益比與未來報酬率關
         "start_year": 2021
       },
       {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2006-03-16",
-        "pe_ratio": 22.37,
-        "forward_return": 9.79,
-        "start_price": 17.45,
-        "start_year": 2006
+        "horizon": "5y",
+        "horizon_label": "5年",
+        "start_date": "2021-03-16",
+        "pe_ratio": 14.37,
+        "forward_return": 73.45,
+        "start_price": 169.0,
+        "start_year": 2021
       },
       {
         "horizon": "6y",
@@ -14931,13 +14949,22 @@ description: "2383 台光電 (電子零組件業) 本益比與未來報酬率關
         "start_year": 2020
       },
       {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2006-03-16",
-        "pe_ratio": 22.37,
-        "forward_return": 8.9,
-        "start_price": 17.45,
-        "start_year": 2006
+        "horizon": "6y",
+        "horizon_label": "6年",
+        "start_date": "2020-02-15",
+        "pe_ratio": 11.24,
+        "forward_return": 66.43,
+        "start_price": 120.0,
+        "start_year": 2020
+      },
+      {
+        "horizon": "6y",
+        "horizon_label": "6年",
+        "start_date": "2020-03-16",
+        "pe_ratio": 9.69,
+        "forward_return": 71.1,
+        "start_price": 106.0,
+        "start_year": 2020
       },
       {
         "horizon": "8y",
@@ -16227,13 +16254,13 @@ description: "2383 台光電 (電子零組件業) 本益比與未來報酬率關
         "start_year": 2018
       },
       {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2006-03-16",
-        "pe_ratio": 22.37,
-        "forward_return": 15.29,
-        "start_price": 17.45,
-        "start_year": 2006
+        "horizon": "8y",
+        "horizon_label": "8年",
+        "start_date": "2018-03-16",
+        "pe_ratio": 12.81,
+        "forward_return": 51.95,
+        "start_price": 93.8,
+        "start_year": 2018
       },
       {
         "horizon": "10y",
@@ -17296,6 +17323,24 @@ description: "2383 台光電 (電子零組件業) 本益比與未來報酬率關
         "forward_return": 41.34,
         "start_price": 57.2,
         "start_year": 2016
+      },
+      {
+        "horizon": "10y",
+        "horizon_label": "10年",
+        "start_date": "2016-02-15",
+        "pe_ratio": 8.01,
+        "forward_return": 45.63,
+        "start_price": 60.5,
+        "start_year": 2016
+      },
+      {
+        "horizon": "10y",
+        "horizon_label": "10年",
+        "start_date": "2016-03-16",
+        "pe_ratio": 8.12,
+        "forward_return": 45.89,
+        "start_price": 61.3,
+        "start_year": 2016
       }
     ]
   },
@@ -17507,16 +17552,6 @@ description: "2383 台光電 (電子零組件業) 本益比與未來報酬率關
   "title": "2383 台光電 - 本益比河流帶",
   "data": {
     "values": [
-      {
-        "date": "2006-03-16",
-        "price": 17.45,
-        "pe": 22.37,
-        "pe_10": 5.92,
-        "pe_25": 6.75,
-        "pe_50": 8.44,
-        "pe_75": 11.44,
-        "pe_90": 15.26
-      },
       {
         "date": "2006-04-15",
         "price": 18.2,
@@ -19906,6 +19941,16 @@ description: "2383 台光電 (電子零組件業) 本益比與未來報酬率關
         "pe_50": 451.04,
         "pe_75": 610.94,
         "pe_90": 815.04
+      },
+      {
+        "date": "2026-03-16",
+        "price": 2600.0,
+        "pe": 62.4,
+        "pe_10": 316.21,
+        "pe_25": 360.31,
+        "pe_50": 451.04,
+        "pe_75": 610.94,
+        "pe_90": 815.04
       }
     ]
   },
@@ -20143,10 +20188,6 @@ description: "2383 台光電 (電子零組件業) 本益比與未來報酬率關
   "title": "2383 台光電 - 月營收年增率",
   "data": {
     "values": [
-      {
-        "date": "2006-03-16",
-        "revenue_yoy": 84.8
-      },
       {
         "date": "2006-04-15",
         "revenue_yoy": 82.2
@@ -21169,16 +21210,16 @@ description: "2383 台光電 (電子零組件業) 本益比與未來報酬率關
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 12.4 | +138.7% | 0.001 | 2023-04 (+4413.5%) | 2008-08 (-91.0%) |
-| 6個月 | 12.2 | +69.1% | 0.001 | 2009-01 (+1255.7%) | 2008-05 (-83.6%) |
-| 1年 | 11.9 | +44.6% | 0.002 | 2008-12 (+388.5%) | 2007-11 (-59.7%) |
-| 2年 | 11.5 | +32.2% | 0.016 | 2008-12 (+151.6%) | 2006-12 (-43.6%) |
-| 3年 | 10.9 | +30.8% | 0.005 | 2023-02 (+135.0%) | 2006-03 (-19.1%) |
-| 4年 | 10.8 | +28.0% | 0.007 | 2022-02 (+74.2%) | 2010-04 (-1.9%) |
-| 5年 | 10.5 | +27.0% | 0.000 | 2021-02 (+71.3%) | 2006-12 (+4.4%) |
-| 6年 | 10.3 | +26.3% | 0.001 | 2020-01 (+58.1%) | 2006-04 (+8.5%) |
-| 8年 | 9.8 | +25.8% | 0.002 | 2009-01 (+48.1%) | 2006-04 (+8.0%) |
-| 10年 | 9.3 | +26.0% | 0.082 | 2016-01 (+41.3%) | 2006-04 (+14.2%) |
+| 3個月 | 12.6 | +142.4% | 0.004 | 2023-04 (+4413.5%) | 2008-08 (-91.0%) |
+| 6個月 | 12.3 | +71.5% | 0.006 | 2009-01 (+1255.7%) | 2008-05 (-83.6%) |
+| 1年 | 11.9 | +46.3% | 0.004 | 2008-12 (+388.5%) | 2007-11 (-59.7%) |
+| 2年 | 11.6 | +33.4% | 0.042 | 2024-03 (+155.3%) | 2006-12 (-43.6%) |
+| 3年 | 10.8 | +31.6% | 0.000 | 2023-03 (+143.7%) | 2006-04 (-7.5%) |
+| 4年 | 10.8 | +28.3% | 0.016 | 2022-03 (+78.9%) | 2010-04 (-1.9%) |
+| 5年 | 10.5 | +27.3% | 0.003 | 2021-03 (+73.5%) | 2006-12 (+4.4%) |
+| 6年 | 10.2 | +26.9% | 0.004 | 2020-03 (+71.1%) | 2006-04 (+8.5%) |
+| 8年 | 9.7 | +26.1% | 0.004 | 2018-03 (+52.0%) | 2006-04 (+8.0%) |
+| 10年 | 9.2 | +26.4% | 0.059 | 2016-03 (+45.9%) | 2006-04 (+14.2%) |
 
 
 ## 🎯 使用說明
@@ -21197,4 +21238,4 @@ description: "2383 台光電 (電子零組件業) 本益比與未來報酬率關
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-21 12:36:25 CST*
+*數據更新時間: 2026-04-04 12:45:03 CST*

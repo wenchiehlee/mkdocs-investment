@@ -3,7 +3,7 @@
     "stock_code": "2354",
     "company_name": "鴻準",
     "industry": "其他電子業",
-    "generated_at": "2026-03-21T12:35:09.381027",
+    "generated_at": "2026-04-04T12:44:03.955496",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -19883,10 +19883,6 @@
     }
   ],
   "revenue_yoy": [
-    {
-      "date": "2006-03-16",
-      "revenue_yoy": 19.0
-    },
     {
       "date": "2006-04-15",
       "revenue_yoy": 73.4

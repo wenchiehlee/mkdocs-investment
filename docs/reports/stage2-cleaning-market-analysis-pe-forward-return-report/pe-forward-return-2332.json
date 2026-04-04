@@ -3,7 +3,7 @@
     "stock_code": "2332",
     "company_name": "友訊",
     "industry": "通信網路業",
-    "generated_at": "2026-03-21T12:34:35.795671",
+    "generated_at": "2026-04-04T12:43:34.589681",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -14520,10 +14520,6 @@
     }
   ],
   "revenue_yoy": [
-    {
-      "date": "2006-03-16",
-      "revenue_yoy": 12.6
-    },
     {
       "date": "2006-04-15",
       "revenue_yoy": 20.3
