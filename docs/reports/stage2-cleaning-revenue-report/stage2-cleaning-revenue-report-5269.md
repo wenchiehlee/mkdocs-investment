@@ -25,7 +25,7 @@ description: 月營收表 祥碩 (5269) - 自動產生
     **:building_construction: 公司名稱**: 祥碩  
     **:identification_card: 股票代號**: 5269  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-06 01:13:29 CST
+    **:clock3: 更新時間**: 2026-04-06 07:09:24 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 祥碩 (5269) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **6.59** | **24.37** | **48.43** |
-| **P/E倍數** | **26.27** | **38.03** | **51.37** |
+| **EPS(元)** | **6.62** | **24.97** | **49.49** |
+| **P/E倍數** | **25.80** | **37.74** | **51.30** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 祥碩 歷史平均獲利能力 (σup=24.06, σlo=17.78)
-    - **P/Ebase**: 祥碩 歷史平均估值水準 (σup=13.34, σlo=11.77)
+    - **EPSbase**: 祥碩 歷史平均獲利能力 (σup=24.52, σlo=18.35)
+    - **P/Ebase**: 祥碩 歷史平均估值水準 (σup=13.56, σlo=11.94)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,26 +79,26 @@ description: 月營收表 祥碩 (5269) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/02** | **8.93** | <span style="color: #B22222; font-weight: bold;">+17.6</span> | <span style="color: #FF4500; font-weight: bold;">+39.1</span> | **1315** | <span style="color: #FF6347; font-weight: bold;">72.7</span> | <span style="color: #228B22; font-weight: bold;">18.09</span> |
-| **2026/01** | **13.47** | <span style="color: #FF7F7F; font-weight: bold;">+58.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+58.3</span> | **1290** | <span style="color: #FF6347; font-weight: bold;">72.7</span> | <span style="color: #228B22; font-weight: bold;">17.74</span> |
-| **2025/12** | **11.43** | <span style="color: #FF7F7F; font-weight: bold;">+79.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+66</span> | **1210** | <span style="color: #FF6347; font-weight: bold;">72.7</span> | <span style="color: #228B22; font-weight: bold;">16.64</span> |
-| **2025/11** | **11.86** | <span style="color: #FF7F7F; font-weight: bold;">+85.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+64.8</span> | **1295** | <span style="color: #FF6347; font-weight: bold;">72.7</span> | <span style="color: #228B22; font-weight: bold;">18.45</span> |
-| **2025/10** | **11.9** | <span style="color: #FF7F7F; font-weight: bold;">+91.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+62.9</span> | **1445** | <span style="color: #FF6347; font-weight: bold;">72.7</span> | <span style="color: #006400; font-weight: bold;">21.35</span> |
+| **2026/02** | **8.93** | <span style="color: #B22222; font-weight: bold;">+17.6</span> | <span style="color: #FF4500; font-weight: bold;">+39.1</span> | **1315** | <span style="color: #FF4500; font-weight: bold;">72.7</span> | <span style="color: #228B22; font-weight: bold;">18.09</span> |
+| **2026/01** | **13.47** | <span style="color: #FF7F7F; font-weight: bold;">+58.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+58.3</span> | **1290** | <span style="color: #FF4500; font-weight: bold;">72.7</span> | <span style="color: #228B22; font-weight: bold;">17.74</span> |
+| **2025/12** | **11.43** | <span style="color: #FF7F7F; font-weight: bold;">+79.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+66</span> | **1210** | <span style="color: #FF4500; font-weight: bold;">72.7</span> | <span style="color: #228B22; font-weight: bold;">16.64</span> |
+| **2025/11** | **11.86** | <span style="color: #FF7F7F; font-weight: bold;">+85.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+64.8</span> | **1295** | <span style="color: #FF4500; font-weight: bold;">72.7</span> | <span style="color: #228B22; font-weight: bold;">18.45</span> |
+| **2025/10** | **11.9** | <span style="color: #FF7F7F; font-weight: bold;">+91.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+62.9</span> | **1445** | <span style="color: #FF4500; font-weight: bold;">72.7</span> | <span style="color: #006400; font-weight: bold;">21.35</span> |
 | **2025/09** | **14.22** | <span style="color: #FF7F7F; font-weight: bold;">+169.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+60.1</span> | **1480** | <span style="color: #FF4500; font-weight: bold;">65.18</span> | <span style="color: #006400; font-weight: bold;">22.71</span> |
 | **2025/08** | **13.07** | <span style="color: #FF7F7F; font-weight: bold;">+62.6</span> | <span style="color: #FF6347; font-weight: bold;">+49.8</span> | **1650** | <span style="color: #FF4500; font-weight: bold;">65.18</span> | <span style="color: #004225; font-weight: bold;">26.42</span> |
-| **2025/07** | **12.63** | <span style="color: #FF7F7F; font-weight: bold;">+58.8</span> | <span style="color: #FF6347; font-weight: bold;">+47.7</span> | **1910** | <span style="color: #FF4500; font-weight: bold;">65.18</span> | <span style="color: #004225; font-weight: bold;">31.97</span> |
+| **2025/07** | **12.63** | <span style="color: #FF7F7F; font-weight: bold;">+58.8</span> | <span style="color: #FF6347; font-weight: bold;">+47.7</span> | **1910** | <span style="color: #FF4500; font-weight: bold;">65.18</span> | <span style="color: #002818; font-weight: bold;">31.97</span> |
 | **2025/06** | **11.18** | <span style="color: #FF7F7F; font-weight: bold;">+90.7</span> | <span style="color: #FF6347; font-weight: bold;">+45.6</span> | **1910** | <span style="color: #DC143C; font-weight: bold;">57.02</span> | <span style="color: #002818; font-weight: bold;">33.5</span> |
 | **2025/05** | **11.12** | <span style="color: #FF4500; font-weight: bold;">+38.5</span> | <span style="color: #FF4500; font-weight: bold;">+37.9</span> | **1955** | <span style="color: #DC143C; font-weight: bold;">57.02</span> | <span style="color: #002818; font-weight: bold;">34.79</span> |
 | **2025/04** | **11.63** | <span style="color: #FF7F7F; font-weight: bold;">+62.2</span> | <span style="color: #FF4500; font-weight: bold;">+37.8</span> | **1680** | <span style="color: #DC143C; font-weight: bold;">57.02</span> | <span style="color: #004225; font-weight: bold;">30.34</span> |
-| **2025/03** | **9** | <span style="color: #B22222; font-weight: bold;">+15.8</span> | <span style="color: #DC143C; font-weight: bold;">+28.8</span> | **1750** | <span style="color: #DC143C; font-weight: bold;">54.55</span> | <span style="color: #004225; font-weight: bold;">32.08</span> |
+| **2025/03** | **9** | <span style="color: #B22222; font-weight: bold;">+15.8</span> | <span style="color: #DC143C; font-weight: bold;">+28.8</span> | **1750** | <span style="color: #DC143C; font-weight: bold;">54.55</span> | <span style="color: #002818; font-weight: bold;">32.08</span> |
 | **2025/02** | **7.59** | <span style="color: #FF7F7F; font-weight: bold;">+56.9</span> | <span style="color: #FF4500; font-weight: bold;">+37.4</span> | **2055** | <span style="color: #DC143C; font-weight: bold;">54.55</span> | <span style="color: #8B0000; font-weight: bold;">38.37</span> |
 | **2025/01** | **8.51** | <span style="color: #DC143C; font-weight: bold;">+23.7</span> | <span style="color: #DC143C; font-weight: bold;">+23.7</span> | **2070** | <span style="color: #DC143C; font-weight: bold;">54.55</span> | <span style="color: #8B0000; font-weight: bold;">39.38</span> |
 | **2024/12** | **6.36** | <span style="color: #002818; font-weight: bold;">-3.93</span> | <span style="color: #DC143C; font-weight: bold;">+26.2</span> | **1985** | <span style="color: #DC143C; font-weight: bold;">51.57</span> | <span style="color: #8B0000; font-weight: bold;">38.49</span> |
-| **2024/11** | **6.41** | <span style="color: #FF6347; font-weight: bold;">+42.1</span> | <span style="color: #DC143C; font-weight: bold;">+29.7</span> | **1615** | <span style="color: #DC143C; font-weight: bold;">51.57</span> | <span style="color: #004225; font-weight: bold;">31.96</span> |
+| **2024/11** | **6.41** | <span style="color: #FF6347; font-weight: bold;">+42.1</span> | <span style="color: #DC143C; font-weight: bold;">+29.7</span> | **1615** | <span style="color: #DC143C; font-weight: bold;">51.57</span> | <span style="color: #002818; font-weight: bold;">31.96</span> |
 | **2024/10** | **6.23** | <span style="color: #8B0000; font-weight: bold;">+4.17</span> | <span style="color: #DC143C; font-weight: bold;">+28.7</span> | **1630** | <span style="color: #DC143C; font-weight: bold;">51.57</span> | <span style="color: #002818; font-weight: bold;">32.94</span> |
-| **2024/09** | **5.28** | <span style="color: #004225; font-weight: bold;">-16.2</span> | <span style="color: #FF4500; font-weight: bold;">+31.8</span> | **1615** | <span style="color: #DC143C; font-weight: bold;">48.45</span> | <span style="color: #002818; font-weight: bold;">33.33</span> |
-| **2024/08** | **8.04** | <span style="color: #FF6347; font-weight: bold;">+46.9</span> | <span style="color: #FF4500; font-weight: bold;">+39.2</span> | **1770** | <span style="color: #DC143C; font-weight: bold;">48.45</span> | <span style="color: #002818; font-weight: bold;">37.37</span> |
-| **2024/07** | **7.95** | <span style="color: #FF6347; font-weight: bold;">+42.7</span> | <span style="color: #FF4500; font-weight: bold;">+38</span> | **1665** | <span style="color: #DC143C; font-weight: bold;">48.45</span> | <span style="color: #002818; font-weight: bold;">35.97</span> |
+| **2024/09** | **5.28** | <span style="color: #004225; font-weight: bold;">-16.2</span> | <span style="color: #FF4500; font-weight: bold;">+31.8</span> | **1615** | <span style="color: #B22222; font-weight: bold;">48.45</span> | <span style="color: #002818; font-weight: bold;">33.33</span> |
+| **2024/08** | **8.04** | <span style="color: #FF6347; font-weight: bold;">+46.9</span> | <span style="color: #FF4500; font-weight: bold;">+39.2</span> | **1770** | <span style="color: #B22222; font-weight: bold;">48.45</span> | <span style="color: #002818; font-weight: bold;">37.37</span> |
+| **2024/07** | **7.95** | <span style="color: #FF6347; font-weight: bold;">+42.7</span> | <span style="color: #FF4500; font-weight: bold;">+38</span> | **1665** | <span style="color: #B22222; font-weight: bold;">48.45</span> | <span style="color: #002818; font-weight: bold;">35.97</span> |
 | **2024/06** | **5.86** | <span style="color: #8B0000; font-weight: bold;">+6.4</span> | <span style="color: #FF4500; font-weight: bold;">+37.1</span> | **2240** | <span style="color: #B22222; font-weight: bold;">45.2</span> | <span style="color: #B22222; font-weight: bold;">49.56</span> |
 | **2024/05** | **8.03** | <span style="color: #FF7F7F; font-weight: bold;">+82.4</span> | <span style="color: #FF6347; font-weight: bold;">+44.2</span> | **2000** | <span style="color: #B22222; font-weight: bold;">45.2</span> | <span style="color: #B22222; font-weight: bold;">46.24</span> |
 | **2024/04** | **7.17** | <span style="color: #DC143C; font-weight: bold;">+26.6</span> | <span style="color: #FF4500; font-weight: bold;">+35.6</span> | **1950** | <span style="color: #B22222; font-weight: bold;">45.2</span> | <span style="color: #B22222; font-weight: bold;">47.2</span> |
@@ -119,7 +119,7 @@ description: 月營收表 祥碩 (5269) - 自動產生
 | **2023/01** | **3.49** | <span style="color: #228B22; font-weight: bold;">-39.6</span> | <span style="color: #228B22; font-weight: bold;">-39.6</span> | **893** | <span style="color: #8B0000; font-weight: bold;">31.21</span> | <span style="color: #006400; font-weight: bold;">25.05</span> |
 | **2022/12** | **3.73** | <span style="color: #002818; font-weight: bold;">-0.89</span> | <span style="color: #004225; font-weight: bold;">-12.6</span> | **670** | <span style="color: #B22222; font-weight: bold;">37.86</span> | <span style="color: #228B22; font-weight: bold;">17.7</span> |
 | **2022/11** | **3.07** | <span style="color: #004225; font-weight: bold;">-19</span> | <span style="color: #004225; font-weight: bold;">-13.4</span> | **741** | <span style="color: #B22222; font-weight: bold;">37.86</span> | <span style="color: #228B22; font-weight: bold;">18.63</span> |
-| **2022/10** | **3.28** | <span style="color: #006400; font-weight: bold;">-21.2</span> | <span style="color: #004225; font-weight: bold;">-13</span> | **582** | <span style="color: #B22222; font-weight: bold;">37.86</span> | <span style="color: #32CD32; font-weight: bold;">13.97</span> |
+| **2022/10** | **3.28** | <span style="color: #006400; font-weight: bold;">-21.2</span> | <span style="color: #004225; font-weight: bold;">-13</span> | **582** | <span style="color: #B22222; font-weight: bold;">37.86</span> | <span style="color: #228B22; font-weight: bold;">13.97</span> |
 | **2022/09** | **4.37** | <span style="color: #006400; font-weight: bold;">-21.7</span> | <span style="color: #004225; font-weight: bold;">-12.3</span> | **664** | <span style="color: #B22222; font-weight: bold;">43.58</span> | <span style="color: #228B22; font-weight: bold;">15.24</span> |
 | **2022/08** | **4.51** | <span style="color: #006400; font-weight: bold;">-20.5</span> | <span style="color: #004225; font-weight: bold;">-11.1</span> | **935** | <span style="color: #B22222; font-weight: bold;">43.58</span> | <span style="color: #006400; font-weight: bold;">20.85</span> |
 | **2022/07** | **4.49** | <span style="color: #228B22; font-weight: bold;">-32</span> | <span style="color: #002818; font-weight: bold;">-9.68</span> | **973** | <span style="color: #B22222; font-weight: bold;">43.58</span> | <span style="color: #006400; font-weight: bold;">21.1</span> |
@@ -137,7 +137,7 @@ description: 月營收表 祥碩 (5269) - 自動產生
 | **2021/07** | **6.61** | <span style="color: #B22222; font-weight: bold;">+10.1</span> | <span style="color: #8B0000; font-weight: bold;">+6.2</span> | **1955** | <span style="color: #B22222; font-weight: bold;">46.56</span> | <span style="color: #8B0000; font-weight: bold;">43.12</span> |
 | **2021/06** | **5.29** | <span style="color: #8B0000; font-weight: bold;">+0.89</span> | <span style="color: #8B0000; font-weight: bold;">+5.4</span> | **1345** | <span style="color: #B22222; font-weight: bold;">44.73</span> | <span style="color: #004225; font-weight: bold;">30.07</span> |
 | **2021/05** | **4.97** | <span style="color: #FF6347; font-weight: bold;">+46.4</span> | <span style="color: #8B0000; font-weight: bold;">+6.4</span> | **1510** | <span style="color: #B22222; font-weight: bold;">44.73</span> | <span style="color: #002818; font-weight: bold;">33.53</span> |
-| **2021/04** | **4.45** | <span style="color: #8B0000; font-weight: bold;">+0.08</span> | <span style="color: #002818; font-weight: bold;">-0.29</span> | **1180** | <span style="color: #B22222; font-weight: bold;">44.73</span> | <span style="color: #006400; font-weight: bold;">26.03</span> |
+| **2021/04** | **4.45** | <span style="color: #8B0000; font-weight: bold;">+0.08</span> | <span style="color: #002818; font-weight: bold;">-0.29</span> | **1180** | <span style="color: #B22222; font-weight: bold;">44.73</span> | <span style="color: #004225; font-weight: bold;">26.03</span> |
 | **2021/03** | **5.09** | <span style="color: #006400; font-weight: bold;">-27.5</span> | <span style="color: #002818; font-weight: bold;">-0.4</span> | **1490** | <span style="color: #B22222; font-weight: bold;">45.64</span> | <span style="color: #002818; font-weight: bold;">32.65</span> |
 | **2021/02** | **4.06** | <span style="color: #228B22; font-weight: bold;">-32.8</span> | <span style="color: #DC143C; font-weight: bold;">+21.1</span> | **1700** | <span style="color: #B22222; font-weight: bold;">45.64</span> | <span style="color: #002818; font-weight: bold;">37.66</span> |
 | **2021/01** | **6.65** | <span style="color: #FF7F7F; font-weight: bold;">+137.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+137.6</span> | **1905** | <span style="color: #B22222; font-weight: bold;">45.64</span> | <span style="color: #8B0000; font-weight: bold;">42.66</span> |
@@ -148,7 +148,7 @@ description: 月營收表 祥碩 (5269) - 自動產生
 | **2020/08** | **6.77** | <span style="color: #FF7F7F; font-weight: bold;">+165.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+76.8</span> | **1765** | <span style="color: #B22222; font-weight: bold;">37.23</span> | <span style="color: #DC143C; font-weight: bold;">51.52</span> |
 | **2020/07** | **6** | <span style="color: #FF7F7F; font-weight: bold;">+114.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+66</span> | **1850** | <span style="color: #B22222; font-weight: bold;">37.23</span> | <span style="color: #FF4500; font-weight: bold;">59.12</span> |
 | **2020/06** | **5.25** | <span style="color: #FF7F7F; font-weight: bold;">+83.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+58.6</span> | **1435** | <span style="color: #8B0000; font-weight: bold;">28.32</span> | <span style="color: #B22222; font-weight: bold;">50.67</span> |
-| **2020/05** | **3.4** | <span style="color: #FF7F7F; font-weight: bold;">+74</span> | <span style="color: #FF7F7F; font-weight: bold;">+54</span> | **1135** | <span style="color: #8B0000; font-weight: bold;">28.32</span> | <span style="color: #8B0000; font-weight: bold;">44.56</span> |
+| **2020/05** | **3.4** | <span style="color: #FF7F7F; font-weight: bold;">+74</span> | <span style="color: #FF7F7F; font-weight: bold;">+54</span> | **1135** | <span style="color: #8B0000; font-weight: bold;">28.32</span> | <span style="color: #B22222; font-weight: bold;">44.56</span> |
 | **2020/04** | **4.44** | <span style="color: #FF7F7F; font-weight: bold;">+50.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+51.1</span> | **838** | <span style="color: #8B0000; font-weight: bold;">28.32</span> | <span style="color: #002818; font-weight: bold;">37.05</span> |
 | **2020/03** | **7.02** | <span style="color: #FF7F7F; font-weight: bold;">+114.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+51.3</span> | **770** | <span style="color: #002818; font-weight: bold;">19.77</span> | <span style="color: #8B0000; font-weight: bold;">38.95</span> |
 | **2020/02** | **6.04** | <span style="color: #FF7F7F; font-weight: bold;">+177.4</span> | <span style="color: #DC143C; font-weight: bold;">+22.6</span> | **779** | <span style="color: #002818; font-weight: bold;">19.77</span> | <span style="color: #8B0000; font-weight: bold;">42.02</span> |
@@ -190,7 +190,7 @@ description: 月營收表 祥碩 (5269) - 自動產生
 | **2017/02** | **1.95** | <span style="color: #FF7F7F; font-weight: bold;">+72</span> | <span style="color: #FF7F7F; font-weight: bold;">+57.3</span> | **325** | <span style="color: #004225; font-weight: bold;">7.09</span> | <span style="color: #B22222; font-weight: bold;">47.86</span> |
 | **2017/01** | **2.53** | <span style="color: #FF6347; font-weight: bold;">+47.6</span> | <span style="color: #FF6347; font-weight: bold;">+47.6</span> | **308** | <span style="color: #004225; font-weight: bold;">7.09</span> | <span style="color: #B22222; font-weight: bold;">47.46</span> |
 | **2016/12** | **2.67** | <span style="color: #FF7F7F; font-weight: bold;">+100.6</span> | <span style="color: #FF4500; font-weight: bold;">+32.2</span> | **270** | <span style="color: #006400; font-weight: bold;">6.19</span> | <span style="color: #8B0000; font-weight: bold;">43.62</span> |
-| **2016/11** | **1.89** | <span style="color: #DC143C; font-weight: bold;">+23.3</span> | <span style="color: #DC143C; font-weight: bold;">+25.8</span> | **263** | <span style="color: #006400; font-weight: bold;">6.19</span> | <span style="color: #8B0000; font-weight: bold;">44.6</span> |
+| **2016/11** | **1.89** | <span style="color: #DC143C; font-weight: bold;">+23.3</span> | <span style="color: #DC143C; font-weight: bold;">+25.8</span> | **263** | <span style="color: #006400; font-weight: bold;">6.19</span> | <span style="color: #B22222; font-weight: bold;">44.6</span> |
 | **2016/10** | **1.82** | <span style="color: #DC143C; font-weight: bold;">+20</span> | <span style="color: #DC143C; font-weight: bold;">+26.1</span> | **246.5** | <span style="color: #006400; font-weight: bold;">6.19</span> | <span style="color: #8B0000; font-weight: bold;">43.99</span> |
 | **2016/09** | **2.77** | <span style="color: #FF7F7F; font-weight: bold;">+56.1</span> | <span style="color: #DC143C; font-weight: bold;">+26.9</span> | **272** | <span style="color: #006400; font-weight: bold;">5.31</span> | <span style="color: #B22222; font-weight: bold;">51.22</span> |
 | **2016/08** | **2.08** | <span style="color: #FF6347; font-weight: bold;">+40.8</span> | <span style="color: #DC143C; font-weight: bold;">+21.4</span> | **230** | <span style="color: #006400; font-weight: bold;">5.31</span> | <span style="color: #8B0000; font-weight: bold;">44.4</span> |
@@ -223,7 +223,7 @@ description: 月營收表 祥碩 (5269) - 自動產生
 | **2014/05** | **1.39** | <span style="color: #FF4500; font-weight: bold;">+32.8</span> | <span style="color: #FF4500; font-weight: bold;">+31</span> | **165** | <span style="color: #006400; font-weight: bold;">2.65</span> | <span style="color: #FF6347; font-weight: bold;">67.99</span> |
 | **2014/04** | **1.59** | <span style="color: #FF7F7F; font-weight: bold;">+62.5</span> | <span style="color: #FF4500; font-weight: bold;">+30.5</span> | **79** | <span style="color: #006400; font-weight: bold;">2.65</span> | <span style="color: #002818; font-weight: bold;">35.85</span> |
 | **2014/03** | **1.18** | <span style="color: #B22222; font-weight: bold;">+13</span> | <span style="color: #DC143C; font-weight: bold;">+20.2</span> | **53.5** | <span style="color: #006400; font-weight: bold;">1.98</span> | <span style="color: #004225; font-weight: bold;">27.02</span> |
-| **2014/02** | **1.06** | <span style="color: #B22222; font-weight: bold;">+10.9</span> | <span style="color: #DC143C; font-weight: bold;">+23.9</span> | **47.9** | <span style="color: #006400; font-weight: bold;">1.98</span> | <span style="color: #006400; font-weight: bold;">26.13</span> |
+| **2014/02** | **1.06** | <span style="color: #B22222; font-weight: bold;">+10.9</span> | <span style="color: #DC143C; font-weight: bold;">+23.9</span> | **47.9** | <span style="color: #006400; font-weight: bold;">1.98</span> | <span style="color: #004225; font-weight: bold;">26.13</span> |
 | **2014/01** | **1.38** | <span style="color: #FF4500; font-weight: bold;">+36.2</span> | <span style="color: #FF4500; font-weight: bold;">+36.2</span> | **37.6** | <span style="color: #006400; font-weight: bold;">1.98</span> | <span style="color: #006400; font-weight: bold;">22.29</span> |
 | **2013/12** | **1.12** | <span style="color: #B22222; font-weight: bold;">+16.8</span> | <span style="color: #006400; font-weight: bold;">-25.9</span> | **38.05** | <span style="color: #006400; font-weight: bold;">1.54</span> | <span style="color: #006400; font-weight: bold;">24.71</span> |
 | **2013/11** | **1** | <span style="color: #002818; font-weight: bold;">-1.15</span> | <span style="color: #006400; font-weight: bold;">-28.6</span> | **32.8** | <span style="color: #006400; font-weight: bold;">1.54</span> | <span style="color: #006400; font-weight: bold;">21.72</span> |
@@ -345,7 +345,7 @@ description: 月營收表 祥碩 (5269) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-06 01:13:29 CST
+- **產生時間**: 2026-04-06 07:09:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

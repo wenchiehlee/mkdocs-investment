@@ -25,7 +25,7 @@ description: 月營收表 光聖 (6442) - 自動產生
     **:building_construction: 公司名稱**: 光聖  
     **:identification_card: 股票代號**: 6442  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-06 01:13:29 CST
+    **:clock3: 更新時間**: 2026-04-06 07:09:24 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 光聖 (6442) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **1.33** | **4.70** | **14.41** |
-| **P/E倍數** | **16.23** | **34.19** | **96.71** |
+| **EPS(元)** | **1.42** | **4.99** | **15.54** |
+| **P/E倍數** | **16.43** | **35.05** | **97.25** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 光聖 歷史平均獲利能力 (σup=9.70, σlo=3.38)
-    - **P/Ebase**: 光聖 歷史平均估值水準 (σup=62.52, σlo=17.96)
+    - **EPSbase**: 光聖 歷史平均獲利能力 (σup=10.54, σlo=3.57)
+    - **P/Ebase**: 光聖 歷史平均估值水準 (σup=62.20, σlo=18.62)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -84,9 +84,9 @@ description: 月營收表 光聖 (6442) - 自動產生
 | **2025/12** | **11.85** | <span style="color: #004225; font-weight: bold;">-12.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+64.2</span> | **1360** | <span style="color: #FF4500; font-weight: bold;">23.46</span> | <span style="color: #8B0000; font-weight: bold;">57.97</span> |
 | **2025/11** | **8.1** | <span style="color: #FF6347; font-weight: bold;">+46</span> | <span style="color: #FF7F7F; font-weight: bold;">+85</span> | **1190** | <span style="color: #FF4500; font-weight: bold;">23.46</span> | <span style="color: #8B0000; font-weight: bold;">53.68</span> |
 | **2025/10** | **10.06** | <span style="color: #FF7F7F; font-weight: bold;">+71.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+89.8</span> | **939** | <span style="color: #FF4500; font-weight: bold;">23.46</span> | <span style="color: #8B0000; font-weight: bold;">44.97</span> |
-| **2025/09** | **10.45** | <span style="color: #FF7F7F; font-weight: bold;">+86</span> | <span style="color: #FF7F7F; font-weight: bold;">+92.6</span> | **793** | <span style="color: #FF4500; font-weight: bold;">19.59</span> | <span style="color: #8B0000; font-weight: bold;">40.48</span> |
-| **2025/08** | **6.45** | <span style="color: #DC143C; font-weight: bold;">+21</span> | <span style="color: #FF7F7F; font-weight: bold;">+93.6</span> | **924** | <span style="color: #FF4500; font-weight: bold;">19.59</span> | <span style="color: #8B0000; font-weight: bold;">50.24</span> |
-| **2025/07** | **8.24** | <span style="color: #FF7F7F; font-weight: bold;">+50.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+107.4</span> | **610** | <span style="color: #FF4500; font-weight: bold;">19.59</span> | <span style="color: #8B0000; font-weight: bold;">35.47</span> |
+| **2025/09** | **10.45** | <span style="color: #FF7F7F; font-weight: bold;">+86</span> | <span style="color: #FF7F7F; font-weight: bold;">+92.6</span> | **793** | <span style="color: #DC143C; font-weight: bold;">19.59</span> | <span style="color: #8B0000; font-weight: bold;">40.48</span> |
+| **2025/08** | **6.45** | <span style="color: #DC143C; font-weight: bold;">+21</span> | <span style="color: #FF7F7F; font-weight: bold;">+93.6</span> | **924** | <span style="color: #DC143C; font-weight: bold;">19.59</span> | <span style="color: #8B0000; font-weight: bold;">50.24</span> |
+| **2025/07** | **8.24** | <span style="color: #FF7F7F; font-weight: bold;">+50.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+107.4</span> | **610** | <span style="color: #DC143C; font-weight: bold;">19.59</span> | <span style="color: #8B0000; font-weight: bold;">35.47</span> |
 | **2025/06** | **10.52** | <span style="color: #FF7F7F; font-weight: bold;">+79</span> | <span style="color: #FF7F7F; font-weight: bold;">+121</span> | **464** | <span style="color: #DC143C; font-weight: bold;">16.0</span> | <span style="color: #002818; font-weight: bold;">29.0</span> |
 | **2025/05** | **7.99** | <span style="color: #FF7F7F; font-weight: bold;">+61.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+135.7</span> | **463** | <span style="color: #DC143C; font-weight: bold;">16.0</span> | <span style="color: #002818; font-weight: bold;">28.53</span> |
 | **2025/04** | **10.58** | <span style="color: #FF7F7F; font-weight: bold;">+194.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+166.8</span> | **355** | <span style="color: #DC143C; font-weight: bold;">16.0</span> | <span style="color: #004225; font-weight: bold;">21.57</span> |
@@ -102,7 +102,7 @@ description: 月營收表 光聖 (6442) - 自動產生
 | **2024/06** | **5.88** | <span style="color: #FF7F7F; font-weight: bold;">+120.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+70.4</span> | **336.5** | <span style="color: #8B0000; font-weight: bold;">6.36</span> | <span style="color: #8B0000; font-weight: bold;">52.91</span> |
 | **2024/05** | **4.95** | <span style="color: #FF7F7F; font-weight: bold;">+118</span> | <span style="color: #FF7F7F; font-weight: bold;">+57.8</span> | **181.5** | <span style="color: #8B0000; font-weight: bold;">6.36</span> | <span style="color: #002818; font-weight: bold;">32.37</span> |
 | **2024/04** | **3.59** | <span style="color: #FF7F7F; font-weight: bold;">+74.8</span> | <span style="color: #FF6347; font-weight: bold;">+41.5</span> | **145** | <span style="color: #8B0000; font-weight: bold;">6.36</span> | <span style="color: #002818; font-weight: bold;">29.88</span> |
-| **2024/03** | **3.23** | <span style="color: #FF4500; font-weight: bold;">+39.2</span> | <span style="color: #FF4500; font-weight: bold;">+30.7</span> | **140.5** | <span style="color: #002818; font-weight: bold;">4.1</span> | <span style="color: #8B0000; font-weight: bold;">34.27</span> |
+| **2024/03** | **3.23** | <span style="color: #FF4500; font-weight: bold;">+39.2</span> | <span style="color: #FF4500; font-weight: bold;">+30.7</span> | **140.5** | <span style="color: #002818; font-weight: bold;">4.1</span> | <span style="color: #002818; font-weight: bold;">34.27</span> |
 | **2024/02** | **2.51** | <span style="color: #B22222; font-weight: bold;">+19.1</span> | <span style="color: #DC143C; font-weight: bold;">+25.8</span> | **146.5** | <span style="color: #002818; font-weight: bold;">4.1</span> | <span style="color: #8B0000; font-weight: bold;">40.96</span> |
 | **2024/01** | **2.53** | <span style="color: #FF4500; font-weight: bold;">+33.2</span> | <span style="color: #FF4500; font-weight: bold;">+33.2</span> | **91.4** | <span style="color: #002818; font-weight: bold;">4.1</span> | <span style="color: #002818; font-weight: bold;">29.93</span> |
 | **2023/12** | **2.33** | <span style="color: #B22222; font-weight: bold;">+19.2</span> | <span style="color: #004225; font-weight: bold;">-11</span> | **70.3** | <span style="color: #004225; font-weight: bold;">2.53</span> | <span style="color: #002818; font-weight: bold;">27.79</span> |
@@ -117,15 +117,15 @@ description: 月營收表 光聖 (6442) - 自動產生
 | **2023/03** | **2.32** | <span style="color: #004225; font-weight: bold;">-12.2</span> | <span style="color: #004225; font-weight: bold;">-10.5</span> | **53.9** | <span style="color: #002818; font-weight: bold;">3.56</span> | <span style="color: #006400; font-weight: bold;">15.14</span> |
 | **2023/02** | **2.11** | <span style="color: #B22222; font-weight: bold;">+11.2</span> | <span style="color: #002818; font-weight: bold;">-9.5</span> | **50** | <span style="color: #002818; font-weight: bold;">3.56</span> | <span style="color: #006400; font-weight: bold;">12.53</span> |
 | **2023/01** | **1.9** | <span style="color: #006400; font-weight: bold;">-25</span> | <span style="color: #006400; font-weight: bold;">-25</span> | **47.85** | <span style="color: #002818; font-weight: bold;">3.56</span> | <span style="color: #006400; font-weight: bold;">10.83</span> |
-| **2022/12** | **1.95** | <span style="color: #8B0000; font-weight: bold;">+3.9</span> | <span style="color: #8B0000; font-weight: bold;">+4.52</span> | **43.6** | <span style="color: #8B0000; font-weight: bold;">4.85</span> | <span style="color: #006400; font-weight: bold;">8.99</span> |
-| **2022/11** | **2.03** | <span style="color: #004225; font-weight: bold;">-10.1</span> | <span style="color: #8B0000; font-weight: bold;">+4.56</span> | **51.9** | <span style="color: #8B0000; font-weight: bold;">4.85</span> | <span style="color: #006400; font-weight: bold;">10.45</span> |
-| **2022/10** | **1.85** | <span style="color: #004225; font-weight: bold;">-12.9</span> | <span style="color: #8B0000; font-weight: bold;">+5.95</span> | **39.2** | <span style="color: #8B0000; font-weight: bold;">4.85</span> | <span style="color: #006400; font-weight: bold;">7.71</span> |
+| **2022/12** | **1.95** | <span style="color: #8B0000; font-weight: bold;">+3.9</span> | <span style="color: #8B0000; font-weight: bold;">+4.52</span> | **43.6** | <span style="color: #002818; font-weight: bold;">4.85</span> | <span style="color: #006400; font-weight: bold;">8.99</span> |
+| **2022/11** | **2.03** | <span style="color: #004225; font-weight: bold;">-10.1</span> | <span style="color: #8B0000; font-weight: bold;">+4.56</span> | **51.9** | <span style="color: #002818; font-weight: bold;">4.85</span> | <span style="color: #006400; font-weight: bold;">10.45</span> |
+| **2022/10** | **1.85** | <span style="color: #004225; font-weight: bold;">-12.9</span> | <span style="color: #8B0000; font-weight: bold;">+5.95</span> | **39.2** | <span style="color: #002818; font-weight: bold;">4.85</span> | <span style="color: #006400; font-weight: bold;">7.71</span> |
 | **2022/09** | **2.36** | <span style="color: #002818; font-weight: bold;">-8.67</span> | <span style="color: #8B0000; font-weight: bold;">+7.78</span> | **46.9** | <span style="color: #8B0000; font-weight: bold;">5.2</span> | <span style="color: #006400; font-weight: bold;">9.02</span> |
 | **2022/08** | **2.91** | <span style="color: #B22222; font-weight: bold;">+12.8</span> | <span style="color: #8B0000; font-weight: bold;">+9.99</span> | **64.5** | <span style="color: #8B0000; font-weight: bold;">5.2</span> | <span style="color: #006400; font-weight: bold;">14.23</span> |
 | **2022/07** | **3.53** | <span style="color: #FF4500; font-weight: bold;">+39.8</span> | <span style="color: #8B0000; font-weight: bold;">+9.55</span> | **54.8** | <span style="color: #8B0000; font-weight: bold;">5.2</span> | <span style="color: #006400; font-weight: bold;">14.17</span> |
-| **2022/06** | **3.15** | <span style="color: #FF4500; font-weight: bold;">+36.7</span> | <span style="color: #8B0000; font-weight: bold;">+4.18</span> | **40.85** | <span style="color: #002818; font-weight: bold;">3.2</span> | <span style="color: #006400; font-weight: bold;">12.77</span> |
-| **2022/05** | **2.42** | <span style="color: #002818; font-weight: bold;">-4.73</span> | <span style="color: #002818; font-weight: bold;">-2.13</span> | **39.75** | <span style="color: #002818; font-weight: bold;">3.2</span> | <span style="color: #006400; font-weight: bold;">13.43</span> |
-| **2022/04** | **2.13** | <span style="color: #004225; font-weight: bold;">-12.3</span> | <span style="color: #002818; font-weight: bold;">-1.42</span> | **37** | <span style="color: #002818; font-weight: bold;">3.2</span> | <span style="color: #006400; font-weight: bold;">13.6</span> |
+| **2022/06** | **3.15** | <span style="color: #FF4500; font-weight: bold;">+36.7</span> | <span style="color: #8B0000; font-weight: bold;">+4.18</span> | **40.85** | <span style="color: #004225; font-weight: bold;">3.2</span> | <span style="color: #006400; font-weight: bold;">12.77</span> |
+| **2022/05** | **2.42** | <span style="color: #002818; font-weight: bold;">-4.73</span> | <span style="color: #002818; font-weight: bold;">-2.13</span> | **39.75** | <span style="color: #004225; font-weight: bold;">3.2</span> | <span style="color: #006400; font-weight: bold;">13.43</span> |
+| **2022/04** | **2.13** | <span style="color: #004225; font-weight: bold;">-12.3</span> | <span style="color: #002818; font-weight: bold;">-1.42</span> | **37** | <span style="color: #004225; font-weight: bold;">3.2</span> | <span style="color: #006400; font-weight: bold;">13.6</span> |
 | **2022/03** | **2.64** | <span style="color: #B22222; font-weight: bold;">+11.5</span> | <span style="color: #8B0000; font-weight: bold;">+2.42</span> | **36.25** | <span style="color: #004225; font-weight: bold;">2.48</span> | <span style="color: #006400; font-weight: bold;">14.62</span> |
 | **2022/02** | **1.89** | <span style="color: #B22222; font-weight: bold;">+14</span> | <span style="color: #002818; font-weight: bold;">-2.35</span> | **34.9** | <span style="color: #004225; font-weight: bold;">2.48</span> | <span style="color: #006400; font-weight: bold;">16.06</span> |
 | **2022/01** | **2.53** | <span style="color: #004225; font-weight: bold;">-11.8</span> | <span style="color: #004225; font-weight: bold;">-11.8</span> | **35.45** | <span style="color: #004225; font-weight: bold;">2.48</span> | <span style="color: #004225; font-weight: bold;">18.99</span> |
@@ -322,7 +322,7 @@ description: 月營收表 光聖 (6442) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-06 01:13:29 CST
+- **產生時間**: 2026-04-06 07:09:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

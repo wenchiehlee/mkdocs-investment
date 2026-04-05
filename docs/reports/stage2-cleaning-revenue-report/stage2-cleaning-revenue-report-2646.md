@@ -25,7 +25,7 @@ description: 月營收表 星宇航空 (2646) - 自動產生
     **:building_construction: 公司名稱**: 星宇航空  
     **:identification_card: 股票代號**: 2646  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-06 01:13:29 CST
+    **:clock3: 更新時間**: 2026-04-06 07:09:24 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 星宇航空 (2646) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **0.09** | **0.31** | **0.51** |
-| **P/E倍數** | **58.01** | **131.82** | **262.30** |
+| **EPS(元)** | **0.09** | **0.29** | **0.51** |
+| **P/E倍數** | **58.35** | **142.48** | **255.71** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 星宇航空 歷史平均獲利能力 (σup=0.20, σlo=0.22)
-    - **P/Ebase**: 星宇航空 歷史平均估值水準 (σup=130.48, σlo=73.81)
+    - **EPSbase**: 星宇航空 歷史平均獲利能力 (σup=0.22, σlo=0.20)
+    - **P/Ebase**: 星宇航空 歷史平均估值水準 (σup=113.23, σlo=84.12)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -81,8 +81,8 @@ description: 月營收表 星宇航空 (2646) - 自動產生
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
 | **2026/02** | **48.18** | <span style="color: #FF6347; font-weight: bold;">+41.5</span> | <span style="color: #B22222; font-weight: bold;">+18.2</span> | **22.9** | <span style="color: #004225; font-weight: bold;">0.09</span> | <span style="color: #B22222; font-weight: bold;">254.4</span> |
 | **2026/01** | **42.15** | <span style="color: #002818; font-weight: bold;">-0.54</span> | <span style="color: #002818; font-weight: bold;">-0.54</span> | **22.95** | <span style="color: #004225; font-weight: bold;">0.09</span> | <span style="color: #B22222; font-weight: bold;">255.0</span> |
-| **2025/12** | **41.34** | <span style="color: #B22222; font-weight: bold;">+16.9</span> | <span style="color: #DC143C; font-weight: bold;">+23.9</span> | **23.6** | <span style="color: #004225; font-weight: bold;">0.09</span> | <span style="color: #B22222; font-weight: bold;">262.2</span> |
-| **2025/11** | **35.25** | <span style="color: #B22222; font-weight: bold;">+18.1</span> | <span style="color: #DC143C; font-weight: bold;">+24.7</span> | **23.4** | <span style="color: #004225; font-weight: bold;">0.09</span> | <span style="color: #B22222; font-weight: bold;">260.0</span> |
+| **2025/12** | **41.34** | <span style="color: #B22222; font-weight: bold;">+16.9</span> | <span style="color: #DC143C; font-weight: bold;">+23.9</span> | **23.6** | <span style="color: #004225; font-weight: bold;">0.09</span> | <span style="color: #DC143C; font-weight: bold;">262.2</span> |
+| **2025/11** | **35.25** | <span style="color: #B22222; font-weight: bold;">+18.1</span> | <span style="color: #DC143C; font-weight: bold;">+24.7</span> | **23.4** | <span style="color: #004225; font-weight: bold;">0.09</span> | <span style="color: #DC143C; font-weight: bold;">260.0</span> |
 | **2025/10** | **36.97** | <span style="color: #B22222; font-weight: bold;">+19.3</span> | <span style="color: #DC143C; font-weight: bold;">+25.4</span> | **24** | <span style="color: #004225; font-weight: bold;">0.09</span> | <span style="color: #DC143C; font-weight: bold;">266.7</span> |
 | **2025/09** | **29.46** | <span style="color: #8B0000; font-weight: bold;">+4.5</span> | <span style="color: #DC143C; font-weight: bold;">+26.1</span> | **24.7** | <span style="color: #004225; font-weight: bold;">0.09</span> | <span style="color: #DC143C; font-weight: bold;">274.4</span> |
 | **2025/08** | **37.75** | <span style="color: #B22222; font-weight: bold;">+14.1</span> | <span style="color: #DC143C; font-weight: bold;">+28.7</span> | **25** | <span style="color: #004225; font-weight: bold;">0.09</span> | <span style="color: #002818; font-weight: bold;">119.0</span> |
@@ -218,7 +218,7 @@ description: 月營收表 星宇航空 (2646) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-06 01:13:29 CST
+- **產生時間**: 2026-04-06 07:09:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

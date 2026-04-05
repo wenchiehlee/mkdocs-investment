@@ -25,7 +25,7 @@ description: 月營收表 緯創 (3231) - 自動產生
     **:building_construction: 公司名稱**: 緯創  
     **:identification_card: 股票代號**: 3231  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-06 01:13:29 CST
+    **:clock3: 更新時間**: 2026-04-06 07:09:24 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 緯創 (3231) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **1.81** | **3.64** | **5.62** |
-| **P/E倍數** | **9.48** | **14.20** | **24.52** |
+| **EPS(元)** | **1.80** | **3.68** | **5.73** |
+| **P/E倍數** | **9.50** | **14.21** | **24.53** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 緯創 歷史平均獲利能力 (σup=1.98, σlo=1.83)
-    - **P/Ebase**: 緯創 歷史平均估值水準 (σup=10.32, σlo=4.73)
+    - **EPSbase**: 緯創 歷史平均獲利能力 (σup=2.05, σlo=1.88)
+    - **P/Ebase**: 緯創 歷史平均估值水準 (σup=10.31, σlo=4.71)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -90,18 +90,18 @@ description: 月營收表 緯創 (3231) - 自動產生
 | **2025/06** | **2092** | <span style="color: #FF7F7F; font-weight: bold;">+135.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+87.4</span> | **122.5** | <span style="color: #FF4500; font-weight: bold;">7.32</span> | <span style="color: #8B0000; font-weight: bold;">16.73</span> |
 | **2025/05** | **2084** | <span style="color: #FF7F7F; font-weight: bold;">+162.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+76.4</span> | **116.5** | <span style="color: #FF4500; font-weight: bold;">7.32</span> | <span style="color: #8B0000; font-weight: bold;">16.39</span> |
 | **2025/04** | **1337** | <span style="color: #FF7F7F; font-weight: bold;">+84</span> | <span style="color: #FF7F7F; font-weight: bold;">+54.5</span> | **101.5** | <span style="color: #FF4500; font-weight: bold;">7.32</span> | <span style="color: #8B0000; font-weight: bold;">14.72</span> |
-| **2025/03** | **1530** | <span style="color: #FF7F7F; font-weight: bold;">+70.3</span> | <span style="color: #FF6347; font-weight: bold;">+45.4</span> | **95.3** | <span style="color: #FF4500; font-weight: bold;">6.68</span> | <span style="color: #8B0000; font-weight: bold;">14.27</span> |
-| **2025/02** | **1027** | <span style="color: #DC143C; font-weight: bold;">+26.6</span> | <span style="color: #FF4500; font-weight: bold;">+30.4</span> | **112** | <span style="color: #FF4500; font-weight: bold;">6.68</span> | <span style="color: #8B0000; font-weight: bold;">17.26</span> |
-| **2025/01** | **907.9** | <span style="color: #FF4500; font-weight: bold;">+34.9</span> | <span style="color: #FF4500; font-weight: bold;">+34.9</span> | **110** | <span style="color: #FF4500; font-weight: bold;">6.68</span> | <span style="color: #8B0000; font-weight: bold;">17.46</span> |
+| **2025/03** | **1530** | <span style="color: #FF7F7F; font-weight: bold;">+70.3</span> | <span style="color: #FF6347; font-weight: bold;">+45.4</span> | **95.3** | <span style="color: #DC143C; font-weight: bold;">6.68</span> | <span style="color: #8B0000; font-weight: bold;">14.27</span> |
+| **2025/02** | **1027** | <span style="color: #DC143C; font-weight: bold;">+26.6</span> | <span style="color: #FF4500; font-weight: bold;">+30.4</span> | **112** | <span style="color: #DC143C; font-weight: bold;">6.68</span> | <span style="color: #8B0000; font-weight: bold;">17.26</span> |
+| **2025/01** | **907.9** | <span style="color: #FF4500; font-weight: bold;">+34.9</span> | <span style="color: #FF4500; font-weight: bold;">+34.9</span> | **110** | <span style="color: #DC143C; font-weight: bold;">6.68</span> | <span style="color: #8B0000; font-weight: bold;">17.46</span> |
 | **2024/12** | **1057** | <span style="color: #FF6347; font-weight: bold;">+41.4</span> | <span style="color: #DC143C; font-weight: bold;">+21.1</span> | **104** | <span style="color: #DC143C; font-weight: bold;">6.11</span> | <span style="color: #8B0000; font-weight: bold;">17.02</span> |
 | **2024/11** | **952.4** | <span style="color: #DC143C; font-weight: bold;">+24.6</span> | <span style="color: #B22222; font-weight: bold;">+19.2</span> | **113.5** | <span style="color: #DC143C; font-weight: bold;">6.11</span> | <span style="color: #8B0000; font-weight: bold;">19.29</span> |
 | **2024/10** | **962.8** | <span style="color: #DC143C; font-weight: bold;">+22.8</span> | <span style="color: #B22222; font-weight: bold;">+18.6</span> | **111** | <span style="color: #DC143C; font-weight: bold;">6.11</span> | <span style="color: #B22222; font-weight: bold;">19.62</span> |
 | **2024/09** | **969** | <span style="color: #DC143C; font-weight: bold;">+24.4</span> | <span style="color: #B22222; font-weight: bold;">+18</span> | **101** | <span style="color: #B22222; font-weight: bold;">5.43</span> | <span style="color: #8B0000; font-weight: bold;">18.6</span> |
 | **2024/08** | **898.2** | <span style="color: #DC143C; font-weight: bold;">+23.2</span> | <span style="color: #B22222; font-weight: bold;">+17.2</span> | **101.5** | <span style="color: #B22222; font-weight: bold;">5.43</span> | <span style="color: #8B0000; font-weight: bold;">18.48</span> |
 | **2024/07** | **861.9** | <span style="color: #DC143C; font-weight: bold;">+27.3</span> | <span style="color: #B22222; font-weight: bold;">+16.3</span> | **96.8** | <span style="color: #B22222; font-weight: bold;">5.43</span> | <span style="color: #8B0000; font-weight: bold;">17.42</span> |
-| **2024/06** | **887.9** | <span style="color: #8B0000; font-weight: bold;">+9.48</span> | <span style="color: #B22222; font-weight: bold;">+14.5</span> | **106** | <span style="color: #DC143C; font-weight: bold;">5.62</span> | <span style="color: #8B0000; font-weight: bold;">18.86</span> |
-| **2024/05** | **795** | <span style="color: #DC143C; font-weight: bold;">+25.5</span> | <span style="color: #B22222; font-weight: bold;">+15.7</span> | **112** | <span style="color: #DC143C; font-weight: bold;">5.62</span> | <span style="color: #B22222; font-weight: bold;">20.41</span> |
-| **2024/04** | **726.4** | <span style="color: #B22222; font-weight: bold;">+16.9</span> | <span style="color: #B22222; font-weight: bold;">+13.4</span> | **113.5** | <span style="color: #DC143C; font-weight: bold;">5.62</span> | <span style="color: #B22222; font-weight: bold;">21.2</span> |
+| **2024/06** | **887.9** | <span style="color: #8B0000; font-weight: bold;">+9.48</span> | <span style="color: #B22222; font-weight: bold;">+14.5</span> | **106** | <span style="color: #B22222; font-weight: bold;">5.62</span> | <span style="color: #8B0000; font-weight: bold;">18.86</span> |
+| **2024/05** | **795** | <span style="color: #DC143C; font-weight: bold;">+25.5</span> | <span style="color: #B22222; font-weight: bold;">+15.7</span> | **112** | <span style="color: #B22222; font-weight: bold;">5.62</span> | <span style="color: #B22222; font-weight: bold;">20.41</span> |
+| **2024/04** | **726.4** | <span style="color: #B22222; font-weight: bold;">+16.9</span> | <span style="color: #B22222; font-weight: bold;">+13.4</span> | **113.5** | <span style="color: #B22222; font-weight: bold;">5.62</span> | <span style="color: #B22222; font-weight: bold;">21.2</span> |
 | **2024/03** | **898.3** | <span style="color: #002818; font-weight: bold;">-5.4</span> | <span style="color: #B22222; font-weight: bold;">+12.4</span> | **125** | <span style="color: #B22222; font-weight: bold;">5.22</span> | <span style="color: #B22222; font-weight: bold;">23.95</span> |
 | **2024/02** | **811** | <span style="color: #FF4500; font-weight: bold;">+30.7</span> | <span style="color: #DC143C; font-weight: bold;">+26.8</span> | **115.5** | <span style="color: #B22222; font-weight: bold;">5.22</span> | <span style="color: #B22222; font-weight: bold;">23.86</span> |
 | **2024/01** | **673** | <span style="color: #DC143C; font-weight: bold;">+22.4</span> | <span style="color: #DC143C; font-weight: bold;">+22.4</span> | **114.5** | <span style="color: #B22222; font-weight: bold;">5.22</span> | <span style="color: #DC143C; font-weight: bold;">25.67</span> |
@@ -279,9 +279,9 @@ description: 月營收表 緯創 (3231) - 自動產生
 | **2009/09** | **525.1** | <span style="color: #8B0000; font-weight: bold;">+5.42</span> | <span style="color: #DC143C; font-weight: bold;">+28.4</span> | **59.8** | <span style="color: #8B0000; font-weight: bold;">4.44</span> | <span style="color: #002818; font-weight: bold;">13.47</span> |
 | **2009/08** | **450.1** | <span style="color: #FF4500; font-weight: bold;">+30.5</span> | <span style="color: #FF4500; font-weight: bold;">+33</span> | **63.8** | <span style="color: #8B0000; font-weight: bold;">4.44</span> | <span style="color: #002818; font-weight: bold;">14.17</span> |
 | **2009/07** | **485.3** | <span style="color: #DC143C; font-weight: bold;">+29.6</span> | <span style="color: #FF4500; font-weight: bold;">+33.4</span> | **65.4** | <span style="color: #8B0000; font-weight: bold;">4.44</span> | <span style="color: #8B0000; font-weight: bold;">14.32</span> |
-| **2009/06** | **481.7** | <span style="color: #FF6347; font-weight: bold;">+40.4</span> | <span style="color: #FF4500; font-weight: bold;">+34.2</span> | **54.5** | <span style="color: #B22222; font-weight: bold;">4.63</span> | <span style="color: #004225; font-weight: bold;">11.77</span> |
-| **2009/05** | **387.3** | <span style="color: #FF4500; font-weight: bold;">+31.4</span> | <span style="color: #FF4500; font-weight: bold;">+32.8</span> | **51** | <span style="color: #B22222; font-weight: bold;">4.63</span> | <span style="color: #004225; font-weight: bold;">11.23</span> |
-| **2009/04** | **407.2** | <span style="color: #FF6347; font-weight: bold;">+43.9</span> | <span style="color: #FF4500; font-weight: bold;">+33.1</span> | **41.9** | <span style="color: #B22222; font-weight: bold;">4.63</span> | <span style="color: #006400; font-weight: bold;">9.4</span> |
+| **2009/06** | **481.7** | <span style="color: #FF6347; font-weight: bold;">+40.4</span> | <span style="color: #FF4500; font-weight: bold;">+34.2</span> | **54.5** | <span style="color: #8B0000; font-weight: bold;">4.63</span> | <span style="color: #004225; font-weight: bold;">11.77</span> |
+| **2009/05** | **387.3** | <span style="color: #FF4500; font-weight: bold;">+31.4</span> | <span style="color: #FF4500; font-weight: bold;">+32.8</span> | **51** | <span style="color: #8B0000; font-weight: bold;">4.63</span> | <span style="color: #004225; font-weight: bold;">11.23</span> |
+| **2009/04** | **407.2** | <span style="color: #FF6347; font-weight: bold;">+43.9</span> | <span style="color: #FF4500; font-weight: bold;">+33.1</span> | **41.9** | <span style="color: #8B0000; font-weight: bold;">4.63</span> | <span style="color: #006400; font-weight: bold;">9.4</span> |
 | **2009/03** | **460.5** | <span style="color: #FF4500; font-weight: bold;">+31.3</span> | <span style="color: #DC143C; font-weight: bold;">+29.6</span> | **36.55** | <span style="color: #8B0000; font-weight: bold;">4.37</span> | <span style="color: #006400; font-weight: bold;">8.36</span> |
 | **2009/02** | **328** | <span style="color: #DC143C; font-weight: bold;">+28.6</span> | <span style="color: #DC143C; font-weight: bold;">+28.5</span> | **26.75** | <span style="color: #8B0000; font-weight: bold;">4.37</span> | <span style="color: #228B22; font-weight: bold;">6.03</span> |
 | **2009/01** | **336.7** | <span style="color: #DC143C; font-weight: bold;">+28.3</span> | <span style="color: #DC143C; font-weight: bold;">+28.3</span> | **23.3** | <span style="color: #8B0000; font-weight: bold;">4.37</span> | <span style="color: #228B22; font-weight: bold;">5.17</span> |
@@ -413,7 +413,7 @@ description: 月營收表 緯創 (3231) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-06 01:13:29 CST
+- **產生時間**: 2026-04-06 07:09:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

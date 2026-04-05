@@ -25,7 +25,7 @@ description: 月營收表 雙邦 (6506) - 自動產生
     **:building_construction: 公司名稱**: 雙邦  
     **:identification_card: 股票代號**: 6506  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-06 01:13:29 CST
+    **:clock3: 更新時間**: 2026-04-06 07:09:24 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 雙邦 (6506) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **0.54** | **1.17** | **2.14** |
-| **P/E倍數** | **15.18** | **32.36** | **383.23** |
+| **EPS(元)** | **0.54** | **1.16** | **2.13** |
+| **P/E倍數** | **15.18** | **32.18** | **383.09** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 雙邦 歷史平均獲利能力 (σup=0.97, σlo=0.63)
-    - **P/Ebase**: 雙邦 歷史平均估值水準 (σup=350.86, σlo=17.19)
+    - **EPSbase**: 雙邦 歷史平均獲利能力 (σup=0.97, σlo=0.62)
+    - **P/Ebase**: 雙邦 歷史平均估值水準 (σup=350.92, σlo=17.00)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -189,9 +189,9 @@ description: 月營收表 雙邦 (6506) - 自動產生
 | **2017/03** | **2.53** | <span style="color: #B22222; font-weight: bold;">+10.4</span> | <span style="color: #8B0000; font-weight: bold;">+7.52</span> | **25.35** | <span style="color: #B22222; font-weight: bold;">2.02</span> | <span style="color: #006400; font-weight: bold;">12.55</span> |
 | **2017/02** | **1.67** | <span style="color: #B22222; font-weight: bold;">+19.8</span> | <span style="color: #8B0000; font-weight: bold;">+5.44</span> | **24.6** | <span style="color: #B22222; font-weight: bold;">2.02</span> | <span style="color: #006400; font-weight: bold;">11.08</span> |
 | **2017/01** | **1.66** | <span style="color: #002818; font-weight: bold;">-5.92</span> | <span style="color: #002818; font-weight: bold;">-5.92</span> | **24.35** | <span style="color: #B22222; font-weight: bold;">2.02</span> | <span style="color: #006400; font-weight: bold;">10.06</span> |
-| **2016/12** | **1.79** | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | <span style="color: #8B0000; font-weight: bold;">+4.58</span> | **25.35** | <span style="color: #FF4500; font-weight: bold;">2.62</span> | <span style="color: #006400; font-weight: bold;">9.68</span> |
-| **2016/11** | **1.49** | <span style="color: #B22222; font-weight: bold;">+18.7</span> | <span style="color: #8B0000; font-weight: bold;">+3.18</span> | **22.95** | <span style="color: #FF4500; font-weight: bold;">2.62</span> | <span style="color: #006400; font-weight: bold;">8.99</span> |
-| **2016/10** | **1.38** | <span style="color: #8B0000; font-weight: bold;">+2.04</span> | <span style="color: #8B0000; font-weight: bold;">+2.01</span> | **21.95** | <span style="color: #FF4500; font-weight: bold;">2.62</span> | <span style="color: #006400; font-weight: bold;">8.83</span> |
+| **2016/12** | **1.79** | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | <span style="color: #8B0000; font-weight: bold;">+4.58</span> | **25.35** | <span style="color: #DC143C; font-weight: bold;">2.62</span> | <span style="color: #006400; font-weight: bold;">9.68</span> |
+| **2016/11** | **1.49** | <span style="color: #B22222; font-weight: bold;">+18.7</span> | <span style="color: #8B0000; font-weight: bold;">+3.18</span> | **22.95** | <span style="color: #DC143C; font-weight: bold;">2.62</span> | <span style="color: #006400; font-weight: bold;">8.99</span> |
+| **2016/10** | **1.38** | <span style="color: #8B0000; font-weight: bold;">+2.04</span> | <span style="color: #8B0000; font-weight: bold;">+2.01</span> | **21.95** | <span style="color: #DC143C; font-weight: bold;">2.62</span> | <span style="color: #006400; font-weight: bold;">8.83</span> |
 | **2016/09** | **1.4** | <span style="color: #000000; font-weight: bold;">0</span> | <span style="color: #8B0000; font-weight: bold;">+2.01</span> | **22.55** | <span style="color: #DC143C; font-weight: bold;">2.42</span> | <span style="color: #006400; font-weight: bold;">9.32</span> |
 | **2016/08** | **1.69** | <span style="color: #DC143C; font-weight: bold;">+25.9</span> | <span style="color: #8B0000; font-weight: bold;">+2.22</span> | **22.35** | <span style="color: #DC143C; font-weight: bold;">2.42</span> | <span style="color: #006400; font-weight: bold;">9.54</span> |
 | **2016/07** | **1.44** | <span style="color: #002818; font-weight: bold;">-1.42</span> | <span style="color: #002818; font-weight: bold;">-0.29</span> | **22.15** | <span style="color: #DC143C; font-weight: bold;">2.42</span> | <span style="color: #006400; font-weight: bold;">9.77</span> |
@@ -413,7 +413,7 @@ description: 月營收表 雙邦 (6506) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-06 01:13:29 CST
+- **產生時間**: 2026-04-06 07:09:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

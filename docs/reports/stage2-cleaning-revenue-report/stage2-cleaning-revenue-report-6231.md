@@ -25,7 +25,7 @@ description: 月營收表 系微 (6231) - 自動產生
     **:building_construction: 公司名稱**: 系微  
     **:identification_card: 股票代號**: 6231  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-06 01:13:29 CST
+    **:clock3: 更新時間**: 2026-04-06 07:09:24 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 系微 (6231) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **0.94** | **3.66** | **6.75** |
-| **P/E倍數** | **20.94** | **38.89** | **81.13** |
+| **EPS(元)** | **0.94** | **3.70** | **6.76** |
+| **P/E倍數** | **20.94** | **38.91** | **80.86** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 系微 歷史平均獲利能力 (σup=3.09, σlo=2.72)
-    - **P/Ebase**: 系微 歷史平均估值水準 (σup=42.24, σlo=17.95)
+    - **EPSbase**: 系微 歷史平均獲利能力 (σup=3.06, σlo=2.75)
+    - **P/Ebase**: 系微 歷史平均估值水準 (σup=41.95, σlo=17.96)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -153,9 +153,9 @@ description: 月營收表 系微 (6231) - 自動產生
 | **2020/03** | **0.838** | <span style="color: #002818; font-weight: bold;">-3.93</span> | <span style="color: #B22222; font-weight: bold;">+13.5</span> | **47.15** | <span style="color: #002818; font-weight: bold;">2.51</span> | <span style="color: #006400; font-weight: bold;">18.78</span> |
 | **2020/02** | **0.713** | <span style="color: #FF7F7F; font-weight: bold;">+62</span> | <span style="color: #DC143C; font-weight: bold;">+25.1</span> | **58.4** | <span style="color: #002818; font-weight: bold;">2.51</span> | <span style="color: #004225; font-weight: bold;">23.87</span> |
 | **2020/01** | **0.935** | <span style="color: #8B0000; font-weight: bold;">+6.55</span> | <span style="color: #8B0000; font-weight: bold;">+6.55</span> | **57.1** | <span style="color: #002818; font-weight: bold;">2.51</span> | <span style="color: #004225; font-weight: bold;">23.96</span> |
-| **2019/12** | **0.917** | <span style="color: #DC143C; font-weight: bold;">+23.8</span> | <span style="color: #B22222; font-weight: bold;">+13</span> | **66.7** | <span style="color: #002818; font-weight: bold;">2.32</span> | <span style="color: #004225; font-weight: bold;">28.75</span> |
-| **2019/11** | **0.735** | <span style="color: #8B0000; font-weight: bold;">+7.38</span> | <span style="color: #B22222; font-weight: bold;">+11.9</span> | **62.8** | <span style="color: #002818; font-weight: bold;">2.32</span> | <span style="color: #004225; font-weight: bold;">27.67</span> |
-| **2019/10** | **0.904** | <span style="color: #002818; font-weight: bold;">-1.97</span> | <span style="color: #B22222; font-weight: bold;">+12.4</span> | **70** | <span style="color: #002818; font-weight: bold;">2.32</span> | <span style="color: #002818; font-weight: bold;">31.53</span> |
+| **2019/12** | **0.917** | <span style="color: #DC143C; font-weight: bold;">+23.8</span> | <span style="color: #B22222; font-weight: bold;">+13</span> | **66.7** | <span style="color: #004225; font-weight: bold;">2.32</span> | <span style="color: #004225; font-weight: bold;">28.75</span> |
+| **2019/11** | **0.735** | <span style="color: #8B0000; font-weight: bold;">+7.38</span> | <span style="color: #B22222; font-weight: bold;">+11.9</span> | **62.8** | <span style="color: #004225; font-weight: bold;">2.32</span> | <span style="color: #004225; font-weight: bold;">27.67</span> |
+| **2019/10** | **0.904** | <span style="color: #002818; font-weight: bold;">-1.97</span> | <span style="color: #B22222; font-weight: bold;">+12.4</span> | **70** | <span style="color: #004225; font-weight: bold;">2.32</span> | <span style="color: #002818; font-weight: bold;">31.53</span> |
 | **2019/09** | **0.775** | <span style="color: #B22222; font-weight: bold;">+10</span> | <span style="color: #B22222; font-weight: bold;">+14.5</span> | **56.1** | <span style="color: #004225; font-weight: bold;">2.17</span> | <span style="color: #004225; font-weight: bold;">25.85</span> |
 | **2019/08** | **0.639** | <span style="color: #002818; font-weight: bold;">-2.31</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **76** | <span style="color: #004225; font-weight: bold;">2.17</span> | <span style="color: #002818; font-weight: bold;">35.19</span> |
 | **2019/07** | **1.04** | <span style="color: #B22222; font-weight: bold;">+19.8</span> | <span style="color: #B22222; font-weight: bold;">+17.5</span> | **41.25** | <span style="color: #004225; font-weight: bold;">2.17</span> | <span style="color: #006400; font-weight: bold;">19.19</span> |
@@ -413,7 +413,7 @@ description: 月營收表 系微 (6231) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-06 01:13:29 CST
+- **產生時間**: 2026-04-06 07:09:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

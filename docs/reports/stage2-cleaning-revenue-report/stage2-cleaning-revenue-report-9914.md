@@ -25,7 +25,7 @@ description: 月營收表 美利達 (9914) - 自動產生
     **:building_construction: 公司名稱**: 美利達  
     **:identification_card: 股票代號**: 9914  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-06 01:13:29 CST
+    **:clock3: 更新時間**: 2026-04-06 07:09:24 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 美利達 (9914) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **3.26** | **7.15** | **11.52** |
-| **P/E倍數** | **15.26** | **30.32** | **486.85** |
+| **EPS(元)** | **3.27** | **7.14** | **11.52** |
+| **P/E倍數** | **15.31** | **30.29** | **486.83** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 美利達 歷史平均獲利能力 (σup=4.37, σlo=3.89)
-    - **P/Ebase**: 美利達 歷史平均估值水準 (σup=456.53, σlo=15.06)
+    - **EPSbase**: 美利達 歷史平均獲利能力 (σup=4.38, σlo=3.87)
+    - **P/Ebase**: 美利達 歷史平均估值水準 (σup=456.54, σlo=14.98)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -315,8 +315,8 @@ description: 月營收表 美利達 (9914) - 自動產生
 | **2006/09** | **-** | N/A | N/A | **24.5** | <span style="color: #004225; font-weight: bold;">3.37</span> | <span style="color: #228B22; font-weight: bold;">7.27</span> |
 | **2006/08** | **-** | N/A | N/A | **21.1** | <span style="color: #004225; font-weight: bold;">3.37</span> | <span style="color: #228B22; font-weight: bold;">6.58</span> |
 | **2006/07** | **-** | N/A | N/A | **20.3** | <span style="color: #004225; font-weight: bold;">3.37</span> | <span style="color: #228B22; font-weight: bold;">6.67</span> |
-| **2006/06** | **-** | N/A | N/A | **22.3** | <span style="color: #006400; font-weight: bold;">2.88</span> | <span style="color: #006400; font-weight: bold;">7.74</span> |
-| **2006/05** | **-** | N/A | N/A | **22** | <span style="color: #006400; font-weight: bold;">2.88</span> | <span style="color: #006400; font-weight: bold;">7.78</span> |
+| **2006/06** | **-** | N/A | N/A | **22.3** | <span style="color: #006400; font-weight: bold;">2.88</span> | <span style="color: #228B22; font-weight: bold;">7.74</span> |
+| **2006/05** | **-** | N/A | N/A | **22** | <span style="color: #006400; font-weight: bold;">2.88</span> | <span style="color: #228B22; font-weight: bold;">7.78</span> |
 | **2006/04** | **-** | N/A | N/A | **22.45** | <span style="color: #006400; font-weight: bold;">2.88</span> | <span style="color: #006400; font-weight: bold;">8.09</span> |
 
 </div>
@@ -413,7 +413,7 @@ description: 月營收表 美利達 (9914) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-06 01:13:29 CST
+- **產生時間**: 2026-04-06 07:09:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

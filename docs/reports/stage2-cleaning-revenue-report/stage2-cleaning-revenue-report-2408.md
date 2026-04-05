@@ -25,7 +25,7 @@ description: 月營收表 南亞科 (2408) - 自動產生
     **:building_construction: 公司名稱**: 南亞科  
     **:identification_card: 股票代號**: 2408  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-06 01:13:29 CST
+    **:clock3: 更新時間**: 2026-04-06 07:09:24 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 南亞科 (2408) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **-5.29** | **1.99** | **8.81** |
-| **P/E倍數** | **6.75** | **16.49** | **70.69** |
+| **EPS(元)** | **-5.29** | **1.99** | **8.78** |
+| **P/E倍數** | **6.83** | **17.05** | **72.60** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 南亞科 歷史平均獲利能力 (σup=6.82, σlo=7.28)
-    - **P/Ebase**: 南亞科 歷史平均估值水準 (σup=54.20, σlo=9.74)
+    - **EPSbase**: 南亞科 歷史平均獲利能力 (σup=6.79, σlo=7.28)
+    - **P/Ebase**: 南亞科 歷史平均估值水準 (σup=55.55, σlo=10.22)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -120,7 +120,7 @@ description: 月營收表 南亞科 (2408) - 自動產生
 | **2022/12** | **24** | <span style="color: #90EE90; font-weight: bold;">-65.4</span> | <span style="color: #228B22; font-weight: bold;">-33.5</span> | **51.2** | <span style="color: #8B0000; font-weight: bold;">4.72</span> | <span style="color: #004225; font-weight: bold;">10.85</span> |
 | **2022/11** | **27.71** | <span style="color: #90EE90; font-weight: bold;">-61.8</span> | <span style="color: #228B22; font-weight: bold;">-30.6</span> | **56.8** | <span style="color: #8B0000; font-weight: bold;">4.72</span> | <span style="color: #004225; font-weight: bold;">10.26</span> |
 | **2022/10** | **27.82** | <span style="color: #90EE90; font-weight: bold;">-61.4</span> | <span style="color: #006400; font-weight: bold;">-27.5</span> | **54.5** | <span style="color: #8B0000; font-weight: bold;">4.72</span> | <span style="color: #004225; font-weight: bold;">8.58</span> |
-| **2022/09** | **32.06** | <span style="color: #90EE90; font-weight: bold;">-58.2</span> | <span style="color: #006400; font-weight: bold;">-23.7</span> | **48.95** | <span style="color: #B22222; font-weight: bold;">7.17</span> | <span style="color: #004225; font-weight: bold;">6.83</span> |
+| **2022/09** | **32.06** | <span style="color: #90EE90; font-weight: bold;">-58.2</span> | <span style="color: #006400; font-weight: bold;">-23.7</span> | **48.95** | <span style="color: #B22222; font-weight: bold;">7.17</span> | <span style="color: #006400; font-weight: bold;">6.83</span> |
 | **2022/08** | **34.19** | <span style="color: #90EE90; font-weight: bold;">-58.4</span> | <span style="color: #004225; font-weight: bold;">-19</span> | **53.4** | <span style="color: #B22222; font-weight: bold;">7.17</span> | <span style="color: #004225; font-weight: bold;">6.94</span> |
 | **2022/07** | **43.96** | <span style="color: #32CD32; font-weight: bold;">-44.7</span> | <span style="color: #004225; font-weight: bold;">-12.3</span> | **52.3** | <span style="color: #B22222; font-weight: bold;">7.17</span> | <span style="color: #006400; font-weight: bold;">6.35</span> |
 | **2022/06** | **52.35** | <span style="color: #228B22; font-weight: bold;">-31.5</span> | <span style="color: #002818; font-weight: bold;">-5.92</span> | **49.4** | <span style="color: #B22222; font-weight: bold;">8.76</span> | <span style="color: #006400; font-weight: bold;">5.64</span> |
@@ -132,9 +132,9 @@ description: 月營收表 南亞科 (2408) - 自動產生
 | **2021/12** | **69.37** | <span style="color: #FF4500; font-weight: bold;">+36.6</span> | <span style="color: #FF6347; font-weight: bold;">+40.3</span> | **78.1** | <span style="color: #B22222; font-weight: bold;">7.4</span> | <span style="color: #004225; font-weight: bold;">10.55</span> |
 | **2021/11** | **72.57** | <span style="color: #FF6347; font-weight: bold;">+48.2</span> | <span style="color: #FF6347; font-weight: bold;">+40.6</span> | **74.2** | <span style="color: #B22222; font-weight: bold;">7.4</span> | <span style="color: #004225; font-weight: bold;">10.91</span> |
 | **2021/10** | **72.05** | <span style="color: #FF7F7F; font-weight: bold;">+50.2</span> | <span style="color: #FF4500; font-weight: bold;">+39.9</span> | **66.5** | <span style="color: #B22222; font-weight: bold;">7.4</span> | <span style="color: #004225; font-weight: bold;">10.71</span> |
-| **2021/09** | **76.77** | <span style="color: #FF4500; font-weight: bold;">+38.4</span> | <span style="color: #FF4500; font-weight: bold;">+38.9</span> | **65.9** | <span style="color: #B22222; font-weight: bold;">5.61</span> | <span style="color: #002818; font-weight: bold;">11.75</span> |
+| **2021/09** | **76.77** | <span style="color: #FF4500; font-weight: bold;">+38.4</span> | <span style="color: #FF4500; font-weight: bold;">+38.9</span> | **65.9** | <span style="color: #B22222; font-weight: bold;">5.61</span> | <span style="color: #004225; font-weight: bold;">11.75</span> |
 | **2021/08** | **82.1** | <span style="color: #FF7F7F; font-weight: bold;">+68.6</span> | <span style="color: #FF4500; font-weight: bold;">+38.9</span> | **66.4** | <span style="color: #B22222; font-weight: bold;">5.61</span> | <span style="color: #002818; font-weight: bold;">13.35</span> |
-| **2021/07** | **79.5** | <span style="color: #FF7F7F; font-weight: bold;">+62</span> | <span style="color: #FF4500; font-weight: bold;">+34.9</span> | **72.3** | <span style="color: #B22222; font-weight: bold;">5.61</span> | <span style="color: #8B0000; font-weight: bold;">16.67</span> |
+| **2021/07** | **79.5** | <span style="color: #FF7F7F; font-weight: bold;">+62</span> | <span style="color: #FF4500; font-weight: bold;">+34.9</span> | **72.3** | <span style="color: #B22222; font-weight: bold;">5.61</span> | <span style="color: #002818; font-weight: bold;">16.67</span> |
 | **2021/06** | **76.39** | <span style="color: #FF6347; font-weight: bold;">+43.6</span> | <span style="color: #FF4500; font-weight: bold;">+30.6</span> | **79.7** | <span style="color: #8B0000; font-weight: bold;">3.7</span> | <span style="color: #8B0000; font-weight: bold;">21.54</span> |
 | **2021/05** | **76.04** | <span style="color: #FF4500; font-weight: bold;">+37</span> | <span style="color: #DC143C; font-weight: bold;">+27.9</span> | **81.9** | <span style="color: #8B0000; font-weight: bold;">3.7</span> | <span style="color: #8B0000; font-weight: bold;">24.21</span> |
 | **2021/04** | **73.94** | <span style="color: #FF4500; font-weight: bold;">+31.6</span> | <span style="color: #DC143C; font-weight: bold;">+25.4</span> | **91.6** | <span style="color: #8B0000; font-weight: bold;">3.7</span> | <span style="color: #8B0000; font-weight: bold;">29.87</span> |
@@ -224,8 +224,8 @@ description: 月營收表 南亞科 (2408) - 自動產生
 | **2014/04** | **36.87** | <span style="color: #006400; font-weight: bold;">-23.2</span> | <span style="color: #8B0000; font-weight: bold;">+9.48</span> | **4.95** | <span style="color: #B22222; font-weight: bold;">7.58</span> | <span style="color: #228B22; font-weight: bold;">1.7</span> |
 | **2014/03** | **37.72** | <span style="color: #8B0000; font-weight: bold;">+3.85</span> | <span style="color: #DC143C; font-weight: bold;">+26.4</span> | **4.05** | <span style="color: #002818; font-weight: bold;">0.58</span> | <span style="color: #004225; font-weight: bold;">6.98</span> |
 | **2014/02** | **37.55** | <span style="color: #DC143C; font-weight: bold;">+22.6</span> | <span style="color: #FF6347; font-weight: bold;">+41.1</span> | **4.76** | <span style="color: #002818; font-weight: bold;">0.58</span> | <span style="color: #004225; font-weight: bold;">9.52</span> |
-| **2014/01** | **41.65** | <span style="color: #FF7F7F; font-weight: bold;">+63.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+63.3</span> | **5** | <span style="color: #002818; font-weight: bold;">0.58</span> | <span style="color: #002818; font-weight: bold;">11.9</span> |
-| **2013/12** | **40.34** | <span style="color: #FF7F7F; font-weight: bold;">+78.4</span> | <span style="color: #FF4500; font-weight: bold;">+33.5</span> | **4.01** | <span style="color: #002818; font-weight: bold;">0.34</span> | <span style="color: #002818; font-weight: bold;">11.79</span> |
+| **2014/01** | **41.65** | <span style="color: #FF7F7F; font-weight: bold;">+63.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+63.3</span> | **5** | <span style="color: #002818; font-weight: bold;">0.58</span> | <span style="color: #004225; font-weight: bold;">11.9</span> |
+| **2013/12** | **40.34** | <span style="color: #FF7F7F; font-weight: bold;">+78.4</span> | <span style="color: #FF4500; font-weight: bold;">+33.5</span> | **4.01** | <span style="color: #002818; font-weight: bold;">0.34</span> | <span style="color: #004225; font-weight: bold;">11.79</span> |
 | **2013/11** | **38.46** | <span style="color: #FF4500; font-weight: bold;">+33.7</span> | <span style="color: #FF4500; font-weight: bold;">+35.3</span> | **4.06** | <span style="color: #002818; font-weight: bold;">0.34</span> | <span style="color: #8B0000; font-weight: bold;">24.86</span> |
 | **2013/10** | **44.02** | <span style="color: #FF7F7F; font-weight: bold;">+81.7</span> | <span style="color: #FF4500; font-weight: bold;">+35.5</span> | **4.07** | <span style="color: #002818; font-weight: bold;">0.34</span> | <span style="color: #000000;">-</span> |
 | **2013/09** | **38.05** | <span style="color: #FF7F7F; font-weight: bold;">+88.9</span> | <span style="color: #FF4500; font-weight: bold;">+31.2</span> | **4.5** | <span style="color: #002818; font-weight: bold;">-0.19</span> | <span style="color: #000000;">-</span> |
@@ -311,7 +311,7 @@ description: 月營收表 南亞科 (2408) - 自動產生
 | **2007/01** | **-** | N/A | N/A | **25.85** | <span style="color: #8B0000; font-weight: bold;">4.76</span> | <span style="color: #006400; font-weight: bold;">5.6</span> |
 | **2006/12** | **-** | N/A | N/A | **26.9** | <span style="color: #8B0000; font-weight: bold;">4.55</span> | <span style="color: #006400; font-weight: bold;">5.91</span> |
 | **2006/11** | **-** | N/A | N/A | **26.4** | <span style="color: #8B0000; font-weight: bold;">4.55</span> | <span style="color: #006400; font-weight: bold;">6.58</span> |
-| **2006/10** | **-** | N/A | N/A | **23.5** | <span style="color: #8B0000; font-weight: bold;">4.55</span> | <span style="color: #004225; font-weight: bold;">6.77</span> |
+| **2006/10** | **-** | N/A | N/A | **23.5** | <span style="color: #8B0000; font-weight: bold;">4.55</span> | <span style="color: #006400; font-weight: bold;">6.77</span> |
 | **2006/09** | **-** | N/A | N/A | **21.8** | <span style="color: #8B0000; font-weight: bold;">2.93</span> | <span style="color: #004225; font-weight: bold;">7.44</span> |
 | **2006/08** | **-** | N/A | N/A | **22.95** | <span style="color: #8B0000; font-weight: bold;">2.93</span> | <span style="color: #004225; font-weight: bold;">8.64</span> |
 | **2006/07** | **-** | N/A | N/A | **21.8** | <span style="color: #8B0000; font-weight: bold;">2.93</span> | <span style="color: #004225; font-weight: bold;">9.15</span> |
@@ -413,7 +413,7 @@ description: 月營收表 南亞科 (2408) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-06 01:13:29 CST
+- **產生時間**: 2026-04-06 07:09:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

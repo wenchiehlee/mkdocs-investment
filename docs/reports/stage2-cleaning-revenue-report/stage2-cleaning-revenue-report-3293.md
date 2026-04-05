@@ -25,7 +25,7 @@ description: 月營收表 鈊象 (3293) - 自動產生
     **:building_construction: 公司名稱**: 鈊象  
     **:identification_card: 股票代號**: 3293  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-06 01:13:29 CST
+    **:clock3: 更新時間**: 2026-04-06 07:09:24 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 鈊象 (3293) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **9.62** | **21.42** | **45.25** |
-| **P/E倍數** | **13.60** | **20.61** | **40.80** |
+| **EPS(元)** | **9.63** | **21.57** | **45.13** |
+| **P/E倍數** | **13.65** | **20.60** | **40.80** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 鈊象 歷史平均獲利能力 (σup=23.82, σlo=11.81)
-    - **P/Ebase**: 鈊象 歷史平均估值水準 (σup=20.19, σlo=7.00)
+    - **EPSbase**: 鈊象 歷史平均獲利能力 (σup=23.56, σlo=11.94)
+    - **P/Ebase**: 鈊象 歷史平均估值水準 (σup=20.20, σlo=6.95)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -282,7 +282,7 @@ description: 月營收表 鈊象 (3293) - 自動產生
 | **2009/06** | **-** | N/A | N/A | **258** | <span style="color: #002818; font-weight: bold;">16.62</span> | <span style="color: #004225; font-weight: bold;">15.52</span> |
 | **2009/05** | **-** | N/A | N/A | **281** | <span style="color: #002818; font-weight: bold;">16.62</span> | <span style="color: #002818; font-weight: bold;">17.36</span> |
 | **2009/04** | **-** | N/A | N/A | **217.5** | <span style="color: #002818; font-weight: bold;">16.62</span> | <span style="color: #004225; font-weight: bold;">13.81</span> |
-| **2009/03** | **-** | N/A | N/A | **209** | <span style="color: #004225; font-weight: bold;">15.32</span> | <span style="color: #004225; font-weight: bold;">13.64</span> |
+| **2009/03** | **-** | N/A | N/A | **209** | <span style="color: #004225; font-weight: bold;">15.32</span> | <span style="color: #006400; font-weight: bold;">13.64</span> |
 | **2009/02** | **-** | N/A | N/A | **161** | <span style="color: #004225; font-weight: bold;">15.32</span> | <span style="color: #006400; font-weight: bold;">11.0</span> |
 | **2009/01** | **-** | N/A | N/A | **128** | <span style="color: #004225; font-weight: bold;">15.32</span> | <span style="color: #228B22; font-weight: bold;">9.18</span> |
 | **2008/12** | **-** | N/A | N/A | **137** | <span style="color: #004225; font-weight: bold;">13.25</span> | <span style="color: #006400; font-weight: bold;">10.34</span> |
@@ -413,7 +413,7 @@ description: 月營收表 鈊象 (3293) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-06 01:13:29 CST
+- **產生時間**: 2026-04-06 07:09:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

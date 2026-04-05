@@ -25,7 +25,7 @@ description: 月營收表 芯鼎 (6695) - 自動產生
     **:building_construction: 公司名稱**: 芯鼎  
     **:identification_card: 股票代號**: 6695  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-06 01:13:29 CST
+    **:clock3: 更新時間**: 2026-04-06 07:09:24 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,14 +62,14 @@ description: 月營收表 芯鼎 (6695) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **-1.46** | **-0.78** | **-0.05** |
+| **EPS(元)** | **-1.50** | **-0.83** | **-0.06** |
 | **P/E倍數** | **69.19** | **173.27** | **444.25** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 芯鼎 歷史平均獲利能力 (σup=0.73, σlo=0.68)
+    - **EPSbase**: 芯鼎 歷史平均獲利能力 (σup=0.77, σlo=0.68)
     - **P/Ebase**: 芯鼎 歷史平均估值水準 (σup=270.99, σlo=104.08)
 
 
@@ -79,11 +79,11 @@ description: 月營收表 芯鼎 (6695) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/02** | **0.753** | <span style="color: #002818; font-weight: bold;">-6.26</span> | <span style="color: #B22222; font-weight: bold;">+10.1</span> | **43.15** | <span style="color: #228B22; font-weight: bold;">-1.83</span> | <span style="color: #000000;">-</span> |
-| **2026/01** | **0.902** | <span style="color: #DC143C; font-weight: bold;">+28.8</span> | <span style="color: #DC143C; font-weight: bold;">+28.8</span> | **42.75** | <span style="color: #228B22; font-weight: bold;">-1.83</span> | <span style="color: #000000;">-</span> |
-| **2025/12** | **0.932** | <span style="color: #006400; font-weight: bold;">-22.1</span> | <span style="color: #B22222; font-weight: bold;">+10.5</span> | **45.4** | <span style="color: #228B22; font-weight: bold;">-1.83</span> | <span style="color: #000000;">-</span> |
-| **2025/11** | **1.09** | <span style="color: #B22222; font-weight: bold;">+12.9</span> | <span style="color: #B22222; font-weight: bold;">+14.8</span> | **44.35** | <span style="color: #228B22; font-weight: bold;">-1.83</span> | <span style="color: #000000;">-</span> |
-| **2025/10** | **0.801** | <span style="color: #004225; font-weight: bold;">-14.2</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **49.85** | <span style="color: #228B22; font-weight: bold;">-1.83</span> | <span style="color: #000000;">-</span> |
+| **2026/02** | **0.753** | <span style="color: #002818; font-weight: bold;">-6.26</span> | <span style="color: #B22222; font-weight: bold;">+10.1</span> | **43.15** | <span style="color: #006400; font-weight: bold;">-1.83</span> | <span style="color: #000000;">-</span> |
+| **2026/01** | **0.902** | <span style="color: #DC143C; font-weight: bold;">+28.8</span> | <span style="color: #DC143C; font-weight: bold;">+28.8</span> | **42.75** | <span style="color: #006400; font-weight: bold;">-1.83</span> | <span style="color: #000000;">-</span> |
+| **2025/12** | **0.932** | <span style="color: #006400; font-weight: bold;">-22.1</span> | <span style="color: #B22222; font-weight: bold;">+10.5</span> | **45.4** | <span style="color: #006400; font-weight: bold;">-1.83</span> | <span style="color: #000000;">-</span> |
+| **2025/11** | **1.09** | <span style="color: #B22222; font-weight: bold;">+12.9</span> | <span style="color: #B22222; font-weight: bold;">+14.8</span> | **44.35** | <span style="color: #006400; font-weight: bold;">-1.83</span> | <span style="color: #000000;">-</span> |
+| **2025/10** | **0.801** | <span style="color: #004225; font-weight: bold;">-14.2</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **49.85** | <span style="color: #006400; font-weight: bold;">-1.83</span> | <span style="color: #000000;">-</span> |
 | **2025/09** | **0.911** | <span style="color: #002818; font-weight: bold;">-2.56</span> | <span style="color: #B22222; font-weight: bold;">+18.9</span> | **55** | <span style="color: #004225; font-weight: bold;">-1.35</span> | <span style="color: #000000;">-</span> |
 | **2025/08** | **0.908** | <span style="color: #002818; font-weight: bold;">-1.69</span> | <span style="color: #DC143C; font-weight: bold;">+22.2</span> | **55** | <span style="color: #004225; font-weight: bold;">-1.35</span> | <span style="color: #000000;">-</span> |
 | **2025/07** | **0.917** | <span style="color: #8B0000; font-weight: bold;">+0.83</span> | <span style="color: #DC143C; font-weight: bold;">+26.4</span> | **52.5** | <span style="color: #004225; font-weight: bold;">-1.35</span> | <span style="color: #000000;">-</span> |
@@ -266,7 +266,7 @@ description: 月營收表 芯鼎 (6695) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-06 01:13:29 CST
+- **產生時間**: 2026-04-06 07:09:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

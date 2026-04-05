@@ -25,7 +25,7 @@ description: 月營收表 台灣虎航 (6757) - 自動產生
     **:building_construction: 公司名稱**: 台灣虎航  
     **:identification_card: 股票代號**: 6757  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-06 01:13:29 CST
+    **:clock3: 更新時間**: 2026-04-06 07:09:24 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 台灣虎航 (6757) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **3.89** | **5.36** | **6.08** |
-| **P/E倍數** | **8.31** | **11.69** | **14.38** |
+| **EPS(元)** | **3.89** | **5.36** | **6.04** |
+| **P/E倍數** | **8.40** | **11.54** | **14.36** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 台灣虎航 歷史平均獲利能力 (σup=0.72, σlo=1.47)
-    - **P/Ebase**: 台灣虎航 歷史平均估值水準 (σup=2.69, σlo=3.38)
+    - **EPSbase**: 台灣虎航 歷史平均獲利能力 (σup=0.68, σlo=1.47)
+    - **P/Ebase**: 台灣虎航 歷史平均估值水準 (σup=2.82, σlo=3.14)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -101,8 +101,8 @@ description: 月營收表 台灣虎航 (6757) - 自動產生
 | **2024/07** | **16.27** | <span style="color: #DC143C; font-weight: bold;">+28.7</span> | <span style="color: #FF6347; font-weight: bold;">+46.1</span> | **60** | <span style="color: #FF4500; font-weight: bold;">6.6</span> | <span style="color: #004225; font-weight: bold;">9.9</span> |
 | **2024/06** | **14.21** | <span style="color: #FF4500; font-weight: bold;">+30.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+50.1</span> | **59** | <span style="color: #B22222; font-weight: bold;">5.79</span> | <span style="color: #002818; font-weight: bold;">10.19</span> |
 | **2024/05** | **12.2** | <span style="color: #FF4500; font-weight: bold;">+38.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+55</span> | **47.75** | <span style="color: #B22222; font-weight: bold;">5.79</span> | <span style="color: #004225; font-weight: bold;">8.62</span> |
-| **2024/04** | **13.27** | <span style="color: #FF6347; font-weight: bold;">+45.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+59.2</span> | **36** | <span style="color: #B22222; font-weight: bold;">5.79</span> | <span style="color: #006400; font-weight: bold;">6.81</span> |
-| **2024/03** | **13.88** | <span style="color: #FF7F7F; font-weight: bold;">+57.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+64.2</span> | **33.5** | <span style="color: #002818; font-weight: bold;">5.04</span> | <span style="color: #006400; font-weight: bold;">6.65</span> |
+| **2024/04** | **13.27** | <span style="color: #FF6347; font-weight: bold;">+45.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+59.2</span> | **36** | <span style="color: #B22222; font-weight: bold;">5.79</span> | <span style="color: #228B22; font-weight: bold;">6.81</span> |
+| **2024/03** | **13.88** | <span style="color: #FF7F7F; font-weight: bold;">+57.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+64.2</span> | **33.5** | <span style="color: #002818; font-weight: bold;">5.04</span> | <span style="color: #228B22; font-weight: bold;">6.65</span> |
 | **2024/02** | **15.68** | <span style="color: #FF7F7F; font-weight: bold;">+95.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+67.7</span> | **34.6** | <span style="color: #002818; font-weight: bold;">5.04</span> | <span style="color: #006400; font-weight: bold;">7.23</span> |
 | **2024/01** | **12.9** | <span style="color: #FF6347; font-weight: bold;">+42.9</span> | <span style="color: #FF6347; font-weight: bold;">+42.9</span> | **32.7** | <span style="color: #002818; font-weight: bold;">5.04</span> | <span style="color: #006400; font-weight: bold;">7.22</span> |
 | **2023/12** | **11.4** | <span style="color: #FF7F7F; font-weight: bold;">+129.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+848.3</span> | **33.6** | <span style="color: #004225; font-weight: bold;">4.27</span> | <span style="color: #006400; font-weight: bold;">7.87</span> |
@@ -252,7 +252,7 @@ description: 月營收表 台灣虎航 (6757) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-06 01:13:29 CST
+- **產生時間**: 2026-04-06 07:09:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

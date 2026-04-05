@@ -25,7 +25,7 @@ description: 月營收表 安碁資訊 (6690) - 自動產生
     **:building_construction: 公司名稱**: 安碁資訊  
     **:identification_card: 股票代號**: 6690  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-06 01:13:29 CST
+    **:clock3: 更新時間**: 2026-04-06 07:09:24 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 安碁資訊 (6690) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **5.02** | **7.16** | **9.11** |
-| **P/E倍數** | **18.38** | **22.54** | **30.47** |
+| **EPS(元)** | **5.02** | **7.24** | **9.18** |
+| **P/E倍數** | **18.22** | **22.37** | **30.42** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 安碁資訊 歷史平均獲利能力 (σup=1.94, σlo=2.15)
-    - **P/Ebase**: 安碁資訊 歷史平均估值水準 (σup=7.93, σlo=4.16)
+    - **EPSbase**: 安碁資訊 歷史平均獲利能力 (σup=1.94, σlo=2.22)
+    - **P/Ebase**: 安碁資訊 歷史平均估值水準 (σup=8.04, σlo=4.15)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -87,15 +87,15 @@ description: 月營收表 安碁資訊 (6690) - 自動產生
 | **2025/09** | **2.29** | <span style="color: #B22222; font-weight: bold;">+14.5</span> | <span style="color: #B22222; font-weight: bold;">+12.8</span> | **173.5** | <span style="color: #DC143C; font-weight: bold;">9.23</span> | <span style="color: #004225; font-weight: bold;">18.8</span> |
 | **2025/08** | **2.03** | <span style="color: #B22222; font-weight: bold;">+11</span> | <span style="color: #B22222; font-weight: bold;">+12.5</span> | **184.5** | <span style="color: #DC143C; font-weight: bold;">9.23</span> | <span style="color: #002818; font-weight: bold;">20.5</span> |
 | **2025/07** | **1.94** | <span style="color: #8B0000; font-weight: bold;">+8.76</span> | <span style="color: #B22222; font-weight: bold;">+12.8</span> | **172** | <span style="color: #DC143C; font-weight: bold;">9.23</span> | <span style="color: #004225; font-weight: bold;">19.61</span> |
-| **2025/06** | **2.23** | <span style="color: #8B0000; font-weight: bold;">+9.37</span> | <span style="color: #B22222; font-weight: bold;">+13.5</span> | **174** | <span style="color: #B22222; font-weight: bold;">8.54</span> | <span style="color: #004225; font-weight: bold;">20.37</span> |
+| **2025/06** | **2.23** | <span style="color: #8B0000; font-weight: bold;">+9.37</span> | <span style="color: #B22222; font-weight: bold;">+13.5</span> | **174** | <span style="color: #B22222; font-weight: bold;">8.54</span> | <span style="color: #002818; font-weight: bold;">20.37</span> |
 | **2025/05** | **1.89** | <span style="color: #B22222; font-weight: bold;">+10.9</span> | <span style="color: #B22222; font-weight: bold;">+14.6</span> | **180** | <span style="color: #B22222; font-weight: bold;">8.54</span> | <span style="color: #002818; font-weight: bold;">21.62</span> |
 | **2025/04** | **1.85** | <span style="color: #B22222; font-weight: bold;">+19.5</span> | <span style="color: #B22222; font-weight: bold;">+15.6</span> | **185.5** | <span style="color: #B22222; font-weight: bold;">8.54</span> | <span style="color: #8B0000; font-weight: bold;">22.86</span> |
 | **2025/03** | **2.06** | <span style="color: #B22222; font-weight: bold;">+10.7</span> | <span style="color: #B22222; font-weight: bold;">+14.3</span> | **180.5** | <span style="color: #8B0000; font-weight: bold;">7.9</span> | <span style="color: #8B0000; font-weight: bold;">22.85</span> |
 | **2025/02** | **1.59** | <span style="color: #DC143C; font-weight: bold;">+21.3</span> | <span style="color: #B22222; font-weight: bold;">+16.9</span> | **204.5** | <span style="color: #8B0000; font-weight: bold;">7.9</span> | <span style="color: #8B0000; font-weight: bold;">23.66</span> |
 | **2025/01** | **1.51** | <span style="color: #B22222; font-weight: bold;">+12.5</span> | <span style="color: #B22222; font-weight: bold;">+12.5</span> | **195.5** | <span style="color: #8B0000; font-weight: bold;">7.9</span> | <span style="color: #002818; font-weight: bold;">20.83</span> |
-| **2024/12** | **2.31** | <span style="color: #B22222; font-weight: bold;">+14.7</span> | <span style="color: #B22222; font-weight: bold;">+16.4</span> | **206.5** | <span style="color: #FF4500; font-weight: bold;">10.13</span> | <span style="color: #004225; font-weight: bold;">20.38</span> |
-| **2024/11** | **2.08** | <span style="color: #B22222; font-weight: bold;">+16.7</span> | <span style="color: #B22222; font-weight: bold;">+16.6</span> | **201.5** | <span style="color: #FF4500; font-weight: bold;">10.13</span> | <span style="color: #004225; font-weight: bold;">20.09</span> |
-| **2024/10** | **1.64** | <span style="color: #B22222; font-weight: bold;">+16.1</span> | <span style="color: #B22222; font-weight: bold;">+16.6</span> | **230.5** | <span style="color: #FF4500; font-weight: bold;">10.13</span> | <span style="color: #8B0000; font-weight: bold;">23.21</span> |
+| **2024/12** | **2.31** | <span style="color: #B22222; font-weight: bold;">+14.7</span> | <span style="color: #B22222; font-weight: bold;">+16.4</span> | **206.5** | <span style="color: #DC143C; font-weight: bold;">10.13</span> | <span style="color: #002818; font-weight: bold;">20.38</span> |
+| **2024/11** | **2.08** | <span style="color: #B22222; font-weight: bold;">+16.7</span> | <span style="color: #B22222; font-weight: bold;">+16.6</span> | **201.5** | <span style="color: #DC143C; font-weight: bold;">10.13</span> | <span style="color: #004225; font-weight: bold;">20.09</span> |
+| **2024/10** | **1.64** | <span style="color: #B22222; font-weight: bold;">+16.1</span> | <span style="color: #B22222; font-weight: bold;">+16.6</span> | **230.5** | <span style="color: #DC143C; font-weight: bold;">10.13</span> | <span style="color: #8B0000; font-weight: bold;">23.21</span> |
 | **2024/09** | **2** | <span style="color: #B22222; font-weight: bold;">+10.3</span> | <span style="color: #B22222; font-weight: bold;">+16.6</span> | **236.5** | <span style="color: #DC143C; font-weight: bold;">9.83</span> | <span style="color: #8B0000; font-weight: bold;">24.06</span> |
 | **2024/08** | **1.83** | <span style="color: #DC143C; font-weight: bold;">+21.5</span> | <span style="color: #B22222; font-weight: bold;">+17.6</span> | **234** | <span style="color: #DC143C; font-weight: bold;">9.83</span> | <span style="color: #8B0000; font-weight: bold;">24.15</span> |
 | **2024/07** | **1.78** | <span style="color: #DC143C; font-weight: bold;">+25.2</span> | <span style="color: #B22222; font-weight: bold;">+17</span> | **223.5** | <span style="color: #DC143C; font-weight: bold;">9.83</span> | <span style="color: #8B0000; font-weight: bold;">23.4</span> |
@@ -106,7 +106,7 @@ description: 月營收表 安碁資訊 (6690) - 自動產生
 | **2024/02** | **1.31** | <span style="color: #B22222; font-weight: bold;">+10.8</span> | <span style="color: #8B0000; font-weight: bold;">+9.62</span> | **185.5** | <span style="color: #B22222; font-weight: bold;">8.95</span> | <span style="color: #002818; font-weight: bold;">20.95</span> |
 | **2024/01** | **1.34** | <span style="color: #8B0000; font-weight: bold;">+8.46</span> | <span style="color: #8B0000; font-weight: bold;">+8.46</span> | **184** | <span style="color: #B22222; font-weight: bold;">8.95</span> | <span style="color: #002818; font-weight: bold;">21.01</span> |
 | **2023/12** | **2.02** | <span style="color: #B22222; font-weight: bold;">+13.5</span> | <span style="color: #B22222; font-weight: bold;">+15</span> | **192.5** | <span style="color: #B22222; font-weight: bold;">8.66</span> | <span style="color: #002818; font-weight: bold;">22.23</span> |
-| **2023/11** | **1.78** | <span style="color: #DC143C; font-weight: bold;">+23.5</span> | <span style="color: #B22222; font-weight: bold;">+15.2</span> | **174.5** | <span style="color: #B22222; font-weight: bold;">8.66</span> | <span style="color: #004225; font-weight: bold;">20.39</span> |
+| **2023/11** | **1.78** | <span style="color: #DC143C; font-weight: bold;">+23.5</span> | <span style="color: #B22222; font-weight: bold;">+15.2</span> | **174.5** | <span style="color: #B22222; font-weight: bold;">8.66</span> | <span style="color: #002818; font-weight: bold;">20.39</span> |
 | **2023/10** | **1.42** | <span style="color: #8B0000; font-weight: bold;">+9.61</span> | <span style="color: #B22222; font-weight: bold;">+14.3</span> | **160** | <span style="color: #B22222; font-weight: bold;">8.66</span> | <span style="color: #004225; font-weight: bold;">18.93</span> |
 | **2023/09** | **1.82** | <span style="color: #DC143C; font-weight: bold;">+20.8</span> | <span style="color: #B22222; font-weight: bold;">+14.8</span> | **159.5** | <span style="color: #B22222; font-weight: bold;">8.35</span> | <span style="color: #004225; font-weight: bold;">19.1</span> |
 | **2023/08** | **1.51** | <span style="color: #B22222; font-weight: bold;">+16.7</span> | <span style="color: #B22222; font-weight: bold;">+13.9</span> | **164** | <span style="color: #B22222; font-weight: bold;">8.35</span> | <span style="color: #004225; font-weight: bold;">19.86</span> |
@@ -135,11 +135,11 @@ description: 月營收表 安碁資訊 (6690) - 自動產生
 | **2021/09** | **0.871** | <span style="color: #8B0000; font-weight: bold;">+3.54</span> | <span style="color: #8B0000; font-weight: bold;">+8.96</span> | **113** | <span style="color: #004225; font-weight: bold;">5.17</span> | <span style="color: #002818; font-weight: bold;">21.86</span> |
 | **2021/08** | **0.619** | <span style="color: #8B0000; font-weight: bold;">+5.21</span> | <span style="color: #8B0000; font-weight: bold;">+9.95</span> | **108.5** | <span style="color: #004225; font-weight: bold;">5.17</span> | <span style="color: #002818; font-weight: bold;">21.03</span> |
 | **2021/07** | **0.591** | <span style="color: #8B0000; font-weight: bold;">+9.69</span> | <span style="color: #B22222; font-weight: bold;">+10.6</span> | **110.5** | <span style="color: #004225; font-weight: bold;">5.17</span> | <span style="color: #002818; font-weight: bold;">21.46</span> |
-| **2021/06** | **0.913** | <span style="color: #B22222; font-weight: bold;">+18.9</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **105** | <span style="color: #004225; font-weight: bold;">5.14</span> | <span style="color: #004225; font-weight: bold;">20.43</span> |
+| **2021/06** | **0.913** | <span style="color: #B22222; font-weight: bold;">+18.9</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **105** | <span style="color: #004225; font-weight: bold;">5.14</span> | <span style="color: #002818; font-weight: bold;">20.43</span> |
 | **2021/05** | **0.592** | <span style="color: #8B0000; font-weight: bold;">+1.8</span> | <span style="color: #8B0000; font-weight: bold;">+8.49</span> | **107.5** | <span style="color: #004225; font-weight: bold;">5.14</span> | <span style="color: #002818; font-weight: bold;">21.16</span> |
 | **2021/04** | **0.544** | <span style="color: #B22222; font-weight: bold;">+14.6</span> | <span style="color: #B22222; font-weight: bold;">+10.3</span> | **125** | <span style="color: #004225; font-weight: bold;">5.14</span> | <span style="color: #8B0000; font-weight: bold;">24.9</span> |
 | **2021/03** | **0.784** | <span style="color: #8B0000; font-weight: bold;">+9.66</span> | <span style="color: #8B0000; font-weight: bold;">+9.1</span> | **133.5** | <span style="color: #006400; font-weight: bold;">4.96</span> | <span style="color: #B22222; font-weight: bold;">26.92</span> |
-| **2021/02** | **0.56** | <span style="color: #8B0000; font-weight: bold;">+5.01</span> | <span style="color: #8B0000; font-weight: bold;">+8.67</span> | **131** | <span style="color: #006400; font-weight: bold;">4.96</span> | <span style="color: #8B0000; font-weight: bold;">26.46</span> |
+| **2021/02** | **0.56** | <span style="color: #8B0000; font-weight: bold;">+5.01</span> | <span style="color: #8B0000; font-weight: bold;">+8.67</span> | **131** | <span style="color: #006400; font-weight: bold;">4.96</span> | <span style="color: #B22222; font-weight: bold;">26.46</span> |
 | **2021/01** | **0.456** | <span style="color: #B22222; font-weight: bold;">+13.6</span> | <span style="color: #B22222; font-weight: bold;">+13.6</span> | **122.5** | <span style="color: #006400; font-weight: bold;">4.96</span> | <span style="color: #8B0000; font-weight: bold;">24.8</span> |
 | **2020/12** | **1.26** | <span style="color: #FF4500; font-weight: bold;">+38.9</span> | <span style="color: #DC143C; font-weight: bold;">+25.1</span> | **143** | <span style="color: #006400; font-weight: bold;">4.93</span> | <span style="color: #B22222; font-weight: bold;">29.01</span> |
 | **2020/11** | **0.682** | <span style="color: #B22222; font-weight: bold;">+17.4</span> | <span style="color: #DC143C; font-weight: bold;">+22.8</span> | **147** | <span style="color: #006400; font-weight: bold;">4.93</span> | <span style="color: #DC143C; font-weight: bold;">30.9</span> |
@@ -267,7 +267,7 @@ description: 月營收表 安碁資訊 (6690) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-06 01:13:29 CST
+- **產生時間**: 2026-04-06 07:09:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

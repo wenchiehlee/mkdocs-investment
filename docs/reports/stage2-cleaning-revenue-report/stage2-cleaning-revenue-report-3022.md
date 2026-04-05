@@ -25,7 +25,7 @@ description: 月營收表 威強電 (3022) - 自動產生
     **:building_construction: 公司名稱**: 威強電  
     **:identification_card: 股票代號**: 3022  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-06 01:13:29 CST
+    **:clock3: 更新時間**: 2026-04-06 07:09:24 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 威強電 (3022) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **3.25** | **4.52** | **7.01** |
-| **P/E倍數** | **9.18** | **11.39** | **15.22** |
+| **EPS(元)** | **3.25** | **4.52** | **6.99** |
+| **P/E倍數** | **9.20** | **11.42** | **15.22** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 威強電 歷史平均獲利能力 (σup=2.50, σlo=1.27)
-    - **P/Ebase**: 威強電 歷史平均估值水準 (σup=3.83, σlo=2.21)
+    - **EPSbase**: 威強電 歷史平均獲利能力 (σup=2.46, σlo=1.28)
+    - **P/Ebase**: 威強電 歷史平均估值水準 (σup=3.80, σlo=2.22)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -103,7 +103,7 @@ description: 月營收表 威強電 (3022) - 自動產生
 | **2024/05** | **5.12** | <span style="color: #006400; font-weight: bold;">-24.1</span> | <span style="color: #006400; font-weight: bold;">-20.3</span> | **86.5** | <span style="color: #DC143C; font-weight: bold;">7.83</span> | <span style="color: #002818; font-weight: bold;">10.81</span> |
 | **2024/04** | **5.48** | <span style="color: #004225; font-weight: bold;">-14.2</span> | <span style="color: #004225; font-weight: bold;">-19.3</span> | **78.9** | <span style="color: #DC143C; font-weight: bold;">7.83</span> | <span style="color: #004225; font-weight: bold;">9.65</span> |
 | **2024/03** | **5.25** | <span style="color: #228B22; font-weight: bold;">-31.3</span> | <span style="color: #006400; font-weight: bold;">-20.9</span> | **82.3** | <span style="color: #FF4500; font-weight: bold;">8.35</span> | <span style="color: #004225; font-weight: bold;">9.86</span> |
-| **2024/02** | **4.93** | <span style="color: #228B22; font-weight: bold;">-31.8</span> | <span style="color: #004225; font-weight: bold;">-15.1</span> | **84.2** | <span style="color: #FF4500; font-weight: bold;">8.35</span> | <span style="color: #002818; font-weight: bold;">10.3</span> |
+| **2024/02** | **4.93** | <span style="color: #228B22; font-weight: bold;">-31.8</span> | <span style="color: #004225; font-weight: bold;">-15.1</span> | **84.2** | <span style="color: #FF4500; font-weight: bold;">8.35</span> | <span style="color: #004225; font-weight: bold;">10.3</span> |
 | **2024/01** | **6.86** | <span style="color: #8B0000; font-weight: bold;">+2.95</span> | <span style="color: #8B0000; font-weight: bold;">+2.95</span> | **78** | <span style="color: #FF4500; font-weight: bold;">8.35</span> | <span style="color: #004225; font-weight: bold;">9.75</span> |
 | **2023/12** | **4.87** | <span style="color: #228B22; font-weight: bold;">-31</span> | <span style="color: #002818; font-weight: bold;">-4.59</span> | **84** | <span style="color: #DC143C; font-weight: bold;">7.83</span> | <span style="color: #002818; font-weight: bold;">10.73</span> |
 | **2023/11** | **5.81** | <span style="color: #006400; font-weight: bold;">-28.1</span> | <span style="color: #002818; font-weight: bold;">-2.01</span> | **86.7** | <span style="color: #DC143C; font-weight: bold;">7.83</span> | <span style="color: #002818; font-weight: bold;">10.73</span> |
@@ -160,9 +160,9 @@ description: 月營收表 威強電 (3022) - 自動產生
 | **2019/08** | **4.59** | <span style="color: #004225; font-weight: bold;">-17.6</span> | <span style="color: #8B0000; font-weight: bold;">+0.71</span> | **36** | <span style="color: #004225; font-weight: bold;">3.55</span> | <span style="color: #002818; font-weight: bold;">10.59</span> |
 | **2019/07** | **5.09** | <span style="color: #8B0000; font-weight: bold;">+7.26</span> | <span style="color: #8B0000; font-weight: bold;">+3.81</span> | **33** | <span style="color: #004225; font-weight: bold;">3.55</span> | <span style="color: #004225; font-weight: bold;">10.15</span> |
 | **2019/06** | **4.97** | <span style="color: #8B0000; font-weight: bold;">+2.98</span> | <span style="color: #8B0000; font-weight: bold;">+3.23</span> | **33.25** | <span style="color: #006400; font-weight: bold;">3.1</span> | <span style="color: #002818; font-weight: bold;">10.73</span> |
-| **2019/05** | **5.06** | <span style="color: #002818; font-weight: bold;">-4.54</span> | <span style="color: #8B0000; font-weight: bold;">+3.28</span> | **32.55** | <span style="color: #006400; font-weight: bold;">3.1</span> | <span style="color: #002818; font-weight: bold;">10.29</span> |
+| **2019/05** | **5.06** | <span style="color: #002818; font-weight: bold;">-4.54</span> | <span style="color: #8B0000; font-weight: bold;">+3.28</span> | **32.55** | <span style="color: #006400; font-weight: bold;">3.1</span> | <span style="color: #004225; font-weight: bold;">10.29</span> |
 | **2019/04** | **4** | <span style="color: #004225; font-weight: bold;">-15.5</span> | <span style="color: #8B0000; font-weight: bold;">+5.6</span> | **34.25** | <span style="color: #006400; font-weight: bold;">3.1</span> | <span style="color: #002818; font-weight: bold;">10.61</span> |
-| **2019/03** | **5.5** | <span style="color: #B22222; font-weight: bold;">+15.9</span> | <span style="color: #B22222; font-weight: bold;">+13.2</span> | **33.9** | <span style="color: #004225; font-weight: bold;">3.29</span> | <span style="color: #002818; font-weight: bold;">10.3</span> |
+| **2019/03** | **5.5** | <span style="color: #B22222; font-weight: bold;">+15.9</span> | <span style="color: #B22222; font-weight: bold;">+13.2</span> | **33.9** | <span style="color: #004225; font-weight: bold;">3.29</span> | <span style="color: #004225; font-weight: bold;">10.3</span> |
 | **2019/02** | **3.17** | <span style="color: #004225; font-weight: bold;">-13.3</span> | <span style="color: #B22222; font-weight: bold;">+11.7</span> | **35.6** | <span style="color: #004225; font-weight: bold;">3.29</span> | <span style="color: #002818; font-weight: bold;">11.3</span> |
 | **2019/01** | **6.2** | <span style="color: #FF4500; font-weight: bold;">+31.1</span> | <span style="color: #FF4500; font-weight: bold;">+31.1</span> | **35.45** | <span style="color: #004225; font-weight: bold;">3.29</span> | <span style="color: #8B0000; font-weight: bold;">11.78</span> |
 | **2018/12** | **6.16** | <span style="color: #B22222; font-weight: bold;">+11.4</span> | <span style="color: #004225; font-weight: bold;">-10.3</span> | **34.65** | <span style="color: #006400; font-weight: bold;">2.87</span> | <span style="color: #8B0000; font-weight: bold;">12.07</span> |
@@ -199,7 +199,7 @@ description: 月營收表 威強電 (3022) - 自動產生
 | **2016/05** | **4.04** | <span style="color: #32CD32; font-weight: bold;">-48.7</span> | <span style="color: #004225; font-weight: bold;">-13.4</span> | **38.1** | <span style="color: #004225; font-weight: bold;">3.45</span> | <span style="color: #002818; font-weight: bold;">10.91</span> |
 | **2016/04** | **6.09** | <span style="color: #002818; font-weight: bold;">-6.37</span> | <span style="color: #002818; font-weight: bold;">-1.48</span> | **35.15** | <span style="color: #004225; font-weight: bold;">3.45</span> | <span style="color: #004225; font-weight: bold;">9.94</span> |
 | **2016/03** | **6** | <span style="color: #002818; font-weight: bold;">-5.96</span> | <span style="color: #8B0000; font-weight: bold;">+0.39</span> | **37.15** | <span style="color: #004225; font-weight: bold;">3.58</span> | <span style="color: #002818; font-weight: bold;">10.38</span> |
-| **2016/02** | **4.98** | <span style="color: #DC143C; font-weight: bold;">+20.1</span> | <span style="color: #8B0000; font-weight: bold;">+4.25</span> | **40.7** | <span style="color: #004225; font-weight: bold;">3.58</span> | <span style="color: #8B0000; font-weight: bold;">11.4</span> |
+| **2016/02** | **4.98** | <span style="color: #DC143C; font-weight: bold;">+20.1</span> | <span style="color: #8B0000; font-weight: bold;">+4.25</span> | **40.7** | <span style="color: #004225; font-weight: bold;">3.58</span> | <span style="color: #002818; font-weight: bold;">11.4</span> |
 | **2016/01** | **5.97** | <span style="color: #002818; font-weight: bold;">-6.07</span> | <span style="color: #002818; font-weight: bold;">-6.07</span> | **40.2** | <span style="color: #004225; font-weight: bold;">3.58</span> | <span style="color: #002818; font-weight: bold;">11.29</span> |
 | **2015/12** | **5.34** | <span style="color: #8B0000; font-weight: bold;">+3.86</span> | <span style="color: #8B0000; font-weight: bold;">+7.12</span> | **39.2** | <span style="color: #004225; font-weight: bold;">3.55</span> | <span style="color: #002818; font-weight: bold;">11.04</span> |
 | **2015/11** | **4.93** | <span style="color: #002818; font-weight: bold;">-8.11</span> | <span style="color: #8B0000; font-weight: bold;">+7.41</span> | **40.4** | <span style="color: #004225; font-weight: bold;">3.55</span> | <span style="color: #002818; font-weight: bold;">10.76</span> |
@@ -278,7 +278,7 @@ description: 月營收表 威強電 (3022) - 自動產生
 | **2009/10** | **-** | N/A | N/A | **33.5** | <span style="color: #228B22; font-weight: bold;">2.01</span> | <span style="color: #FF4500; font-weight: bold;">18.86</span> |
 | **2009/09** | **-** | N/A | N/A | **36.9** | <span style="color: #32CD32; font-weight: bold;">1.66</span> | <span style="color: #FF6347; font-weight: bold;">22.23</span> |
 | **2009/08** | **-** | N/A | N/A | **36.4** | <span style="color: #32CD32; font-weight: bold;">1.66</span> | <span style="color: #FF6347; font-weight: bold;">22.47</span> |
-| **2009/07** | **-** | N/A | N/A | **36.1** | <span style="color: #32CD32; font-weight: bold;">1.66</span> | <span style="color: #FF6347; font-weight: bold;">22.85</span> |
+| **2009/07** | **-** | N/A | N/A | **36.1** | <span style="color: #32CD32; font-weight: bold;">1.66</span> | <span style="color: #FF7F7F; font-weight: bold;">22.85</span> |
 | **2009/06** | **-** | N/A | N/A | **27.6** | <span style="color: #32CD32; font-weight: bold;">1.54</span> | <span style="color: #FF4500; font-weight: bold;">17.92</span> |
 | **2009/05** | **-** | N/A | N/A | **31.1** | <span style="color: #32CD32; font-weight: bold;">1.54</span> | <span style="color: #DC143C; font-weight: bold;">15.27</span> |
 | **2009/04** | **-** | N/A | N/A | **26.5** | <span style="color: #32CD32; font-weight: bold;">1.54</span> | <span style="color: #002818; font-weight: bold;">10.46</span> |
@@ -413,7 +413,7 @@ description: 月營收表 威強電 (3022) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-06 01:13:29 CST
+- **產生時間**: 2026-04-06 07:09:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

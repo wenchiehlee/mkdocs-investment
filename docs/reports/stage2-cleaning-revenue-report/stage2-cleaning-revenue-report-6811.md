@@ -25,7 +25,7 @@ description: 月營收表 宏碁資訊 (6811) - 自動產生
     **:building_construction: 公司名稱**: 宏碁資訊  
     **:identification_card: 股票代號**: 6811  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-06 01:13:29 CST
+    **:clock3: 更新時間**: 2026-04-06 07:09:24 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 宏碁資訊 (6811) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **11.56** | **12.71** | **13.69** |
-| **P/E倍數** | **14.24** | **18.96** | **23.41** |
+| **EPS(元)** | **11.57** | **12.78** | **13.77** |
+| **P/E倍數** | **13.92** | **18.68** | **23.25** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 宏碁資訊 歷史平均獲利能力 (σup=0.99, σlo=1.15)
-    - **P/Ebase**: 宏碁資訊 歷史平均估值水準 (σup=4.46, σlo=4.72)
+    - **EPSbase**: 宏碁資訊 歷史平均獲利能力 (σup=0.99, σlo=1.21)
+    - **P/Ebase**: 宏碁資訊 歷史平均估值水準 (σup=4.57, σlo=4.76)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -83,10 +83,10 @@ description: 月營收表 宏碁資訊 (6811) - 自動產生
 | **2026/01** | **14.86** | <span style="color: #FF4500; font-weight: bold;">+33.2</span> | <span style="color: #FF4500; font-weight: bold;">+33.2</span> | **205.5** | <span style="color: #FF4500; font-weight: bold;">14.36</span> | <span style="color: #004225; font-weight: bold;">14.31</span> |
 | **2025/12** | **11.41** | <span style="color: #DC143C; font-weight: bold;">+21.2</span> | <span style="color: #B22222; font-weight: bold;">+11.2</span> | **211.5** | <span style="color: #FF4500; font-weight: bold;">14.36</span> | <span style="color: #004225; font-weight: bold;">14.73</span> |
 | **2025/11** | **5.35** | <span style="color: #B22222; font-weight: bold;">+19.7</span> | <span style="color: #8B0000; font-weight: bold;">+9.96</span> | **214** | <span style="color: #FF4500; font-weight: bold;">14.36</span> | <span style="color: #004225; font-weight: bold;">15.12</span> |
-| **2025/10** | **6.8** | <span style="color: #8B0000; font-weight: bold;">+1.15</span> | <span style="color: #8B0000; font-weight: bold;">+9.37</span> | **230** | <span style="color: #FF4500; font-weight: bold;">14.36</span> | <span style="color: #004225; font-weight: bold;">16.49</span> |
-| **2025/09** | **7.75** | <span style="color: #002818; font-weight: bold;">-6.36</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **243.5** | <span style="color: #DC143C; font-weight: bold;">13.74</span> | <span style="color: #002818; font-weight: bold;">17.72</span> |
-| **2025/08** | **6.61** | <span style="color: #8B0000; font-weight: bold;">+9.91</span> | <span style="color: #B22222; font-weight: bold;">+12.6</span> | **263** | <span style="color: #DC143C; font-weight: bold;">13.74</span> | <span style="color: #8B0000; font-weight: bold;">19.22</span> |
-| **2025/07** | **7.64** | <span style="color: #B22222; font-weight: bold;">+18.4</span> | <span style="color: #B22222; font-weight: bold;">+12.9</span> | **234.5** | <span style="color: #DC143C; font-weight: bold;">13.74</span> | <span style="color: #002818; font-weight: bold;">17.2</span> |
+| **2025/10** | **6.8** | <span style="color: #8B0000; font-weight: bold;">+1.15</span> | <span style="color: #8B0000; font-weight: bold;">+9.37</span> | **230** | <span style="color: #FF4500; font-weight: bold;">14.36</span> | <span style="color: #002818; font-weight: bold;">16.49</span> |
+| **2025/09** | **7.75** | <span style="color: #002818; font-weight: bold;">-6.36</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **243.5** | <span style="color: #B22222; font-weight: bold;">13.74</span> | <span style="color: #002818; font-weight: bold;">17.72</span> |
+| **2025/08** | **6.61** | <span style="color: #8B0000; font-weight: bold;">+9.91</span> | <span style="color: #B22222; font-weight: bold;">+12.6</span> | **263** | <span style="color: #B22222; font-weight: bold;">13.74</span> | <span style="color: #8B0000; font-weight: bold;">19.22</span> |
+| **2025/07** | **7.64** | <span style="color: #B22222; font-weight: bold;">+18.4</span> | <span style="color: #B22222; font-weight: bold;">+12.9</span> | **234.5** | <span style="color: #B22222; font-weight: bold;">13.74</span> | <span style="color: #002818; font-weight: bold;">17.2</span> |
 | **2025/06** | **14.15** | <span style="color: #B22222; font-weight: bold;">+11.2</span> | <span style="color: #B22222; font-weight: bold;">+12.1</span> | **241.5** | <span style="color: #B22222; font-weight: bold;">13.58</span> | <span style="color: #002818; font-weight: bold;">17.78</span> |
 | **2025/05** | **4.41** | <span style="color: #B22222; font-weight: bold;">+12.2</span> | <span style="color: #B22222; font-weight: bold;">+12.4</span> | **239.5** | <span style="color: #B22222; font-weight: bold;">13.58</span> | <span style="color: #002818; font-weight: bold;">17.64</span> |
 | **2025/04** | **7.12** | <span style="color: #002818; font-weight: bold;">-1.63</span> | <span style="color: #B22222; font-weight: bold;">+12.5</span> | **238.5** | <span style="color: #B22222; font-weight: bold;">13.58</span> | <span style="color: #002818; font-weight: bold;">17.58</span> |
@@ -96,7 +96,7 @@ description: 月營收表 宏碁資訊 (6811) - 自動產生
 | **2024/12** | **9.42** | <span style="color: #8B0000; font-weight: bold;">+6.15</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **287.5** | <span style="color: #8B0000; font-weight: bold;">13.0</span> | <span style="color: #B22222; font-weight: bold;">22.12</span> |
 | **2024/11** | **4.47** | <span style="color: #FF4500; font-weight: bold;">+37.6</span> | <span style="color: #B22222; font-weight: bold;">+16.3</span> | **241.5** | <span style="color: #8B0000; font-weight: bold;">13.0</span> | <span style="color: #002818; font-weight: bold;">18.52</span> |
 | **2024/10** | **6.72** | <span style="color: #FF4500; font-weight: bold;">+34</span> | <span style="color: #B22222; font-weight: bold;">+15.2</span> | **252** | <span style="color: #8B0000; font-weight: bold;">13.0</span> | <span style="color: #8B0000; font-weight: bold;">19.27</span> |
-| **2024/09** | **8.28** | <span style="color: #B22222; font-weight: bold;">+16.8</span> | <span style="color: #B22222; font-weight: bold;">+13.6</span> | **248.5** | <span style="color: #8B0000; font-weight: bold;">13.12</span> | <span style="color: #002818; font-weight: bold;">18.94</span> |
+| **2024/09** | **8.28** | <span style="color: #B22222; font-weight: bold;">+16.8</span> | <span style="color: #B22222; font-weight: bold;">+13.6</span> | **248.5** | <span style="color: #8B0000; font-weight: bold;">13.12</span> | <span style="color: #8B0000; font-weight: bold;">18.94</span> |
 | **2024/08** | **6.01** | <span style="color: #DC143C; font-weight: bold;">+26.9</span> | <span style="color: #B22222; font-weight: bold;">+13.2</span> | **259** | <span style="color: #8B0000; font-weight: bold;">13.12</span> | <span style="color: #8B0000; font-weight: bold;">19.79</span> |
 | **2024/07** | **6.46** | <span style="color: #B22222; font-weight: bold;">+13.2</span> | <span style="color: #B22222; font-weight: bold;">+11.8</span> | **258.5** | <span style="color: #8B0000; font-weight: bold;">13.12</span> | <span style="color: #8B0000; font-weight: bold;">19.79</span> |
 | **2024/06** | **12.72** | <span style="color: #8B0000; font-weight: bold;">+1.7</span> | <span style="color: #B22222; font-weight: bold;">+11.6</span> | **285** | <span style="color: #8B0000; font-weight: bold;">13.03</span> | <span style="color: #B22222; font-weight: bold;">21.87</span> |
@@ -104,7 +104,7 @@ description: 月營收表 宏碁資訊 (6811) - 自動產生
 | **2024/04** | **7.24** | <span style="color: #8B0000; font-weight: bold;">+5.29</span> | <span style="color: #B22222; font-weight: bold;">+15.6</span> | **262.5** | <span style="color: #8B0000; font-weight: bold;">13.03</span> | <span style="color: #8B0000; font-weight: bold;">20.53</span> |
 | **2024/03** | **6.74** | <span style="color: #8B0000; font-weight: bold;">+7.27</span> | <span style="color: #B22222; font-weight: bold;">+19.6</span> | **284** | <span style="color: #002818; font-weight: bold;">12.66</span> | <span style="color: #B22222; font-weight: bold;">22.43</span> |
 | **2024/02** | **3.96** | <span style="color: #006400; font-weight: bold;">-24.1</span> | <span style="color: #DC143C; font-weight: bold;">+26.1</span> | **345.5** | <span style="color: #002818; font-weight: bold;">12.66</span> | <span style="color: #FF4500; font-weight: bold;">27.7</span> |
-| **2024/01** | **10.94** | <span style="color: #FF7F7F; font-weight: bold;">+65.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+65.6</span> | **287.5** | <span style="color: #002818; font-weight: bold;">12.66</span> | <span style="color: #B22222; font-weight: bold;">23.4</span> |
+| **2024/01** | **10.94** | <span style="color: #FF7F7F; font-weight: bold;">+65.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+65.6</span> | **287.5** | <span style="color: #002818; font-weight: bold;">12.66</span> | <span style="color: #DC143C; font-weight: bold;">23.4</span> |
 | **2023/12** | **8.87** | <span style="color: #8B0000; font-weight: bold;">+3.11</span> | <span style="color: #8B0000; font-weight: bold;">+4.86</span> | **295** | <span style="color: #004225; font-weight: bold;">12.1</span> | <span style="color: #DC143C; font-weight: bold;">24.38</span> |
 | **2023/11** | **3.25** | <span style="color: #8B0000; font-weight: bold;">+6.49</span> | <span style="color: #8B0000; font-weight: bold;">+5.01</span> | **267** | <span style="color: #004225; font-weight: bold;">12.1</span> | <span style="color: #B22222; font-weight: bold;">22.21</span> |
 | **2023/10** | **5.02** | <span style="color: #8B0000; font-weight: bold;">+0.52</span> | <span style="color: #8B0000; font-weight: bold;">+4.93</span> | **256** | <span style="color: #004225; font-weight: bold;">12.1</span> | <span style="color: #B22222; font-weight: bold;">21.44</span> |
@@ -119,7 +119,7 @@ description: 月營收表 宏碁資訊 (6811) - 自動產生
 | **2023/01** | **6.6** | <span style="color: #B22222; font-weight: bold;">+10.2</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **143** | <span style="color: #228B22; font-weight: bold;">10.62</span> | <span style="color: #006400; font-weight: bold;">12.88</span> |
 | **2022/12** | **8.6** | <span style="color: #FF4500; font-weight: bold;">+33.8</span> | <span style="color: #B22222; font-weight: bold;">+16.8</span> | **136** | <span style="color: #006400; font-weight: bold;">11.35</span> | <span style="color: #006400; font-weight: bold;">11.98</span> |
 | **2022/11** | **3.05** | <span style="color: #002818; font-weight: bold;">-8.26</span> | <span style="color: #B22222; font-weight: bold;">+14.9</span> | **127** | <span style="color: #006400; font-weight: bold;">11.35</span> | <span style="color: #228B22; font-weight: bold;">11.04</span> |
-| **2022/10** | **4.99** | <span style="color: #B22222; font-weight: bold;">+10.7</span> | <span style="color: #B22222; font-weight: bold;">+16.3</span> | **109.5** | <span style="color: #006400; font-weight: bold;">11.35</span> | <span style="color: #32CD32; font-weight: bold;">9.39</span> |
+| **2022/10** | **4.99** | <span style="color: #B22222; font-weight: bold;">+10.7</span> | <span style="color: #B22222; font-weight: bold;">+16.3</span> | **109.5** | <span style="color: #006400; font-weight: bold;">11.35</span> | <span style="color: #228B22; font-weight: bold;">9.39</span> |
 | **2022/09** | **6.66** | <span style="color: #002818; font-weight: bold;">-5.71</span> | <span style="color: #B22222; font-weight: bold;">+16.9</span> | **132** | <span style="color: #004225; font-weight: bold;">11.82</span> | <span style="color: #228B22; font-weight: bold;">11.17</span> |
 | **2022/08** | **5.45** | <span style="color: #B22222; font-weight: bold;">+18</span> | <span style="color: #DC143C; font-weight: bold;">+20.8</span> | **151.5** | <span style="color: #004225; font-weight: bold;">11.82</span> | <span style="color: #006400; font-weight: bold;">12.82</span> |
 | **2022/07** | **6.06** | <span style="color: #FF6347; font-weight: bold;">+45.5</span> | <span style="color: #DC143C; font-weight: bold;">+21.2</span> | **-** | N/A | N/A |
@@ -239,7 +239,7 @@ description: 月營收表 宏碁資訊 (6811) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-06 01:13:29 CST
+- **產生時間**: 2026-04-06 07:09:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

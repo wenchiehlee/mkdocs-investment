@@ -25,7 +25,7 @@ description: 月營收表 聯電 (2303) - 自動產生
     **:building_construction: 公司名稱**: 聯電  
     **:identification_card: 股票代號**: 2303  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-06 01:13:29 CST
+    **:clock3: 更新時間**: 2026-04-06 07:09:24 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 聯電 (2303) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **0.41** | **1.81** | **4.68** |
-| **P/E倍數** | **10.75** | **15.68** | **26.34** |
+| **EPS(元)** | **0.43** | **1.83** | **4.71** |
+| **P/E倍數** | **10.75** | **15.66** | **26.26** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 聯電 歷史平均獲利能力 (σup=2.87, σlo=1.40)
-    - **P/Ebase**: 聯電 歷史平均估值水準 (σup=10.66, σlo=4.93)
+    - **EPSbase**: 聯電 歷史平均獲利能力 (σup=2.88, σlo=1.40)
+    - **P/Ebase**: 聯電 歷史平均估值水準 (σup=10.60, σlo=4.91)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -144,9 +144,9 @@ description: 月營收表 聯電 (2303) - 自動產生
 | **2020/12** | **152.9** | <span style="color: #B22222; font-weight: bold;">+14.3</span> | <span style="color: #B22222; font-weight: bold;">+19.3</span> | **47.15** | <span style="color: #8B0000; font-weight: bold;">2.42</span> | <span style="color: #8B0000; font-weight: bold;">19.48</span> |
 | **2020/11** | **147.3** | <span style="color: #8B0000; font-weight: bold;">+6</span> | <span style="color: #B22222; font-weight: bold;">+19.8</span> | **40.5** | <span style="color: #8B0000; font-weight: bold;">2.42</span> | <span style="color: #8B0000; font-weight: bold;">18.24</span> |
 | **2020/10** | **152.8** | <span style="color: #8B0000; font-weight: bold;">+4.76</span> | <span style="color: #DC143C; font-weight: bold;">+21.4</span> | **30.7** | <span style="color: #8B0000; font-weight: bold;">2.42</span> | <span style="color: #002818; font-weight: bold;">15.2</span> |
-| **2020/09** | **145.3** | <span style="color: #FF4500; font-weight: bold;">+34.2</span> | <span style="color: #DC143C; font-weight: bold;">+23.7</span> | **28.55** | <span style="color: #8B0000; font-weight: bold;">1.82</span> | <span style="color: #8B0000; font-weight: bold;">15.69</span> |
-| **2020/08** | **148.4** | <span style="color: #B22222; font-weight: bold;">+12.6</span> | <span style="color: #DC143C; font-weight: bold;">+22.5</span> | **21.2** | <span style="color: #8B0000; font-weight: bold;">1.82</span> | <span style="color: #004225; font-weight: bold;">12.87</span> |
-| **2020/07** | **154.9** | <span style="color: #B22222; font-weight: bold;">+12.9</span> | <span style="color: #DC143C; font-weight: bold;">+24</span> | **22.35** | <span style="color: #8B0000; font-weight: bold;">1.82</span> | <span style="color: #002818; font-weight: bold;">15.17</span> |
+| **2020/09** | **145.3** | <span style="color: #FF4500; font-weight: bold;">+34.2</span> | <span style="color: #DC143C; font-weight: bold;">+23.7</span> | **28.55** | <span style="color: #002818; font-weight: bold;">1.82</span> | <span style="color: #8B0000; font-weight: bold;">15.69</span> |
+| **2020/08** | **148.4** | <span style="color: #B22222; font-weight: bold;">+12.6</span> | <span style="color: #DC143C; font-weight: bold;">+22.5</span> | **21.2** | <span style="color: #002818; font-weight: bold;">1.82</span> | <span style="color: #004225; font-weight: bold;">12.87</span> |
+| **2020/07** | **154.9** | <span style="color: #B22222; font-weight: bold;">+12.9</span> | <span style="color: #DC143C; font-weight: bold;">+24</span> | **22.35** | <span style="color: #002818; font-weight: bold;">1.82</span> | <span style="color: #002818; font-weight: bold;">15.17</span> |
 | **2020/06** | **145.8** | <span style="color: #DC143C; font-weight: bold;">+24.6</span> | <span style="color: #DC143C; font-weight: bold;">+26.3</span> | **15.9** | <span style="color: #002818; font-weight: bold;">1.3</span> | <span style="color: #004225; font-weight: bold;">12.23</span> |
 | **2020/05** | **147.5** | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | <span style="color: #DC143C; font-weight: bold;">+26.6</span> | **15.45** | <span style="color: #002818; font-weight: bold;">1.3</span> | <span style="color: #004225; font-weight: bold;">13.17</span> |
 | **2020/04** | **150.6** | <span style="color: #DC143C; font-weight: bold;">+24.6</span> | <span style="color: #DC143C; font-weight: bold;">+28.3</span> | **15.55** | <span style="color: #002818; font-weight: bold;">1.3</span> | <span style="color: #002818; font-weight: bold;">14.86</span> |
@@ -413,7 +413,7 @@ description: 月營收表 聯電 (2303) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-06 01:13:29 CST
+- **產生時間**: 2026-04-06 07:09:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

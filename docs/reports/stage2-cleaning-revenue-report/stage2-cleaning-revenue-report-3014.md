@@ -25,7 +25,7 @@ description: 月營收表 聯陽 (3014) - 自動產生
     **:building_construction: 公司名稱**: 聯陽  
     **:identification_card: 股票代號**: 3014  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-06 01:13:29 CST
+    **:clock3: 更新時間**: 2026-04-06 07:09:24 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 聯陽 (3014) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **-0.74** | **3.71** | **8.77** |
-| **P/E倍數** | **12.35** | **17.20** | **28.87** |
+| **EPS(元)** | **-0.73** | **3.76** | **8.79** |
+| **P/E倍數** | **12.35** | **17.18** | **28.87** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 聯陽 歷史平均獲利能力 (σup=5.06, σlo=4.45)
-    - **P/Ebase**: 聯陽 歷史平均估值水準 (σup=11.67, σlo=4.85)
+    - **EPSbase**: 聯陽 歷史平均獲利能力 (σup=5.03, σlo=4.50)
+    - **P/Ebase**: 聯陽 歷史平均估值水準 (σup=11.68, σlo=4.83)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -261,9 +261,9 @@ description: 月營收表 聯陽 (3014) - 自動產生
 | **2011/03** | **-** | N/A | N/A | **48.15** | <span style="color: #004225; font-weight: bold;">1.3</span> | <span style="color: #FF4500; font-weight: bold;">37.04</span> |
 | **2011/02** | **-** | N/A | N/A | **52.3** | <span style="color: #004225; font-weight: bold;">1.3</span> | <span style="color: #FF4500; font-weight: bold;">38.18</span> |
 | **2011/01** | **-** | N/A | N/A | **60.6** | <span style="color: #004225; font-weight: bold;">1.3</span> | <span style="color: #FF6347; font-weight: bold;">42.08</span> |
-| **2010/12** | **-** | N/A | N/A | **61.9** | <span style="color: #002818; font-weight: bold;">1.51</span> | <span style="color: #FF6347; font-weight: bold;">40.99</span> |
-| **2010/11** | **-** | N/A | N/A | **54.7** | <span style="color: #002818; font-weight: bold;">1.51</span> | <span style="color: #DC143C; font-weight: bold;">34.62</span> |
-| **2010/10** | **-** | N/A | N/A | **53.6** | <span style="color: #002818; font-weight: bold;">1.51</span> | <span style="color: #DC143C; font-weight: bold;">32.48</span> |
+| **2010/12** | **-** | N/A | N/A | **61.9** | <span style="color: #004225; font-weight: bold;">1.51</span> | <span style="color: #FF6347; font-weight: bold;">40.99</span> |
+| **2010/11** | **-** | N/A | N/A | **54.7** | <span style="color: #004225; font-weight: bold;">1.51</span> | <span style="color: #DC143C; font-weight: bold;">34.62</span> |
+| **2010/10** | **-** | N/A | N/A | **53.6** | <span style="color: #004225; font-weight: bold;">1.51</span> | <span style="color: #DC143C; font-weight: bold;">32.48</span> |
 | **2010/09** | **-** | N/A | N/A | **63** | <span style="color: #002818; font-weight: bold;">1.72</span> | <span style="color: #FF4500; font-weight: bold;">36.63</span> |
 | **2010/08** | **-** | N/A | N/A | **50** | <span style="color: #002818; font-weight: bold;">1.72</span> | <span style="color: #B22222; font-weight: bold;">26.18</span> |
 | **2010/07** | **-** | N/A | N/A | **55** | <span style="color: #002818; font-weight: bold;">1.72</span> | <span style="color: #B22222; font-weight: bold;">26.19</span> |
@@ -413,7 +413,7 @@ description: 月營收表 聯陽 (3014) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-06 01:13:29 CST
+- **產生時間**: 2026-04-06 07:09:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

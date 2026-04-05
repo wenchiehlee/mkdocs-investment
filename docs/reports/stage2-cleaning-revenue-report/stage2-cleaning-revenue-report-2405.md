@@ -25,7 +25,7 @@ description: 月營收表 輔信 (2405) - 自動產生
     **:building_construction: 公司名稱**: 輔信  
     **:identification_card: 股票代號**: 2405  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-06 01:13:29 CST
+    **:clock3: 更新時間**: 2026-04-06 07:09:24 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 輔信 (2405) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **-0.84** | **-0.09** | **0.48** |
-| **P/E倍數** | **37.53** | **170.84** | **1023.11** |
+| **EPS(元)** | **-0.84** | **-0.09** | **0.47** |
+| **P/E倍數** | **37.74** | **172.09** | **1023.69** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 輔信 歷史平均獲利能力 (σup=0.57, σlo=0.75)
-    - **P/Ebase**: 輔信 歷史平均估值水準 (σup=852.27, σlo=133.31)
+    - **P/Ebase**: 輔信 歷史平均估值水準 (σup=851.60, σlo=134.35)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -306,15 +306,15 @@ description: 月營收表 輔信 (2405) - 自動產生
 | **2007/06** | **-** | N/A | N/A | **19** | <span style="color: #8B0000; font-weight: bold;">0.02</span> | <span style="color: #B22222; font-weight: bold;">950.0</span> |
 | **2007/05** | **-** | N/A | N/A | **13.55** | <span style="color: #8B0000; font-weight: bold;">0.02</span> | <span style="color: #000000;">-</span> |
 | **2007/04** | **-** | N/A | N/A | **13.25** | <span style="color: #8B0000; font-weight: bold;">0.02</span> | <span style="color: #000000;">-</span> |
-| **2007/03** | **-** | N/A | N/A | **14.8** | <span style="color: #002818; font-weight: bold;">-0.09</span> | <span style="color: #000000;">-</span> |
-| **2007/02** | **-** | N/A | N/A | **12.9** | <span style="color: #002818; font-weight: bold;">-0.09</span> | <span style="color: #000000;">-</span> |
-| **2007/01** | **-** | N/A | N/A | **12.65** | <span style="color: #002818; font-weight: bold;">-0.09</span> | <span style="color: #FF7F7F; font-weight: bold;">3795.0</span> |
+| **2007/03** | **-** | N/A | N/A | **14.8** | <span style="color: #8B0000; font-weight: bold;">-0.09</span> | <span style="color: #000000;">-</span> |
+| **2007/02** | **-** | N/A | N/A | **12.9** | <span style="color: #8B0000; font-weight: bold;">-0.09</span> | <span style="color: #000000;">-</span> |
+| **2007/01** | **-** | N/A | N/A | **12.65** | <span style="color: #8B0000; font-weight: bold;">-0.09</span> | <span style="color: #FF7F7F; font-weight: bold;">3795.0</span> |
 | **2006/12** | **-** | N/A | N/A | **14.7** | <span style="color: #8B0000; font-weight: bold;">0.05</span> | <span style="color: #8B0000; font-weight: bold;">294.0</span> |
 | **2006/11** | **-** | N/A | N/A | **16.4** | <span style="color: #8B0000; font-weight: bold;">0.05</span> | <span style="color: #002818; font-weight: bold;">169.7</span> |
 | **2006/10** | **-** | N/A | N/A | **9.42** | <span style="color: #8B0000; font-weight: bold;">0.05</span> | <span style="color: #004225; font-weight: bold;">65.72</span> |
-| **2006/09** | **-** | N/A | N/A | **7.78** | <span style="color: #8B0000; font-weight: bold;">0.19</span> | <span style="color: #004225; font-weight: bold;">40.95</span> |
-| **2006/08** | **-** | N/A | N/A | **8.78** | <span style="color: #8B0000; font-weight: bold;">0.19</span> | <span style="color: #004225; font-weight: bold;">38.17</span> |
-| **2006/07** | **-** | N/A | N/A | **9.86** | <span style="color: #8B0000; font-weight: bold;">0.19</span> | <span style="color: #006400; font-weight: bold;">36.52</span> |
+| **2006/09** | **-** | N/A | N/A | **7.78** | <span style="color: #B22222; font-weight: bold;">0.19</span> | <span style="color: #004225; font-weight: bold;">40.95</span> |
+| **2006/08** | **-** | N/A | N/A | **8.78** | <span style="color: #B22222; font-weight: bold;">0.19</span> | <span style="color: #004225; font-weight: bold;">38.17</span> |
+| **2006/07** | **-** | N/A | N/A | **9.86** | <span style="color: #B22222; font-weight: bold;">0.19</span> | <span style="color: #006400; font-weight: bold;">36.52</span> |
 | **2006/06** | **-** | N/A | N/A | **11** | <span style="color: #B22222; font-weight: bold;">0.31</span> | <span style="color: #006400; font-weight: bold;">35.48</span> |
 | **2006/05** | **-** | N/A | N/A | **12.9** | <span style="color: #B22222; font-weight: bold;">0.31</span> | <span style="color: #006400; font-weight: bold;">34.55</span> |
 | **2006/04** | **-** | N/A | N/A | **13.25** | <span style="color: #B22222; font-weight: bold;">0.31</span> | <span style="color: #006400; font-weight: bold;">30.34</span> |
@@ -413,7 +413,7 @@ description: 月營收表 輔信 (2405) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-06 01:13:29 CST
+- **產生時間**: 2026-04-06 07:09:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

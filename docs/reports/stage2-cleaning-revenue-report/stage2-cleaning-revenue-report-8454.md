@@ -25,7 +25,7 @@ description: 月營收表 富邦媒 (8454) - 自動產生
     **:building_construction: 公司名稱**: 富邦媒  
     **:identification_card: 股票代號**: 8454  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-06 01:13:29 CST
+    **:clock3: 更新時間**: 2026-04-06 07:09:24 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 富邦媒 (8454) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **9.09** | **11.95** | **15.33** |
-| **P/E倍數** | **25.27** | **36.46** | **69.56** |
+| **EPS(元)** | **9.13** | **11.94** | **15.33** |
+| **P/E倍數** | **24.91** | **36.16** | **69.07** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 富邦媒 歷史平均獲利能力 (σup=3.38, σlo=2.86)
-    - **P/Ebase**: 富邦媒 歷史平均估值水準 (σup=33.10, σlo=11.19)
+    - **EPSbase**: 富邦媒 歷史平均獲利能力 (σup=3.39, σlo=2.81)
+    - **P/Ebase**: 富邦媒 歷史平均估值水準 (σup=32.91, σlo=11.24)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -107,7 +107,7 @@ description: 月營收表 富邦媒 (8454) - 自動產生
 | **2024/01** | **96.65** | <span style="color: #B22222; font-weight: bold;">+10.4</span> | <span style="color: #B22222; font-weight: bold;">+10.4</span> | **436** | <span style="color: #B22222; font-weight: bold;">15.17</span> | <span style="color: #004225; font-weight: bold;">28.83</span> |
 | **2023/12** | **97.34** | <span style="color: #8B0000; font-weight: bold;">+1.81</span> | <span style="color: #8B0000; font-weight: bold;">+5.61</span> | **509** | <span style="color: #B22222; font-weight: bold;">15.1</span> | <span style="color: #002818; font-weight: bold;">33.71</span> |
 | **2023/11** | **151.6** | <span style="color: #8B0000; font-weight: bold;">+4.27</span> | <span style="color: #8B0000; font-weight: bold;">+6</span> | **518** | <span style="color: #B22222; font-weight: bold;">15.1</span> | <span style="color: #002818; font-weight: bold;">34.72</span> |
-| **2023/10** | **79.44** | <span style="color: #8B0000; font-weight: bold;">+3.09</span> | <span style="color: #8B0000; font-weight: bold;">+6.31</span> | **533** | <span style="color: #B22222; font-weight: bold;">15.1</span> | <span style="color: #002818; font-weight: bold;">36.16</span> |
+| **2023/10** | **79.44** | <span style="color: #8B0000; font-weight: bold;">+3.09</span> | <span style="color: #8B0000; font-weight: bold;">+6.31</span> | **533** | <span style="color: #B22222; font-weight: bold;">15.1</span> | <span style="color: #8B0000; font-weight: bold;">36.16</span> |
 | **2023/09** | **79.97** | <span style="color: #8B0000; font-weight: bold;">+6.57</span> | <span style="color: #8B0000; font-weight: bold;">+6.66</span> | **502** | <span style="color: #B22222; font-weight: bold;">14.56</span> | <span style="color: #002818; font-weight: bold;">34.48</span> |
 | **2023/08** | **86.19** | <span style="color: #8B0000; font-weight: bold;">+6.18</span> | <span style="color: #8B0000; font-weight: bold;">+6.67</span> | **520** | <span style="color: #B22222; font-weight: bold;">14.56</span> | <span style="color: #002818; font-weight: bold;">34.54</span> |
 | **2023/07** | **84.59** | <span style="color: #8B0000; font-weight: bold;">+6.56</span> | <span style="color: #8B0000; font-weight: bold;">+6.74</span> | **599** | <span style="color: #B22222; font-weight: bold;">14.56</span> | <span style="color: #8B0000; font-weight: bold;">38.51</span> |
@@ -143,7 +143,7 @@ description: 月營收表 富邦媒 (8454) - 自動產生
 | **2021/01** | **67.48** | <span style="color: #FF4500; font-weight: bold;">+36.9</span> | <span style="color: #FF4500; font-weight: bold;">+36.9</span> | **788** | <span style="color: #DC143C; font-weight: bold;">16.28</span> | <span style="color: #B22222; font-weight: bold;">53.7</span> |
 | **2020/12** | **64.82** | <span style="color: #DC143C; font-weight: bold;">+25.6</span> | <span style="color: #DC143C; font-weight: bold;">+29.6</span> | **637** | <span style="color: #B22222; font-weight: bold;">13.87</span> | <span style="color: #8B0000; font-weight: bold;">45.93</span> |
 | **2020/11** | **92.65** | <span style="color: #FF4500; font-weight: bold;">+38.7</span> | <span style="color: #FF4500; font-weight: bold;">+30.1</span> | **620** | <span style="color: #B22222; font-weight: bold;">13.87</span> | <span style="color: #8B0000; font-weight: bold;">46.22</span> |
-| **2020/10** | **49.29** | <span style="color: #DC143C; font-weight: bold;">+21.2</span> | <span style="color: #DC143C; font-weight: bold;">+28.7</span> | **684** | <span style="color: #B22222; font-weight: bold;">13.87</span> | <span style="color: #8B0000; font-weight: bold;">52.79</span> |
+| **2020/10** | **49.29** | <span style="color: #DC143C; font-weight: bold;">+21.2</span> | <span style="color: #DC143C; font-weight: bold;">+28.7</span> | **684** | <span style="color: #B22222; font-weight: bold;">13.87</span> | <span style="color: #B22222; font-weight: bold;">52.79</span> |
 | **2020/09** | **49.6** | <span style="color: #DC143C; font-weight: bold;">+22.3</span> | <span style="color: #DC143C; font-weight: bold;">+29.5</span> | **703** | <span style="color: #8B0000; font-weight: bold;">12.5</span> | <span style="color: #B22222; font-weight: bold;">56.24</span> |
 | **2020/08** | **54.84** | <span style="color: #DC143C; font-weight: bold;">+28.7</span> | <span style="color: #FF4500; font-weight: bold;">+30.4</span> | **729** | <span style="color: #8B0000; font-weight: bold;">12.5</span> | <span style="color: #B22222; font-weight: bold;">60.07</span> |
 | **2020/07** | **51.39** | <span style="color: #DC143C; font-weight: bold;">+26.7</span> | <span style="color: #FF4500; font-weight: bold;">+30.7</span> | **650** | <span style="color: #8B0000; font-weight: bold;">12.5</span> | <span style="color: #B22222; font-weight: bold;">55.21</span> |
@@ -160,7 +160,7 @@ description: 月營收表 富邦媒 (8454) - 自動產生
 | **2019/08** | **42.61** | <span style="color: #DC143C; font-weight: bold;">+25.7</span> | <span style="color: #DC143C; font-weight: bold;">+20.7</span> | **258.5** | <span style="color: #004225; font-weight: bold;">9.88</span> | <span style="color: #004225; font-weight: bold;">25.89</span> |
 | **2019/07** | **40.56** | <span style="color: #DC143C; font-weight: bold;">+26.4</span> | <span style="color: #B22222; font-weight: bold;">+19.9</span> | **262** | <span style="color: #004225; font-weight: bold;">9.88</span> | <span style="color: #004225; font-weight: bold;">25.97</span> |
 | **2019/06** | **40.34** | <span style="color: #FF4500; font-weight: bold;">+30.6</span> | <span style="color: #B22222; font-weight: bold;">+18.8</span> | **262.5** | <span style="color: #004225; font-weight: bold;">10.19</span> | <span style="color: #004225; font-weight: bold;">25.76</span> |
-| **2019/05** | **40.37** | <span style="color: #B22222; font-weight: bold;">+17.1</span> | <span style="color: #B22222; font-weight: bold;">+16.7</span> | **262** | <span style="color: #004225; font-weight: bold;">10.19</span> | <span style="color: #006400; font-weight: bold;">25.06</span> |
+| **2019/05** | **40.37** | <span style="color: #B22222; font-weight: bold;">+17.1</span> | <span style="color: #B22222; font-weight: bold;">+16.7</span> | **262** | <span style="color: #004225; font-weight: bold;">10.19</span> | <span style="color: #004225; font-weight: bold;">25.06</span> |
 | **2019/04** | **37.44** | <span style="color: #DC143C; font-weight: bold;">+21</span> | <span style="color: #B22222; font-weight: bold;">+16.6</span> | **275.5** | <span style="color: #004225; font-weight: bold;">10.19</span> | <span style="color: #004225; font-weight: bold;">25.69</span> |
 | **2019/03** | **39.14** | <span style="color: #DC143C; font-weight: bold;">+20.8</span> | <span style="color: #B22222; font-weight: bold;">+15.2</span> | **254.5** | <span style="color: #002818; font-weight: bold;">10.99</span> | <span style="color: #006400; font-weight: bold;">23.16</span> |
 | **2019/02** | **35.39** | <span style="color: #8B0000; font-weight: bold;">+6.45</span> | <span style="color: #B22222; font-weight: bold;">+12.6</span> | **246** | <span style="color: #002818; font-weight: bold;">10.99</span> | <span style="color: #006400; font-weight: bold;">22.83</span> |
@@ -180,9 +180,9 @@ description: 月營收表 富邦媒 (8454) - 自動產生
 | **2017/12** | **35.03** | <span style="color: #DC143C; font-weight: bold;">+26.1</span> | <span style="color: #B22222; font-weight: bold;">+18.4</span> | **217.5** | <span style="color: #006400; font-weight: bold;">9.07</span> | <span style="color: #006400; font-weight: bold;">23.98</span> |
 | **2017/11** | **36.42** | <span style="color: #FF6347; font-weight: bold;">+41.2</span> | <span style="color: #B22222; font-weight: bold;">+17.5</span> | **207** | <span style="color: #006400; font-weight: bold;">9.07</span> | <span style="color: #006400; font-weight: bold;">23.28</span> |
 | **2017/10** | **27.95** | <span style="color: #DC143C; font-weight: bold;">+23.6</span> | <span style="color: #B22222; font-weight: bold;">+14.8</span> | **223** | <span style="color: #006400; font-weight: bold;">9.07</span> | <span style="color: #004225; font-weight: bold;">25.58</span> |
-| **2017/09** | **26.25** | <span style="color: #DC143C; font-weight: bold;">+20.2</span> | <span style="color: #B22222; font-weight: bold;">+13.9</span> | **215** | <span style="color: #006400; font-weight: bold;">8.54</span> | <span style="color: #006400; font-weight: bold;">25.18</span> |
+| **2017/09** | **26.25** | <span style="color: #DC143C; font-weight: bold;">+20.2</span> | <span style="color: #B22222; font-weight: bold;">+13.9</span> | **215** | <span style="color: #006400; font-weight: bold;">8.54</span> | <span style="color: #004225; font-weight: bold;">25.18</span> |
 | **2017/08** | **27.92** | <span style="color: #DC143C; font-weight: bold;">+20.8</span> | <span style="color: #B22222; font-weight: bold;">+13.1</span> | **210.5** | <span style="color: #006400; font-weight: bold;">8.54</span> | <span style="color: #006400; font-weight: bold;">24.59</span> |
-| **2017/07** | **26.07** | <span style="color: #B22222; font-weight: bold;">+14.8</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **214** | <span style="color: #006400; font-weight: bold;">8.54</span> | <span style="color: #006400; font-weight: bold;">24.94</span> |
+| **2017/07** | **26.07** | <span style="color: #B22222; font-weight: bold;">+14.8</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **214** | <span style="color: #006400; font-weight: bold;">8.54</span> | <span style="color: #004225; font-weight: bold;">24.94</span> |
 | **2017/06** | **26.04** | <span style="color: #B22222; font-weight: bold;">+15.4</span> | <span style="color: #B22222; font-weight: bold;">+11.5</span> | **210.5** | <span style="color: #006400; font-weight: bold;">8.6</span> | <span style="color: #006400; font-weight: bold;">24.48</span> |
 | **2017/05** | **26.3** | <span style="color: #B22222; font-weight: bold;">+15.4</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **228.5** | <span style="color: #006400; font-weight: bold;">8.6</span> | <span style="color: #004225; font-weight: bold;">26.99</span> |
 | **2017/04** | **24.59** | <span style="color: #B22222; font-weight: bold;">+14.3</span> | <span style="color: #8B0000; font-weight: bold;">+9.63</span> | **216** | <span style="color: #006400; font-weight: bold;">8.6</span> | <span style="color: #004225; font-weight: bold;">25.92</span> |
@@ -213,7 +213,7 @@ description: 月營收表 富邦媒 (8454) - 自動產生
 | **2015/03** | **20.31** | <span style="color: #B22222; font-weight: bold;">+14.1</span> | <span style="color: #B22222; font-weight: bold;">+10.5</span> | **259.5** | <span style="color: #006400; font-weight: bold;">8.73</span> | <span style="color: #004225; font-weight: bold;">29.73</span> |
 | **2015/02** | **20.16** | <span style="color: #B22222; font-weight: bold;">+16.4</span> | <span style="color: #8B0000; font-weight: bold;">+8.85</span> | **312** | <span style="color: #006400; font-weight: bold;">8.73</span> | <span style="color: #002818; font-weight: bold;">35.23</span> |
 | **2015/01** | **22.13** | <span style="color: #8B0000; font-weight: bold;">+2.77</span> | <span style="color: #8B0000; font-weight: bold;">+2.77</span> | **308.5** | <span style="color: #006400; font-weight: bold;">8.73</span> | <span style="color: #002818; font-weight: bold;">34.34</span> |
-| **2014/12** | **21.62** | <span style="color: #8B0000; font-weight: bold;">+3.28</span> | <span style="color: #B22222; font-weight: bold;">+16.3</span> | **335.5** | <span style="color: #004225; font-weight: bold;">9.11</span> | <span style="color: #8B0000; font-weight: bold;">36.83</span> |
+| **2014/12** | **21.62** | <span style="color: #8B0000; font-weight: bold;">+3.28</span> | <span style="color: #B22222; font-weight: bold;">+16.3</span> | **335.5** | <span style="color: #006400; font-weight: bold;">9.11</span> | <span style="color: #8B0000; font-weight: bold;">36.83</span> |
 | **2014/11** | **20.78** | <span style="color: #B22222; font-weight: bold;">+19.6</span> | <span style="color: #B22222; font-weight: bold;">+17.8</span> | **-** | N/A | N/A |
 | **2014/10** | **20.94** | <span style="color: #B22222; font-weight: bold;">+18.8</span> | <span style="color: #B22222; font-weight: bold;">+17.6</span> | **-** | N/A | N/A |
 | **2014/09** | **20.55** | <span style="color: #DC143C; font-weight: bold;">+22.8</span> | <span style="color: #B22222; font-weight: bold;">+17.5</span> | **-** | N/A | N/A |
@@ -321,7 +321,7 @@ description: 月營收表 富邦媒 (8454) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-06 01:13:29 CST
+- **產生時間**: 2026-04-06 07:09:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

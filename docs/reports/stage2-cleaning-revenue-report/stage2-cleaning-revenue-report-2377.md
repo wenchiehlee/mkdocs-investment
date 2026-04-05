@@ -25,7 +25,7 @@ description: 月營收表 微星 (2377) - 自動產生
     **:building_construction: 公司名稱**: 微星  
     **:identification_card: 股票代號**: 2377  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-06 01:13:29 CST
+    **:clock3: 更新時間**: 2026-04-06 07:09:24 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 微星 (2377) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **1.68** | **5.40** | **11.07** |
-| **P/E倍數** | **11.02** | **18.41** | **64.19** |
+| **EPS(元)** | **1.73** | **5.43** | **11.10** |
+| **P/E倍數** | **11.03** | **18.35** | **64.51** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 微星 歷史平均獲利能力 (σup=5.66, σlo=3.72)
-    - **P/Ebase**: 微星 歷史平均估值水準 (σup=45.77, σlo=7.40)
+    - **EPSbase**: 微星 歷史平均獲利能力 (σup=5.67, σlo=3.70)
+    - **P/Ebase**: 微星 歷史平均估值水準 (σup=46.15, σlo=7.33)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -84,9 +84,9 @@ description: 月營收表 微星 (2377) - 自動產生
 | **2025/12** | **168.6** | <span style="color: #FF4500; font-weight: bold;">+33.9</span> | <span style="color: #B22222; font-weight: bold;">+16.3</span> | **96.1** | <span style="color: #8B0000; font-weight: bold;">6.8</span> | <span style="color: #004225; font-weight: bold;">14.13</span> |
 | **2025/11** | **201.2** | <span style="color: #8B0000; font-weight: bold;">+6.85</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **107.5** | <span style="color: #8B0000; font-weight: bold;">6.8</span> | <span style="color: #002818; font-weight: bold;">16.96</span> |
 | **2025/10** | **206.2** | <span style="color: #8B0000; font-weight: bold;">+2.78</span> | <span style="color: #B22222; font-weight: bold;">+16.1</span> | **109.5** | <span style="color: #8B0000; font-weight: bold;">6.8</span> | <span style="color: #8B0000; font-weight: bold;">18.62</span> |
-| **2025/09** | **195.5** | <span style="color: #002818; font-weight: bold;">-1.3</span> | <span style="color: #B22222; font-weight: bold;">+17.9</span> | **116** | <span style="color: #8B0000; font-weight: bold;">5.42</span> | <span style="color: #8B0000; font-weight: bold;">21.4</span> |
-| **2025/08** | **188.3** | <span style="color: #B22222; font-weight: bold;">+14.7</span> | <span style="color: #DC143C; font-weight: bold;">+20.9</span> | **135** | <span style="color: #8B0000; font-weight: bold;">5.42</span> | <span style="color: #8B0000; font-weight: bold;">24.86</span> |
-| **2025/07** | **193.5** | <span style="color: #DC143C; font-weight: bold;">+22</span> | <span style="color: #DC143C; font-weight: bold;">+21.8</span> | **144** | <span style="color: #8B0000; font-weight: bold;">5.42</span> | <span style="color: #8B0000; font-weight: bold;">26.47</span> |
+| **2025/09** | **195.5** | <span style="color: #002818; font-weight: bold;">-1.3</span> | <span style="color: #B22222; font-weight: bold;">+17.9</span> | **116** | <span style="color: #002818; font-weight: bold;">5.42</span> | <span style="color: #8B0000; font-weight: bold;">21.4</span> |
+| **2025/08** | **188.3** | <span style="color: #B22222; font-weight: bold;">+14.7</span> | <span style="color: #DC143C; font-weight: bold;">+20.9</span> | **135** | <span style="color: #002818; font-weight: bold;">5.42</span> | <span style="color: #8B0000; font-weight: bold;">24.86</span> |
+| **2025/07** | **193.5** | <span style="color: #DC143C; font-weight: bold;">+22</span> | <span style="color: #DC143C; font-weight: bold;">+21.8</span> | **144** | <span style="color: #002818; font-weight: bold;">5.42</span> | <span style="color: #8B0000; font-weight: bold;">26.47</span> |
 | **2025/06** | **195.6** | <span style="color: #FF4500; font-weight: bold;">+33</span> | <span style="color: #DC143C; font-weight: bold;">+21.8</span> | **143.5** | <span style="color: #8B0000; font-weight: bold;">5.45</span> | <span style="color: #8B0000; font-weight: bold;">26.33</span> |
 | **2025/05** | **207.1** | <span style="color: #FF4500; font-weight: bold;">+33.2</span> | <span style="color: #B22222; font-weight: bold;">+19.7</span> | **142.5** | <span style="color: #8B0000; font-weight: bold;">5.45</span> | <span style="color: #8B0000; font-weight: bold;">24.8</span> |
 | **2025/04** | **210.4** | <span style="color: #DC143C; font-weight: bold;">+28.2</span> | <span style="color: #B22222; font-weight: bold;">+16.5</span> | **139.5** | <span style="color: #8B0000; font-weight: bold;">5.45</span> | <span style="color: #8B0000; font-weight: bold;">23.08</span> |
@@ -213,9 +213,9 @@ description: 月營收表 微星 (2377) - 自動產生
 | **2015/03** | **68.24** | <span style="color: #002818; font-weight: bold;">-10</span> | <span style="color: #002818; font-weight: bold;">-1.74</span> | **37.15** | <span style="color: #004225; font-weight: bold;">3.53</span> | <span style="color: #006400; font-weight: bold;">10.52</span> |
 | **2015/02** | **56.86** | <span style="color: #002818; font-weight: bold;">-7.66</span> | <span style="color: #8B0000; font-weight: bold;">+3.1</span> | **38** | <span style="color: #004225; font-weight: bold;">3.53</span> | <span style="color: #006400; font-weight: bold;">10.72</span> |
 | **2015/01** | **77.27** | <span style="color: #B22222; font-weight: bold;">+12.8</span> | <span style="color: #B22222; font-weight: bold;">+12.8</span> | **35.4** | <span style="color: #004225; font-weight: bold;">3.53</span> | <span style="color: #006400; font-weight: bold;">9.95</span> |
-| **2014/12** | **67.97** | <span style="color: #002818; font-weight: bold;">-3.73</span> | <span style="color: #B22222; font-weight: bold;">+18.1</span> | **34.1** | <span style="color: #002818; font-weight: bold;">3.57</span> | <span style="color: #006400; font-weight: bold;">9.55</span> |
-| **2014/11** | **74.98** | <span style="color: #8B0000; font-weight: bold;">+7.03</span> | <span style="color: #DC143C; font-weight: bold;">+20.5</span> | **33.75** | <span style="color: #002818; font-weight: bold;">3.57</span> | <span style="color: #006400; font-weight: bold;">9.48</span> |
-| **2014/10** | **74.14** | <span style="color: #B22222; font-weight: bold;">+11.4</span> | <span style="color: #DC143C; font-weight: bold;">+22.1</span> | **37.15** | <span style="color: #002818; font-weight: bold;">3.57</span> | <span style="color: #006400; font-weight: bold;">10.46</span> |
+| **2014/12** | **67.97** | <span style="color: #002818; font-weight: bold;">-3.73</span> | <span style="color: #B22222; font-weight: bold;">+18.1</span> | **34.1** | <span style="color: #004225; font-weight: bold;">3.57</span> | <span style="color: #006400; font-weight: bold;">9.55</span> |
+| **2014/11** | **74.98** | <span style="color: #8B0000; font-weight: bold;">+7.03</span> | <span style="color: #DC143C; font-weight: bold;">+20.5</span> | **33.75** | <span style="color: #004225; font-weight: bold;">3.57</span> | <span style="color: #006400; font-weight: bold;">9.48</span> |
+| **2014/10** | **74.14** | <span style="color: #B22222; font-weight: bold;">+11.4</span> | <span style="color: #DC143C; font-weight: bold;">+22.1</span> | **37.15** | <span style="color: #004225; font-weight: bold;">3.57</span> | <span style="color: #006400; font-weight: bold;">10.46</span> |
 | **2014/09** | **81.98** | <span style="color: #DC143C; font-weight: bold;">+27</span> | <span style="color: #DC143C; font-weight: bold;">+23.5</span> | **37.55** | <span style="color: #004225; font-weight: bold;">3.54</span> | <span style="color: #006400; font-weight: bold;">10.61</span> |
 | **2014/08** | **67.54** | <span style="color: #8B0000; font-weight: bold;">+9.61</span> | <span style="color: #DC143C; font-weight: bold;">+23</span> | **41.05** | <span style="color: #004225; font-weight: bold;">3.54</span> | <span style="color: #004225; font-weight: bold;">11.73</span> |
 | **2014/07** | **67.41** | <span style="color: #B22222; font-weight: bold;">+14.6</span> | <span style="color: #DC143C; font-weight: bold;">+25.2</span> | **46.55** | <span style="color: #004225; font-weight: bold;">3.54</span> | <span style="color: #004225; font-weight: bold;">13.45</span> |
@@ -228,9 +228,9 @@ description: 月營收表 微星 (2377) - 自動產生
 | **2013/12** | **70.61** | <span style="color: #FF6347; font-weight: bold;">+41.7</span> | <span style="color: #8B0000; font-weight: bold;">+6.37</span> | **24.2** | <span style="color: #004225; font-weight: bold;">2.34</span> | <span style="color: #006400; font-weight: bold;">10.34</span> |
 | **2013/11** | **70.06** | <span style="color: #B22222; font-weight: bold;">+18.1</span> | <span style="color: #8B0000; font-weight: bold;">+3.55</span> | **21.3** | <span style="color: #004225; font-weight: bold;">2.34</span> | <span style="color: #006400; font-weight: bold;">9.97</span> |
 | **2013/10** | **66.52** | <span style="color: #B22222; font-weight: bold;">+11.3</span> | <span style="color: #8B0000; font-weight: bold;">+2.04</span> | **19.75** | <span style="color: #004225; font-weight: bold;">2.34</span> | <span style="color: #006400; font-weight: bold;">10.22</span> |
-| **2013/09** | **64.56** | <span style="color: #B22222; font-weight: bold;">+15.8</span> | <span style="color: #8B0000; font-weight: bold;">+0.94</span> | **18.95** | <span style="color: #004225; font-weight: bold;">1.73</span> | <span style="color: #006400; font-weight: bold;">10.95</span> |
-| **2013/08** | **61.62** | <span style="color: #002818; font-weight: bold;">-5.42</span> | <span style="color: #002818; font-weight: bold;">-0.89</span> | **17.55** | <span style="color: #004225; font-weight: bold;">1.73</span> | <span style="color: #006400; font-weight: bold;">10.43</span> |
-| **2013/07** | **58.84** | <span style="color: #8B0000; font-weight: bold;">+8.13</span> | <span style="color: #002818; font-weight: bold;">-0.12</span> | **17.8** | <span style="color: #004225; font-weight: bold;">1.73</span> | <span style="color: #006400; font-weight: bold;">10.88</span> |
+| **2013/09** | **64.56** | <span style="color: #B22222; font-weight: bold;">+15.8</span> | <span style="color: #8B0000; font-weight: bold;">+0.94</span> | **18.95** | <span style="color: #006400; font-weight: bold;">1.73</span> | <span style="color: #006400; font-weight: bold;">10.95</span> |
+| **2013/08** | **61.62** | <span style="color: #002818; font-weight: bold;">-5.42</span> | <span style="color: #002818; font-weight: bold;">-0.89</span> | **17.55** | <span style="color: #006400; font-weight: bold;">1.73</span> | <span style="color: #006400; font-weight: bold;">10.43</span> |
+| **2013/07** | **58.84** | <span style="color: #8B0000; font-weight: bold;">+8.13</span> | <span style="color: #002818; font-weight: bold;">-0.12</span> | **17.8** | <span style="color: #006400; font-weight: bold;">1.73</span> | <span style="color: #006400; font-weight: bold;">10.88</span> |
 | **2013/06** | **56.97** | <span style="color: #8B0000; font-weight: bold;">+1.81</span> | <span style="color: #002818; font-weight: bold;">-1.48</span> | **15.7** | <span style="color: #006400; font-weight: bold;">1.59</span> | <span style="color: #006400; font-weight: bold;">9.87</span> |
 | **2013/05** | **55.75** | <span style="color: #004225; font-weight: bold;">-13.7</span> | <span style="color: #002818; font-weight: bold;">-2.15</span> | **15.75** | <span style="color: #006400; font-weight: bold;">1.59</span> | <span style="color: #006400; font-weight: bold;">10.27</span> |
 | **2013/04** | **52.09** | <span style="color: #002818; font-weight: bold;">-1.36</span> | <span style="color: #8B0000; font-weight: bold;">+1.4</span> | **13.8** | <span style="color: #006400; font-weight: bold;">1.59</span> | <span style="color: #006400; font-weight: bold;">9.35</span> |
@@ -258,9 +258,9 @@ description: 月營收表 微星 (2377) - 自動產生
 | **2011/06** | **-** | N/A | N/A | **13.9** | <span style="color: #006400; font-weight: bold;">0.39</span> | <span style="color: #8B0000; font-weight: bold;">35.64</span> |
 | **2011/05** | **-** | N/A | N/A | **14.85** | <span style="color: #006400; font-weight: bold;">0.39</span> | <span style="color: #DC143C; font-weight: bold;">67.5</span> |
 | **2011/04** | **-** | N/A | N/A | **14.9** | <span style="color: #006400; font-weight: bold;">0.39</span> | <span style="color: #FF7F7F; font-weight: bold;">298.0</span> |
-| **2011/03** | **-** | N/A | N/A | **15** | <span style="color: #006400; font-weight: bold;">-0.12</span> | <span style="color: #000000;">-</span> |
-| **2011/02** | **-** | N/A | N/A | **16.15** | <span style="color: #006400; font-weight: bold;">-0.12</span> | <span style="color: #FF7F7F; font-weight: bold;">193.8</span> |
-| **2011/01** | **-** | N/A | N/A | **17.6** | <span style="color: #006400; font-weight: bold;">-0.12</span> | <span style="color: #B22222; font-weight: bold;">61.4</span> |
+| **2011/03** | **-** | N/A | N/A | **15** | <span style="color: #228B22; font-weight: bold;">-0.12</span> | <span style="color: #000000;">-</span> |
+| **2011/02** | **-** | N/A | N/A | **16.15** | <span style="color: #228B22; font-weight: bold;">-0.12</span> | <span style="color: #FF7F7F; font-weight: bold;">193.8</span> |
+| **2011/01** | **-** | N/A | N/A | **17.6** | <span style="color: #228B22; font-weight: bold;">-0.12</span> | <span style="color: #B22222; font-weight: bold;">61.4</span> |
 | **2010/12** | **-** | N/A | N/A | **17.15** | <span style="color: #006400; font-weight: bold;">0.49</span> | <span style="color: #8B0000; font-weight: bold;">35.0</span> |
 | **2010/11** | **-** | N/A | N/A | **15.9** | <span style="color: #006400; font-weight: bold;">0.49</span> | <span style="color: #8B0000; font-weight: bold;">23.5</span> |
 | **2010/10** | **-** | N/A | N/A | **16.4** | <span style="color: #006400; font-weight: bold;">0.49</span> | <span style="color: #8B0000; font-weight: bold;">19.0</span> |
@@ -413,7 +413,7 @@ description: 月營收表 微星 (2377) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-06 01:13:29 CST
+- **產生時間**: 2026-04-06 07:09:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

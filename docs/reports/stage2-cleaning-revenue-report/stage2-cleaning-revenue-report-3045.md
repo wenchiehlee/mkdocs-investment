@@ -25,7 +25,7 @@ description: 月營收表 台灣大 (3045) - 自動產生
     **:building_construction: 公司名稱**: 台灣大  
     **:identification_card: 股票代號**: 3045  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-06 01:13:29 CST
+    **:clock3: 更新時間**: 2026-04-06 07:09:24 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 台灣大 (3045) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **3.61** | **4.63** | **5.48** |
-| **P/E倍數** | **14.07** | **19.54** | **24.16** |
+| **EPS(元)** | **3.62** | **4.64** | **5.48** |
+| **P/E倍數** | **14.16** | **19.61** | **24.17** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 台灣大 歷史平均獲利能力 (σup=0.85, σlo=1.02)
-    - **P/Ebase**: 台灣大 歷史平均估值水準 (σup=4.62, σlo=5.47)
+    - **EPSbase**: 台灣大 歷史平均獲利能力 (σup=0.84, σlo=1.02)
+    - **P/Ebase**: 台灣大 歷史平均估值水準 (σup=4.56, σlo=5.45)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -136,7 +136,7 @@ description: 月營收表 台灣大 (3045) - 自動產生
 | **2021/08** | **125.9** | <span style="color: #B22222; font-weight: bold;">+18.1</span> | <span style="color: #B22222; font-weight: bold;">+17.4</span> | **101** | <span style="color: #004225; font-weight: bold;">3.77</span> | <span style="color: #FF4500; font-weight: bold;">26.79</span> |
 | **2021/07** | **125.8** | <span style="color: #DC143C; font-weight: bold;">+21.1</span> | <span style="color: #B22222; font-weight: bold;">+17.3</span> | **104** | <span style="color: #004225; font-weight: bold;">3.77</span> | <span style="color: #FF4500; font-weight: bold;">27.59</span> |
 | **2021/06** | **136.8** | <span style="color: #DC143C; font-weight: bold;">+28.9</span> | <span style="color: #B22222; font-weight: bold;">+16.7</span> | **102** | <span style="color: #004225; font-weight: bold;">3.77</span> | <span style="color: #FF4500; font-weight: bold;">27.06</span> |
-| **2021/05** | **135** | <span style="color: #DC143C; font-weight: bold;">+24.8</span> | <span style="color: #B22222; font-weight: bold;">+14.2</span> | **100.5** | <span style="color: #004225; font-weight: bold;">3.77</span> | <span style="color: #DC143C; font-weight: bold;">26.47</span> |
+| **2021/05** | **135** | <span style="color: #DC143C; font-weight: bold;">+24.8</span> | <span style="color: #B22222; font-weight: bold;">+14.2</span> | **100.5** | <span style="color: #004225; font-weight: bold;">3.77</span> | <span style="color: #FF4500; font-weight: bold;">26.47</span> |
 | **2021/04** | **112.4** | <span style="color: #B22222; font-weight: bold;">+13.4</span> | <span style="color: #B22222; font-weight: bold;">+11.5</span> | **100** | <span style="color: #004225; font-weight: bold;">3.77</span> | <span style="color: #DC143C; font-weight: bold;">26.16</span> |
 | **2021/03** | **117.3** | <span style="color: #B22222; font-weight: bold;">+11.7</span> | <span style="color: #B22222; font-weight: bold;">+10.9</span> | **98.2** | <span style="color: #004225; font-weight: bold;">3.85</span> | <span style="color: #DC143C; font-weight: bold;">25.51</span> |
 | **2021/02** | **111** | <span style="color: #8B0000; font-weight: bold;">+5.22</span> | <span style="color: #B22222; font-weight: bold;">+10.4</span> | **97.1** | <span style="color: #004225; font-weight: bold;">3.85</span> | <span style="color: #DC143C; font-weight: bold;">24.88</span> |
@@ -172,7 +172,7 @@ description: 月營收表 台灣大 (3045) - 自動產生
 | **2018/08** | **94.68** | <span style="color: #002818; font-weight: bold;">-0.93</span> | <span style="color: #8B0000; font-weight: bold;">+2.52</span> | **107** | <span style="color: #8B0000; font-weight: bold;">4.78</span> | <span style="color: #B22222; font-weight: bold;">22.02</span> |
 | **2018/07** | **92.17** | <span style="color: #002818; font-weight: bold;">-2.11</span> | <span style="color: #8B0000; font-weight: bold;">+3.03</span> | **105.5** | <span style="color: #8B0000; font-weight: bold;">4.78</span> | <span style="color: #8B0000; font-weight: bold;">21.36</span> |
 | **2018/06** | **89.84** | <span style="color: #002818; font-weight: bold;">-4.1</span> | <span style="color: #8B0000; font-weight: bold;">+3.88</span> | **110.5** | <span style="color: #8B0000; font-weight: bold;">5.02</span> | <span style="color: #B22222; font-weight: bold;">22.01</span> |
-| **2018/05** | **100.1** | <span style="color: #8B0000; font-weight: bold;">+6.36</span> | <span style="color: #8B0000; font-weight: bold;">+5.47</span> | **110** | <span style="color: #8B0000; font-weight: bold;">5.02</span> | <span style="color: #B22222; font-weight: bold;">21.88</span> |
+| **2018/05** | **100.1** | <span style="color: #8B0000; font-weight: bold;">+6.36</span> | <span style="color: #8B0000; font-weight: bold;">+5.47</span> | **110** | <span style="color: #8B0000; font-weight: bold;">5.02</span> | <span style="color: #8B0000; font-weight: bold;">21.88</span> |
 | **2018/04** | **95.45** | <span style="color: #8B0000; font-weight: bold;">+5.78</span> | <span style="color: #8B0000; font-weight: bold;">+5.24</span> | **109.5** | <span style="color: #8B0000; font-weight: bold;">5.02</span> | <span style="color: #8B0000; font-weight: bold;">21.75</span> |
 | **2018/03** | **99.31** | <span style="color: #8B0000; font-weight: bold;">+3.99</span> | <span style="color: #8B0000; font-weight: bold;">+5.08</span> | **110** | <span style="color: #8B0000; font-weight: bold;">5.04</span> | <span style="color: #8B0000; font-weight: bold;">21.83</span> |
 | **2018/02** | **99.07** | <span style="color: #8B0000; font-weight: bold;">+5.99</span> | <span style="color: #8B0000; font-weight: bold;">+5.62</span> | **107.5** | <span style="color: #8B0000; font-weight: bold;">5.04</span> | <span style="color: #8B0000; font-weight: bold;">21.09</span> |
@@ -192,7 +192,7 @@ description: 月營收表 台灣大 (3045) - 自動產生
 | **2016/12** | **103.7** | <span style="color: #8B0000; font-weight: bold;">+4.38</span> | <span style="color: #8B0000; font-weight: bold;">+0.43</span> | **104** | <span style="color: #DC143C; font-weight: bold;">5.63</span> | <span style="color: #002818; font-weight: bold;">18.47</span> |
 | **2016/11** | **102.3** | <span style="color: #8B0000; font-weight: bold;">+1.73</span> | <span style="color: #8B0000; font-weight: bold;">+0.06</span> | **107.5** | <span style="color: #DC143C; font-weight: bold;">5.63</span> | <span style="color: #002818; font-weight: bold;">18.97</span> |
 | **2016/10** | **99.61** | <span style="color: #002818; font-weight: bold;">-5.54</span> | <span style="color: #002818; font-weight: bold;">-0.11</span> | **110.5** | <span style="color: #DC143C; font-weight: bold;">5.63</span> | <span style="color: #002818; font-weight: bold;">19.37</span> |
-| **2016/09** | **94.99** | <span style="color: #8B0000; font-weight: bold;">+6.16</span> | <span style="color: #8B0000; font-weight: bold;">+0.55</span> | **112.5** | <span style="color: #DC143C; font-weight: bold;">5.74</span> | <span style="color: #8B0000; font-weight: bold;">19.6</span> |
+| **2016/09** | **94.99** | <span style="color: #8B0000; font-weight: bold;">+6.16</span> | <span style="color: #8B0000; font-weight: bold;">+0.55</span> | **112.5** | <span style="color: #DC143C; font-weight: bold;">5.74</span> | <span style="color: #002818; font-weight: bold;">19.6</span> |
 | **2016/08** | **95.64** | <span style="color: #8B0000; font-weight: bold;">+2.86</span> | <span style="color: #002818; font-weight: bold;">-0.09</span> | **111.5** | <span style="color: #DC143C; font-weight: bold;">5.74</span> | <span style="color: #002818; font-weight: bold;">19.35</span> |
 | **2016/07** | **93.85** | <span style="color: #8B0000; font-weight: bold;">+0.69</span> | <span style="color: #002818; font-weight: bold;">-0.5</span> | **110** | <span style="color: #DC143C; font-weight: bold;">5.74</span> | <span style="color: #002818; font-weight: bold;">19.01</span> |
 | **2016/06** | **92.91** | <span style="color: #000000; font-weight: bold;">0</span> | <span style="color: #002818; font-weight: bold;">-0.69</span> | **112.5** | <span style="color: #DC143C; font-weight: bold;">5.81</span> | <span style="color: #002818; font-weight: bold;">19.36</span> |
@@ -222,9 +222,9 @@ description: 月營收表 台灣大 (3045) - 自動產生
 | **2014/06** | **89.02** | <span style="color: #8B0000; font-weight: bold;">+1.32</span> | <span style="color: #8B0000; font-weight: bold;">+3.3</span> | **92.4** | <span style="color: #FF4500; font-weight: bold;">5.97</span> | <span style="color: #004225; font-weight: bold;">15.48</span> |
 | **2014/05** | **90** | <span style="color: #002818; font-weight: bold;">-1.98</span> | <span style="color: #8B0000; font-weight: bold;">+3.69</span> | **98.9** | <span style="color: #FF4500; font-weight: bold;">5.97</span> | <span style="color: #004225; font-weight: bold;">16.63</span> |
 | **2014/04** | **90.34** | <span style="color: #8B0000; font-weight: bold;">+5.16</span> | <span style="color: #8B0000; font-weight: bold;">+5.18</span> | **97.4** | <span style="color: #FF4500; font-weight: bold;">5.97</span> | <span style="color: #004225; font-weight: bold;">16.44</span> |
-| **2014/03** | **89.19** | <span style="color: #8B0000; font-weight: bold;">+4.97</span> | <span style="color: #8B0000; font-weight: bold;">+5.19</span> | **95.4** | <span style="color: #DC143C; font-weight: bold;">5.9</span> | <span style="color: #004225; font-weight: bold;">16.17</span> |
-| **2014/02** | **88.64** | <span style="color: #8B0000; font-weight: bold;">+3.88</span> | <span style="color: #8B0000; font-weight: bold;">+5.3</span> | **91.1** | <span style="color: #DC143C; font-weight: bold;">5.9</span> | <span style="color: #004225; font-weight: bold;">15.54</span> |
-| **2014/01** | **99.44** | <span style="color: #8B0000; font-weight: bold;">+6.6</span> | <span style="color: #8B0000; font-weight: bold;">+6.6</span> | **88.8** | <span style="color: #DC143C; font-weight: bold;">5.9</span> | <span style="color: #004225; font-weight: bold;">15.24</span> |
+| **2014/03** | **89.19** | <span style="color: #8B0000; font-weight: bold;">+4.97</span> | <span style="color: #8B0000; font-weight: bold;">+5.19</span> | **95.4** | <span style="color: #FF4500; font-weight: bold;">5.9</span> | <span style="color: #004225; font-weight: bold;">16.17</span> |
+| **2014/02** | **88.64** | <span style="color: #8B0000; font-weight: bold;">+3.88</span> | <span style="color: #8B0000; font-weight: bold;">+5.3</span> | **91.1** | <span style="color: #FF4500; font-weight: bold;">5.9</span> | <span style="color: #004225; font-weight: bold;">15.54</span> |
+| **2014/01** | **99.44** | <span style="color: #8B0000; font-weight: bold;">+6.6</span> | <span style="color: #8B0000; font-weight: bold;">+6.6</span> | **88.8** | <span style="color: #FF4500; font-weight: bold;">5.9</span> | <span style="color: #004225; font-weight: bold;">15.24</span> |
 | **2013/12** | **98.13** | <span style="color: #002818; font-weight: bold;">-0.05</span> | <span style="color: #8B0000; font-weight: bold;">+8.69</span> | **96.3** | <span style="color: #DC143C; font-weight: bold;">5.79</span> | <span style="color: #004225; font-weight: bold;">16.63</span> |
 | **2013/11** | **93.3** | <span style="color: #B22222; font-weight: bold;">+13.3</span> | <span style="color: #B22222; font-weight: bold;">+10.4</span> | **96.9** | <span style="color: #DC143C; font-weight: bold;">5.79</span> | <span style="color: #004225; font-weight: bold;">16.58</span> |
 | **2013/10** | **93.68** | <span style="color: #B22222; font-weight: bold;">+12.4</span> | <span style="color: #B22222; font-weight: bold;">+10.1</span> | **100.5** | <span style="color: #DC143C; font-weight: bold;">5.79</span> | <span style="color: #002818; font-weight: bold;">17.04</span> |
@@ -413,7 +413,7 @@ description: 月營收表 台灣大 (3045) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-06 01:13:29 CST
+- **產生時間**: 2026-04-06 07:09:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

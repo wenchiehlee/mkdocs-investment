@@ -25,7 +25,7 @@ description: 月營收表 日月光投控 (3711) - 自動產生
     **:building_construction: 公司名稱**: 日月光投控  
     **:identification_card: 股票代號**: 3711  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-06 01:13:29 CST
+    **:clock3: 更新時間**: 2026-04-06 07:09:24 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 日月光投控 (3711) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **5.98** | **8.63** | **13.95** |
-| **P/E倍數** | **9.37** | **14.76** | **23.08** |
+| **EPS(元)** | **5.98** | **8.64** | **13.88** |
+| **P/E倍數** | **9.41** | **15.00** | **23.85** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 日月光投控 歷史平均獲利能力 (σup=5.32, σlo=2.65)
-    - **P/Ebase**: 日月光投控 歷史平均估值水準 (σup=8.32, σlo=5.39)
+    - **EPSbase**: 日月光投控 歷史平均獲利能力 (σup=5.24, σlo=2.66)
+    - **P/Ebase**: 日月光投控 歷史平均估值水準 (σup=8.85, σlo=5.59)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,20 +79,20 @@ description: 月營收表 日月光投控 (3711) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/02** | **521** | <span style="color: #B22222; font-weight: bold;">+15.9</span> | <span style="color: #B22222; font-weight: bold;">+18.7</span> | **387.5** | <span style="color: #8B0000; font-weight: bold;">9.37</span> | <span style="color: #FF7F7F; font-weight: bold;">41.36</span> |
-| **2026/01** | **599.9** | <span style="color: #DC143C; font-weight: bold;">+21.3</span> | <span style="color: #DC143C; font-weight: bold;">+21.3</span> | **297** | <span style="color: #8B0000; font-weight: bold;">9.37</span> | <span style="color: #FF6347; font-weight: bold;">31.7</span> |
+| **2026/02** | **521** | <span style="color: #B22222; font-weight: bold;">+15.9</span> | <span style="color: #B22222; font-weight: bold;">+18.7</span> | **387.5** | <span style="color: #8B0000; font-weight: bold;">9.37</span> | <span style="color: #FF6347; font-weight: bold;">41.36</span> |
+| **2026/01** | **599.9** | <span style="color: #DC143C; font-weight: bold;">+21.3</span> | <span style="color: #DC143C; font-weight: bold;">+21.3</span> | **297** | <span style="color: #8B0000; font-weight: bold;">9.37</span> | <span style="color: #FF4500; font-weight: bold;">31.7</span> |
 | **2025/12** | **588.6** | <span style="color: #B22222; font-weight: bold;">+11.3</span> | <span style="color: #8B0000; font-weight: bold;">+8.39</span> | **250.5** | <span style="color: #8B0000; font-weight: bold;">9.37</span> | <span style="color: #DC143C; font-weight: bold;">26.73</span> |
 | **2025/11** | **588.2** | <span style="color: #B22222; font-weight: bold;">+11.1</span> | <span style="color: #8B0000; font-weight: bold;">+8.11</span> | **229.5** | <span style="color: #8B0000; font-weight: bold;">9.37</span> | <span style="color: #DC143C; font-weight: bold;">25.61</span> |
 | **2025/10** | **602.3** | <span style="color: #8B0000; font-weight: bold;">+6.74</span> | <span style="color: #8B0000; font-weight: bold;">+7.78</span> | **247.5** | <span style="color: #8B0000; font-weight: bold;">9.37</span> | <span style="color: #FF4500; font-weight: bold;">28.95</span> |
 | **2025/09** | **605.6** | <span style="color: #8B0000; font-weight: bold;">+8.96</span> | <span style="color: #8B0000; font-weight: bold;">+7.92</span> | **164** | <span style="color: #002818; font-weight: bold;">8.14</span> | <span style="color: #B22222; font-weight: bold;">20.15</span> |
 | **2025/08** | **564.7** | <span style="color: #8B0000; font-weight: bold;">+6.68</span> | <span style="color: #8B0000; font-weight: bold;">+7.77</span> | **151** | <span style="color: #002818; font-weight: bold;">8.14</span> | <span style="color: #8B0000; font-weight: bold;">18.75</span> |
-| **2025/07** | **515.4** | <span style="color: #002818; font-weight: bold;">-0.1</span> | <span style="color: #8B0000; font-weight: bold;">+7.95</span> | **152.5** | <span style="color: #002818; font-weight: bold;">8.14</span> | <span style="color: #B22222; font-weight: bold;">19.14</span> |
+| **2025/07** | **515.4** | <span style="color: #002818; font-weight: bold;">-0.1</span> | <span style="color: #8B0000; font-weight: bold;">+7.95</span> | **152.5** | <span style="color: #002818; font-weight: bold;">8.14</span> | <span style="color: #8B0000; font-weight: bold;">19.14</span> |
 | **2025/06** | **495.1** | <span style="color: #8B0000; font-weight: bold;">+5.51</span> | <span style="color: #8B0000; font-weight: bold;">+9.47</span> | **147.5** | <span style="color: #002818; font-weight: bold;">7.88</span> | <span style="color: #8B0000; font-weight: bold;">18.72</span> |
 | **2025/05** | **490.3** | <span style="color: #8B0000; font-weight: bold;">+3.23</span> | <span style="color: #B22222; font-weight: bold;">+10.3</span> | **138** | <span style="color: #002818; font-weight: bold;">7.88</span> | <span style="color: #8B0000; font-weight: bold;">17.45</span> |
 | **2025/04** | **522.1** | <span style="color: #B22222; font-weight: bold;">+13.9</span> | <span style="color: #B22222; font-weight: bold;">+12.2</span> | **135.5** | <span style="color: #002818; font-weight: bold;">7.88</span> | <span style="color: #8B0000; font-weight: bold;">17.08</span> |
 | **2025/03** | **537.5** | <span style="color: #B22222; font-weight: bold;">+17.7</span> | <span style="color: #B22222; font-weight: bold;">+11.6</span> | **143** | <span style="color: #002818; font-weight: bold;">7.96</span> | <span style="color: #8B0000; font-weight: bold;">17.96</span> |
 | **2025/02** | **449.6** | <span style="color: #B22222; font-weight: bold;">+13.1</span> | <span style="color: #8B0000; font-weight: bold;">+8.33</span> | **171** | <span style="color: #002818; font-weight: bold;">7.96</span> | <span style="color: #B22222; font-weight: bold;">21.89</span> |
-| **2025/01** | **494.4** | <span style="color: #8B0000; font-weight: bold;">+4.33</span> | <span style="color: #8B0000; font-weight: bold;">+4.33</span> | **177** | <span style="color: #002818; font-weight: bold;">7.96</span> | <span style="color: #DC143C; font-weight: bold;">23.09</span> |
+| **2025/01** | **494.4** | <span style="color: #8B0000; font-weight: bold;">+4.33</span> | <span style="color: #8B0000; font-weight: bold;">+4.33</span> | **177** | <span style="color: #002818; font-weight: bold;">7.96</span> | <span style="color: #B22222; font-weight: bold;">23.09</span> |
 | **2024/12** | **529** | <span style="color: #8B0000; font-weight: bold;">+6</span> | <span style="color: #8B0000; font-weight: bold;">+2.31</span> | **162** | <span style="color: #002818; font-weight: bold;">7.52</span> | <span style="color: #B22222; font-weight: bold;">21.54</span> |
 | **2024/11** | **529.3** | <span style="color: #002818; font-weight: bold;">-2.89</span> | <span style="color: #8B0000; font-weight: bold;">+1.97</span> | **151.5** | <span style="color: #002818; font-weight: bold;">7.52</span> | <span style="color: #B22222; font-weight: bold;">20.12</span> |
 | **2024/10** | **564.3** | <span style="color: #8B0000; font-weight: bold;">+0.46</span> | <span style="color: #8B0000; font-weight: bold;">+2.52</span> | **157** | <span style="color: #002818; font-weight: bold;">7.52</span> | <span style="color: #B22222; font-weight: bold;">20.82</span> |
@@ -156,7 +156,7 @@ description: 月營收表 日月光投控 (3711) - 自動產生
 | **2019/12** | **387.8** | <span style="color: #8B0000; font-weight: bold;">+4.97</span> | <span style="color: #FF6347; font-weight: bold;">+45.7</span> | **83.2** | <span style="color: #228B22; font-weight: bold;">3.96</span> | <span style="color: #B22222; font-weight: bold;">21.01</span> |
 | **2019/11** | **384.6** | <span style="color: #8B0000; font-weight: bold;">+1.34</span> | <span style="color: #FF7F7F; font-weight: bold;">+51.8</span> | **75.6** | <span style="color: #228B22; font-weight: bold;">3.96</span> | <span style="color: #B22222; font-weight: bold;">19.45</span> |
 | **2019/10** | **387.8** | <span style="color: #002818; font-weight: bold;">-0.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+60.9</span> | **79.5** | <span style="color: #228B22; font-weight: bold;">3.96</span> | <span style="color: #B22222; font-weight: bold;">20.85</span> |
-| **2019/09** | **411.4** | <span style="color: #8B0000; font-weight: bold;">+4.75</span> | <span style="color: #FF7F7F; font-weight: bold;">+75.2</span> | **70.8** | <span style="color: #228B22; font-weight: bold;">3.74</span> | <span style="color: #B22222; font-weight: bold;">18.93</span> |
+| **2019/09** | **411.4** | <span style="color: #8B0000; font-weight: bold;">+4.75</span> | <span style="color: #FF7F7F; font-weight: bold;">+75.2</span> | **70.8** | <span style="color: #228B22; font-weight: bold;">3.74</span> | <span style="color: #8B0000; font-weight: bold;">18.93</span> |
 | **2019/08** | **400.4** | <span style="color: #B22222; font-weight: bold;">+12.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+96.4</span> | **71.4** | <span style="color: #228B22; font-weight: bold;">3.74</span> | <span style="color: #8B0000; font-weight: bold;">18.91</span> |
 | **2019/07** | **363.8** | <span style="color: #B22222; font-weight: bold;">+11.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+127.9</span> | **69.9** | <span style="color: #228B22; font-weight: bold;">3.74</span> | <span style="color: #8B0000; font-weight: bold;">18.33</span> |
 | **2019/06** | **315.7** | <span style="color: #8B0000; font-weight: bold;">+1.73</span> | <span style="color: #FF7F7F; font-weight: bold;">+189.6</span> | **61.5** | <span style="color: #228B22; font-weight: bold;">3.85</span> | <span style="color: #8B0000; font-weight: bold;">15.97</span> |
@@ -168,7 +168,7 @@ description: 月營收表 日月光投控 (3711) - 自動產生
 | **2018/12** | **369.4** | N/A | N/A | **58.3** | <span style="color: #006400; font-weight: bold;">5.95</span> | <span style="color: #004225; font-weight: bold;">9.8</span> |
 | **2018/11** | **379.5** | N/A | N/A | **62.4** | <span style="color: #006400; font-weight: bold;">5.95</span> | <span style="color: #004225; font-weight: bold;">10.38</span> |
 | **2018/10** | **391.4** | N/A | N/A | **62.4** | <span style="color: #006400; font-weight: bold;">5.95</span> | <span style="color: #004225; font-weight: bold;">10.27</span> |
-| **2018/09** | **392.8** | N/A | N/A | **74.5** | <span style="color: #004225; font-weight: bold;">6.14</span> | <span style="color: #002818; font-weight: bold;">12.13</span> |
+| **2018/09** | **392.8** | N/A | N/A | **74.5** | <span style="color: #004225; font-weight: bold;">6.14</span> | <span style="color: #004225; font-weight: bold;">12.13</span> |
 | **2018/08** | **355.9** | N/A | N/A | **75.3** | <span style="color: #004225; font-weight: bold;">6.14</span> | <span style="color: #002818; font-weight: bold;">12.24</span> |
 | **2018/07** | **327.4** | N/A | N/A | **78.4** | <span style="color: #004225; font-weight: bold;">6.14</span> | <span style="color: #002818; font-weight: bold;">12.73</span> |
 | **2018/06** | **310.3** | N/A | N/A | **71.6** | <span style="color: #004225; font-weight: bold;">6.17</span> | <span style="color: #004225; font-weight: bold;">11.6</span> |
@@ -269,7 +269,7 @@ description: 月營收表 日月光投控 (3711) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-06 01:13:29 CST
+- **產生時間**: 2026-04-06 07:09:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

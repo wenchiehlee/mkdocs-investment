@@ -25,7 +25,7 @@ description: 月營收表 智聯服務 (6751) - 自動產生
     **:building_construction: 公司名稱**: 智聯服務  
     **:identification_card: 股票代號**: 6751  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-06 01:13:29 CST
+    **:clock3: 更新時間**: 2026-04-06 07:09:24 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 智聯服務 (6751) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **1.60** | **2.83** | **4.57** |
-| **P/E倍數** | **16.42** | **28.23** | **47.59** |
+| **EPS(元)** | **1.61** | **2.91** | **4.63** |
+| **P/E倍數** | **15.91** | **27.66** | **47.46** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 智聯服務 歷史平均獲利能力 (σup=1.73, σlo=1.23)
-    - **P/Ebase**: 智聯服務 歷史平均估值水準 (σup=19.36, σlo=11.81)
+    - **EPSbase**: 智聯服務 歷史平均獲利能力 (σup=1.72, σlo=1.29)
+    - **P/Ebase**: 智聯服務 歷史平均估值水準 (σup=19.80, σlo=11.75)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -107,13 +107,13 @@ description: 月營收表 智聯服務 (6751) - 自動產生
 | **2024/01** | **1.36** | <span style="color: #B22222; font-weight: bold;">+17</span> | <span style="color: #B22222; font-weight: bold;">+17</span> | **79.6** | <span style="color: #004225; font-weight: bold;">1.84</span> | <span style="color: #8B0000; font-weight: bold;">29.92</span> |
 | **2023/12** | **1.54** | <span style="color: #B22222; font-weight: bold;">+16.1</span> | <span style="color: #DC143C; font-weight: bold;">+25.2</span> | **82.8** | <span style="color: #8B0000; font-weight: bold;">3.07</span> | <span style="color: #002818; font-weight: bold;">26.97</span> |
 | **2023/11** | **1.46** | <span style="color: #FF4500; font-weight: bold;">+33.5</span> | <span style="color: #DC143C; font-weight: bold;">+26.1</span> | **82.4** | <span style="color: #8B0000; font-weight: bold;">3.07</span> | <span style="color: #002818; font-weight: bold;">24.26</span> |
-| **2023/10** | **1.41** | <span style="color: #002818; font-weight: bold;">-5.46</span> | <span style="color: #DC143C; font-weight: bold;">+25.4</span> | **83** | <span style="color: #8B0000; font-weight: bold;">3.07</span> | <span style="color: #004225; font-weight: bold;">22.29</span> |
+| **2023/10** | **1.41** | <span style="color: #002818; font-weight: bold;">-5.46</span> | <span style="color: #DC143C; font-weight: bold;">+25.4</span> | **83** | <span style="color: #8B0000; font-weight: bold;">3.07</span> | <span style="color: #002818; font-weight: bold;">22.29</span> |
 | **2023/09** | **1.44** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #FF4500; font-weight: bold;">+30</span> | **87.5** | <span style="color: #B22222; font-weight: bold;">4.05</span> | <span style="color: #004225; font-weight: bold;">21.6</span> |
 | **2023/08** | **1.62** | <span style="color: #FF7F7F; font-weight: bold;">+83.7</span> | <span style="color: #FF4500; font-weight: bold;">+32.4</span> | **83.9** | <span style="color: #B22222; font-weight: bold;">4.05</span> | <span style="color: #004225; font-weight: bold;">19.83</span> |
 | **2023/07** | **1.54** | <span style="color: #FF4500; font-weight: bold;">+33.2</span> | <span style="color: #DC143C; font-weight: bold;">+26.6</span> | **100** | <span style="color: #B22222; font-weight: bold;">4.05</span> | <span style="color: #002818; font-weight: bold;">22.68</span> |
-| **2023/06** | **1.27** | <span style="color: #8B0000; font-weight: bold;">+8.22</span> | <span style="color: #DC143C; font-weight: bold;">+25.5</span> | **102** | <span style="color: #DC143C; font-weight: bold;">4.59</span> | <span style="color: #004225; font-weight: bold;">22.22</span> |
-| **2023/05** | **1.35** | <span style="color: #FF4500; font-weight: bold;">+30.6</span> | <span style="color: #DC143C; font-weight: bold;">+29.2</span> | **111.5** | <span style="color: #DC143C; font-weight: bold;">4.59</span> | <span style="color: #002818; font-weight: bold;">24.45</span> |
-| **2023/04** | **1.55** | <span style="color: #B22222; font-weight: bold;">+17.8</span> | <span style="color: #DC143C; font-weight: bold;">+28.9</span> | **139** | <span style="color: #DC143C; font-weight: bold;">4.59</span> | <span style="color: #8B0000; font-weight: bold;">30.68</span> |
+| **2023/06** | **1.27** | <span style="color: #8B0000; font-weight: bold;">+8.22</span> | <span style="color: #DC143C; font-weight: bold;">+25.5</span> | **102** | <span style="color: #B22222; font-weight: bold;">4.59</span> | <span style="color: #002818; font-weight: bold;">22.22</span> |
+| **2023/05** | **1.35** | <span style="color: #FF4500; font-weight: bold;">+30.6</span> | <span style="color: #DC143C; font-weight: bold;">+29.2</span> | **111.5** | <span style="color: #B22222; font-weight: bold;">4.59</span> | <span style="color: #002818; font-weight: bold;">24.45</span> |
+| **2023/04** | **1.55** | <span style="color: #B22222; font-weight: bold;">+17.8</span> | <span style="color: #DC143C; font-weight: bold;">+28.9</span> | **139** | <span style="color: #B22222; font-weight: bold;">4.59</span> | <span style="color: #8B0000; font-weight: bold;">30.68</span> |
 | **2023/03** | **1.71** | <span style="color: #FF4500; font-weight: bold;">+30.5</span> | <span style="color: #FF4500; font-weight: bold;">+33.5</span> | **95** | <span style="color: #B22222; font-weight: bold;">4.5</span> | <span style="color: #004225; font-weight: bold;">21.11</span> |
 | **2023/02** | **1.33** | <span style="color: #FF7F7F; font-weight: bold;">+68.6</span> | <span style="color: #FF4500; font-weight: bold;">+35.6</span> | **60.6** | <span style="color: #B22222; font-weight: bold;">4.5</span> | <span style="color: #006400; font-weight: bold;">13.93</span> |
 | **2023/01** | **1.16** | <span style="color: #B22222; font-weight: bold;">+10.8</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **46.5** | <span style="color: #B22222; font-weight: bold;">4.5</span> | <span style="color: #006400; font-weight: bold;">11.07</span> |
@@ -253,7 +253,7 @@ description: 月營收表 智聯服務 (6751) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-06 01:13:29 CST
+- **產生時間**: 2026-04-06 07:09:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

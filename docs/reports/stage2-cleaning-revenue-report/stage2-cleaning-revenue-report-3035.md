@@ -25,7 +25,7 @@ description: 月營收表 智原 (3035) - 自動產生
     **:building_construction: 公司名稱**: 智原  
     **:identification_card: 股票代號**: 3035  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-06 01:13:29 CST
+    **:clock3: 更新時間**: 2026-04-06 07:09:24 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 智原 (3035) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **1.58** | **3.03** | **6.21** |
-| **P/E倍數** | **18.66** | **32.23** | **54.36** |
+| **EPS(元)** | **1.59** | **3.02** | **6.22** |
+| **P/E倍數** | **18.82** | **32.47** | **54.45** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 智原 歷史平均獲利能力 (σup=3.18, σlo=1.45)
-    - **P/Ebase**: 智原 歷史平均估值水準 (σup=22.13, σlo=13.57)
+    - **EPSbase**: 智原 歷史平均獲利能力 (σup=3.20, σlo=1.43)
+    - **P/Ebase**: 智原 歷史平均估值水準 (σup=21.98, σlo=13.65)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -280,7 +280,7 @@ description: 月營收表 智原 (3035) - 自動產生
 | **2009/08** | **5.31** | <span style="color: #8B0000; font-weight: bold;">+1.88</span> | <span style="color: #002818; font-weight: bold;">-1.39</span> | **52.3** | <span style="color: #004225; font-weight: bold;">2.05</span> | <span style="color: #002818; font-weight: bold;">26.06</span> |
 | **2009/07** | **5.29** | <span style="color: #8B0000; font-weight: bold;">+3.22</span> | <span style="color: #002818; font-weight: bold;">-1.95</span> | **58.9** | <span style="color: #004225; font-weight: bold;">2.05</span> | <span style="color: #002818; font-weight: bold;">30.0</span> |
 | **2009/06** | **5.43** | <span style="color: #B22222; font-weight: bold;">+18.9</span> | <span style="color: #002818; font-weight: bold;">-2.24</span> | **47.6** | <span style="color: #004225; font-weight: bold;">1.92</span> | <span style="color: #004225; font-weight: bold;">24.79</span> |
-| **2009/05** | **4.78** | <span style="color: #8B0000; font-weight: bold;">+7.89</span> | <span style="color: #002818; font-weight: bold;">-6.9</span> | **58.6** | <span style="color: #004225; font-weight: bold;">1.92</span> | <span style="color: #8B0000; font-weight: bold;">32.38</span> |
+| **2009/05** | **4.78** | <span style="color: #8B0000; font-weight: bold;">+7.89</span> | <span style="color: #002818; font-weight: bold;">-6.9</span> | **58.6** | <span style="color: #004225; font-weight: bold;">1.92</span> | <span style="color: #002818; font-weight: bold;">32.38</span> |
 | **2009/04** | **4.5** | <span style="color: #B22222; font-weight: bold;">+19.2</span> | <span style="color: #004225; font-weight: bold;">-10.9</span> | **45.65** | <span style="color: #004225; font-weight: bold;">1.92</span> | <span style="color: #002818; font-weight: bold;">26.85</span> |
 | **2009/03** | **3.89** | <span style="color: #002818; font-weight: bold;">-7.95</span> | <span style="color: #004225; font-weight: bold;">-19.2</span> | **44.35** | <span style="color: #004225; font-weight: bold;">1.59</span> | <span style="color: #002818; font-weight: bold;">27.89</span> |
 | **2009/02** | **3** | <span style="color: #006400; font-weight: bold;">-23.6</span> | <span style="color: #006400; font-weight: bold;">-25</span> | **37.5** | <span style="color: #004225; font-weight: bold;">1.59</span> | <span style="color: #004225; font-weight: bold;">21.72</span> |
@@ -288,8 +288,8 @@ description: 月營收表 智原 (3035) - 自動產生
 | **2008/12** | **3.31** | N/A | N/A | **26.05** | <span style="color: #004225; font-weight: bold;">2.0</span> | <span style="color: #006400; font-weight: bold;">13.02</span> |
 | **2008/11** | **3.76** | N/A | N/A | **26** | <span style="color: #004225; font-weight: bold;">2.0</span> | <span style="color: #228B22; font-weight: bold;">11.56</span> |
 | **2008/10** | **4.97** | N/A | N/A | **34.9** | <span style="color: #004225; font-weight: bold;">2.0</span> | <span style="color: #006400; font-weight: bold;">13.96</span> |
-| **2008/09** | **5.26** | N/A | N/A | **32.8** | <span style="color: #002818; font-weight: bold;">2.75</span> | <span style="color: #006400; font-weight: bold;">11.93</span> |
-| **2008/08** | **5.21** | N/A | N/A | **54.5** | <span style="color: #002818; font-weight: bold;">2.75</span> | <span style="color: #004225; font-weight: bold;">18.73</span> |
+| **2008/09** | **5.26** | N/A | N/A | **32.8** | <span style="color: #002818; font-weight: bold;">2.75</span> | <span style="color: #228B22; font-weight: bold;">11.93</span> |
+| **2008/08** | **5.21** | N/A | N/A | **54.5** | <span style="color: #002818; font-weight: bold;">2.75</span> | <span style="color: #006400; font-weight: bold;">18.73</span> |
 | **2008/07** | **5.12** | N/A | N/A | **56.3** | <span style="color: #002818; font-weight: bold;">2.75</span> | <span style="color: #006400; font-weight: bold;">18.34</span> |
 | **2008/06** | **4.56** | N/A | N/A | **45** | <span style="color: #8B0000; font-weight: bold;">3.23</span> | <span style="color: #006400; font-weight: bold;">13.93</span> |
 | **2008/05** | **4.43** | N/A | N/A | **60.1** | <span style="color: #8B0000; font-weight: bold;">3.23</span> | <span style="color: #006400; font-weight: bold;">17.37</span> |
@@ -305,7 +305,7 @@ description: 月營收表 智原 (3035) - 自動產生
 | **2007/07** | **-** | N/A | N/A | **154** | <span style="color: #B22222; font-weight: bold;">5.01</span> | <span style="color: #002818; font-weight: bold;">29.52</span> |
 | **2007/06** | **-** | N/A | N/A | **131.5** | <span style="color: #B22222; font-weight: bold;">5.32</span> | <span style="color: #004225; font-weight: bold;">24.72</span> |
 | **2007/05** | **-** | N/A | N/A | **121.5** | <span style="color: #B22222; font-weight: bold;">5.32</span> | <span style="color: #004225; font-weight: bold;">22.8</span> |
-| **2007/04** | **-** | N/A | N/A | **100** | <span style="color: #B22222; font-weight: bold;">5.32</span> | <span style="color: #004225; font-weight: bold;">18.73</span> |
+| **2007/04** | **-** | N/A | N/A | **100** | <span style="color: #B22222; font-weight: bold;">5.32</span> | <span style="color: #006400; font-weight: bold;">18.73</span> |
 | **2007/03** | **-** | N/A | N/A | **114** | <span style="color: #B22222; font-weight: bold;">5.35</span> | <span style="color: #004225; font-weight: bold;">21.31</span> |
 | **2007/02** | **-** | N/A | N/A | **91.8** | <span style="color: #B22222; font-weight: bold;">5.35</span> | <span style="color: #006400; font-weight: bold;">17.84</span> |
 | **2007/01** | **-** | N/A | N/A | **73.9** | <span style="color: #B22222; font-weight: bold;">5.35</span> | <span style="color: #006400; font-weight: bold;">14.95</span> |
@@ -413,7 +413,7 @@ description: 月營收表 智原 (3035) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-06 01:13:29 CST
+- **產生時間**: 2026-04-06 07:09:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

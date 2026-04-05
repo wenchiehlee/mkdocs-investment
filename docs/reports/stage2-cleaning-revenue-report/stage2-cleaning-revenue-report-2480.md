@@ -25,7 +25,7 @@ description: 月營收表 敦陽科 (2480) - 自動產生
     **:building_construction: 公司名稱**: 敦陽科  
     **:identification_card: 股票代號**: 2480  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-06 01:13:29 CST
+    **:clock3: 更新時間**: 2026-04-06 07:09:24 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 敦陽科 (2480) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **1.93** | **3.53** | **6.53** |
-| **P/E倍數** | **11.08** | **13.45** | **16.51** |
+| **EPS(元)** | **1.93** | **3.57** | **6.57** |
+| **P/E倍數** | **11.11** | **13.50** | **16.54** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 敦陽科 歷史平均獲利能力 (σup=3.00, σlo=1.60)
-    - **P/Ebase**: 敦陽科 歷史平均估值水準 (σup=3.06, σlo=2.38)
+    - **EPSbase**: 敦陽科 歷史平均獲利能力 (σup=3.00, σlo=1.64)
+    - **P/Ebase**: 敦陽科 歷史平均估值水準 (σup=3.04, σlo=2.39)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -280,7 +280,7 @@ description: 月營收表 敦陽科 (2480) - 自動產生
 | **2009/08** | **-** | N/A | N/A | **17.5** | <span style="color: #006400; font-weight: bold;">1.74</span> | <span style="color: #006400; font-weight: bold;">10.0</span> |
 | **2009/07** | **-** | N/A | N/A | **16.45** | <span style="color: #006400; font-weight: bold;">1.74</span> | <span style="color: #228B22; font-weight: bold;">9.35</span> |
 | **2009/06** | **-** | N/A | N/A | **15.6** | <span style="color: #006400; font-weight: bold;">1.77</span> | <span style="color: #228B22; font-weight: bold;">8.81</span> |
-| **2009/05** | **-** | N/A | N/A | **17.8** | <span style="color: #006400; font-weight: bold;">1.77</span> | <span style="color: #006400; font-weight: bold;">9.89</span> |
+| **2009/05** | **-** | N/A | N/A | **17.8** | <span style="color: #006400; font-weight: bold;">1.77</span> | <span style="color: #228B22; font-weight: bold;">9.89</span> |
 | **2009/04** | **-** | N/A | N/A | **16.7** | <span style="color: #006400; font-weight: bold;">1.77</span> | <span style="color: #228B22; font-weight: bold;">9.13</span> |
 | **2009/03** | **-** | N/A | N/A | **15.2** | <span style="color: #006400; font-weight: bold;">1.86</span> | <span style="color: #32CD32; font-weight: bold;">8.17</span> |
 | **2009/02** | **-** | N/A | N/A | **12.3** | <span style="color: #006400; font-weight: bold;">1.86</span> | <span style="color: #32CD32; font-weight: bold;">7.31</span> |
@@ -413,7 +413,7 @@ description: 月營收表 敦陽科 (2480) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-06 01:13:29 CST
+- **產生時間**: 2026-04-06 07:09:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

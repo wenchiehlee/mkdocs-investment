@@ -25,7 +25,7 @@ description: 月營收表 富邦金 (2881) - 自動產生
     **:building_construction: 公司名稱**: 富邦金  
     **:identification_card: 股票代號**: 2881  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-06 01:13:29 CST
+    **:clock3: 更新時間**: 2026-04-06 07:09:24 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 富邦金 (2881) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **2.53** | **5.02** | **8.98** |
-| **P/E倍數** | **8.63** | **12.95** | **25.99** |
+| **EPS(元)** | **2.53** | **5.04** | **8.98** |
+| **P/E倍數** | **8.62** | **12.94** | **25.90** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 富邦金 歷史平均獲利能力 (σup=3.96, σlo=2.49)
-    - **P/Ebase**: 富邦金 歷史平均估值水準 (σup=13.04, σlo=4.33)
+    - **EPSbase**: 富邦金 歷史平均獲利能力 (σup=3.94, σlo=2.50)
+    - **P/Ebase**: 富邦金 歷史平均估值水準 (σup=12.96, σlo=4.32)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -264,7 +264,7 @@ description: 月營收表 富邦金 (2881) - 自動產生
 | **2010/12** | **-** | N/A | N/A | **40** | <span style="color: #006400; font-weight: bold;">2.33</span> | <span style="color: #8B0000; font-weight: bold;">17.17</span> |
 | **2010/11** | **-** | N/A | N/A | **37.2** | <span style="color: #006400; font-weight: bold;">2.33</span> | <span style="color: #8B0000; font-weight: bold;">14.63</span> |
 | **2010/10** | **-** | N/A | N/A | **37.5** | <span style="color: #006400; font-weight: bold;">2.33</span> | <span style="color: #8B0000; font-weight: bold;">13.6</span> |
-| **2010/09** | **-** | N/A | N/A | **38.45** | <span style="color: #004225; font-weight: bold;">2.97</span> | <span style="color: #002818; font-weight: bold;">12.95</span> |
+| **2010/09** | **-** | N/A | N/A | **38.45** | <span style="color: #004225; font-weight: bold;">2.97</span> | <span style="color: #8B0000; font-weight: bold;">12.95</span> |
 | **2010/08** | **-** | N/A | N/A | **37.35** | <span style="color: #004225; font-weight: bold;">2.97</span> | <span style="color: #002818; font-weight: bold;">12.52</span> |
 | **2010/07** | **-** | N/A | N/A | **39.3** | <span style="color: #004225; font-weight: bold;">2.97</span> | <span style="color: #8B0000; font-weight: bold;">13.11</span> |
 | **2010/06** | **-** | N/A | N/A | **36.1** | <span style="color: #004225; font-weight: bold;">3.01</span> | <span style="color: #002818; font-weight: bold;">11.99</span> |
@@ -413,7 +413,7 @@ description: 月營收表 富邦金 (2881) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-06 01:13:29 CST
+- **產生時間**: 2026-04-06 07:09:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
