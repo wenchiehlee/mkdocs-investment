@@ -23,7 +23,7 @@ description: 月營收總覽 - 所有 126 檔股票 - 自動產生
 # :bar_chart: 月營收總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-04-07 01:25:41 CST  
+    **:calendar: 產生時間**: 2026-04-07 05:13:08 CST  
     **:building_construction: 分析股票總數**: 126 檔  
     **:chart_with_upwards_trend: 報告類型**: 各股完整歷史資料  
     **:file_folder: 資料來源**: Stage 2 cleaned_revenue.csv + cleaned_monthly_flow.csv
@@ -70,14 +70,14 @@ description: 月營收總覽 - 所有 126 檔股票 - 自動產生
 | [**2301**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2301/) | 光寶科 | **230** | 2026/02 | <span style="color: #B22222; font-weight: bold;">+17.4</span> | 2007/01 ~ 2026/02 |
 | [**2303**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2303/) | 聯電 | **239** | 2026/02 | <span style="color: #8B0000; font-weight: bold;">+6.32</span> | 2006/04 ~ 2026/02 |
 | [**2308**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2308/) | 台達電 | **239** | 2026/02 | <span style="color: #FF4500; font-weight: bold;">+31</span> | 2006/04 ~ 2026/02 |
-| [**2317**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2317/) | 鴻海 | **230** | 2026/02 | <span style="color: #8B0000; font-weight: bold;">+8.05</span> | 2007/01 ~ 2026/02 |
+| [**2317**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2317/) | 鴻海 | **231** | 2026/03 | <span style="color: #FF6347; font-weight: bold;">+45.6</span> | 2007/01 ~ 2026/03 |
 | [**2324**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2324/) | 仁寶 | **230** | 2026/02 | <span style="color: #006400; font-weight: bold;">-21.9</span> | 2007/01 ~ 2026/02 |
 | [**2330**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2330/) | 台積電 | **239** | 2026/02 | <span style="color: #DC143C; font-weight: bold;">+22.2</span> | 2006/04 ~ 2026/02 |
 | [**2332**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2332/) | 友訊 | **239** | 2026/02 | <span style="color: #002818; font-weight: bold;">-1.36</span> | 2006/04 ~ 2026/02 |
 | [**2345**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2345/) | 智邦 | **239** | 2026/02 | <span style="color: #FF7F7F; font-weight: bold;">+82.7</span> | 2006/04 ~ 2026/02 |
 | [**2347**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2347/) | 聯強 | **239** | 2026/02 | <span style="color: #8B0000; font-weight: bold;">+5.77</span> | 2006/04 ~ 2026/02 |
 | [**2353**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2353/) | 宏碁 | **239** | 2026/02 | <span style="color: #DC143C; font-weight: bold;">+25.7</span> | 2006/04 ~ 2026/02 |
-| [**2354**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2354/) | 鴻準 | **239** | 2026/02 | <span style="color: #006400; font-weight: bold;">-23.5</span> | 2006/04 ~ 2026/02 |
+| [**2354**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2354/) | 鴻準 | **240** | 2026/03 | <span style="color: #90EE90; font-weight: bold;">-61.1</span> | 2006/04 ~ 2026/03 |
 | [**2356**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2356/) | 英業達 | **239** | 2026/02 | <span style="color: #002818; font-weight: bold;">-1.42</span> | 2006/04 ~ 2026/02 |
 | [**2357**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2357/) | 華碩 | **239** | 2026/02 | <span style="color: #B22222; font-weight: bold;">+19.1</span> | 2006/04 ~ 2026/02 |
 | [**2359**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2359/) | 所羅門 | **239** | 2026/02 | <span style="color: #228B22; font-weight: bold;">-38.5</span> | 2006/04 ~ 2026/02 |
@@ -89,7 +89,7 @@ description: 月營收總覽 - 所有 126 檔股票 - 自動產生
 | [**2383**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2383/) | 台光電 | **239** | 2026/02 | <span style="color: #FF6347; font-weight: bold;">+45</span> | 2006/04 ~ 2026/02 |
 | [**2395**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2395/) | 研華 | **239** | 2026/02 | <span style="color: #8B0000; font-weight: bold;">+6.26</span> | 2006/04 ~ 2026/02 |
 | [**2405**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2405/) | 輔信 | **239** | 2026/02 | <span style="color: #006400; font-weight: bold;">-20.7</span> | 2006/04 ~ 2026/02 |
-| [**2408**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2408/) | 南亞科 | **239** | 2026/02 | <span style="color: #FF7F7F; font-weight: bold;">+586.7</span> | 2006/04 ~ 2026/02 |
+| [**2408**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2408/) | 南亞科 | **240** | 2026/03 | <span style="color: #FF7F7F; font-weight: bold;">+560</span> | 2006/04 ~ 2026/03 |
 | [**2412**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2412/) | 中華電 | **239** | 2026/02 | <span style="color: #8B0000; font-weight: bold;">+2.73</span> | 2006/04 ~ 2026/02 |
 | [**2449**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2449/) | 京元電子 | **239** | 2026/02 | <span style="color: #FF6347; font-weight: bold;">+41</span> | 2006/04 ~ 2026/02 |
 | [**2450**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2450/) | 神腦 | **239** | 2026/02 | <span style="color: #004225; font-weight: bold;">-13.9</span> | 2006/04 ~ 2026/02 |
@@ -145,7 +145,7 @@ description: 月營收總覽 - 所有 126 檔股票 - 自動產生
 | [**6442**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6442/) | 光聖 | **148** | 2026/02 | <span style="color: #FF6347; font-weight: bold;">+44.1</span> | 2013/11 ~ 2026/02 |
 | [**6462**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6462/) | 神盾 | **143** | 2026/02 | <span style="color: #FF4500; font-weight: bold;">+32.9</span> | 2014/04 ~ 2026/02 |
 | [**6506**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6506/) | 雙邦 | **239** | 2026/02 | <span style="color: #006400; font-weight: bold;">-20.7</span> | 2006/04 ~ 2026/02 |
-| [**6510**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6510/) | 精測 | **135** | 2026/02 | <span style="color: #8B0000; font-weight: bold;">+8.48</span> | 2014/10 ~ 2026/02 |
+| [**6510**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6510/) | 精測 | **136** | 2026/03 | <span style="color: #DC143C; font-weight: bold;">+25.5</span> | 2014/10 ~ 2026/03 |
 | [**6526**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6526/) | 達發 | **75** | 2026/02 | <span style="color: #8B0000; font-weight: bold;">+2.44</span> | 2015/04 ~ 2026/02 |
 | [**6561**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6561/) | 是方 | **124** | 2026/02 | <span style="color: #8B0000; font-weight: bold;">+7.1</span> | 2015/11 ~ 2026/02 |
 | [**6597**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6597/) | 立誠 | **114** | 2026/02 | <span style="color: #32CD32; font-weight: bold;">-40.6</span> | 2016/09 ~ 2026/02 |
@@ -262,7 +262,7 @@ description: 月營收總覽 - 所有 126 檔股票 - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-**產生時間**: 2026-04-07 01:25:41 CST  
+**產生時間**: 2026-04-07 05:13:08 CST  
 **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)  
 **報告版本**: Material for MkDocs 增強版 with EPS/P-E Integration (Asymmetric Statistics)  
 **處理模式**: 完整資料模式
