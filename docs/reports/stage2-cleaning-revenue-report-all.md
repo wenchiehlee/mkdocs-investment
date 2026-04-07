@@ -23,7 +23,7 @@ description: 月營收總覽 - 所有 126 檔股票 - 自動產生
 # :bar_chart: 月營收總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-04-08 01:45:33 CST  
+    **:calendar: 產生時間**: 2026-04-08 05:35:47 CST  
     **:building_construction: 分析股票總數**: 126 檔  
     **:chart_with_upwards_trend: 報告類型**: 各股完整歷史資料  
     **:file_folder: 資料來源**: Stage 2 cleaned_revenue.csv + cleaned_monthly_flow.csv
@@ -183,7 +183,7 @@ description: 月營收總覽 - 所有 126 檔股票 - 自動產生
 | [**7749**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7749/) | 意騰-KY | **11** | 2026/02 | <span style="color: #FF7F7F; font-weight: bold;">+74.8</span> | 2025/04 ~ 2026/02 |
 | [**7765**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7765/) | 中華資安 | **20** | 2026/02 | <span style="color: #004225; font-weight: bold;">-15.3</span> | 2024/07 ~ 2026/02 |
 | [**7769**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7769/) | 鴻勁 | **20** | 2026/02 | <span style="color: #FF7F7F; font-weight: bold;">+57</span> | 2024/07 ~ 2026/02 |
-| [**7794**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7794/) | 宏碁智新 | **17** | 2026/02 | <span style="color: #FF7F7F; font-weight: bold;">+54</span> | 2024/10 ~ 2026/02 |
+| [**7794**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7794/) | 宏碁智新 | **18** | 2026/03 | <span style="color: #FF7F7F; font-weight: bold;">+72.4</span> | 2024/10 ~ 2026/03 |
 | [**7805**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7805/) | 威聯通 | **16** | 2026/02 | <span style="color: #B22222; font-weight: bold;">+12</span> | 2024/11 ~ 2026/02 |
 | [**8016**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-8016/) | 矽創 | **239** | 2026/02 | <span style="color: #B22222; font-weight: bold;">+10.1</span> | 2006/04 ~ 2026/02 |
 | [**8045**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-8045/) | 達運光電 | **236** | 2026/02 | <span style="color: #B22222; font-weight: bold;">+11.3</span> | 2006/04 ~ 2026/02 |
@@ -262,7 +262,7 @@ description: 月營收總覽 - 所有 126 檔股票 - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-**產生時間**: 2026-04-08 01:45:33 CST  
+**產生時間**: 2026-04-08 05:35:47 CST  
 **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)  
 **報告版本**: Material for MkDocs 增強版 with EPS/P-E Integration (Asymmetric Statistics)  
 **處理模式**: 完整資料模式
