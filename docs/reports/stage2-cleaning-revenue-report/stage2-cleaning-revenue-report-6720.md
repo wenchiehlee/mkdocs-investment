@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-07
+date: 2026-04-08
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 久昌 (6720) - 自動產生
     **:building_construction: 公司名稱**: 久昌  
     **:identification_card: 股票代號**: 6720  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-07 20:40:03 CST
+    **:clock3: 更新時間**: 2026-04-08 01:45:33 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 久昌 (6720) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **4.01** | **4.79** | **6.03** |
-| **P/E倍數** | **26.94** | **31.35** | **41.40** |
+| **P/E倍數** | **26.95** | **31.41** | **41.64** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 久昌 歷史平均獲利能力 (σup=1.24, σlo=0.78)
-    - **P/Ebase**: 久昌 歷史平均估值水準 (σup=10.06, σlo=4.41)
+    - **P/Ebase**: 久昌 歷史平均估值水準 (σup=10.24, σlo=4.46)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -90,7 +90,7 @@ description: 月營收表 久昌 (6720) - 自動產生
 | **2025/06** | **0.362** | <span style="color: #006400; font-weight: bold;">-21.1</span> | <span style="color: #002818; font-weight: bold;">-1.81</span> | **148** | <span style="color: #8B0000; font-weight: bold;">5.07</span> | <span style="color: #002818; font-weight: bold;">29.19</span> |
 | **2025/05** | **0.401** | <span style="color: #004225; font-weight: bold;">-17.5</span> | <span style="color: #8B0000; font-weight: bold;">+2.29</span> | **157** | <span style="color: #8B0000; font-weight: bold;">5.07</span> | <span style="color: #004225; font-weight: bold;">28.56</span> |
 | **2025/04** | **0.467** | <span style="color: #002818; font-weight: bold;">-8.86</span> | <span style="color: #8B0000; font-weight: bold;">+8.09</span> | **161.5** | <span style="color: #8B0000; font-weight: bold;">5.07</span> | <span style="color: #004225; font-weight: bold;">27.27</span> |
-| **2025/03** | **0.476** | <span style="color: #B22222; font-weight: bold;">+16.6</span> | <span style="color: #B22222; font-weight: bold;">+15.6</span> | **157** | <span style="color: #DC143C; font-weight: bold;">6.35</span> | <span style="color: #228B22; font-weight: bold;">24.72</span> |
+| **2025/03** | **0.476** | <span style="color: #B22222; font-weight: bold;">+16.6</span> | <span style="color: #B22222; font-weight: bold;">+15.6</span> | **157** | <span style="color: #DC143C; font-weight: bold;">6.35</span> | <span style="color: #006400; font-weight: bold;">24.72</span> |
 | **2025/02** | **0.43** | <span style="color: #DC143C; font-weight: bold;">+28.4</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **174** | <span style="color: #DC143C; font-weight: bold;">6.35</span> | <span style="color: #004225; font-weight: bold;">27.05</span> |
 | **2025/01** | **0.424** | <span style="color: #8B0000; font-weight: bold;">+4.2</span> | <span style="color: #8B0000; font-weight: bold;">+4.2</span> | **163** | <span style="color: #DC143C; font-weight: bold;">6.35</span> | <span style="color: #006400; font-weight: bold;">25.01</span> |
 | **2024/12** | **0.407** | <span style="color: #8B0000; font-weight: bold;">+4.81</span> | <span style="color: #FF6347; font-weight: bold;">+41.2</span> | **155.5** | <span style="color: #DC143C; font-weight: bold;">6.6</span> | <span style="color: #228B22; font-weight: bold;">23.56</span> |
@@ -262,7 +262,7 @@ description: 月營收表 久昌 (6720) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-07 20:40:03 CST
+- **產生時間**: 2026-04-08 01:45:33 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

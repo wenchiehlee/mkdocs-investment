@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-07
+date: 2026-04-08
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 禾伸堂 (3026) - 自動產生
     **:building_construction: 公司名稱**: 禾伸堂  
     **:identification_card: 股票代號**: 3026  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-07 20:40:03 CST
+    **:clock3: 更新時間**: 2026-04-08 01:45:33 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 禾伸堂 (3026) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **3.00** | **5.32** | **10.83** |
-| **P/E倍數** | **10.48** | **13.61** | **17.78** |
+| **P/E倍數** | **10.48** | **13.62** | **17.82** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 禾伸堂 歷史平均獲利能力 (σup=5.50, σlo=2.32)
-    - **P/Ebase**: 禾伸堂 歷史平均估值水準 (σup=4.17, σlo=3.13)
+    - **P/Ebase**: 禾伸堂 歷史平均估值水準 (σup=4.20, σlo=3.14)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -154,7 +154,7 @@ description: 月營收表 禾伸堂 (3026) - 自動產生
 | **2020/02** | **8.24** | <span style="color: #8B0000; font-weight: bold;">+4.88</span> | <span style="color: #8B0000; font-weight: bold;">+0.89</span> | **101** | <span style="color: #002818; font-weight: bold;">5.22</span> | <span style="color: #DC143C; font-weight: bold;">19.6</span> |
 | **2020/01** | **10.81** | <span style="color: #002818; font-weight: bold;">-1.95</span> | <span style="color: #002818; font-weight: bold;">-1.95</span> | **99.3** | <span style="color: #002818; font-weight: bold;">5.22</span> | <span style="color: #DC143C; font-weight: bold;">19.52</span> |
 | **2019/12** | **9.96** | <span style="color: #B22222; font-weight: bold;">+15.3</span> | <span style="color: #004225; font-weight: bold;">-10.7</span> | **116** | <span style="color: #002818; font-weight: bold;">5.02</span> | <span style="color: #FF6347; font-weight: bold;">23.11</span> |
-| **2019/11** | **13.69** | <span style="color: #8B0000; font-weight: bold;">+1.52</span> | <span style="color: #004225; font-weight: bold;">-12.2</span> | **98.5** | <span style="color: #002818; font-weight: bold;">5.02</span> | <span style="color: #DC143C; font-weight: bold;">17.81</span> |
+| **2019/11** | **13.69** | <span style="color: #8B0000; font-weight: bold;">+1.52</span> | <span style="color: #004225; font-weight: bold;">-12.2</span> | **98.5** | <span style="color: #002818; font-weight: bold;">5.02</span> | <span style="color: #B22222; font-weight: bold;">17.81</span> |
 | **2019/10** | **13.98** | <span style="color: #002818; font-weight: bold;">-1.58</span> | <span style="color: #004225; font-weight: bold;">-13.5</span> | **101** | <span style="color: #002818; font-weight: bold;">5.02</span> | <span style="color: #B22222; font-weight: bold;">16.72</span> |
 | **2019/09** | **14.68** | <span style="color: #004225; font-weight: bold;">-10.6</span> | <span style="color: #004225; font-weight: bold;">-14.8</span> | **91.2** | <span style="color: #8B0000; font-weight: bold;">6.55</span> | <span style="color: #8B0000; font-weight: bold;">13.92</span> |
 | **2019/08** | **13.18** | <span style="color: #006400; font-weight: bold;">-23.4</span> | <span style="color: #004225; font-weight: bold;">-15.4</span> | **91.3** | <span style="color: #8B0000; font-weight: bold;">6.55</span> | <span style="color: #004225; font-weight: bold;">11.01</span> |
@@ -411,7 +411,7 @@ description: 月營收表 禾伸堂 (3026) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-07 20:40:03 CST
+- **產生時間**: 2026-04-08 01:45:33 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

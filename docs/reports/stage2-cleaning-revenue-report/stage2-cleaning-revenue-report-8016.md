@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-07
+date: 2026-04-08
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 矽創 (8016) - 自動產生
     **:building_construction: 公司名稱**: 矽創  
     **:identification_card: 股票代號**: 8016  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-07 20:40:03 CST
+    **:clock3: 更新時間**: 2026-04-08 01:45:33 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 矽創 (8016) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **5.47** | **10.98** | **29.30** |
-| **P/E倍數** | **9.56** | **13.17** | **15.96** |
+| **P/E倍數** | **9.55** | **13.18** | **15.95** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 矽創 歷史平均獲利能力 (σup=18.33, σlo=5.50)
-    - **P/Ebase**: 矽創 歷史平均估值水準 (σup=2.79, σlo=3.61)
+    - **P/Ebase**: 矽創 歷史平均估值水準 (σup=2.77, σlo=3.63)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -276,7 +276,7 @@ description: 月營收表 矽創 (8016) - 自動產生
 | **2009/12** | **-** | N/A | N/A | **65** | <span style="color: #006400; font-weight: bold;">3.92</span> | <span style="color: #DC143C; font-weight: bold;">16.58</span> |
 | **2009/11** | **-** | N/A | N/A | **62.2** | <span style="color: #006400; font-weight: bold;">3.92</span> | <span style="color: #FF4500; font-weight: bold;">17.42</span> |
 | **2009/10** | **-** | N/A | N/A | **55.4** | <span style="color: #006400; font-weight: bold;">3.92</span> | <span style="color: #DC143C; font-weight: bold;">17.2</span> |
-| **2009/09** | **-** | N/A | N/A | **61.7** | <span style="color: #006400; font-weight: bold;">2.87</span> | <span style="color: #FF6347; font-weight: bold;">21.5</span> |
+| **2009/09** | **-** | N/A | N/A | **61.7** | <span style="color: #006400; font-weight: bold;">2.87</span> | <span style="color: #FF7F7F; font-weight: bold;">21.5</span> |
 | **2009/08** | **-** | N/A | N/A | **58** | <span style="color: #006400; font-weight: bold;">2.87</span> | <span style="color: #FF6347; font-weight: bold;">19.04</span> |
 | **2009/07** | **-** | N/A | N/A | **61.7** | <span style="color: #006400; font-weight: bold;">2.87</span> | <span style="color: #FF6347; font-weight: bold;">19.14</span> |
 | **2009/06** | **-** | N/A | N/A | **48.7** | <span style="color: #006400; font-weight: bold;">3.4</span> | <span style="color: #8B0000; font-weight: bold;">14.32</span> |
@@ -413,7 +413,7 @@ description: 月營收表 矽創 (8016) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-07 20:40:03 CST
+- **產生時間**: 2026-04-08 01:45:33 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

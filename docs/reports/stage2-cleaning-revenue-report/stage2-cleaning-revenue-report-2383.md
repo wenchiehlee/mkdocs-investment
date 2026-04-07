@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-07
+date: 2026-04-08
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 台光電 (2383) - 自動產生
     **:building_construction: 公司名稱**: 台光電  
     **:identification_card: 股票代號**: 2383  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-07 20:40:03 CST
+    **:clock3: 更新時間**: 2026-04-08 01:45:33 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 台光電 (2383) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **3.66** | **9.57** | **24.05** |
-| **P/E倍數** | **9.11** | **13.36** | **26.03** |
+| **P/E倍數** | **9.11** | **13.37** | **26.16** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 台光電 歷史平均獲利能力 (σup=14.47, σlo=5.91)
-    - **P/Ebase**: 台光電 歷史平均估值水準 (σup=12.67, σlo=4.25)
+    - **P/Ebase**: 台光電 歷史平均估值水準 (σup=12.79, σlo=4.26)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -85,7 +85,7 @@ description: 月營收表 台光電 (2383) - 自動產生
 | **2025/11** | **81.29** | <span style="color: #DC143C; font-weight: bold;">+28.3</span> | <span style="color: #FF6347; font-weight: bold;">+47.6</span> | **1525** | <span style="color: #FF6347; font-weight: bold;">41.67</span> | <span style="color: #FF4500; font-weight: bold;">37.45</span> |
 | **2025/10** | **80.75** | <span style="color: #FF4500; font-weight: bold;">+38.8</span> | <span style="color: #FF6347; font-weight: bold;">+49.9</span> | **1360** | <span style="color: #FF6347; font-weight: bold;">41.67</span> | <span style="color: #FF4500; font-weight: bold;">34.2</span> |
 | **2025/09** | **80.08** | <span style="color: #FF4500; font-weight: bold;">+34.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+51.3</span> | **1225** | <span style="color: #FF6347; font-weight: bold;">38.81</span> | <span style="color: #DC143C; font-weight: bold;">31.56</span> |
-| **2025/08** | **87.65** | <span style="color: #FF7F7F; font-weight: bold;">+52.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+53.8</span> | **1220** | <span style="color: #FF6347; font-weight: bold;">38.81</span> | <span style="color: #FF4500; font-weight: bold;">32.52</span> |
+| **2025/08** | **87.65** | <span style="color: #FF7F7F; font-weight: bold;">+52.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+53.8</span> | **1220** | <span style="color: #FF6347; font-weight: bold;">38.81</span> | <span style="color: #DC143C; font-weight: bold;">32.52</span> |
 | **2025/07** | **83.72** | <span style="color: #FF6347; font-weight: bold;">+44.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+54</span> | **1105** | <span style="color: #FF6347; font-weight: bold;">38.81</span> | <span style="color: #DC143C; font-weight: bold;">30.51</span> |
 | **2025/06** | **80.35** | <span style="color: #FF7F7F; font-weight: bold;">+53.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+55.8</span> | **882** | <span style="color: #FF4500; font-weight: bold;">34.92</span> | <span style="color: #B22222; font-weight: bold;">25.26</span> |
 | **2025/05** | **72.77** | <span style="color: #FF6347; font-weight: bold;">+41.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+56.5</span> | **749** | <span style="color: #FF4500; font-weight: bold;">34.92</span> | <span style="color: #B22222; font-weight: bold;">22.08</span> |
@@ -103,8 +103,8 @@ description: 月營收表 台光電 (2383) - 自動產生
 | **2024/05** | **51.42** | <span style="color: #FF7F7F; font-weight: bold;">+63.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+73.5</span> | **408.5** | <span style="color: #DC143C; font-weight: bold;">24.48</span> | <span style="color: #8B0000; font-weight: bold;">17.68</span> |
 | **2024/04** | **50.6** | <span style="color: #FF7F7F; font-weight: bold;">+80.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+76.7</span> | **412** | <span style="color: #DC143C; font-weight: bold;">24.48</span> | <span style="color: #8B0000; font-weight: bold;">18.97</span> |
 | **2024/03** | **46.54** | <span style="color: #FF7F7F; font-weight: bold;">+66.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+75.3</span> | **403.5** | <span style="color: #B22222; font-weight: bold;">20.34</span> | <span style="color: #B22222; font-weight: bold;">19.84</span> |
-| **2024/02** | **37.64** | <span style="color: #FF7F7F; font-weight: bold;">+59.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+80.8</span> | **495** | <span style="color: #B22222; font-weight: bold;">20.34</span> | <span style="color: #DC143C; font-weight: bold;">26.04</span> |
-| **2024/01** | **44.85** | <span style="color: #FF7F7F; font-weight: bold;">+104.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+104.1</span> | **461** | <span style="color: #B22222; font-weight: bold;">20.34</span> | <span style="color: #DC143C; font-weight: bold;">26.07</span> |
+| **2024/02** | **37.64** | <span style="color: #FF7F7F; font-weight: bold;">+59.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+80.8</span> | **495** | <span style="color: #B22222; font-weight: bold;">20.34</span> | <span style="color: #B22222; font-weight: bold;">26.04</span> |
+| **2024/01** | **44.85** | <span style="color: #FF7F7F; font-weight: bold;">+104.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+104.1</span> | **461** | <span style="color: #B22222; font-weight: bold;">20.34</span> | <span style="color: #B22222; font-weight: bold;">26.07</span> |
 | **2023/12** | **43.08** | <span style="color: #FF7F7F; font-weight: bold;">+58.6</span> | <span style="color: #8B0000; font-weight: bold;">+6.78</span> | **382** | <span style="color: #8B0000; font-weight: bold;">16.35</span> | <span style="color: #B22222; font-weight: bold;">23.36</span> |
 | **2023/11** | **42.25** | <span style="color: #FF4500; font-weight: bold;">+39.6</span> | <span style="color: #8B0000; font-weight: bold;">+2.86</span> | **380** | <span style="color: #8B0000; font-weight: bold;">16.35</span> | <span style="color: #B22222; font-weight: bold;">24.12</span> |
 | **2023/10** | **43.49** | <span style="color: #FF4500; font-weight: bold;">+38.3</span> | <span style="color: #002818; font-weight: bold;">-0.5</span> | **359** | <span style="color: #8B0000; font-weight: bold;">16.35</span> | <span style="color: #B22222; font-weight: bold;">23.68</span> |
@@ -413,7 +413,7 @@ description: 月營收表 台光電 (2383) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-07 20:40:03 CST
+- **產生時間**: 2026-04-08 01:45:33 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

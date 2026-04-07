@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-07
+date: 2026-04-08
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 精測 (6510) - 自動產生
     **:building_construction: 公司名稱**: 精測  
     **:identification_card: 股票代號**: 6510  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-07 20:40:03 CST
+    **:clock3: 更新時間**: 2026-04-08 01:45:33 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 精測 (6510) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **10.87** | **20.82** | **26.44** |
-| **P/E倍數** | **30.56** | **56.88** | **185.93** |
+| **P/E倍數** | **30.56** | **56.92** | **186.02** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 精測 歷史平均獲利能力 (σup=5.62, σlo=9.95)
-    - **P/Ebase**: 精測 歷史平均估值水準 (σup=129.06, σlo=26.32)
+    - **P/Ebase**: 精測 歷史平均估值水準 (σup=129.10, σlo=26.36)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -122,7 +122,7 @@ description: 月營收表 精測 (6510) - 自動產生
 | **2022/11** | **3.82** | <span style="color: #002818; font-weight: bold;">-6.94</span> | <span style="color: #8B0000; font-weight: bold;">+5.96</span> | **520** | <span style="color: #8B0000; font-weight: bold;">23.5</span> | <span style="color: #006400; font-weight: bold;">21.19</span> |
 | **2022/10** | **4.21** | <span style="color: #002818; font-weight: bold;">-4.15</span> | <span style="color: #8B0000; font-weight: bold;">+7.52</span> | **380** | <span style="color: #8B0000; font-weight: bold;">23.5</span> | <span style="color: #228B22; font-weight: bold;">14.86</span> |
 | **2022/09** | **4.51** | <span style="color: #B22222; font-weight: bold;">+14.1</span> | <span style="color: #8B0000; font-weight: bold;">+9.24</span> | **385.5** | <span style="color: #DC143C; font-weight: bold;">26.61</span> | <span style="color: #228B22; font-weight: bold;">14.49</span> |
-| **2022/08** | **4.41** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #8B0000; font-weight: bold;">+8.49</span> | **462.5** | <span style="color: #DC143C; font-weight: bold;">26.61</span> | <span style="color: #228B22; font-weight: bold;">17.39</span> |
+| **2022/08** | **4.41** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #8B0000; font-weight: bold;">+8.49</span> | **462.5** | <span style="color: #DC143C; font-weight: bold;">26.61</span> | <span style="color: #006400; font-weight: bold;">17.39</span> |
 | **2022/07** | **3.36** | <span style="color: #8B0000; font-weight: bold;">+3.2</span> | <span style="color: #8B0000; font-weight: bold;">+7.55</span> | **457** | <span style="color: #DC143C; font-weight: bold;">26.61</span> | <span style="color: #228B22; font-weight: bold;">17.2</span> |
 | **2022/06** | **4.14** | <span style="color: #DC143C; font-weight: bold;">+22.9</span> | <span style="color: #8B0000; font-weight: bold;">+8.32</span> | **408** | <span style="color: #DC143C; font-weight: bold;">26.56</span> | <span style="color: #228B22; font-weight: bold;">15.36</span> |
 | **2022/05** | **4.14** | <span style="color: #B22222; font-weight: bold;">+15.6</span> | <span style="color: #8B0000; font-weight: bold;">+5.09</span> | **493.5** | <span style="color: #DC143C; font-weight: bold;">26.56</span> | <span style="color: #006400; font-weight: bold;">18.83</span> |
@@ -310,7 +310,7 @@ description: 月營收表 精測 (6510) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-07 20:40:03 CST
+- **產生時間**: 2026-04-08 01:45:33 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
