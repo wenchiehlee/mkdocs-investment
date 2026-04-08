@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-08
+date: 2026-04-09
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 緯軟 (4953) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 緯軟  
     **:identification_card: 股票代號**: 4953  
-    **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-08 19:43:34 CST
+    **:calendar: 最新資料**: 2026/03  
+    **:clock3: 更新時間**: 2026-04-09 05:26:45 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+20.2</span> | <span style="color: #DC143C; font-weight: bold;">+27.3</span> | **189** 個月 | 2010/06 至 2026/02 |
+| <span style="color: #FF4500; font-weight: bold;">+31.1</span> | <span style="color: #DC143C; font-weight: bold;">+28.7</span> | **190** 個月 | 2010/06 至 2026/03 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -52,7 +52,7 @@ description: 月營收表 緯軟 (4953) - 自動產生
 | **6月** | -- | 900<br/><span style="color: #8B0000;">(+8.80%)</span> | 827<br/><span style="color: #B22222;">(+16.80%)</span> | 708<br/><span style="color: #8B0000;">(+7.27%)</span> | 660<br/><span style="color: #FF4500;">(+31.60%)</span> |
 | **5月** | -- | 890<br/><span style="color: #8B0000;">(+5.38%)</span> | 844<br/><span style="color: #B22222;">(+19.30%)</span> | 707<br/><span style="color: #B22222;">(+10.00%)</span> | 643<br/><span style="color: #FF4500;">(+34.20%)</span> |
 | **4月** | -- | 934<br/><span style="color: #8B0000;">(+9.47%)</span> | 852<br/><span style="color: #B22222;">(+19.70%)</span> | 712<br/><span style="color: #B22222;">(+10.00%)</span> | 647<br/><span style="color: #FF4500;">(+33.60%)</span> |
-| **3月** | -- | 926<br/><span style="color: #B22222;">(+12.00%)</span> | 827<br/><span style="color: #B22222;">(+15.70%)</span> | 714<br/><span style="color: #8B0000;">(+9.18%)</span> | 654<br/><span style="color: #FF4500;">(+37.10%)</span> |
+| **3月** | 1,214<br/><span style="color: #FF4500;">(+31.10%)</span> | 926<br/><span style="color: #B22222;">(+12.00%)</span> | 827<br/><span style="color: #B22222;">(+15.70%)</span> | 714<br/><span style="color: #8B0000;">(+9.18%)</span> | 654<br/><span style="color: #FF4500;">(+37.10%)</span> |
 | **2月** | 1,046<br/><span style="color: #DC143C;">(+20.20%)</span> | 869<br/><span style="color: #B22222;">(+15.90%)</span> | 751<br/><span style="color: #8B0000;">(+9.69%)</span> | 684<br/><span style="color: #B22222;">(+19.00%)</span> | 575<br/><span style="color: #FF4500;">(+34.40%)</span> |
 | **1月** | 1,139<br/><span style="color: #FF4500;">(+34.70%)</span> | 846<br/><span style="color: #8B0000;">(+0.54%)</span> | 841<br/><span style="color: #DC143C;">(+28.30%)</span> | 656<br/><span style="color: #8B0000;">(+9.43%)</span> | 599<br/><span style="color: #DC143C;">(+29.10%)</span> |
 
@@ -79,6 +79,7 @@ description: 月營收表 緯軟 (4953) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/03** | **12.14** | <span style="color: #FF4500; font-weight: bold;">+31.1</span> | <span style="color: #DC143C; font-weight: bold;">+28.7</span> | **108** | <span style="color: #DC143C; font-weight: bold;">8.45</span> | <span style="color: #006400; font-weight: bold;">12.78</span> |
 | **2026/02** | **10.46** | <span style="color: #DC143C; font-weight: bold;">+20.2</span> | <span style="color: #DC143C; font-weight: bold;">+27.3</span> | **117.5** | <span style="color: #DC143C; font-weight: bold;">8.45</span> | <span style="color: #004225; font-weight: bold;">13.91</span> |
 | **2026/01** | **11.39** | <span style="color: #FF4500; font-weight: bold;">+34.7</span> | <span style="color: #FF4500; font-weight: bold;">+34.7</span> | **122** | <span style="color: #DC143C; font-weight: bold;">8.45</span> | <span style="color: #004225; font-weight: bold;">14.44</span> |
 | **2025/12** | **11.73** | <span style="color: #DC143C; font-weight: bold;">+28.5</span> | <span style="color: #B22222; font-weight: bold;">+13</span> | **123** | <span style="color: #DC143C; font-weight: bold;">8.45</span> | <span style="color: #004225; font-weight: bold;">14.56</span> |
@@ -363,7 +364,7 @@ description: 月營收表 緯軟 (4953) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-08 19:43:34 CST
+- **產生時間**: 2026-04-09 05:26:45 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-08
+date: 2026-04-09
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 力領科技 (6996) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 力領科技  
     **:identification_card: 股票代號**: 6996  
-    **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-08 19:43:34 CST
+    **:calendar: 最新資料**: 2026/03  
+    **:clock3: 更新時間**: 2026-04-09 05:26:45 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #002818; font-weight: bold;">-2.27</span> | <span style="color: #B22222; font-weight: bold;">+15</span> | **31** 個月 | 2023/08 至 2026/02 |
+| <span style="color: #B22222; font-weight: bold;">+15.8</span> | <span style="color: #B22222; font-weight: bold;">+15.3</span> | **32** 個月 | 2023/08 至 2026/03 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -52,7 +52,7 @@ description: 月營收表 力領科技 (6996) - 自動產生
 | **6月** | -- | 184<br/><span style="color: #004225;">(-18.60%)</span> | 225<br/><span style="color: #B22222;">(+16.00%)</span> | -- |
 | **5月** | -- | 180<br/><span style="color: #228B22;">(-36.10%)</span> | 282<br/><span style="color: #FF4500;">(+34.10%)</span> | -- |
 | **4月** | -- | 252<br/><span style="color: #002818;">(-6.68%)</span> | 270<br/><span style="color: #B22222;">(+13.40%)</span> | -- |
-| **3月** | -- | 231<br/><span style="color: #002818;">(-5.83%)</span> | 246<br/><span style="color: #002818;">(-7.20%)</span> | -- |
+| **3月** | 269<br/><span style="color: #B22222;">(+15.80%)</span> | 231<br/><span style="color: #002818;">(-5.83%)</span> | 246<br/><span style="color: #002818;">(-7.20%)</span> | -- |
 | **2月** | 190<br/><span style="color: #002818;">(-2.27%)</span> | 194<br/><span style="color: #8B0000;">(+1.04%)</span> | 192<br/><span style="color: #8B0000;">(+0.48%)</span> | -- |
 | **1月** | 261<br/><span style="color: #FF4500;">(+32.10%)</span> | 198<br/><span style="color: #004225;">(-18.80%)</span> | 244<br/><span style="color: #FF7F7F;">(+64.90%)</span> | -- |
 
@@ -79,6 +79,7 @@ description: 月營收表 力領科技 (6996) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/03** | **2.69** | <span style="color: #B22222; font-weight: bold;">+15.8</span> | <span style="color: #B22222; font-weight: bold;">+15.3</span> | **165.5** | <span style="color: #8B0000; font-weight: bold;">12.15</span> | <span style="color: #002818; font-weight: bold;">13.62</span> |
 | **2026/02** | **1.9** | <span style="color: #002818; font-weight: bold;">-2.27</span> | <span style="color: #B22222; font-weight: bold;">+15</span> | **167.5** | <span style="color: #8B0000; font-weight: bold;">12.15</span> | <span style="color: #8B0000; font-weight: bold;">13.79</span> |
 | **2026/01** | **2.61** | <span style="color: #FF4500; font-weight: bold;">+32.1</span> | <span style="color: #FF4500; font-weight: bold;">+32.1</span> | **164.5** | <span style="color: #8B0000; font-weight: bold;">12.15</span> | <span style="color: #002818; font-weight: bold;">13.54</span> |
 | **2025/12** | **2.66** | <span style="color: #B22222; font-weight: bold;">+13.7</span> | <span style="color: #002818; font-weight: bold;">-9.39</span> | **150** | <span style="color: #8B0000; font-weight: bold;">12.15</span> | <span style="color: #228B22; font-weight: bold;">12.35</span> |
@@ -205,7 +206,7 @@ description: 月營收表 力領科技 (6996) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-08 19:43:34 CST
+- **產生時間**: 2026-04-09 05:26:45 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
