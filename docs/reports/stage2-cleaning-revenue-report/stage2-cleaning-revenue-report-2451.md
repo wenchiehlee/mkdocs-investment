@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-09
+date: 2026-04-10
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 創見 (2451) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 創見  
     **:identification_card: 股票代號**: 2451  
-    **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-09 22:34:35 CST
+    **:calendar: 最新資料**: 2026/03  
+    **:clock3: 更新時間**: 2026-04-10 05:36:10 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+246.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+341.3</span> | **239** 個月 | 2006/04 至 2026/02 |
+| <span style="color: #FF7F7F; font-weight: bold;">+380.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+356.9</span> | **240** 個月 | 2006/04 至 2026/03 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -52,7 +52,7 @@ description: 月營收表 創見 (2451) - 自動產生
 | **6月** | -- | 1,052<br/><span style="color: #FF7F7F;">(+53.80%)</span> | 684<br/><span style="color: #006400;">(-25.60%)</span> | 919<br/><span style="color: #004225;">(-13.20%)</span> | 1,059<br/><span style="color: #004225;">(-13.70%)</span> |
 | **5月** | -- | 1,105<br/><span style="color: #FF4500;">(+38.40%)</span> | 799<br/><span style="color: #002818;">(-5.63%)</span> | 846<br/><span style="color: #004225;">(-18.00%)</span> | 1,032<br/><span style="color: #004225;">(-19.20%)</span> |
 | **4月** | -- | 1,073<br/><span style="color: #DC143C;">(+26.30%)</span> | 849<br/><span style="color: #DC143C;">(+20.60%)</span> | 704<br/><span style="color: #006400;">(-23.10%)</span> | 915<br/><span style="color: #006400;">(-29.00%)</span> |
-| **3月** | -- | 1,183<br/><span style="color: #FF4500;">(+33.70%)</span> | 885<br/><span style="color: #004225;">(-14.90%)</span> | 1,039<br/><span style="color: #004225;">(-15.60%)</span> | 1,232<br/><span style="color: #002818;">(-8.61%)</span> |
+| **3月** | 5,684<br/><span style="color: #FF7F7F;">(+380.60%)</span> | 1,183<br/><span style="color: #FF4500;">(+33.70%)</span> | 885<br/><span style="color: #004225;">(-14.90%)</span> | 1,039<br/><span style="color: #004225;">(-15.60%)</span> | 1,232<br/><span style="color: #002818;">(-8.61%)</span> |
 | **2月** | 3,184<br/><span style="color: #FF7F7F;">(+246.30%)</span> | 919<br/><span style="color: #B22222;">(+14.60%)</span> | 802<br/><span style="color: #002818;">(-0.16%)</span> | 803<br/><span style="color: #006400;">(-23.20%)</span> | 1,047<br/><span style="color: #8B0000;">(+8.04%)</span> |
 | **1月** | 4,760<br/><span style="color: #FF7F7F;">(+440.60%)</span> | 881<br/><span style="color: #004225;">(-15.70%)</span> | 1,045<br/><span style="color: #FF4500;">(+36.50%)</span> | 766<br/><span style="color: #228B22;">(-34.60%)</span> | 1,171<br/><span style="color: #002818;">(-0.92%)</span> |
 
@@ -79,6 +79,7 @@ description: 月營收表 創見 (2451) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/03** | **56.84** | <span style="color: #FF7F7F; font-weight: bold;">+380.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+356.9</span> | **211** | <span style="color: #FF7F7F; font-weight: bold;">12.98</span> | <span style="color: #8B0000; font-weight: bold;">16.26</span> |
 | **2026/02** | **31.84** | <span style="color: #FF7F7F; font-weight: bold;">+246.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+341.3</span> | **210** | <span style="color: #FF7F7F; font-weight: bold;">12.98</span> | <span style="color: #8B0000; font-weight: bold;">16.18</span> |
 | **2026/01** | **47.6** | <span style="color: #FF7F7F; font-weight: bold;">+440.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+440.6</span> | **266.5** | <span style="color: #FF7F7F; font-weight: bold;">12.98</span> | <span style="color: #DC143C; font-weight: bold;">20.53</span> |
 | **2025/12** | **30.58** | <span style="color: #FF7F7F; font-weight: bold;">+242</span> | <span style="color: #FF7F7F; font-weight: bold;">+69.8</span> | **196** | <span style="color: #FF7F7F; font-weight: bold;">12.98</span> | <span style="color: #8B0000; font-weight: bold;">15.1</span> |
@@ -413,7 +414,7 @@ description: 月營收表 創見 (2451) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-09 22:34:35 CST
+- **產生時間**: 2026-04-10 05:36:10 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

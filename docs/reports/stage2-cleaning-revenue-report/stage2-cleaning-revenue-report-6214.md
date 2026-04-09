@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-09
+date: 2026-04-10
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 精誠 (6214) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 精誠  
     **:identification_card: 股票代號**: 6214  
-    **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-09 22:34:35 CST
+    **:calendar: 最新資料**: 2026/03  
+    **:clock3: 更新時間**: 2026-04-10 05:36:10 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #002818; font-weight: bold;">-7.42</span> | <span style="color: #B22222; font-weight: bold;">+16.2</span> | **239** 個月 | 2006/04 至 2026/02 |
+| <span style="color: #FF4500; font-weight: bold;">+31.5</span> | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | **240** 個月 | 2006/04 至 2026/03 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -52,7 +52,7 @@ description: 月營收表 精誠 (6214) - 自動產生
 | **6月** | -- | 3,810<br/><span style="color: #DC143C;">(+21.10%)</span> | 3,147<br/><span style="color: #8B0000;">(+4.84%)</span> | 3,002<br/><span style="color: #004225;">(-10.10%)</span> | 3,338<br/><span style="color: #DC143C;">(+28.00%)</span> |
 | **5月** | -- | 3,060<br/><span style="color: #002818;">(-4.06%)</span> | 3,190<br/><span style="color: #DC143C;">(+20.90%)</span> | 2,638<br/><span style="color: #DC143C;">(+20.50%)</span> | 2,188<br/><span style="color: #8B0000;">(+9.50%)</span> |
 | **4月** | -- | 3,271<br/><span style="color: #DC143C;">(+27.20%)</span> | 2,571<br/><span style="color: #002818;">(-4.48%)</span> | 2,692<br/><span style="color: #DC143C;">(+24.10%)</span> | 2,169<br/><span style="color: #002818;">(-1.98%)</span> |
-| **3月** | -- | 3,519<br/><span style="color: #002818;">(-9.78%)</span> | 3,900<br/><span style="color: #FF6347;">(+46.40%)</span> | 2,665<br/><span style="color: #002818;">(-5.37%)</span> | 2,816<br/><span style="color: #8B0000;">(+3.78%)</span> |
+| **3月** | 4,627<br/><span style="color: #FF4500;">(+31.50%)</span> | 3,519<br/><span style="color: #002818;">(-9.78%)</span> | 3,900<br/><span style="color: #FF6347;">(+46.40%)</span> | 2,665<br/><span style="color: #002818;">(-5.37%)</span> | 2,816<br/><span style="color: #8B0000;">(+3.78%)</span> |
 | **2月** | 2,880<br/><span style="color: #002818;">(-7.42%)</span> | 3,111<br/><span style="color: #B22222;">(+18.50%)</span> | 2,625<br/><span style="color: #8B0000;">(+2.28%)</span> | 2,566<br/><span style="color: #8B0000;">(+9.21%)</span> | 2,349<br/><span style="color: #FF4500;">(+30.70%)</span> |
 | **1月** | 4,462<br/><span style="color: #FF4500;">(+39.20%)</span> | 3,206<br/><span style="color: #004225;">(-12.50%)</span> | 3,661<br/><span style="color: #DC143C;">(+22.20%)</span> | 2,998<br/><span style="color: #B22222;">(+17.60%)</span> | 2,550<br/><span style="color: #004225;">(-10.20%)</span> |
 
@@ -79,6 +79,7 @@ description: 月營收表 精誠 (6214) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/03** | **46.27** | <span style="color: #FF4500; font-weight: bold;">+31.5</span> | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | **105** | <span style="color: #FF4500; font-weight: bold;">7.91</span> | <span style="color: #004225; font-weight: bold;">13.27</span> |
 | **2026/02** | **28.8** | <span style="color: #002818; font-weight: bold;">-7.42</span> | <span style="color: #B22222; font-weight: bold;">+16.2</span> | **115** | <span style="color: #FF4500; font-weight: bold;">7.91</span> | <span style="color: #004225; font-weight: bold;">14.54</span> |
 | **2026/01** | **44.62** | <span style="color: #FF4500; font-weight: bold;">+39.2</span> | <span style="color: #FF4500; font-weight: bold;">+39.2</span> | **116** | <span style="color: #FF4500; font-weight: bold;">7.91</span> | <span style="color: #004225; font-weight: bold;">14.66</span> |
 | **2025/12** | **45.58** | <span style="color: #DC143C; font-weight: bold;">+23.9</span> | <span style="color: #B22222; font-weight: bold;">+12.9</span> | **118** | <span style="color: #FF4500; font-weight: bold;">7.91</span> | <span style="color: #004225; font-weight: bold;">14.92</span> |
@@ -413,7 +414,7 @@ description: 月營收表 精誠 (6214) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-09 22:34:35 CST
+- **產生時間**: 2026-04-10 05:36:10 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
