@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-10
+date: 2026-04-11
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 微星 (2377) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 微星  
     **:identification_card: 股票代號**: 2377  
-    **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-10 22:07:21 CST
+    **:calendar: 最新資料**: 2026/03  
+    **:clock3: 更新時間**: 2026-04-11 05:20:26 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #002818; font-weight: bold;">-2.89</span> | <span style="color: #B22222; font-weight: bold;">+15.4</span> | **239** 個月 | 2006/04 至 2026/02 |
+| <span style="color: #004225; font-weight: bold;">-11.9</span> | <span style="color: #8B0000; font-weight: bold;">+5.07</span> | **240** 個月 | 2006/04 至 2026/03 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -52,7 +52,7 @@ description: 月營收表 微星 (2377) - 自動產生
 | **6月** | -- | 19,560<br/><span style="color: #FF4500;">(+33.00%)</span> | 14,710<br/><span style="color: #8B0000;">(+2.69%)</span> | 14,319<br/><span style="color: #004225;">(-13.20%)</span> | 16,500<br/><span style="color: #8B0000;">(+5.95%)</span> |
 | **5月** | -- | 20,710<br/><span style="color: #FF4500;">(+33.20%)</span> | 15,560<br/><span style="color: #B22222;">(+12.20%)</span> | 13,860<br/><span style="color: #004225;">(-12.90%)</span> | 15,910<br/><span style="color: #8B0000;">(+1.50%)</span> |
 | **4月** | -- | 21,040<br/><span style="color: #DC143C;">(+28.20%)</span> | 16,410<br/><span style="color: #DC143C;">(+25.10%)</span> | 13,110<br/><span style="color: #004225;">(-16.00%)</span> | 15,610<br/><span style="color: #8B0000;">(+3.51%)</span> |
-| **3月** | -- | 20,260<br/><span style="color: #DC143C;">(+23.40%)</span> | 16,410<br/><span style="color: #8B0000;">(+0.49%)</span> | 16,330<br/><span style="color: #002818;">(-8.14%)</span> | 17,780<br/><span style="color: #8B0000;">(+0.31%)</span> |
+| **3月** | 17,840<br/><span style="color: #004225;">(-11.90%)</span> | 20,260<br/><span style="color: #DC143C;">(+23.40%)</span> | 16,410<br/><span style="color: #8B0000;">(+0.49%)</span> | 16,330<br/><span style="color: #002818;">(-8.14%)</span> | 17,780<br/><span style="color: #8B0000;">(+0.31%)</span> |
 | **2月** | 16,140<br/><span style="color: #002818;">(-2.89%)</span> | 16,620<br/><span style="color: #B22222;">(+12.20%)</span> | 14,819<br/><span style="color: #8B0000;">(+5.01%)</span> | 14,110<br/><span style="color: #002818;">(-5.10%)</span> | 14,869<br/><span style="color: #B22222;">(+12.20%)</span> |
 | **1月** | 22,270<br/><span style="color: #FF4500;">(+33.70%)</span> | 16,650<br/><span style="color: #8B0000;">(+1.59%)</span> | 16,390<br/><span style="color: #DC143C;">(+24.60%)</span> | 13,160<br/><span style="color: #228B22;">(-35.50%)</span> | 20,390<br/><span style="color: #B22222;">(+19.80%)</span> |
 
@@ -79,6 +79,7 @@ description: 月營收表 微星 (2377) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/03** | **178.4** | <span style="color: #004225; font-weight: bold;">-11.9</span> | <span style="color: #8B0000; font-weight: bold;">+5.07</span> | **85** | <span style="color: #8B0000; font-weight: bold;">6.8</span> | <span style="color: #004225; font-weight: bold;">12.5</span> |
 | **2026/02** | **161.4** | <span style="color: #002818; font-weight: bold;">-2.89</span> | <span style="color: #B22222; font-weight: bold;">+15.4</span> | **94.3** | <span style="color: #8B0000; font-weight: bold;">6.8</span> | <span style="color: #004225; font-weight: bold;">13.87</span> |
 | **2026/01** | **222.7** | <span style="color: #FF4500; font-weight: bold;">+33.7</span> | <span style="color: #FF4500; font-weight: bold;">+33.7</span> | **90.2** | <span style="color: #8B0000; font-weight: bold;">6.8</span> | <span style="color: #004225; font-weight: bold;">13.26</span> |
 | **2025/12** | **168.6** | <span style="color: #FF4500; font-weight: bold;">+33.9</span> | <span style="color: #B22222; font-weight: bold;">+16.3</span> | **96.1** | <span style="color: #8B0000; font-weight: bold;">6.8</span> | <span style="color: #004225; font-weight: bold;">14.13</span> |
@@ -413,7 +414,7 @@ description: 月營收表 微星 (2377) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-10 22:07:21 CST
+- **產生時間**: 2026-04-11 05:20:26 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

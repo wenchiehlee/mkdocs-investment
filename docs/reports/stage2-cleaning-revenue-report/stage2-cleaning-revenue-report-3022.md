@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-10
+date: 2026-04-11
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 威強電 (3022) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 威強電  
     **:identification_card: 股票代號**: 3022  
-    **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-10 22:07:21 CST
+    **:calendar: 最新資料**: 2026/03  
+    **:clock3: 更新時間**: 2026-04-11 05:20:26 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #228B22; font-weight: bold;">-30.5</span> | <span style="color: #006400; font-weight: bold;">-22.4</span> | **239** 個月 | 2006/04 至 2026/02 |
+| <span style="color: #8B0000; font-weight: bold;">+9.7</span> | <span style="color: #004225; font-weight: bold;">-10.4</span> | **240** 個月 | 2006/04 至 2026/03 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -52,7 +52,7 @@ description: 月營收表 威強電 (3022) - 自動產生
 | **6月** | -- | 535<br/><span style="color: #002818;">(-6.31%)</span> | 571<br/><span style="color: #002818;">(-4.95%)</span> | 601<br/><span style="color: #004225;">(-11.20%)</span> | 676<br/><span style="color: #B22222;">(+12.20%)</span> |
 | **5月** | -- | 462<br/><span style="color: #002818;">(-9.74%)</span> | 512<br/><span style="color: #006400;">(-24.10%)</span> | 674<br/><span style="color: #FF4500;">(+30.00%)</span> | 519<br/><span style="color: #8B0000;">(+2.98%)</span> |
 | **4月** | -- | 663<br/><span style="color: #DC143C;">(+20.80%)</span> | 548<br/><span style="color: #004225;">(-14.20%)</span> | 639<br/><span style="color: #FF6347;">(+40.60%)</span> | 454<br/><span style="color: #004225;">(-11.50%)</span> |
-| **3月** | -- | 664<br/><span style="color: #DC143C;">(+26.60%)</span> | 525<br/><span style="color: #228B22;">(-31.30%)</span> | 764<br/><span style="color: #FF7F7F;">(+63.80%)</span> | 466<br/><span style="color: #004225;">(-16.50%)</span> |
+| **3月** | 729<br/><span style="color: #8B0000;">(+9.70%)</span> | 664<br/><span style="color: #DC143C;">(+26.60%)</span> | 525<br/><span style="color: #228B22;">(-31.30%)</span> | 764<br/><span style="color: #FF7F7F;">(+63.80%)</span> | 466<br/><span style="color: #004225;">(-16.50%)</span> |
 | **2月** | 409<br/><span style="color: #228B22;">(-30.50%)</span> | 589<br/><span style="color: #B22222;">(+19.40%)</span> | 493<br/><span style="color: #228B22;">(-31.80%)</span> | 723<br/><span style="color: #FF7F7F;">(+53.30%)</span> | 471<br/><span style="color: #DC143C;">(+26.50%)</span> |
 | **1月** | 455<br/><span style="color: #004225;">(-13.20%)</span> | 524<br/><span style="color: #006400;">(-23.70%)</span> | 686<br/><span style="color: #8B0000;">(+2.95%)</span> | 667<br/><span style="color: #8B0000;">(+7.87%)</span> | 618<br/><span style="color: #DC143C;">(+24.90%)</span> |
 
@@ -79,6 +79,7 @@ description: 月營收表 威強電 (3022) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/03** | **7.29** | <span style="color: #8B0000; font-weight: bold;">+9.7</span> | <span style="color: #004225; font-weight: bold;">-10.4</span> | **60.7** | <span style="color: #8B0000; font-weight: bold;">4.63</span> | <span style="color: #8B0000; font-weight: bold;">13.11</span> |
 | **2026/02** | **4.09** | <span style="color: #228B22; font-weight: bold;">-30.5</span> | <span style="color: #006400; font-weight: bold;">-22.4</span> | **60.1** | <span style="color: #8B0000; font-weight: bold;">4.63</span> | <span style="color: #8B0000; font-weight: bold;">12.98</span> |
 | **2026/01** | **4.55** | <span style="color: #004225; font-weight: bold;">-13.2</span> | <span style="color: #004225; font-weight: bold;">-13.2</span> | **64** | <span style="color: #8B0000; font-weight: bold;">4.63</span> | <span style="color: #B22222; font-weight: bold;">13.82</span> |
 | **2025/12** | **6.48** | <span style="color: #B22222; font-weight: bold;">+16.8</span> | <span style="color: #002818; font-weight: bold;">-4.77</span> | **64.5** | <span style="color: #8B0000; font-weight: bold;">4.63</span> | <span style="color: #B22222; font-weight: bold;">13.93</span> |
@@ -413,7 +414,7 @@ description: 月營收表 威強電 (3022) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-10 22:07:21 CST
+- **產生時間**: 2026-04-11 05:20:26 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

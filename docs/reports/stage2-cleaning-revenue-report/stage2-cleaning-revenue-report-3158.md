@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-10
+date: 2026-04-11
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 嘉實 (3158) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 嘉實  
     **:identification_card: 股票代號**: 3158  
-    **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-10 22:07:21 CST
+    **:calendar: 最新資料**: 2026/03  
+    **:clock3: 更新時間**: 2026-04-11 05:20:26 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+5.3</span> | <span style="color: #8B0000; font-weight: bold;">+8.39</span> | **237** 個月 | 2006/04 至 2026/02 |
+| <span style="color: #DC143C; font-weight: bold;">+21.6</span> | <span style="color: #B22222; font-weight: bold;">+12.9</span> | **238** 個月 | 2006/04 至 2026/03 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -52,7 +52,7 @@ description: 月營收表 嘉實 (3158) - 自動產生
 | **6月** | -- | 84<br/><span style="color: #B22222;">(+17.60%)</span> | 72<br/><span style="color: #8B0000;">(+5.61%)</span> | 68<br/><span style="color: #004225;">(-13.10%)</span> | 78<br/><span style="color: #B22222;">(+12.80%)</span> |
 | **5月** | -- | 82<br/><span style="color: #8B0000;">(+8.23%)</span> | 75<br/><span style="color: #8B0000;">(+4.19%)</span> | 72<br/><span style="color: #B22222;">(+12.80%)</span> | 64<br/><span style="color: #8B0000;">(+4.05%)</span> |
 | **4月** | -- | 78<br/><span style="color: #8B0000;">(+8.84%)</span> | 72<br/><span style="color: #8B0000;">(+2.24%)</span> | 70<br/><span style="color: #B22222;">(+12.00%)</span> | 62<br/><span style="color: #8B0000;">(+2.42%)</span> |
-| **3月** | -- | 79<br/><span style="color: #B22222;">(+16.20%)</span> | 68<br/><span style="color: #8B0000;">(+5.32%)</span> | 64<br/><span style="color: #8B0000;">(+4.92%)</span> | 61<br/><span style="color: #8B0000;">(+7.87%)</span> |
+| **3月** | 96<br/><span style="color: #DC143C;">(+21.60%)</span> | 79<br/><span style="color: #B22222;">(+16.20%)</span> | 68<br/><span style="color: #8B0000;">(+5.32%)</span> | 64<br/><span style="color: #8B0000;">(+4.92%)</span> | 61<br/><span style="color: #8B0000;">(+7.87%)</span> |
 | **2月** | 80<br/><span style="color: #8B0000;">(+5.30%)</span> | 76<br/><span style="color: #DC143C;">(+21.30%)</span> | 63<br/><span style="color: #8B0000;">(+8.75%)</span> | 57<br/><span style="color: #002818;">(-7.84%)</span> | 62<br/><span style="color: #B22222;">(+10.50%)</span> |
 | **1月** | 84<br/><span style="color: #B22222;">(+11.50%)</span> | 76<br/><span style="color: #B22222;">(+12.80%)</span> | 67<br/><span style="color: #8B0000;">(+4.93%)</span> | 64<br/><span style="color: #002818;">(-2.80%)</span> | 66<br/><span style="color: #B22222;">(+17.20%)</span> |
 
@@ -79,6 +79,7 @@ description: 月營收表 嘉實 (3158) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/03** | **0.964** | <span style="color: #DC143C; font-weight: bold;">+21.6</span> | <span style="color: #B22222; font-weight: bold;">+12.9</span> | **91** | <span style="color: #DC143C; font-weight: bold;">7.27</span> | <span style="color: #004225; font-weight: bold;">12.52</span> |
 | **2026/02** | **0.805** | <span style="color: #8B0000; font-weight: bold;">+5.3</span> | <span style="color: #8B0000; font-weight: bold;">+8.39</span> | **90.1** | <span style="color: #DC143C; font-weight: bold;">7.27</span> | <span style="color: #006400; font-weight: bold;">12.39</span> |
 | **2026/01** | **0.847** | <span style="color: #B22222; font-weight: bold;">+11.5</span> | <span style="color: #B22222; font-weight: bold;">+11.5</span> | **89.8** | <span style="color: #DC143C; font-weight: bold;">7.27</span> | <span style="color: #006400; font-weight: bold;">12.35</span> |
 | **2025/12** | **1.04** | <span style="color: #004225; font-weight: bold;">-10.2</span> | <span style="color: #8B0000; font-weight: bold;">+7.07</span> | **92.7** | <span style="color: #DC143C; font-weight: bold;">7.27</span> | <span style="color: #8B0000; font-weight: bold;">12.75</span> |
@@ -411,7 +412,7 @@ description: 月營收表 嘉實 (3158) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-10 22:07:21 CST
+- **產生時間**: 2026-04-11 05:20:26 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
