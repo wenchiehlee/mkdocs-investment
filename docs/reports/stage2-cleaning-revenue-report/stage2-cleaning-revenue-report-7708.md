@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-11
+date: 2026-04-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 全家餐飲 (7708) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 全家餐飲  
     **:identification_card: 股票代號**: 7708  
-    **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-11 21:46:32 CST
+    **:calendar: 最新資料**: 2026/03  
+    **:clock3: 更新時間**: 2026-04-12 05:16:08 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+27</span> | <span style="color: #B22222; font-weight: bold;">+13.1</span> | **30** 個月 | 2023/09 至 2026/02 |
+| <span style="color: #8B0000; font-weight: bold;">+8.72</span> | <span style="color: #B22222; font-weight: bold;">+11.7</span> | **31** 個月 | 2023/09 至 2026/03 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -52,7 +52,7 @@ description: 月營收表 全家餐飲 (7708) - 自動產生
 | **6月** | -- | 225<br/><span style="color: #8B0000;">(+8.80%)</span> | 206<br/><span style="color: #B22222;">(+15.90%)</span> | -- |
 | **5月** | -- | 227<br/><span style="color: #DC143C;">(+20.00%)</span> | 189<br/><span style="color: #8B0000;">(+9.18%)</span> | -- |
 | **4月** | -- | 206<br/><span style="color: #B22222;">(+10.20%)</span> | 187<br/><span style="color: #8B0000;">(+2.64%)</span> | -- |
-| **3月** | -- | 212<br/><span style="color: #B22222;">(+12.50%)</span> | 188<br/><span style="color: #B22222;">(+14.10%)</span> | -- |
+| **3月** | 231<br/><span style="color: #8B0000;">(+8.72%)</span> | 212<br/><span style="color: #B22222;">(+12.50%)</span> | 188<br/><span style="color: #B22222;">(+14.10%)</span> | -- |
 | **2月** | 252<br/><span style="color: #DC143C;">(+27.00%)</span> | 198<br/><span style="color: #002818;">(-0.49%)</span> | 199<br/><span style="color: #B22222;">(+17.60%)</span> | -- |
 | **1月** | 239<br/><span style="color: #8B0000;">(+1.43%)</span> | 236<br/><span style="color: #FF4500;">(+34.50%)</span> | 175<br/><span style="color: #004225;">(-17.10%)</span> | -- |
 
@@ -79,6 +79,7 @@ description: 月營收表 全家餐飲 (7708) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/03** | **2.31** | <span style="color: #8B0000; font-weight: bold;">+8.72</span> | <span style="color: #B22222; font-weight: bold;">+11.7</span> | **92.1** | <span style="color: #DC143C; font-weight: bold;">6.46</span> | <span style="color: #006400; font-weight: bold;">14.26</span> |
 | **2026/02** | **2.52** | <span style="color: #DC143C; font-weight: bold;">+27</span> | <span style="color: #B22222; font-weight: bold;">+13.1</span> | **91.6** | <span style="color: #DC143C; font-weight: bold;">6.46</span> | <span style="color: #006400; font-weight: bold;">14.18</span> |
 | **2026/01** | **2.39** | <span style="color: #8B0000; font-weight: bold;">+1.43</span> | <span style="color: #8B0000; font-weight: bold;">+1.43</span> | **97** | <span style="color: #DC143C; font-weight: bold;">6.46</span> | <span style="color: #004225; font-weight: bold;">15.02</span> |
 | **2025/12** | **2.42** | <span style="color: #B22222; font-weight: bold;">+14</span> | <span style="color: #B22222; font-weight: bold;">+14.5</span> | **96** | <span style="color: #DC143C; font-weight: bold;">6.46</span> | <span style="color: #004225; font-weight: bold;">14.86</span> |
@@ -204,7 +205,7 @@ description: 月營收表 全家餐飲 (7708) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-11 21:46:32 CST
+- **產生時間**: 2026-04-12 05:16:08 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

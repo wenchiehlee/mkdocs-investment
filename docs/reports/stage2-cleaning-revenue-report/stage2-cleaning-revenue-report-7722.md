@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-11
+date: 2026-04-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 LINEPAY (7722) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: LINEPAY  
     **:identification_card: 股票代號**: 7722  
-    **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-11 21:46:32 CST
+    **:calendar: 最新資料**: 2026/03  
+    **:clock3: 更新時間**: 2026-04-12 05:16:08 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+15.8</span> | <span style="color: #B22222; font-weight: bold;">+15.6</span> | **28** 個月 | 2023/11 至 2026/02 |
+| <span style="color: #B22222; font-weight: bold;">+15.2</span> | <span style="color: #B22222; font-weight: bold;">+15.5</span> | **29** 個月 | 2023/11 至 2026/03 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -52,7 +52,7 @@ description: 月營收表 LINEPAY (7722) - 自動產生
 | **6月** | -- | 636<br/><span style="color: #B22222;">(+15.00%)</span> | 553<br/><span style="color: #FF7F7F;">(+52.70%)</span> | -- |
 | **5月** | -- | 637<br/><span style="color: #FF4500;">(+33.10%)</span> | 479<br/><span style="color: #DC143C;">(+29.00%)</span> | -- |
 | **4月** | -- | 590<br/><span style="color: #FF4500;">(+32.90%)</span> | 444<br/><span style="color: #DC143C;">(+21.10%)</span> | -- |
-| **3月** | -- | 608<br/><span style="color: #DC143C;">(+25.40%)</span> | 484<br/><span style="color: #FF4500;">(+31.80%)</span> | -- |
+| **3月** | 701<br/><span style="color: #B22222;">(+15.20%)</span> | 608<br/><span style="color: #DC143C;">(+25.40%)</span> | 484<br/><span style="color: #FF4500;">(+31.80%)</span> | -- |
 | **2月** | 677<br/><span style="color: #B22222;">(+15.80%)</span> | 585<br/><span style="color: #DC143C;">(+24.20%)</span> | 470<br/><span style="color: #FF4500;">(+35.00%)</span> | -- |
 | **1月** | 720<br/><span style="color: #B22222;">(+15.40%)</span> | 623<br/><span style="color: #DC143C;">(+23.50%)</span> | 505<br/><span style="color: #FF4500;">(+31.80%)</span> | -- |
 
@@ -79,6 +79,7 @@ description: 月營收表 LINEPAY (7722) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/03** | **7.01** | <span style="color: #B22222; font-weight: bold;">+15.2</span> | <span style="color: #B22222; font-weight: bold;">+15.5</span> | **300.5** | <span style="color: #006400; font-weight: bold;">7.46</span> | <span style="color: #006400; font-weight: bold;">40.28</span> |
 | **2026/02** | **6.77** | <span style="color: #B22222; font-weight: bold;">+15.8</span> | <span style="color: #B22222; font-weight: bold;">+15.6</span> | **421** | <span style="color: #006400; font-weight: bold;">7.46</span> | <span style="color: #004225; font-weight: bold;">56.43</span> |
 | **2026/01** | **7.2** | <span style="color: #B22222; font-weight: bold;">+15.4</span> | <span style="color: #B22222; font-weight: bold;">+15.4</span> | **462** | <span style="color: #006400; font-weight: bold;">7.46</span> | <span style="color: #002818; font-weight: bold;">61.93</span> |
 | **2025/12** | **7.18** | <span style="color: #B22222; font-weight: bold;">+16.3</span> | <span style="color: #DC143C; font-weight: bold;">+25</span> | **570** | <span style="color: #006400; font-weight: bold;">7.46</span> | <span style="color: #B22222; font-weight: bold;">76.41</span> |
@@ -202,7 +203,7 @@ description: 月營收表 LINEPAY (7722) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-11 21:46:32 CST
+- **產生時間**: 2026-04-12 05:16:08 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

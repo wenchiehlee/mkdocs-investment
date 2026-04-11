@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-11
+date: 2026-04-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 意藍 (6925) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 意藍  
     **:identification_card: 股票代號**: 6925  
-    **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-04-11 21:46:32 CST
+    **:calendar: 最新資料**: 2026/03  
+    **:clock3: 更新時間**: 2026-04-12 05:16:08 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+3</span> | <span style="color: #8B0000; font-weight: bold;">+4.25</span> | **41** 個月 | 2022/10 至 2026/02 |
+| <span style="color: #B22222; font-weight: bold;">+10</span> | <span style="color: #8B0000; font-weight: bold;">+6.15</span> | **42** 個月 | 2022/10 至 2026/03 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -52,7 +52,7 @@ description: 月營收表 意藍 (6925) - 自動產生
 | **6月** | -- | 17<br/><span style="color: #B22222;">(+16.60%)</span> | 14<br/><span style="color: #8B0000;">(+2.84%)</span> | 14<br/><span style="color: #B22222;">(+11.80%)</span> | -- |
 | **5月** | -- | 16<br/><span style="color: #002818;">(-0.93%)</span> | 16<br/><span style="color: #FF4500;">(+31.80%)</span> | 12<br/><span style="color: #002818;">(-0.45%)</span> | -- |
 | **4月** | -- | 15<br/><span style="color: #B22222;">(+15.10%)</span> | 13<br/><span style="color: #8B0000;">(+2.12%)</span> | 13<br/><span style="color: #002818;">(-4.98%)</span> | -- |
-| **3月** | -- | 14<br/><span style="color: #8B0000;">(+7.30%)</span> | 13<br/><span style="color: #8B0000;">(+7.32%)</span> | 12<br/><span style="color: #004225;">(-11.60%)</span> | -- |
+| **3月** | 15<br/><span style="color: #B22222;">(+10.00%)</span> | 14<br/><span style="color: #8B0000;">(+7.30%)</span> | 13<br/><span style="color: #8B0000;">(+7.32%)</span> | 12<br/><span style="color: #004225;">(-11.60%)</span> | -- |
 | **2月** | 15<br/><span style="color: #8B0000;">(+3.00%)</span> | 14<br/><span style="color: #B22222;">(+16.30%)</span> | 12<br/><span style="color: #8B0000;">(+4.07%)</span> | 12<br/><span style="color: #B22222;">(+13.30%)</span> | -- |
 | **1月** | 15<br/><span style="color: #8B0000;">(+5.52%)</span> | 14<br/><span style="color: #B22222;">(+12.10%)</span> | 13<br/><span style="color: #8B0000;">(+8.77%)</span> | 12<br/><span style="color: #8B0000;">(+6.00%)</span> | -- |
 
@@ -79,6 +79,7 @@ description: 月營收表 意藍 (6925) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/03** | **0.158** | <span style="color: #B22222; font-weight: bold;">+10</span> | <span style="color: #8B0000; font-weight: bold;">+6.15</span> | **72** | <span style="color: #DC143C; font-weight: bold;">3.11</span> | <span style="color: #006400; font-weight: bold;">23.15</span> |
 | **2026/02** | **0.153** | <span style="color: #8B0000; font-weight: bold;">+3</span> | <span style="color: #8B0000; font-weight: bold;">+4.25</span> | **74.9** | <span style="color: #DC143C; font-weight: bold;">3.11</span> | <span style="color: #006400; font-weight: bold;">24.08</span> |
 | **2026/01** | **0.155** | <span style="color: #8B0000; font-weight: bold;">+5.52</span> | <span style="color: #8B0000; font-weight: bold;">+5.52</span> | **85** | <span style="color: #DC143C; font-weight: bold;">3.11</span> | <span style="color: #004225; font-weight: bold;">27.33</span> |
 | **2025/12** | **0.214** | <span style="color: #DC143C; font-weight: bold;">+25.1</span> | <span style="color: #B22222; font-weight: bold;">+14.6</span> | **88.3** | <span style="color: #DC143C; font-weight: bold;">3.11</span> | <span style="color: #004225; font-weight: bold;">28.39</span> |
@@ -215,7 +216,7 @@ description: 月營收表 意藍 (6925) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-11 21:46:32 CST
+- **產生時間**: 2026-04-12 05:16:08 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
