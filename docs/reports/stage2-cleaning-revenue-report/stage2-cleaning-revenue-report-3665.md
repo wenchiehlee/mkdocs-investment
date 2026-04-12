@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-12
+date: 2026-04-13
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 貿聯-KY (3665) - 自動產生
     **:building_construction: 公司名稱**: 貿聯-KY  
     **:identification_card: 股票代號**: 3665  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-12 21:48:19 CST
+    **:clock3: 更新時間**: 2026-04-13 03:50:01 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 貿聯-KY (3665) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **9.11** | **15.17** | **29.75** |
-| **P/E倍數** | **14.53** | **18.77** | **25.69** |
+| **P/E倍數** | **14.54** | **18.79** | **25.96** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 貿聯-KY 歷史平均獲利能力 (σup=14.58, σlo=6.06)
-    - **P/Ebase**: 貿聯-KY 歷史平均估值水準 (σup=6.92, σlo=4.23)
+    - **P/Ebase**: 貿聯-KY 歷史平均估值水準 (σup=7.17, σlo=4.26)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -82,9 +82,9 @@ description: 月營收表 貿聯-KY (3665) - 自動產生
 | **2026/03** | **70.14** | <span style="color: #DC143C; font-weight: bold;">+22.2</span> | <span style="color: #DC143C; font-weight: bold;">+28</span> | **1740** | <span style="color: #FF6347; font-weight: bold;">46.57</span> | <span style="color: #FF6347; font-weight: bold;">37.36</span> |
 | **2026/02** | **63.88** | <span style="color: #DC143C; font-weight: bold;">+27.7</span> | <span style="color: #FF4500; font-weight: bold;">+31.1</span> | **1410** | <span style="color: #FF6347; font-weight: bold;">46.57</span> | <span style="color: #FF4500; font-weight: bold;">30.28</span> |
 | **2026/01** | **74.56** | <span style="color: #FF4500; font-weight: bold;">+34.2</span> | <span style="color: #FF4500; font-weight: bold;">+34.2</span> | **1300** | <span style="color: #FF6347; font-weight: bold;">46.57</span> | <span style="color: #DC143C; font-weight: bold;">27.91</span> |
-| **2025/12** | **66.41** | <span style="color: #FF6347; font-weight: bold;">+43</span> | <span style="color: #FF4500; font-weight: bold;">+31.7</span> | **1520** | <span style="color: #FF6347; font-weight: bold;">46.57</span> | <span style="color: #FF6347; font-weight: bold;">32.64</span> |
+| **2025/12** | **66.41** | <span style="color: #FF6347; font-weight: bold;">+43</span> | <span style="color: #FF4500; font-weight: bold;">+31.7</span> | **1520** | <span style="color: #FF6347; font-weight: bold;">46.57</span> | <span style="color: #FF4500; font-weight: bold;">32.64</span> |
 | **2025/11** | **65.39** | <span style="color: #FF4500; font-weight: bold;">+33.2</span> | <span style="color: #FF4500; font-weight: bold;">+30.6</span> | **1610** | <span style="color: #FF6347; font-weight: bold;">46.57</span> | <span style="color: #FF6347; font-weight: bold;">36.13</span> |
-| **2025/10** | **65.81** | <span style="color: #FF4500; font-weight: bold;">+34</span> | <span style="color: #FF4500; font-weight: bold;">+30.3</span> | **1395** | <span style="color: #FF6347; font-weight: bold;">46.57</span> | <span style="color: #FF6347; font-weight: bold;">32.77</span> |
+| **2025/10** | **65.81** | <span style="color: #FF4500; font-weight: bold;">+34</span> | <span style="color: #FF4500; font-weight: bold;">+30.3</span> | **1395** | <span style="color: #FF6347; font-weight: bold;">46.57</span> | <span style="color: #FF4500; font-weight: bold;">32.77</span> |
 | **2025/09** | **67.06** | <span style="color: #FF6347; font-weight: bold;">+46.1</span> | <span style="color: #DC143C; font-weight: bold;">+29.8</span> | **1030** | <span style="color: #FF4500; font-weight: bold;">40.56</span> | <span style="color: #B22222; font-weight: bold;">25.39</span> |
 | **2025/08** | **57.74** | <span style="color: #DC143C; font-weight: bold;">+26.7</span> | <span style="color: #DC143C; font-weight: bold;">+27.7</span> | **1075** | <span style="color: #FF4500; font-weight: bold;">40.56</span> | <span style="color: #DC143C; font-weight: bold;">28.11</span> |
 | **2025/07** | **60.34** | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | <span style="color: #DC143C; font-weight: bold;">+27.9</span> | **911** | <span style="color: #FF4500; font-weight: bold;">40.56</span> | <span style="color: #B22222; font-weight: bold;">25.36</span> |
@@ -163,7 +163,7 @@ description: 月營收表 貿聯-KY (3665) - 自動產生
 | **2019/06** | **20.37** | <span style="color: #B22222; font-weight: bold;">+14.8</span> | <span style="color: #B22222; font-weight: bold;">+15.3</span> | **215** | <span style="color: #002818; font-weight: bold;">14.51</span> | <span style="color: #004225; font-weight: bold;">14.82</span> |
 | **2019/05** | **18.95** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #B22222; font-weight: bold;">+15.4</span> | **195.5** | <span style="color: #002818; font-weight: bold;">14.51</span> | <span style="color: #006400; font-weight: bold;">14.06</span> |
 | **2019/04** | **20.94** | <span style="color: #B22222; font-weight: bold;">+14.5</span> | <span style="color: #B22222; font-weight: bold;">+15.8</span> | **199** | <span style="color: #002818; font-weight: bold;">14.51</span> | <span style="color: #004225; font-weight: bold;">14.96</span> |
-| **2019/03** | **18.98** | <span style="color: #B22222; font-weight: bold;">+12.3</span> | <span style="color: #B22222; font-weight: bold;">+16.3</span> | **211.5** | <span style="color: #002818; font-weight: bold;">12.7</span> | <span style="color: #002818; font-weight: bold;">16.65</span> |
+| **2019/03** | **18.98** | <span style="color: #B22222; font-weight: bold;">+12.3</span> | <span style="color: #B22222; font-weight: bold;">+16.3</span> | **211.5** | <span style="color: #002818; font-weight: bold;">12.7</span> | <span style="color: #004225; font-weight: bold;">16.65</span> |
 | **2019/02** | **16.9** | <span style="color: #DC143C; font-weight: bold;">+22.2</span> | <span style="color: #B22222; font-weight: bold;">+18.6</span> | **199** | <span style="color: #002818; font-weight: bold;">12.7</span> | <span style="color: #004225; font-weight: bold;">16.02</span> |
 | **2019/01** | **18.82** | <span style="color: #B22222; font-weight: bold;">+15.5</span> | <span style="color: #B22222; font-weight: bold;">+15.5</span> | **179** | <span style="color: #002818; font-weight: bold;">12.7</span> | <span style="color: #004225; font-weight: bold;">14.74</span> |
 | **2018/12** | **18.9** | <span style="color: #8B0000; font-weight: bold;">+5.56</span> | <span style="color: #FF4500; font-weight: bold;">+37.5</span> | **224** | <span style="color: #004225; font-weight: bold;">11.86</span> | <span style="color: #8B0000; font-weight: bold;">18.89</span> |
@@ -177,8 +177,8 @@ description: 月營收表 貿聯-KY (3665) - 自動產生
 | **2018/04** | **18.29** | <span style="color: #FF7F7F; font-weight: bold;">+116.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+105.5</span> | **221** | <span style="color: #004225; font-weight: bold;">10.13</span> | <span style="color: #8B0000; font-weight: bold;">21.45</span> |
 | **2018/03** | **16.91** | <span style="color: #FF7F7F; font-weight: bold;">+82.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+101.5</span> | **240** | <span style="color: #004225; font-weight: bold;">10.39</span> | <span style="color: #B22222; font-weight: bold;">23.1</span> |
 | **2018/02** | **13.83** | <span style="color: #FF7F7F; font-weight: bold;">+84.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+113.9</span> | **266** | <span style="color: #004225; font-weight: bold;">10.39</span> | <span style="color: #B22222; font-weight: bold;">25.24</span> |
-| **2018/01** | **16.3** | <span style="color: #FF7F7F; font-weight: bold;">+147</span> | <span style="color: #FF7F7F; font-weight: bold;">+147</span> | **277.5** | <span style="color: #004225; font-weight: bold;">10.39</span> | <span style="color: #DC143C; font-weight: bold;">25.96</span> |
-| **2017/12** | **17.9** | <span style="color: #FF7F7F; font-weight: bold;">+103</span> | <span style="color: #FF7F7F; font-weight: bold;">+68.5</span> | **278.5** | <span style="color: #004225; font-weight: bold;">10.84</span> | <span style="color: #DC143C; font-weight: bold;">25.69</span> |
+| **2018/01** | **16.3** | <span style="color: #FF7F7F; font-weight: bold;">+147</span> | <span style="color: #FF7F7F; font-weight: bold;">+147</span> | **277.5** | <span style="color: #004225; font-weight: bold;">10.39</span> | <span style="color: #B22222; font-weight: bold;">25.96</span> |
+| **2017/12** | **17.9** | <span style="color: #FF7F7F; font-weight: bold;">+103</span> | <span style="color: #FF7F7F; font-weight: bold;">+68.5</span> | **278.5** | <span style="color: #004225; font-weight: bold;">10.84</span> | <span style="color: #B22222; font-weight: bold;">25.69</span> |
 | **2017/11** | **17.51** | <span style="color: #FF7F7F; font-weight: bold;">+112.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+64.9</span> | **269.5** | <span style="color: #004225; font-weight: bold;">10.84</span> | <span style="color: #B22222; font-weight: bold;">25.39</span> |
 | **2017/10** | **15.26** | <span style="color: #FF7F7F; font-weight: bold;">+90.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+59.6</span> | **302** | <span style="color: #004225; font-weight: bold;">10.84</span> | <span style="color: #DC143C; font-weight: bold;">29.08</span> |
 | **2017/09** | **15.67** | <span style="color: #FF7F7F; font-weight: bold;">+89.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+55.9</span> | **281.5** | <span style="color: #004225; font-weight: bold;">10.16</span> | <span style="color: #DC143C; font-weight: bold;">27.71</span> |
@@ -230,7 +230,7 @@ description: 月營收表 貿聯-KY (3665) - 自動產生
 | **2013/11** | **6.02** | <span style="color: #DC143C; font-weight: bold;">+28.3</span> | <span style="color: #DC143C; font-weight: bold;">+21.3</span> | **123** | <span style="color: #006400; font-weight: bold;">7.28</span> | <span style="color: #002818; font-weight: bold;">17.46</span> |
 | **2013/10** | **6.37** | <span style="color: #B22222; font-weight: bold;">+17.4</span> | <span style="color: #DC143C; font-weight: bold;">+20.6</span> | **133** | <span style="color: #006400; font-weight: bold;">7.28</span> | <span style="color: #8B0000; font-weight: bold;">19.52</span> |
 | **2013/09** | **6.47** | <span style="color: #FF4500; font-weight: bold;">+33</span> | <span style="color: #DC143C; font-weight: bold;">+21</span> | **137.5** | <span style="color: #006400; font-weight: bold;">6.58</span> | <span style="color: #8B0000; font-weight: bold;">20.9</span> |
-| **2013/08** | **5.08** | <span style="color: #002818; font-weight: bold;">-8.71</span> | <span style="color: #B22222; font-weight: bold;">+19.5</span> | **139.5** | <span style="color: #006400; font-weight: bold;">6.58</span> | <span style="color: #B22222; font-weight: bold;">22.36</span> |
+| **2013/08** | **5.08** | <span style="color: #002818; font-weight: bold;">-8.71</span> | <span style="color: #B22222; font-weight: bold;">+19.5</span> | **139.5** | <span style="color: #006400; font-weight: bold;">6.58</span> | <span style="color: #8B0000; font-weight: bold;">22.36</span> |
 | **2013/07** | **6.7** | <span style="color: #FF7F7F; font-weight: bold;">+51.2</span> | <span style="color: #DC143C; font-weight: bold;">+24.4</span> | **106.5** | <span style="color: #006400; font-weight: bold;">6.58</span> | <span style="color: #002818; font-weight: bold;">18.05</span> |
 | **2013/06** | **5.99** | <span style="color: #DC143C; font-weight: bold;">+23.5</span> | <span style="color: #DC143C; font-weight: bold;">+20.1</span> | **57.9** | <span style="color: #228B22; font-weight: bold;">5.56</span> | <span style="color: #228B22; font-weight: bold;">10.41</span> |
 | **2013/05** | **6.4** | <span style="color: #DC143C; font-weight: bold;">+23.3</span> | <span style="color: #B22222; font-weight: bold;">+19.4</span> | **55.5** | <span style="color: #228B22; font-weight: bold;">5.56</span> | <span style="color: #228B22; font-weight: bold;">10.69</span> |
@@ -355,7 +355,7 @@ description: 月營收表 貿聯-KY (3665) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-12 21:48:19 CST
+- **產生時間**: 2026-04-13 03:50:01 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

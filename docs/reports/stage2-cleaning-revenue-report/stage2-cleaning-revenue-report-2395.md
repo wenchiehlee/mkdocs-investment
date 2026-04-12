@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-12
+date: 2026-04-13
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 研華 (2395) - 自動產生
     **:building_construction: 公司名稱**: 研華  
     **:identification_card: 股票代號**: 2395  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-12 21:48:19 CST
+    **:clock3: 更新時間**: 2026-04-13 03:50:01 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 研華 (2395) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **5.99** | **8.43** | **11.17** |
-| **P/E倍數** | **15.05** | **23.71** | **30.37** |
+| **P/E倍數** | **15.05** | **23.71** | **30.38** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 研華 歷史平均獲利能力 (σup=2.73, σlo=2.45)
-    - **P/Ebase**: 研華 歷史平均估值水準 (σup=6.67, σlo=8.66)
+    - **P/Ebase**: 研華 歷史平均估值水準 (σup=6.67, σlo=8.67)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -211,7 +211,7 @@ description: 月營收表 研華 (2395) - 自動產生
 | **2015/06** | **37.31** | <span style="color: #B22222; font-weight: bold;">+19.9</span> | <span style="color: #8B0000; font-weight: bold;">+7.94</span> | **212** | <span style="color: #002818; font-weight: bold;">8.05</span> | <span style="color: #8B0000; font-weight: bold;">26.34</span> |
 | **2015/05** | **30.05** | <span style="color: #002818; font-weight: bold;">-0.26</span> | <span style="color: #8B0000; font-weight: bold;">+5.34</span> | **247.5** | <span style="color: #002818; font-weight: bold;">8.05</span> | <span style="color: #DC143C; font-weight: bold;">31.0</span> |
 | **2015/04** | **32.74** | <span style="color: #8B0000; font-weight: bold;">+3.76</span> | <span style="color: #8B0000; font-weight: bold;">+6.83</span> | **253.5** | <span style="color: #002818; font-weight: bold;">8.05</span> | <span style="color: #DC143C; font-weight: bold;">32.02</span> |
-| **2015/03** | **33.93** | <span style="color: #8B0000; font-weight: bold;">+9.5</span> | <span style="color: #8B0000; font-weight: bold;">+8.02</span> | **238.5** | <span style="color: #002818; font-weight: bold;">7.85</span> | <span style="color: #DC143C; font-weight: bold;">30.38</span> |
+| **2015/03** | **33.93** | <span style="color: #8B0000; font-weight: bold;">+9.5</span> | <span style="color: #8B0000; font-weight: bold;">+8.02</span> | **238.5** | <span style="color: #002818; font-weight: bold;">7.85</span> | <span style="color: #B22222; font-weight: bold;">30.38</span> |
 | **2015/02** | **23.57** | <span style="color: #002818; font-weight: bold;">-0.64</span> | <span style="color: #8B0000; font-weight: bold;">+7.12</span> | **240** | <span style="color: #002818; font-weight: bold;">7.85</span> | <span style="color: #DC143C; font-weight: bold;">30.64</span> |
 | **2015/01** | **30.52** | <span style="color: #B22222; font-weight: bold;">+14</span> | <span style="color: #B22222; font-weight: bold;">+14</span> | **238** | <span style="color: #002818; font-weight: bold;">7.85</span> | <span style="color: #DC143C; font-weight: bold;">30.45</span> |
 | **2014/12** | **31.94** | <span style="color: #B22222; font-weight: bold;">+13</span> | <span style="color: #B22222; font-weight: bold;">+16.6</span> | **234.5** | <span style="color: #002818; font-weight: bold;">7.8</span> | <span style="color: #B22222; font-weight: bold;">30.06</span> |
@@ -414,7 +414,7 @@ description: 月營收表 研華 (2395) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-12 21:48:19 CST
+- **產生時間**: 2026-04-13 03:50:01 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

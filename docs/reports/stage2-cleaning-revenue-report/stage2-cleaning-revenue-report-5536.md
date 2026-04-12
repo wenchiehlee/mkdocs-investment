@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-12
+date: 2026-04-13
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 聖暉 (5536) - 自動產生
     **:building_construction: 公司名稱**: 聖暉  
     **:identification_card: 股票代號**: 5536  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-12 21:48:19 CST
+    **:clock3: 更新時間**: 2026-04-13 03:50:01 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 聖暉 (5536) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **9.12** | **15.75** | **21.02** |
-| **P/E倍數** | **9.37** | **12.66** | **25.09** |
+| **P/E倍數** | **9.37** | **12.66** | **25.12** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 聖暉 歷史平均獲利能力 (σup=5.27, σlo=6.64)
-    - **P/Ebase**: 聖暉 歷史平均估值水準 (σup=12.43, σlo=3.28)
+    - **P/Ebase**: 聖暉 歷史平均估值水準 (σup=12.45, σlo=3.29)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -83,7 +83,7 @@ description: 月營收表 聖暉 (5536) - 自動產生
 | **2026/02** | **27.45** | <span style="color: #8B0000; font-weight: bold;">+2.73</span> | <span style="color: #DC143C; font-weight: bold;">+20.6</span> | **723** | <span style="color: #FF6347; font-weight: bold;">28.42</span> | <span style="color: #DC143C; font-weight: bold;">25.44</span> |
 | **2026/01** | **36.66** | <span style="color: #FF4500; font-weight: bold;">+38.8</span> | <span style="color: #FF4500; font-weight: bold;">+38.8</span> | **630** | <span style="color: #FF6347; font-weight: bold;">28.42</span> | <span style="color: #B22222; font-weight: bold;">22.17</span> |
 | **2025/12** | **40.48** | <span style="color: #B22222; font-weight: bold;">+10.1</span> | <span style="color: #FF4500; font-weight: bold;">+37.1</span> | **781** | <span style="color: #FF6347; font-weight: bold;">28.42</span> | <span style="color: #DC143C; font-weight: bold;">27.48</span> |
-| **2025/11** | **37.27** | <span style="color: #DC143C; font-weight: bold;">+20</span> | <span style="color: #FF6347; font-weight: bold;">+40.8</span> | **696** | <span style="color: #FF6347; font-weight: bold;">28.42</span> | <span style="color: #DC143C; font-weight: bold;">25.1</span> |
+| **2025/11** | **37.27** | <span style="color: #DC143C; font-weight: bold;">+20</span> | <span style="color: #FF6347; font-weight: bold;">+40.8</span> | **696** | <span style="color: #FF6347; font-weight: bold;">28.42</span> | <span style="color: #B22222; font-weight: bold;">25.1</span> |
 | **2025/10** | **32.02** | <span style="color: #B22222; font-weight: bold;">+17.8</span> | <span style="color: #FF6347; font-weight: bold;">+43.6</span> | **770** | <span style="color: #FF6347; font-weight: bold;">28.42</span> | <span style="color: #DC143C; font-weight: bold;">28.48</span> |
 | **2025/09** | **39.09** | <span style="color: #DC143C; font-weight: bold;">+28.8</span> | <span style="color: #FF6347; font-weight: bold;">+47</span> | **775** | <span style="color: #FF6347; font-weight: bold;">26.35</span> | <span style="color: #DC143C; font-weight: bold;">29.41</span> |
 | **2025/08** | **33.75** | <span style="color: #FF6347; font-weight: bold;">+41.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+50.1</span> | **892** | <span style="color: #FF6347; font-weight: bold;">26.35</span> | <span style="color: #FF4500; font-weight: bold;">35.26</span> |
@@ -211,7 +211,7 @@ description: 月營收表 聖暉 (5536) - 自動產生
 | **2015/06** | **9.09** | <span style="color: #002818; font-weight: bold;">-2.1</span> | <span style="color: #002818; font-weight: bold;">-0.8</span> | **70.1** | <span style="color: #228B22; font-weight: bold;">2.94</span> | <span style="color: #B22222; font-weight: bold;">23.84</span> |
 | **2015/05** | **5.88** | <span style="color: #002818; font-weight: bold;">-6.29</span> | <span style="color: #002818; font-weight: bold;">-0.33</span> | **73** | <span style="color: #228B22; font-weight: bold;">2.94</span> | <span style="color: #DC143C; font-weight: bold;">27.62</span> |
 | **2015/04** | **6.33** | <span style="color: #8B0000; font-weight: bold;">+7.79</span> | <span style="color: #8B0000; font-weight: bold;">+1.57</span> | **74.4** | <span style="color: #228B22; font-weight: bold;">2.94</span> | <span style="color: #FF4500; font-weight: bold;">31.7</span> |
-| **2015/03** | **5.62** | <span style="color: #DC143C; font-weight: bold;">+24.7</span> | <span style="color: #002818; font-weight: bold;">-1.09</span> | **77** | <span style="color: #32CD32; font-weight: bold;">2.05</span> | <span style="color: #FF6347; font-weight: bold;">37.56</span> |
+| **2015/03** | **5.62** | <span style="color: #DC143C; font-weight: bold;">+24.7</span> | <span style="color: #002818; font-weight: bold;">-1.09</span> | **77** | <span style="color: #32CD32; font-weight: bold;">2.05</span> | <span style="color: #FF4500; font-weight: bold;">37.56</span> |
 | **2015/02** | **3.36** | <span style="color: #004225; font-weight: bold;">-14.3</span> | <span style="color: #004225; font-weight: bold;">-13.7</span> | **80.3** | <span style="color: #32CD32; font-weight: bold;">2.05</span> | <span style="color: #FF6347; font-weight: bold;">39.11</span> |
 | **2015/01** | **4.57** | <span style="color: #004225; font-weight: bold;">-13.4</span> | <span style="color: #004225; font-weight: bold;">-13.4</span> | **80** | <span style="color: #32CD32; font-weight: bold;">2.05</span> | <span style="color: #FF6347; font-weight: bold;">38.9</span> |
 | **2014/12** | **6.75** | <span style="color: #006400; font-weight: bold;">-22.8</span> | <span style="color: #004225; font-weight: bold;">-12.4</span> | **86.6** | <span style="color: #32CD32; font-weight: bold;">2.06</span> | <span style="color: #FF6347; font-weight: bold;">42.04</span> |
@@ -373,7 +373,7 @@ description: 月營收表 聖暉 (5536) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-12 21:48:19 CST
+- **產生時間**: 2026-04-13 03:50:01 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

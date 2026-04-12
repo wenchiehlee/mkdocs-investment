@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-12
+date: 2026-04-13
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 京元電子 (2449) - 自動產生
     **:building_construction: 公司名稱**: 京元電子  
     **:identification_card: 股票代號**: 2449  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-12 21:48:19 CST
+    **:clock3: 更新時間**: 2026-04-13 03:50:01 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 京元電子 (2449) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **1.10** | **2.71** | **5.99** |
-| **P/E倍數** | **10.48** | **14.31** | **22.06** |
+| **P/E倍數** | **10.48** | **14.32** | **22.09** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 京元電子 歷史平均獲利能力 (σup=3.27, σlo=1.61)
-    - **P/Ebase**: 京元電子 歷史平均估值水準 (σup=7.75, σlo=3.83)
+    - **P/Ebase**: 京元電子 歷史平均估值水準 (σup=7.77, σlo=3.84)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -104,7 +104,7 @@ description: 月營收表 京元電子 (2449) - 自動產生
 | **2024/05** | **22.17** | <span style="color: #B22222; font-weight: bold;">+11.8</span> | <span style="color: #8B0000; font-weight: bold;">+9.4</span> | **88.2** | <span style="color: #B22222; font-weight: bold;">5.23</span> | <span style="color: #8B0000; font-weight: bold;">17.19</span> |
 | **2024/04** | **20.79** | <span style="color: #B22222; font-weight: bold;">+11.4</span> | <span style="color: #8B0000; font-weight: bold;">+8.75</span> | **95.8** | <span style="color: #B22222; font-weight: bold;">5.23</span> | <span style="color: #B22222; font-weight: bold;">19.05</span> |
 | **2024/03** | **21.28** | <span style="color: #006400; font-weight: bold;">-21.3</span> | <span style="color: #006400; font-weight: bold;">-23</span> | **105.5** | <span style="color: #B22222; font-weight: bold;">4.93</span> | <span style="color: #B22222; font-weight: bold;">21.4</span> |
-| **2024/02** | **18.85** | <span style="color: #006400; font-weight: bold;">-24.5</span> | <span style="color: #006400; font-weight: bold;">-24</span> | **88.8** | <span style="color: #B22222; font-weight: bold;">4.93</span> | <span style="color: #B22222; font-weight: bold;">18.2</span> |
+| **2024/02** | **18.85** | <span style="color: #006400; font-weight: bold;">-24.5</span> | <span style="color: #006400; font-weight: bold;">-24</span> | **88.8** | <span style="color: #B22222; font-weight: bold;">4.93</span> | <span style="color: #8B0000; font-weight: bold;">18.2</span> |
 | **2024/01** | **19.65** | <span style="color: #006400; font-weight: bold;">-23.4</span> | <span style="color: #006400; font-weight: bold;">-23.4</span> | **84** | <span style="color: #B22222; font-weight: bold;">4.93</span> | <span style="color: #8B0000; font-weight: bold;">17.39</span> |
 | **2023/12** | **20.59** | <span style="color: #006400; font-weight: bold;">-29.8</span> | <span style="color: #228B22; font-weight: bold;">-34.8</span> | **84.9** | <span style="color: #B22222; font-weight: bold;">4.78</span> | <span style="color: #8B0000; font-weight: bold;">17.76</span> |
 | **2023/11** | **20.99** | <span style="color: #006400; font-weight: bold;">-27.1</span> | <span style="color: #228B22; font-weight: bold;">-35.2</span> | **82.8** | <span style="color: #B22222; font-weight: bold;">4.78</span> | <span style="color: #8B0000; font-weight: bold;">17.39</span> |
@@ -414,7 +414,7 @@ description: 月營收表 京元電子 (2449) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-12 21:48:19 CST
+- **產生時間**: 2026-04-13 03:50:01 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
