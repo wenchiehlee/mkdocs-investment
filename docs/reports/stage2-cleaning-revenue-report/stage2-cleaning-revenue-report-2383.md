@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-14
+date: 2026-04-15
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 台光電 (2383) - 自動產生
     **:building_construction: 公司名稱**: 台光電  
     **:identification_card: 股票代號**: 2383  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-14 22:41:09 CST
+    **:clock3: 更新時間**: 2026-04-15 01:55:35 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 台光電 (2383) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **3.66** | **9.57** | **24.05** |
-| **P/E倍數** | **9.13** | **13.42** | **27.00** |
+| **P/E倍數** | **9.13** | **13.44** | **27.29** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 台光電 歷史平均獲利能力 (σup=14.47, σlo=5.91)
-    - **P/Ebase**: 台光電 歷史平均估值水準 (σup=13.58, σlo=4.30)
+    - **P/Ebase**: 台光電 歷史平均估值水準 (σup=13.85, σlo=4.31)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -84,7 +84,7 @@ description: 月營收表 台光電 (2383) - 自動產生
 | **2026/01** | **108.6** | <span style="color: #FF7F7F; font-weight: bold;">+55.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+55.5</span> | **1745** | <span style="color: #FF6347; font-weight: bold;">41.67</span> | <span style="color: #FF6347; font-weight: bold;">41.88</span> |
 | **2025/12** | **87.05** | <span style="color: #FF4500; font-weight: bold;">+35.8</span> | <span style="color: #FF6347; font-weight: bold;">+46.4</span> | **1645** | <span style="color: #FF6347; font-weight: bold;">41.67</span> | <span style="color: #FF4500; font-weight: bold;">39.48</span> |
 | **2025/11** | **81.29** | <span style="color: #DC143C; font-weight: bold;">+28.3</span> | <span style="color: #FF6347; font-weight: bold;">+47.6</span> | **1525** | <span style="color: #FF6347; font-weight: bold;">41.67</span> | <span style="color: #FF4500; font-weight: bold;">37.45</span> |
-| **2025/10** | **80.75** | <span style="color: #FF4500; font-weight: bold;">+38.8</span> | <span style="color: #FF6347; font-weight: bold;">+49.9</span> | **1360** | <span style="color: #FF6347; font-weight: bold;">41.67</span> | <span style="color: #FF4500; font-weight: bold;">34.2</span> |
+| **2025/10** | **80.75** | <span style="color: #FF4500; font-weight: bold;">+38.8</span> | <span style="color: #FF6347; font-weight: bold;">+49.9</span> | **1360** | <span style="color: #FF6347; font-weight: bold;">41.67</span> | <span style="color: #DC143C; font-weight: bold;">34.2</span> |
 | **2025/09** | **80.08** | <span style="color: #FF4500; font-weight: bold;">+34.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+51.3</span> | **1225** | <span style="color: #FF6347; font-weight: bold;">38.81</span> | <span style="color: #DC143C; font-weight: bold;">31.56</span> |
 | **2025/08** | **87.65** | <span style="color: #FF7F7F; font-weight: bold;">+52.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+53.8</span> | **1220** | <span style="color: #FF6347; font-weight: bold;">38.81</span> | <span style="color: #DC143C; font-weight: bold;">32.52</span> |
 | **2025/07** | **83.72** | <span style="color: #FF6347; font-weight: bold;">+44.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+54</span> | **1105** | <span style="color: #FF6347; font-weight: bold;">38.81</span> | <span style="color: #DC143C; font-weight: bold;">30.51</span> |
@@ -414,7 +414,7 @@ description: 月營收表 台光電 (2383) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-14 22:41:09 CST
+- **產生時間**: 2026-04-15 01:55:35 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

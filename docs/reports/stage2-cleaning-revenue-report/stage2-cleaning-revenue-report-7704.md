@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-14
+date: 2026-04-15
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 明遠精密 (7704) - 自動產生
     **:building_construction: 公司名稱**: 明遠精密  
     **:identification_card: 股票代號**: 7704  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-14 22:41:09 CST
+    **:clock3: 更新時間**: 2026-04-15 01:55:35 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 明遠精密 (7704) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **1.85** | **2.08** | **2.63** |
-| **P/E倍數** | **22.92** | **26.05** | **29.42** |
+| **P/E倍數** | **22.94** | **26.16** | **29.56** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 明遠精密 歷史平均獲利能力 (σup=0.55, σlo=0.23)
-    - **P/Ebase**: 明遠精密 歷史平均估值水準 (σup=3.37, σlo=3.13)
+    - **P/Ebase**: 明遠精密 歷史平均估值水準 (σup=3.40, σlo=3.22)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -89,7 +89,7 @@ description: 月營收表 明遠精密 (7704) - 自動產生
 | **2025/08** | **0.55** | <span style="color: #004225; font-weight: bold;">-15.1</span> | <span style="color: #004225; font-weight: bold;">-12</span> | **44.1** | <span style="color: #006400; font-weight: bold;">1.74</span> | <span style="color: #002818; font-weight: bold;">25.3</span> |
 | **2025/07** | **0.521** | <span style="color: #004225; font-weight: bold;">-11.2</span> | <span style="color: #004225; font-weight: bold;">-11.6</span> | **50** | <span style="color: #006400; font-weight: bold;">1.74</span> | <span style="color: #B22222; font-weight: bold;">28.63</span> |
 | **2025/06** | **0.542** | <span style="color: #004225; font-weight: bold;">-16.9</span> | <span style="color: #004225; font-weight: bold;">-11.7</span> | **60.4** | <span style="color: #006400; font-weight: bold;">1.75</span> | <span style="color: #FF6347; font-weight: bold;">34.51</span> |
-| **2025/05** | **0.695** | <span style="color: #8B0000; font-weight: bold;">+3.04</span> | <span style="color: #004225; font-weight: bold;">-10.6</span> | **58.8** | <span style="color: #006400; font-weight: bold;">1.75</span> | <span style="color: #DC143C; font-weight: bold;">29.45</span> |
+| **2025/05** | **0.695** | <span style="color: #8B0000; font-weight: bold;">+3.04</span> | <span style="color: #004225; font-weight: bold;">-10.6</span> | **58.8** | <span style="color: #006400; font-weight: bold;">1.75</span> | <span style="color: #B22222; font-weight: bold;">29.45</span> |
 | **2025/04** | **0.597** | <span style="color: #004225; font-weight: bold;">-17.8</span> | <span style="color: #004225; font-weight: bold;">-14.2</span> | **61** | <span style="color: #006400; font-weight: bold;">1.75</span> | <span style="color: #8B0000; font-weight: bold;">27.19</span> |
 | **2025/03** | **0.672** | <span style="color: #8B0000; font-weight: bold;">+4.04</span> | <span style="color: #004225; font-weight: bold;">-12.8</span> | **62** | <span style="color: #B22222; font-weight: bold;">2.49</span> | <span style="color: #002818; font-weight: bold;">24.9</span> |
 | **2025/02** | **0.453** | <span style="color: #32CD32; font-weight: bold;">-40.2</span> | <span style="color: #006400; font-weight: bold;">-22</span> | **75** | <span style="color: #B22222; font-weight: bold;">2.49</span> | <span style="color: #B22222; font-weight: bold;">28.52</span> |
@@ -205,7 +205,7 @@ description: 月營收表 明遠精密 (7704) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-14 22:41:09 CST
+- **產生時間**: 2026-04-15 01:55:35 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

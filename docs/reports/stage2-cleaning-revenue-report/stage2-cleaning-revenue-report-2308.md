@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-14
+date: 2026-04-15
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 台達電 (2308) - 自動產生
     **:building_construction: 公司名稱**: 台達電  
     **:identification_card: 股票代號**: 2308  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-14 22:41:09 CST
+    **:clock3: 更新時間**: 2026-04-15 01:55:35 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 台達電 (2308) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **6.25** | **8.68** | **14.60** |
-| **P/E倍數** | **17.19** | **21.74** | **31.87** |
+| **P/E倍數** | **17.19** | **21.75** | **31.90** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 台達電 歷史平均獲利能力 (σup=5.92, σlo=2.43)
-    - **P/Ebase**: 台達電 歷史平均估值水準 (σup=10.12, σlo=4.55)
+    - **P/Ebase**: 台達電 歷史平均估值水準 (σup=10.15, σlo=4.56)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -142,7 +142,7 @@ description: 月營收表 台達電 (2308) - 自動產生
 | **2021/03** | **270.3** | <span style="color: #DC143C; font-weight: bold;">+28.2</span> | <span style="color: #FF4500; font-weight: bold;">+30.2</span> | **288** | <span style="color: #8B0000; font-weight: bold;">11.53</span> | <span style="color: #8B0000; font-weight: bold;">24.98</span> |
 | **2021/02** | **203.4** | <span style="color: #FF4500; font-weight: bold;">+33.3</span> | <span style="color: #FF4500; font-weight: bold;">+31.4</span> | **280.5** | <span style="color: #8B0000; font-weight: bold;">11.53</span> | <span style="color: #8B0000; font-weight: bold;">25.6</span> |
 | **2021/01** | **251.2** | <span style="color: #DC143C; font-weight: bold;">+29.9</span> | <span style="color: #DC143C; font-weight: bold;">+29.9</span> | **282.5** | <span style="color: #8B0000; font-weight: bold;">11.53</span> | <span style="color: #B22222; font-weight: bold;">27.21</span> |
-| **2020/12** | **269.1** | <span style="color: #DC143C; font-weight: bold;">+20.1</span> | <span style="color: #8B0000; font-weight: bold;">+5.39</span> | **263** | <span style="color: #8B0000; font-weight: bold;">9.81</span> | <span style="color: #B22222; font-weight: bold;">26.81</span> |
+| **2020/12** | **269.1** | <span style="color: #DC143C; font-weight: bold;">+20.1</span> | <span style="color: #8B0000; font-weight: bold;">+5.39</span> | **263** | <span style="color: #8B0000; font-weight: bold;">9.81</span> | <span style="color: #8B0000; font-weight: bold;">26.81</span> |
 | **2020/11** | **254.9** | <span style="color: #B22222; font-weight: bold;">+12.4</span> | <span style="color: #8B0000; font-weight: bold;">+4.05</span> | **224.5** | <span style="color: #8B0000; font-weight: bold;">9.81</span> | <span style="color: #8B0000; font-weight: bold;">23.61</span> |
 | **2020/10** | **261.5** | <span style="color: #B22222; font-weight: bold;">+13.1</span> | <span style="color: #8B0000; font-weight: bold;">+3.2</span> | **190** | <span style="color: #8B0000; font-weight: bold;">9.81</span> | <span style="color: #002818; font-weight: bold;">20.63</span> |
 | **2020/09** | **268** | <span style="color: #B22222; font-weight: bold;">+14.5</span> | <span style="color: #8B0000; font-weight: bold;">+2.05</span> | **189** | <span style="color: #8B0000; font-weight: bold;">8.91</span> | <span style="color: #002818; font-weight: bold;">21.21</span> |
@@ -414,7 +414,7 @@ description: 月營收表 台達電 (2308) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-14 22:41:09 CST
+- **產生時間**: 2026-04-15 01:55:35 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

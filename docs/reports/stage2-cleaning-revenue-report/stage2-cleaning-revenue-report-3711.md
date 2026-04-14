@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-14
+date: 2026-04-15
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 日月光投控 (3711) - 自動產生
     **:building_construction: 公司名稱**: 日月光投控  
     **:identification_card: 股票代號**: 3711  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-14 22:41:09 CST
+    **:clock3: 更新時間**: 2026-04-15 01:55:35 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 日月光投控 (3711) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **5.98** | **8.64** | **13.88** |
-| **P/E倍數** | **9.42** | **15.04** | **24.10** |
+| **P/E倍數** | **9.42** | **15.07** | **24.37** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 日月光投控 歷史平均獲利能力 (σup=5.24, σlo=2.66)
-    - **P/Ebase**: 日月光投控 歷史平均估值水準 (σup=9.06, σlo=5.62)
+    - **P/Ebase**: 日月光投控 歷史平均估值水準 (σup=9.29, σlo=5.65)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -84,7 +84,7 @@ description: 月營收表 日月光投控 (3711) - 自動產生
 | **2026/01** | **599.9** | <span style="color: #DC143C; font-weight: bold;">+21.3</span> | <span style="color: #DC143C; font-weight: bold;">+21.3</span> | **297** | <span style="color: #8B0000; font-weight: bold;">9.37</span> | <span style="color: #FF4500; font-weight: bold;">31.7</span> |
 | **2025/12** | **588.6** | <span style="color: #B22222; font-weight: bold;">+11.3</span> | <span style="color: #8B0000; font-weight: bold;">+8.39</span> | **250.5** | <span style="color: #8B0000; font-weight: bold;">9.37</span> | <span style="color: #DC143C; font-weight: bold;">26.73</span> |
 | **2025/11** | **588.2** | <span style="color: #B22222; font-weight: bold;">+11.1</span> | <span style="color: #8B0000; font-weight: bold;">+8.11</span> | **229.5** | <span style="color: #8B0000; font-weight: bold;">9.37</span> | <span style="color: #DC143C; font-weight: bold;">25.61</span> |
-| **2025/10** | **602.3** | <span style="color: #8B0000; font-weight: bold;">+6.74</span> | <span style="color: #8B0000; font-weight: bold;">+7.78</span> | **247.5** | <span style="color: #8B0000; font-weight: bold;">9.37</span> | <span style="color: #FF4500; font-weight: bold;">28.95</span> |
+| **2025/10** | **602.3** | <span style="color: #8B0000; font-weight: bold;">+6.74</span> | <span style="color: #8B0000; font-weight: bold;">+7.78</span> | **247.5** | <span style="color: #8B0000; font-weight: bold;">9.37</span> | <span style="color: #DC143C; font-weight: bold;">28.95</span> |
 | **2025/09** | **605.6** | <span style="color: #8B0000; font-weight: bold;">+8.96</span> | <span style="color: #8B0000; font-weight: bold;">+7.92</span> | **164** | <span style="color: #002818; font-weight: bold;">8.14</span> | <span style="color: #B22222; font-weight: bold;">20.15</span> |
 | **2025/08** | **564.7** | <span style="color: #8B0000; font-weight: bold;">+6.68</span> | <span style="color: #8B0000; font-weight: bold;">+7.77</span> | **151** | <span style="color: #002818; font-weight: bold;">8.14</span> | <span style="color: #8B0000; font-weight: bold;">18.75</span> |
 | **2025/07** | **515.4** | <span style="color: #002818; font-weight: bold;">-0.1</span> | <span style="color: #8B0000; font-weight: bold;">+7.95</span> | **152.5** | <span style="color: #002818; font-weight: bold;">8.14</span> | <span style="color: #8B0000; font-weight: bold;">19.14</span> |
@@ -170,7 +170,7 @@ description: 月營收表 日月光投控 (3711) - 自動產生
 | **2018/11** | **379.5** | N/A | N/A | **62.4** | <span style="color: #006400; font-weight: bold;">5.95</span> | <span style="color: #004225; font-weight: bold;">10.38</span> |
 | **2018/10** | **391.4** | N/A | N/A | **62.4** | <span style="color: #006400; font-weight: bold;">5.95</span> | <span style="color: #004225; font-weight: bold;">10.27</span> |
 | **2018/09** | **392.8** | N/A | N/A | **74.5** | <span style="color: #004225; font-weight: bold;">6.14</span> | <span style="color: #004225; font-weight: bold;">12.13</span> |
-| **2018/08** | **355.9** | N/A | N/A | **75.3** | <span style="color: #004225; font-weight: bold;">6.14</span> | <span style="color: #002818; font-weight: bold;">12.24</span> |
+| **2018/08** | **355.9** | N/A | N/A | **75.3** | <span style="color: #004225; font-weight: bold;">6.14</span> | <span style="color: #004225; font-weight: bold;">12.24</span> |
 | **2018/07** | **327.4** | N/A | N/A | **78.4** | <span style="color: #004225; font-weight: bold;">6.14</span> | <span style="color: #002818; font-weight: bold;">12.73</span> |
 | **2018/06** | **310.3** | N/A | N/A | **71.6** | <span style="color: #004225; font-weight: bold;">6.17</span> | <span style="color: #004225; font-weight: bold;">11.6</span> |
 | **2018/05** | **309.8** | N/A | N/A | **76** | <span style="color: #004225; font-weight: bold;">6.17</span> | <span style="color: #002818; font-weight: bold;">12.32</span> |
@@ -270,7 +270,7 @@ description: 月營收表 日月光投控 (3711) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-14 22:41:09 CST
+- **產生時間**: 2026-04-15 01:55:35 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

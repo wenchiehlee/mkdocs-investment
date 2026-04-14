@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-14
+date: 2026-04-15
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 朋億 (6613) - 自動產生
     **:building_construction: 公司名稱**: 朋億  
     **:identification_card: 股票代號**: 6613  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-14 22:41:09 CST
+    **:clock3: 更新時間**: 2026-04-15 01:55:35 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 朋億 (6613) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **12.37** | **14.61** | **17.38** |
-| **P/E倍數** | **8.83** | **10.77** | **13.18** |
+| **P/E倍數** | **8.85** | **10.78** | **13.29** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 朋億 歷史平均獲利能力 (σup=2.77, σlo=2.24)
-    - **P/Ebase**: 朋億 歷史平均估值水準 (σup=2.41, σlo=1.94)
+    - **P/Ebase**: 朋億 歷史平均估值水準 (σup=2.51, σlo=1.94)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -81,7 +81,7 @@ description: 月營收表 朋億 (6613) - 自動產生
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
 | **2026/03** | **10.7** | <span style="color: #FF7F7F; font-weight: bold;">+65.2</span> | <span style="color: #8B0000; font-weight: bold;">+8.95</span> | **200** | <span style="color: #004225; font-weight: bold;">13.37</span> | <span style="color: #FF4500; font-weight: bold;">14.96</span> |
 | **2026/02** | **6.31** | <span style="color: #8B0000; font-weight: bold;">+6.79</span> | <span style="color: #004225; font-weight: bold;">-15.3</span> | **204.5** | <span style="color: #004225; font-weight: bold;">13.37</span> | <span style="color: #FF4500; font-weight: bold;">15.3</span> |
-| **2026/01** | **6.41** | <span style="color: #006400; font-weight: bold;">-29.6</span> | <span style="color: #006400; font-weight: bold;">-29.6</span> | **193** | <span style="color: #004225; font-weight: bold;">13.37</span> | <span style="color: #FF4500; font-weight: bold;">14.44</span> |
+| **2026/01** | **6.41** | <span style="color: #006400; font-weight: bold;">-29.6</span> | <span style="color: #006400; font-weight: bold;">-29.6</span> | **193** | <span style="color: #004225; font-weight: bold;">13.37</span> | <span style="color: #DC143C; font-weight: bold;">14.44</span> |
 | **2025/12** | **10.83** | <span style="color: #002818; font-weight: bold;">-9.34</span> | <span style="color: #004225; font-weight: bold;">-14.1</span> | **201.5** | <span style="color: #004225; font-weight: bold;">13.37</span> | <span style="color: #FF4500; font-weight: bold;">15.07</span> |
 | **2025/11** | **8.91** | <span style="color: #002818; font-weight: bold;">-5.29</span> | <span style="color: #004225; font-weight: bold;">-14.8</span> | **178** | <span style="color: #004225; font-weight: bold;">13.37</span> | <span style="color: #B22222; font-weight: bold;">12.59</span> |
 | **2025/10** | **7.05** | <span style="color: #006400; font-weight: bold;">-20.3</span> | <span style="color: #004225; font-weight: bold;">-15.8</span> | **172** | <span style="color: #004225; font-weight: bold;">13.37</span> | <span style="color: #8B0000; font-weight: bold;">11.54</span> |
@@ -153,7 +153,7 @@ description: 月營收表 朋億 (6613) - 自動產生
 | **2020/04** | **3.74** | <span style="color: #002818; font-weight: bold;">-3.44</span> | <span style="color: #004225; font-weight: bold;">-18.4</span> | **152** | <span style="color: #8B0000; font-weight: bold;">15.29</span> | <span style="color: #8B0000; font-weight: bold;">11.18</span> |
 | **2020/03** | **3.9** | <span style="color: #004225; font-weight: bold;">-19.3</span> | <span style="color: #006400; font-weight: bold;">-23.2</span> | **131.5** | <span style="color: #004225; font-weight: bold;">12.75</span> | <span style="color: #002818; font-weight: bold;">10.31</span> |
 | **2020/02** | **2.59** | <span style="color: #FF4500; font-weight: bold;">+30</span> | <span style="color: #006400; font-weight: bold;">-25.7</span> | **152.5** | <span style="color: #004225; font-weight: bold;">12.75</span> | <span style="color: #8B0000; font-weight: bold;">11.39</span> |
-| **2020/01** | **2.93** | <span style="color: #32CD32; font-weight: bold;">-46.1</span> | <span style="color: #32CD32; font-weight: bold;">-46.1</span> | **151** | <span style="color: #004225; font-weight: bold;">12.75</span> | <span style="color: #8B0000; font-weight: bold;">10.77</span> |
+| **2020/01** | **2.93** | <span style="color: #32CD32; font-weight: bold;">-46.1</span> | <span style="color: #32CD32; font-weight: bold;">-46.1</span> | **151** | <span style="color: #004225; font-weight: bold;">12.75</span> | <span style="color: #002818; font-weight: bold;">10.77</span> |
 | **2019/12** | **3.47** | <span style="color: #8B0000; font-weight: bold;">+1.8</span> | <span style="color: #002818; font-weight: bold;">-9.46</span> | **166** | <span style="color: #8B0000; font-weight: bold;">14.65</span> | <span style="color: #8B0000; font-weight: bold;">11.33</span> |
 | **2019/11** | **4.56** | <span style="color: #FF7F7F; font-weight: bold;">+81.3</span> | <span style="color: #004225; font-weight: bold;">-10.3</span> | **155.5** | <span style="color: #8B0000; font-weight: bold;">14.65</span> | <span style="color: #8B0000; font-weight: bold;">10.79</span> |
 | **2019/10** | **2.98** | <span style="color: #002818; font-weight: bold;">-9.15</span> | <span style="color: #004225; font-weight: bold;">-15.7</span> | **150.5** | <span style="color: #8B0000; font-weight: bold;">14.65</span> | <span style="color: #002818; font-weight: bold;">10.61</span> |
@@ -288,7 +288,7 @@ description: 月營收表 朋億 (6613) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-14 22:41:09 CST
+- **產生時間**: 2026-04-15 01:55:35 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

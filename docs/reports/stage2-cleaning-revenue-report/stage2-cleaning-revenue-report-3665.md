@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-14
+date: 2026-04-15
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 貿聯-KY (3665) - 自動產生
     **:building_construction: 公司名稱**: 貿聯-KY  
     **:identification_card: 股票代號**: 3665  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-14 22:41:09 CST
+    **:clock3: 更新時間**: 2026-04-15 01:55:35 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 貿聯-KY (3665) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **9.11** | **15.17** | **29.75** |
-| **P/E倍數** | **14.54** | **18.79** | **25.96** |
+| **P/E倍數** | **14.54** | **18.81** | **26.10** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 貿聯-KY 歷史平均獲利能力 (σup=14.58, σlo=6.06)
-    - **P/Ebase**: 貿聯-KY 歷史平均估值水準 (σup=7.17, σlo=4.26)
+    - **P/Ebase**: 貿聯-KY 歷史平均估值水準 (σup=7.29, σlo=4.27)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -182,7 +182,7 @@ description: 月營收表 貿聯-KY (3665) - 自動產生
 | **2017/11** | **17.51** | <span style="color: #FF7F7F; font-weight: bold;">+112.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+64.9</span> | **269.5** | <span style="color: #004225; font-weight: bold;">10.84</span> | <span style="color: #B22222; font-weight: bold;">25.39</span> |
 | **2017/10** | **15.26** | <span style="color: #FF7F7F; font-weight: bold;">+90.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+59.6</span> | **302** | <span style="color: #004225; font-weight: bold;">10.84</span> | <span style="color: #DC143C; font-weight: bold;">29.08</span> |
 | **2017/09** | **15.67** | <span style="color: #FF7F7F; font-weight: bold;">+89.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+55.9</span> | **281.5** | <span style="color: #004225; font-weight: bold;">10.16</span> | <span style="color: #DC143C; font-weight: bold;">27.71</span> |
-| **2017/08** | **15.28** | <span style="color: #FF7F7F; font-weight: bold;">+90.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+51.2</span> | **263** | <span style="color: #004225; font-weight: bold;">10.16</span> | <span style="color: #DC143C; font-weight: bold;">26.09</span> |
+| **2017/08** | **15.28** | <span style="color: #FF7F7F; font-weight: bold;">+90.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+51.2</span> | **263** | <span style="color: #004225; font-weight: bold;">10.16</span> | <span style="color: #B22222; font-weight: bold;">26.09</span> |
 | **2017/07** | **13.72** | <span style="color: #FF7F7F; font-weight: bold;">+84.1</span> | <span style="color: #FF6347; font-weight: bold;">+45</span> | **225** | <span style="color: #004225; font-weight: bold;">10.16</span> | <span style="color: #B22222; font-weight: bold;">22.5</span> |
 | **2017/06** | **14.74** | <span style="color: #FF7F7F; font-weight: bold;">+78.5</span> | <span style="color: #FF4500; font-weight: bold;">+38.2</span> | **215** | <span style="color: #004225; font-weight: bold;">9.92</span> | <span style="color: #8B0000; font-weight: bold;">21.67</span> |
 | **2017/05** | **13.42** | <span style="color: #FF7F7F; font-weight: bold;">+82.8</span> | <span style="color: #DC143C; font-weight: bold;">+28.7</span> | **222** | <span style="color: #004225; font-weight: bold;">9.92</span> | <span style="color: #B22222; font-weight: bold;">22.93</span> |
@@ -198,7 +198,7 @@ description: 月營收表 貿聯-KY (3665) - 自動產生
 | **2016/07** | **7.45** | <span style="color: #8B0000; font-weight: bold;">+8.23</span> | <span style="color: #8B0000; font-weight: bold;">+9.62</span> | **196** | <span style="color: #006400; font-weight: bold;">8.57</span> | <span style="color: #B22222; font-weight: bold;">23.53</span> |
 | **2016/06** | **8.26** | <span style="color: #B22222; font-weight: bold;">+15.9</span> | <span style="color: #8B0000; font-weight: bold;">+9.86</span> | **197** | <span style="color: #006400; font-weight: bold;">8.21</span> | <span style="color: #B22222; font-weight: bold;">24.0</span> |
 | **2016/05** | **7.34** | <span style="color: #B22222; font-weight: bold;">+13</span> | <span style="color: #8B0000; font-weight: bold;">+8.53</span> | **188.5** | <span style="color: #006400; font-weight: bold;">8.21</span> | <span style="color: #B22222; font-weight: bold;">22.96</span> |
-| **2016/04** | **7.26** | <span style="color: #8B0000; font-weight: bold;">+6.5</span> | <span style="color: #8B0000; font-weight: bold;">+7.42</span> | **184** | <span style="color: #006400; font-weight: bold;">8.21</span> | <span style="color: #B22222; font-weight: bold;">22.41</span> |
+| **2016/04** | **7.26** | <span style="color: #8B0000; font-weight: bold;">+6.5</span> | <span style="color: #8B0000; font-weight: bold;">+7.42</span> | **184** | <span style="color: #006400; font-weight: bold;">8.21</span> | <span style="color: #8B0000; font-weight: bold;">22.41</span> |
 | **2016/03** | **7.03** | <span style="color: #8B0000; font-weight: bold;">+8.81</span> | <span style="color: #8B0000; font-weight: bold;">+7.75</span> | **171** | <span style="color: #006400; font-weight: bold;">8.21</span> | <span style="color: #8B0000; font-weight: bold;">20.83</span> |
 | **2016/02** | **6.51** | <span style="color: #B22222; font-weight: bold;">+14</span> | <span style="color: #8B0000; font-weight: bold;">+7.21</span> | **161.5** | <span style="color: #006400; font-weight: bold;">8.21</span> | <span style="color: #8B0000; font-weight: bold;">19.6</span> |
 | **2016/01** | **6.97** | <span style="color: #8B0000; font-weight: bold;">+1.57</span> | <span style="color: #8B0000; font-weight: bold;">+1.57</span> | **156.5** | <span style="color: #006400; font-weight: bold;">8.21</span> | <span style="color: #8B0000; font-weight: bold;">18.92</span> |
@@ -355,7 +355,7 @@ description: 月營收表 貿聯-KY (3665) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-14 22:41:09 CST
+- **產生時間**: 2026-04-15 01:55:35 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

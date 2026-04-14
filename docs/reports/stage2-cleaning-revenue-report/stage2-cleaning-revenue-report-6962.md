@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-14
+date: 2026-04-15
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 奕力-KY (6962) - 自動產生
     **:building_construction: 公司名稱**: 奕力-KY  
     **:identification_card: 股票代號**: 6962  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-14 22:41:09 CST
+    **:clock3: 更新時間**: 2026-04-15 01:55:35 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 奕力-KY (6962) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **3.11** | **3.87** | **5.63** |
-| **P/E倍數** | **10.12** | **11.89** | **13.66** |
+| **P/E倍數** | **10.13** | **11.92** | **13.66** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 奕力-KY 歷史平均獲利能力 (σup=1.76, σlo=0.76)
-    - **P/Ebase**: 奕力-KY 歷史平均估值水準 (σup=1.77, σlo=1.78)
+    - **P/Ebase**: 奕力-KY 歷史平均估值水準 (σup=1.74, σlo=1.79)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -84,7 +84,7 @@ description: 月營收表 奕力-KY (6962) - 自動產生
 | **2026/01** | **14.64** | <span style="color: #002818; font-weight: bold;">-3.82</span> | <span style="color: #002818; font-weight: bold;">-3.82</span> | **40.5** | <span style="color: #006400; font-weight: bold;">2.87</span> | <span style="color: #DC143C; font-weight: bold;">14.11</span> |
 | **2025/12** | **15.86** | <span style="color: #002818; font-weight: bold;">-1.44</span> | <span style="color: #004225; font-weight: bold;">-15</span> | **39.1** | <span style="color: #006400; font-weight: bold;">2.87</span> | <span style="color: #B22222; font-weight: bold;">13.62</span> |
 | **2025/11** | **16.3** | <span style="color: #004225; font-weight: bold;">-10.3</span> | <span style="color: #004225; font-weight: bold;">-16.1</span> | **39.95** | <span style="color: #006400; font-weight: bold;">2.87</span> | <span style="color: #B22222; font-weight: bold;">12.8</span> |
-| **2025/10** | **15.15** | <span style="color: #006400; font-weight: bold;">-21</span> | <span style="color: #004225; font-weight: bold;">-16.6</span> | **46.05** | <span style="color: #006400; font-weight: bold;">2.87</span> | <span style="color: #DC143C; font-weight: bold;">13.66</span> |
+| **2025/10** | **15.15** | <span style="color: #006400; font-weight: bold;">-21</span> | <span style="color: #004225; font-weight: bold;">-16.6</span> | **46.05** | <span style="color: #006400; font-weight: bold;">2.87</span> | <span style="color: #B22222; font-weight: bold;">13.66</span> |
 | **2025/09** | **17.64** | <span style="color: #8B0000; font-weight: bold;">+0.64</span> | <span style="color: #004225; font-weight: bold;">-16.1</span> | **42.4** | <span style="color: #002818; font-weight: bold;">3.62</span> | <span style="color: #002818; font-weight: bold;">11.71</span> |
 | **2025/08** | **17.86** | <span style="color: #002818; font-weight: bold;">-6.23</span> | <span style="color: #004225; font-weight: bold;">-18</span> | **43.8** | <span style="color: #002818; font-weight: bold;">3.62</span> | <span style="color: #8B0000; font-weight: bold;">12.22</span> |
 | **2025/07** | **15.58** | <span style="color: #006400; font-weight: bold;">-29.4</span> | <span style="color: #004225; font-weight: bold;">-19.7</span> | **46.7** | <span style="color: #002818; font-weight: bold;">3.62</span> | <span style="color: #B22222; font-weight: bold;">13.17</span> |
@@ -193,7 +193,7 @@ description: 月營收表 奕力-KY (6962) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-14 22:41:09 CST
+- **產生時間**: 2026-04-15 01:55:35 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

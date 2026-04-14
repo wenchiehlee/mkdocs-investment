@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-14
+date: 2026-04-15
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 南亞科 (2408) - 自動產生
     **:building_construction: 公司名稱**: 南亞科  
     **:identification_card: 股票代號**: 2408  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-14 22:41:09 CST
+    **:clock3: 更新時間**: 2026-04-15 01:55:35 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 南亞科 (2408) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **-5.29** | **1.99** | **8.78** |
-| **P/E倍數** | **6.83** | **17.10** | **72.92** |
+| **P/E倍數** | **6.83** | **17.11** | **73.03** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 南亞科 歷史平均獲利能力 (σup=6.79, σlo=7.28)
-    - **P/Ebase**: 南亞科 歷史平均估值水準 (σup=55.82, σlo=10.26)
+    - **P/Ebase**: 南亞科 歷史平均估值水準 (σup=55.92, σlo=10.28)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -222,7 +222,7 @@ description: 月營收表 南亞科 (2408) - 自動產生
 | **2014/07** | **43.93** | <span style="color: #8B0000; font-weight: bold;">+6.12</span> | <span style="color: #8B0000; font-weight: bold;">+2.86</span> | **8** | <span style="color: #DC143C; font-weight: bold;">9.86</span> | <span style="color: #228B22; font-weight: bold;">0.96</span> |
 | **2014/06** | **40.74** | <span style="color: #002818; font-weight: bold;">-8.08</span> | <span style="color: #8B0000; font-weight: bold;">+2.28</span> | **7.7** | <span style="color: #B22222; font-weight: bold;">7.58</span> | <span style="color: #228B22; font-weight: bold;">1.02</span> |
 | **2014/05** | **41.55** | <span style="color: #002818; font-weight: bold;">-9.69</span> | <span style="color: #8B0000; font-weight: bold;">+4.74</span> | **8.29** | <span style="color: #B22222; font-weight: bold;">7.58</span> | <span style="color: #228B22; font-weight: bold;">1.58</span> |
-| **2014/04** | **36.87** | <span style="color: #006400; font-weight: bold;">-23.2</span> | <span style="color: #8B0000; font-weight: bold;">+9.48</span> | **4.95** | <span style="color: #B22222; font-weight: bold;">7.58</span> | <span style="color: #228B22; font-weight: bold;">1.7</span> |
+| **2014/04** | **36.87** | <span style="color: #006400; font-weight: bold;">-23.2</span> | <span style="color: #8B0000; font-weight: bold;">+9.48</span> | **4.95** | <span style="color: #B22222; font-weight: bold;">7.58</span> | <span style="color: #006400; font-weight: bold;">1.7</span> |
 | **2014/03** | **37.72** | <span style="color: #8B0000; font-weight: bold;">+3.85</span> | <span style="color: #DC143C; font-weight: bold;">+26.4</span> | **4.05** | <span style="color: #002818; font-weight: bold;">0.58</span> | <span style="color: #004225; font-weight: bold;">6.98</span> |
 | **2014/02** | **37.55** | <span style="color: #DC143C; font-weight: bold;">+22.6</span> | <span style="color: #FF6347; font-weight: bold;">+41.1</span> | **4.76** | <span style="color: #002818; font-weight: bold;">0.58</span> | <span style="color: #004225; font-weight: bold;">9.52</span> |
 | **2014/01** | **41.65** | <span style="color: #FF7F7F; font-weight: bold;">+63.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+63.3</span> | **5** | <span style="color: #002818; font-weight: bold;">0.58</span> | <span style="color: #004225; font-weight: bold;">11.9</span> |
@@ -414,7 +414,7 @@ description: 月營收表 南亞科 (2408) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-14 22:41:09 CST
+- **產生時間**: 2026-04-15 01:55:35 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

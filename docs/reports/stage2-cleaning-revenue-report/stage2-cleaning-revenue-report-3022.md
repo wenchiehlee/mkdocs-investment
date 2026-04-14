@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-14
+date: 2026-04-15
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 威強電 (3022) - 自動產生
     **:building_construction: 公司名稱**: 威強電  
     **:identification_card: 股票代號**: 3022  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-14 22:41:09 CST
+    **:clock3: 更新時間**: 2026-04-15 01:55:35 CST
 
 ## :bar_chart: 績效概覽
 
@@ -70,7 +70,7 @@ description: 月營收表 威強電 (3022) - 自動產生
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 威強電 歷史平均獲利能力 (σup=2.46, σlo=1.28)
-    - **P/Ebase**: 威強電 歷史平均估值水準 (σup=3.80, σlo=2.23)
+    - **P/Ebase**: 威強電 歷史平均估值水準 (σup=3.81, σlo=2.23)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -317,7 +317,7 @@ description: 月營收表 威強電 (3022) - 自動產生
 | **2006/08** | **-** | N/A | N/A | **28.3** | <span style="color: #228B22; font-weight: bold;">2.59</span> | <span style="color: #002818; font-weight: bold;">10.63</span> |
 | **2006/07** | **-** | N/A | N/A | **24.5** | <span style="color: #228B22; font-weight: bold;">2.59</span> | <span style="color: #006400; font-weight: bold;">8.95</span> |
 | **2006/06** | **-** | N/A | N/A | **26.65** | <span style="color: #006400; font-weight: bold;">2.81</span> | <span style="color: #004225; font-weight: bold;">9.48</span> |
-| **2006/05** | **-** | N/A | N/A | **29.9** | <span style="color: #006400; font-weight: bold;">2.81</span> | <span style="color: #002818; font-weight: bold;">10.31</span> |
+| **2006/05** | **-** | N/A | N/A | **29.9** | <span style="color: #006400; font-weight: bold;">2.81</span> | <span style="color: #004225; font-weight: bold;">10.31</span> |
 | **2006/04** | **-** | N/A | N/A | **30.05** | <span style="color: #006400; font-weight: bold;">2.81</span> | <span style="color: #004225; font-weight: bold;">10.05</span> |
 
 </div>
@@ -414,7 +414,7 @@ description: 月營收表 威強電 (3022) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-14 22:41:09 CST
+- **產生時間**: 2026-04-15 01:55:35 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

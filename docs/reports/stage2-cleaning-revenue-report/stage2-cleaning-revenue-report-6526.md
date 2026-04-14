@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-14
+date: 2026-04-15
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 達發 (6526) - 自動產生
     **:building_construction: 公司名稱**: 達發  
     **:identification_card: 股票代號**: 6526  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-14 22:41:09 CST
+    **:clock3: 更新時間**: 2026-04-15 01:55:35 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 達發 (6526) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **8.81** | **14.33** | **17.45** |
-| **P/E倍數** | **31.21** | **47.76** | **78.35** |
+| **P/E倍數** | **31.28** | **47.79** | **78.35** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 達發 歷史平均獲利能力 (σup=3.11, σlo=5.52)
-    - **P/Ebase**: 達發 歷史平均估值水準 (σup=30.59, σlo=16.55)
+    - **P/Ebase**: 達發 歷史平均估值水準 (σup=30.56, σlo=16.51)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -87,7 +87,7 @@ description: 月營收表 達發 (6526) - 自動產生
 | **2025/10** | **15.09** | <span style="color: #002818; font-weight: bold;">-7.25</span> | <span style="color: #B22222; font-weight: bold;">+12.4</span> | **500** | <span style="color: #B22222; font-weight: bold;">17.32</span> | <span style="color: #006400; font-weight: bold;">28.39</span> |
 | **2025/09** | **18.27** | <span style="color: #002818; font-weight: bold;">-1.49</span> | <span style="color: #B22222; font-weight: bold;">+14.6</span> | **519** | <span style="color: #DC143C; font-weight: bold;">17.76</span> | <span style="color: #006400; font-weight: bold;">29.22</span> |
 | **2025/08** | **18.55** | <span style="color: #002818; font-weight: bold;">-1.8</span> | <span style="color: #B22222; font-weight: bold;">+17</span> | **569** | <span style="color: #DC143C; font-weight: bold;">17.76</span> | <span style="color: #004225; font-weight: bold;">31.99</span> |
-| **2025/07** | **19.49** | <span style="color: #8B0000; font-weight: bold;">+7.01</span> | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | **557** | <span style="color: #DC143C; font-weight: bold;">17.76</span> | <span style="color: #004225; font-weight: bold;">31.27</span> |
+| **2025/07** | **19.49** | <span style="color: #8B0000; font-weight: bold;">+7.01</span> | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | **557** | <span style="color: #DC143C; font-weight: bold;">17.76</span> | <span style="color: #006400; font-weight: bold;">31.27</span> |
 | **2025/06** | **19.31** | <span style="color: #B22222; font-weight: bold;">+12</span> | <span style="color: #DC143C; font-weight: bold;">+23.1</span> | **530** | <span style="color: #DC143C; font-weight: bold;">17.84</span> | <span style="color: #006400; font-weight: bold;">29.71</span> |
 | **2025/05** | **18.17** | <span style="color: #B22222; font-weight: bold;">+12.1</span> | <span style="color: #DC143C; font-weight: bold;">+25.9</span> | **515** | <span style="color: #DC143C; font-weight: bold;">17.84</span> | <span style="color: #006400; font-weight: bold;">28.79</span> |
 | **2025/04** | **17.74** | <span style="color: #B22222; font-weight: bold;">+14.2</span> | <span style="color: #FF4500; font-weight: bold;">+30</span> | **503** | <span style="color: #DC143C; font-weight: bold;">17.84</span> | <span style="color: #006400; font-weight: bold;">28.04</span> |
@@ -250,7 +250,7 @@ description: 月營收表 達發 (6526) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-14 22:41:09 CST
+- **產生時間**: 2026-04-15 01:55:35 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
