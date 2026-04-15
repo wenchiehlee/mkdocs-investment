@@ -25,7 +25,7 @@ description: 月營收表 明遠精密 (7704) - 自動產生
     **:building_construction: 公司名稱**: 明遠精密  
     **:identification_card: 股票代號**: 7704  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-16 00:44:40 CST
+    **:clock3: 更新時間**: 2026-04-16 05:39:39 CST
 
 ## :bar_chart: 績效概覽
 
@@ -86,13 +86,13 @@ description: 月營收表 明遠精密 (7704) - 自動產生
 | **2025/11** | **0.558** | <span style="color: #004225; font-weight: bold;">-14.2</span> | <span style="color: #004225; font-weight: bold;">-14.4</span> | **44.2** | <span style="color: #002818; font-weight: bold;">2.07</span> | <span style="color: #006400; font-weight: bold;">22.55</span> |
 | **2025/10** | **0.55** | <span style="color: #006400; font-weight: bold;">-27.9</span> | <span style="color: #004225; font-weight: bold;">-14.4</span> | **45** | <span style="color: #002818; font-weight: bold;">2.07</span> | <span style="color: #004225; font-weight: bold;">24.32</span> |
 | **2025/09** | **0.521** | <span style="color: #004225; font-weight: bold;">-16.9</span> | <span style="color: #004225; font-weight: bold;">-12.6</span> | **47.65** | <span style="color: #006400; font-weight: bold;">1.74</span> | <span style="color: #8B0000; font-weight: bold;">27.39</span> |
-| **2025/08** | **0.55** | <span style="color: #004225; font-weight: bold;">-15.1</span> | <span style="color: #004225; font-weight: bold;">-12</span> | **44.1** | <span style="color: #006400; font-weight: bold;">1.74</span> | <span style="color: #002818; font-weight: bold;">25.3</span> |
+| **2025/08** | **0.55** | <span style="color: #004225; font-weight: bold;">-15.1</span> | <span style="color: #004225; font-weight: bold;">-12.0</span> | **44.1** | <span style="color: #006400; font-weight: bold;">1.74</span> | <span style="color: #002818; font-weight: bold;">25.3</span> |
 | **2025/07** | **0.521** | <span style="color: #004225; font-weight: bold;">-11.2</span> | <span style="color: #004225; font-weight: bold;">-11.6</span> | **50** | <span style="color: #006400; font-weight: bold;">1.74</span> | <span style="color: #B22222; font-weight: bold;">28.63</span> |
 | **2025/06** | **0.542** | <span style="color: #004225; font-weight: bold;">-16.9</span> | <span style="color: #004225; font-weight: bold;">-11.7</span> | **60.4** | <span style="color: #006400; font-weight: bold;">1.75</span> | <span style="color: #FF6347; font-weight: bold;">34.51</span> |
 | **2025/05** | **0.695** | <span style="color: #8B0000; font-weight: bold;">+3.04</span> | <span style="color: #004225; font-weight: bold;">-10.6</span> | **58.8** | <span style="color: #006400; font-weight: bold;">1.75</span> | <span style="color: #B22222; font-weight: bold;">29.45</span> |
 | **2025/04** | **0.597** | <span style="color: #004225; font-weight: bold;">-17.8</span> | <span style="color: #004225; font-weight: bold;">-14.2</span> | **61** | <span style="color: #006400; font-weight: bold;">1.75</span> | <span style="color: #8B0000; font-weight: bold;">27.19</span> |
 | **2025/03** | **0.672** | <span style="color: #8B0000; font-weight: bold;">+4.04</span> | <span style="color: #004225; font-weight: bold;">-12.8</span> | **62** | <span style="color: #B22222; font-weight: bold;">2.49</span> | <span style="color: #002818; font-weight: bold;">24.9</span> |
-| **2025/02** | **0.453** | <span style="color: #32CD32; font-weight: bold;">-40.2</span> | <span style="color: #006400; font-weight: bold;">-22</span> | **75** | <span style="color: #B22222; font-weight: bold;">2.49</span> | <span style="color: #B22222; font-weight: bold;">28.52</span> |
+| **2025/02** | **0.453** | <span style="color: #32CD32; font-weight: bold;">-40.2</span> | <span style="color: #006400; font-weight: bold;">-22.0</span> | **75** | <span style="color: #B22222; font-weight: bold;">2.49</span> | <span style="color: #B22222; font-weight: bold;">28.52</span> |
 | **2025/01** | **0.468** | <span style="color: #B22222; font-weight: bold;">+10.7</span> | <span style="color: #B22222; font-weight: bold;">+10.7</span> | **75.4** | <span style="color: #B22222; font-weight: bold;">2.49</span> | <span style="color: #8B0000; font-weight: bold;">27.22</span> |
 | **2024/12** | **0.449** | <span style="color: #228B22; font-weight: bold;">-30.5</span> | <span style="color: #8B0000; font-weight: bold;">+4.46</span> | **78.8** | <span style="color: #FF4500; font-weight: bold;">2.91</span> | <span style="color: #8B0000; font-weight: bold;">27.08</span> |
 | **2024/11** | **0.65** | <span style="color: #DC143C; font-weight: bold;">+25.3</span> | <span style="color: #8B0000; font-weight: bold;">+7.87</span> | **-** | N/A | N/A |
@@ -103,12 +103,12 @@ description: 月營收表 明遠精密 (7704) - 自動產生
 | **2024/06** | **0.652** | <span style="color: #004225; font-weight: bold;">-19.8</span> | <span style="color: #8B0000; font-weight: bold;">+3.58</span> | **-** | N/A | N/A |
 | **2024/05** | **0.674** | <span style="color: #002818; font-weight: bold;">-9.22</span> | <span style="color: #B22222; font-weight: bold;">+10.1</span> | **-** | N/A | N/A |
 | **2024/04** | **0.727** | <span style="color: #8B0000; font-weight: bold;">+8.95</span> | <span style="color: #B22222; font-weight: bold;">+16.6</span> | **-** | N/A | N/A |
-| **2024/03** | **0.645** | <span style="color: #002818; font-weight: bold;">-6.28</span> | <span style="color: #DC143C; font-weight: bold;">+20</span> | **-** | N/A | N/A |
+| **2024/03** | **0.645** | <span style="color: #002818; font-weight: bold;">-6.28</span> | <span style="color: #DC143C; font-weight: bold;">+20.0</span> | **-** | N/A | N/A |
 | **2024/02** | **0.759** | <span style="color: #FF6347; font-weight: bold;">+49.9</span> | <span style="color: #FF6347; font-weight: bold;">+41.7</span> | **-** | N/A | N/A |
-| **2024/01** | **0.423** | <span style="color: #DC143C; font-weight: bold;">+29</span> | <span style="color: #DC143C; font-weight: bold;">+29</span> | **-** | N/A | N/A |
+| **2024/01** | **0.423** | <span style="color: #DC143C; font-weight: bold;">+29.0</span> | <span style="color: #DC143C; font-weight: bold;">+29.0</span> | **-** | N/A | N/A |
 | **2023/12** | **0.646** | <span style="color: #006400; font-weight: bold;">-22.1</span> | <span style="color: #002818; font-weight: bold;">-3.21</span> | **-** | N/A | N/A |
 | **2023/11** | **0.519** | <span style="color: #002818; font-weight: bold;">-3.06</span> | <span style="color: #002818; font-weight: bold;">-0.87</span> | **-** | N/A | N/A |
-| **2023/10** | **0.522** | <span style="color: #004225; font-weight: bold;">-18</span> | <span style="color: #002818; font-weight: bold;">-0.68</span> | **-** | N/A | N/A |
+| **2023/10** | **0.522** | <span style="color: #004225; font-weight: bold;">-18.0</span> | <span style="color: #002818; font-weight: bold;">-0.68</span> | **-** | N/A | N/A |
 | **2023/09** | **0.608** | <span style="color: #006400; font-weight: bold;">-22.1</span> | <span style="color: #8B0000; font-weight: bold;">+1.3</span> | **-** | N/A | N/A |
 
 </div>
@@ -205,7 +205,7 @@ description: 月營收表 明遠精密 (7704) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-16 00:44:40 CST
+- **產生時間**: 2026-04-16 05:39:39 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

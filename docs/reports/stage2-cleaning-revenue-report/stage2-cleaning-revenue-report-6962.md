@@ -25,7 +25,7 @@ description: 月營收表 奕力-KY (6962) - 自動產生
     **:building_construction: 公司名稱**: 奕力-KY  
     **:identification_card: 股票代號**: 6962  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-16 00:44:40 CST
+    **:clock3: 更新時間**: 2026-04-16 05:39:39 CST
 
 ## :bar_chart: 績效概覽
 
@@ -80,19 +80,19 @@ description: 月營收表 奕力-KY (6962) - 自動產生
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
 | **2026/03** | **13.78** | <span style="color: #004225; font-weight: bold;">-13.2</span> | <span style="color: #004225; font-weight: bold;">-14.4</span> | **32.7** | <span style="color: #006400; font-weight: bold;">2.87</span> | <span style="color: #002818; font-weight: bold;">11.39</span> |
-| **2026/02** | **10.75** | <span style="color: #006400; font-weight: bold;">-26.6</span> | <span style="color: #004225; font-weight: bold;">-15</span> | **36.05** | <span style="color: #006400; font-weight: bold;">2.87</span> | <span style="color: #8B0000; font-weight: bold;">12.56</span> |
+| **2026/02** | **10.75** | <span style="color: #006400; font-weight: bold;">-26.6</span> | <span style="color: #004225; font-weight: bold;">-15.0</span> | **36.05** | <span style="color: #006400; font-weight: bold;">2.87</span> | <span style="color: #8B0000; font-weight: bold;">12.56</span> |
 | **2026/01** | **14.64** | <span style="color: #002818; font-weight: bold;">-3.82</span> | <span style="color: #002818; font-weight: bold;">-3.82</span> | **40.5** | <span style="color: #006400; font-weight: bold;">2.87</span> | <span style="color: #DC143C; font-weight: bold;">14.11</span> |
-| **2025/12** | **15.86** | <span style="color: #002818; font-weight: bold;">-1.44</span> | <span style="color: #004225; font-weight: bold;">-15</span> | **39.1** | <span style="color: #006400; font-weight: bold;">2.87</span> | <span style="color: #B22222; font-weight: bold;">13.62</span> |
+| **2025/12** | **15.86** | <span style="color: #002818; font-weight: bold;">-1.44</span> | <span style="color: #004225; font-weight: bold;">-15.0</span> | **39.1** | <span style="color: #006400; font-weight: bold;">2.87</span> | <span style="color: #B22222; font-weight: bold;">13.62</span> |
 | **2025/11** | **16.3** | <span style="color: #004225; font-weight: bold;">-10.3</span> | <span style="color: #004225; font-weight: bold;">-16.1</span> | **39.95** | <span style="color: #006400; font-weight: bold;">2.87</span> | <span style="color: #B22222; font-weight: bold;">12.8</span> |
-| **2025/10** | **15.15** | <span style="color: #006400; font-weight: bold;">-21</span> | <span style="color: #004225; font-weight: bold;">-16.6</span> | **46.05** | <span style="color: #006400; font-weight: bold;">2.87</span> | <span style="color: #B22222; font-weight: bold;">13.66</span> |
+| **2025/10** | **15.15** | <span style="color: #006400; font-weight: bold;">-21.0</span> | <span style="color: #004225; font-weight: bold;">-16.6</span> | **46.05** | <span style="color: #006400; font-weight: bold;">2.87</span> | <span style="color: #B22222; font-weight: bold;">13.66</span> |
 | **2025/09** | **17.64** | <span style="color: #8B0000; font-weight: bold;">+0.64</span> | <span style="color: #004225; font-weight: bold;">-16.1</span> | **42.4** | <span style="color: #002818; font-weight: bold;">3.62</span> | <span style="color: #002818; font-weight: bold;">11.71</span> |
-| **2025/08** | **17.86** | <span style="color: #002818; font-weight: bold;">-6.23</span> | <span style="color: #004225; font-weight: bold;">-18</span> | **43.8** | <span style="color: #002818; font-weight: bold;">3.62</span> | <span style="color: #8B0000; font-weight: bold;">12.22</span> |
+| **2025/08** | **17.86** | <span style="color: #002818; font-weight: bold;">-6.23</span> | <span style="color: #004225; font-weight: bold;">-18.0</span> | **43.8** | <span style="color: #002818; font-weight: bold;">3.62</span> | <span style="color: #8B0000; font-weight: bold;">12.22</span> |
 | **2025/07** | **15.58** | <span style="color: #006400; font-weight: bold;">-29.4</span> | <span style="color: #004225; font-weight: bold;">-19.7</span> | **46.7** | <span style="color: #002818; font-weight: bold;">3.62</span> | <span style="color: #B22222; font-weight: bold;">13.17</span> |
 | **2025/06** | **15.16** | <span style="color: #006400; font-weight: bold;">-23.7</span> | <span style="color: #004225; font-weight: bold;">-17.8</span> | **53.5** | <span style="color: #002818; font-weight: bold;">3.51</span> | <span style="color: #FF4500; font-weight: bold;">15.24</span> |
 | **2025/05** | **14.28** | <span style="color: #006400; font-weight: bold;">-27.5</span> | <span style="color: #004225; font-weight: bold;">-16.6</span> | **57.3** | <span style="color: #002818; font-weight: bold;">3.51</span> | <span style="color: #B22222; font-weight: bold;">13.58</span> |
-| **2025/04** | **17.28** | <span style="color: #006400; font-weight: bold;">-23</span> | <span style="color: #004225; font-weight: bold;">-13.6</span> | **48.1** | <span style="color: #002818; font-weight: bold;">3.51</span> | <span style="color: #006400; font-weight: bold;">9.76</span> |
+| **2025/04** | **17.28** | <span style="color: #006400; font-weight: bold;">-23.0</span> | <span style="color: #004225; font-weight: bold;">-13.6</span> | **48.1** | <span style="color: #002818; font-weight: bold;">3.51</span> | <span style="color: #006400; font-weight: bold;">9.76</span> |
 | **2025/03** | **15.88** | <span style="color: #002818; font-weight: bold;">-4.39</span> | <span style="color: #002818; font-weight: bold;">-9.47</span> | **53** | <span style="color: #DC143C; font-weight: bold;">5.64</span> | <span style="color: #006400; font-weight: bold;">9.4</span> |
-| **2025/02** | **14.65** | <span style="color: #002818; font-weight: bold;">-7.42</span> | <span style="color: #004225; font-weight: bold;">-12</span> | **60.1** | <span style="color: #DC143C; font-weight: bold;">5.64</span> | <span style="color: #004225; font-weight: bold;">10.67</span> |
+| **2025/02** | **14.65** | <span style="color: #002818; font-weight: bold;">-7.42</span> | <span style="color: #004225; font-weight: bold;">-12.0</span> | **60.1** | <span style="color: #DC143C; font-weight: bold;">5.64</span> | <span style="color: #004225; font-weight: bold;">10.67</span> |
 | **2025/01** | **15.23** | <span style="color: #004225; font-weight: bold;">-15.9</span> | <span style="color: #004225; font-weight: bold;">-15.9</span> | **52.3** | <span style="color: #DC143C; font-weight: bold;">5.64</span> | <span style="color: #006400; font-weight: bold;">9.31</span> |
 | **2024/12** | **16.09** | <span style="color: #002818; font-weight: bold;">-8.02</span> | <span style="color: #8B0000; font-weight: bold;">+0.28</span> | **54.8** | <span style="color: #B22222; font-weight: bold;">5.61</span> | <span style="color: #006400; font-weight: bold;">9.77</span> |
 | **2024/11** | **18.17** | <span style="color: #002818; font-weight: bold;">-7.78</span> | <span style="color: #8B0000; font-weight: bold;">+0.98</span> | **55** | <span style="color: #B22222; font-weight: bold;">5.61</span> | <span style="color: #006400; font-weight: bold;">9.8</span> |
@@ -193,7 +193,7 @@ description: 月營收表 奕力-KY (6962) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-16 00:44:40 CST
+- **產生時間**: 2026-04-16 05:39:39 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

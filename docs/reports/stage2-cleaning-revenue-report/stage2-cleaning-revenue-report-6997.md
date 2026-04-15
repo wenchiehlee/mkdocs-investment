@@ -25,7 +25,7 @@ description: 月營收表 博弘 (6997) - 自動產生
     **:building_construction: 公司名稱**: 博弘  
     **:identification_card: 股票代號**: 6997  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-16 00:44:40 CST
+    **:clock3: 更新時間**: 2026-04-16 05:39:39 CST
 
 ## :bar_chart: 績效概覽
 
@@ -82,7 +82,7 @@ description: 月營收表 博弘 (6997) - 自動產生
 | **2026/03** | **3.99** | <span style="color: #B22222; font-weight: bold;">+12.9</span> | <span style="color: #8B0000; font-weight: bold;">+6.81</span> | **80.8** | <span style="color: #8B0000; font-weight: bold;">5.11</span> | <span style="color: #006400; font-weight: bold;">15.81</span> |
 | **2026/02** | **3.39** | <span style="color: #8B0000; font-weight: bold;">+1.91</span> | <span style="color: #8B0000; font-weight: bold;">+3.72</span> | **87.2** | <span style="color: #8B0000; font-weight: bold;">5.11</span> | <span style="color: #006400; font-weight: bold;">17.06</span> |
 | **2026/01** | **3.82** | <span style="color: #8B0000; font-weight: bold;">+5.39</span> | <span style="color: #8B0000; font-weight: bold;">+5.39</span> | **90** | <span style="color: #8B0000; font-weight: bold;">5.11</span> | <span style="color: #004225; font-weight: bold;">17.61</span> |
-| **2025/12** | **4** | <span style="color: #B22222; font-weight: bold;">+18.1</span> | <span style="color: #B22222; font-weight: bold;">+11.2</span> | **90.9** | <span style="color: #8B0000; font-weight: bold;">5.11</span> | <span style="color: #004225; font-weight: bold;">17.79</span> |
+| **2025/12** | **4.0** | <span style="color: #B22222; font-weight: bold;">+18.1</span> | <span style="color: #B22222; font-weight: bold;">+11.2</span> | **90.9** | <span style="color: #8B0000; font-weight: bold;">5.11</span> | <span style="color: #004225; font-weight: bold;">17.79</span> |
 | **2025/11** | **4.46** | <span style="color: #FF4500; font-weight: bold;">+30.7</span> | <span style="color: #B22222; font-weight: bold;">+10.6</span> | **95.7** | <span style="color: #8B0000; font-weight: bold;">5.11</span> | <span style="color: #002818; font-weight: bold;">20.15</span> |
 | **2025/10** | **3.98** | <span style="color: #B22222; font-weight: bold;">+18.8</span> | <span style="color: #8B0000; font-weight: bold;">+8.53</span> | **103.5** | <span style="color: #8B0000; font-weight: bold;">5.11</span> | <span style="color: #B22222; font-weight: bold;">23.58</span> |
 | **2025/09** | **3.87** | <span style="color: #B22222; font-weight: bold;">+18.1</span> | <span style="color: #8B0000; font-weight: bold;">+7.38</span> | **102.5** | <span style="color: #006400; font-weight: bold;">4.03</span> | <span style="color: #FF4500; font-weight: bold;">25.43</span> |
@@ -98,11 +98,11 @@ description: 月營收表 博弘 (6997) - 自動產生
 | **2024/11** | **3.41** | <span style="color: #004225; font-weight: bold;">-17.8</span> | <span style="color: #004225; font-weight: bold;">-15.6</span> | **-** | N/A | N/A |
 | **2024/10** | **3.35** | <span style="color: #004225; font-weight: bold;">-17.6</span> | <span style="color: #004225; font-weight: bold;">-15.4</span> | **-** | N/A | N/A |
 | **2024/09** | **3.28** | <span style="color: #004225; font-weight: bold;">-16.8</span> | <span style="color: #004225; font-weight: bold;">-15.2</span> | **-** | N/A | N/A |
-| **2024/08** | **3.48** | <span style="color: #004225; font-weight: bold;">-14</span> | <span style="color: #004225; font-weight: bold;">-15</span> | **-** | N/A | N/A |
+| **2024/08** | **3.48** | <span style="color: #004225; font-weight: bold;">-14.0</span> | <span style="color: #004225; font-weight: bold;">-15.0</span> | **-** | N/A | N/A |
 | **2024/07** | **3.54** | <span style="color: #004225; font-weight: bold;">-12.1</span> | <span style="color: #004225; font-weight: bold;">-15.1</span> | **-** | N/A | N/A |
 | **2024/06** | **3.33** | <span style="color: #002818; font-weight: bold;">-9.46</span> | <span style="color: #004225; font-weight: bold;">-15.6</span> | **-** | N/A | N/A |
 | **2024/05** | **3.51** | <span style="color: #004225; font-weight: bold;">-10.1</span> | <span style="color: #004225; font-weight: bold;">-16.8</span> | **-** | N/A | N/A |
-| **2024/04** | **3.33** | <span style="color: #004225; font-weight: bold;">-16</span> | <span style="color: #004225; font-weight: bold;">-18.4</span> | **-** | N/A | N/A |
+| **2024/04** | **3.33** | <span style="color: #004225; font-weight: bold;">-16.0</span> | <span style="color: #004225; font-weight: bold;">-18.4</span> | **-** | N/A | N/A |
 | **2024/03** | **3.23** | <span style="color: #006400; font-weight: bold;">-20.8</span> | <span style="color: #004225; font-weight: bold;">-19.3</span> | **-** | N/A | N/A |
 | **2024/02** | **2.94** | <span style="color: #006400; font-weight: bold;">-20.7</span> | <span style="color: #004225; font-weight: bold;">-18.5</span> | **-** | N/A | N/A |
 | **2024/01** | **3.24** | <span style="color: #004225; font-weight: bold;">-16.4</span> | <span style="color: #004225; font-weight: bold;">-16.4</span> | **-** | N/A | N/A |
@@ -206,7 +206,7 @@ description: 月營收表 博弘 (6997) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-16 00:44:40 CST
+- **產生時間**: 2026-04-16 05:39:39 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -25,7 +25,7 @@ description: 月營收表 昕奇雲端 (7747) - 自動產生
     **:building_construction: 公司名稱**: 昕奇雲端  
     **:identification_card: 股票代號**: 7747  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-16 00:44:40 CST
+    **:clock3: 更新時間**: 2026-04-16 05:39:39 CST
 
 ## :bar_chart: 績效概覽
 
@@ -83,7 +83,7 @@ description: 月營收表 昕奇雲端 (7747) - 自動產生
 | **2026/02** | **1.41** | <span style="color: #8B0000; font-weight: bold;">+3.79</span> | <span style="color: #002818; font-weight: bold;">-0.07</span> | **118** | <span style="color: #DC143C; font-weight: bold;">4.04</span> | <span style="color: #006400; font-weight: bold;">29.21</span> |
 | **2026/01** | **1.42** | <span style="color: #002818; font-weight: bold;">-3.63</span> | <span style="color: #002818; font-weight: bold;">-3.63</span> | **119.5** | <span style="color: #DC143C; font-weight: bold;">4.04</span> | <span style="color: #004225; font-weight: bold;">29.58</span> |
 | **2025/12** | **1.47** | <span style="color: #8B0000; font-weight: bold;">+6.81</span> | <span style="color: #8B0000; font-weight: bold;">+9.69</span> | **117** | <span style="color: #DC143C; font-weight: bold;">4.04</span> | <span style="color: #006400; font-weight: bold;">28.96</span> |
-| **2025/11** | **1.21** | <span style="color: #002818; font-weight: bold;">-8.6</span> | <span style="color: #B22222; font-weight: bold;">+10</span> | **128.5** | <span style="color: #DC143C; font-weight: bold;">4.04</span> | <span style="color: #8B0000; font-weight: bold;">31.99</span> |
+| **2025/11** | **1.21** | <span style="color: #002818; font-weight: bold;">-8.6</span> | <span style="color: #B22222; font-weight: bold;">+10.0</span> | **128.5** | <span style="color: #DC143C; font-weight: bold;">4.04</span> | <span style="color: #8B0000; font-weight: bold;">31.99</span> |
 | **2025/10** | **1.28** | <span style="color: #8B0000; font-weight: bold;">+7.15</span> | <span style="color: #B22222; font-weight: bold;">+12.1</span> | **130** | <span style="color: #DC143C; font-weight: bold;">4.04</span> | <span style="color: #8B0000; font-weight: bold;">32.55</span> |
 | **2025/09** | **1.22** | <span style="color: #002818; font-weight: bold;">-4.59</span> | <span style="color: #B22222; font-weight: bold;">+12.7</span> | **142.5** | <span style="color: #004225; font-weight: bold;">3.97</span> | <span style="color: #FF4500; font-weight: bold;">35.89</span> |
 | **2025/08** | **1.22** | <span style="color: #8B0000; font-weight: bold;">+2.98</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **133** | <span style="color: #004225; font-weight: bold;">3.97</span> | <span style="color: #B22222; font-weight: bold;">33.5</span> |
@@ -93,9 +93,9 @@ description: 月營收表 昕奇雲端 (7747) - 自動產生
 | **2025/04** | **1.31** | <span style="color: #FF4500; font-weight: bold;">+35.7</span> | <span style="color: #FF6347; font-weight: bold;">+40.6</span> | **-** | N/A | N/A |
 | **2025/03** | **1.5** | <span style="color: #FF4500; font-weight: bold;">+30.9</span> | <span style="color: #FF6347; font-weight: bold;">+42.1</span> | **-** | N/A | N/A |
 | **2025/02** | **1.36** | <span style="color: #FF6347; font-weight: bold;">+49.8</span> | <span style="color: #FF6347; font-weight: bold;">+48.9</span> | **-** | N/A | N/A |
-| **2025/01** | **1.47** | <span style="color: #FF6347; font-weight: bold;">+48</span> | <span style="color: #FF6347; font-weight: bold;">+48</span> | **-** | N/A | N/A |
+| **2025/01** | **1.47** | <span style="color: #FF6347; font-weight: bold;">+48.0</span> | <span style="color: #FF6347; font-weight: bold;">+48.0</span> | **-** | N/A | N/A |
 | **2024/12** | **1.38** | <span style="color: #FF6347; font-weight: bold;">+46.6</span> | <span style="color: #FF4500; font-weight: bold;">+35.9</span> | **-** | N/A | N/A |
-| **2024/11** | **1.33** | <span style="color: #FF4500; font-weight: bold;">+31</span> | <span style="color: #FF4500; font-weight: bold;">+34.9</span> | **-** | N/A | N/A |
+| **2024/11** | **1.33** | <span style="color: #FF4500; font-weight: bold;">+31.0</span> | <span style="color: #FF4500; font-weight: bold;">+34.9</span> | **-** | N/A | N/A |
 | **2024/10** | **1.2** | <span style="color: #B22222; font-weight: bold;">+19.6</span> | <span style="color: #FF4500; font-weight: bold;">+35.3</span> | **-** | N/A | N/A |
 | **2024/09** | **1.28** | <span style="color: #DC143C; font-weight: bold;">+26.1</span> | <span style="color: #FF4500; font-weight: bold;">+37.4</span> | **-** | N/A | N/A |
 | **2024/08** | **1.18** | <span style="color: #FF6347; font-weight: bold;">+42.8</span> | <span style="color: #FF4500; font-weight: bold;">+39.2</span> | **-** | N/A | N/A |
@@ -197,7 +197,7 @@ description: 月營收表 昕奇雲端 (7747) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-16 00:44:40 CST
+- **產生時間**: 2026-04-16 05:39:39 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

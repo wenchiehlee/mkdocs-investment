@@ -25,7 +25,7 @@ description: 月營收表 台灣精材 (3467) - 自動產生
     **:building_construction: 公司名稱**: 台灣精材  
     **:identification_card: 股票代號**: 3467  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-16 00:44:40 CST
+    **:clock3: 更新時間**: 2026-04-16 05:39:39 CST
 
 ## :bar_chart: 績效概覽
 
@@ -95,12 +95,12 @@ description: 月營收表 台灣精材 (3467) - 自動產生
 | **2025/02** | **0.535** | <span style="color: #B22222; font-weight: bold;">+17.9</span> | <span style="color: #B22222; font-weight: bold;">+16.5</span> | **-** | N/A | N/A |
 | **2025/01** | **0.504** | <span style="color: #B22222; font-weight: bold;">+15.1</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **-** | N/A | N/A |
 | **2024/12** | **0.501** | <span style="color: #002818; font-weight: bold;">-4.03</span> | <span style="color: #8B0000; font-weight: bold;">+9.57</span> | **-** | N/A | N/A |
-| **2024/11** | **0.531** | <span style="color: #DC143C; font-weight: bold;">+23.6</span> | <span style="color: #B22222; font-weight: bold;">+11</span> | **-** | N/A | N/A |
-| **2024/10** | **0.504** | <span style="color: #DC143C; font-weight: bold;">+28</span> | <span style="color: #8B0000; font-weight: bold;">+9.8</span> | **-** | N/A | N/A |
+| **2024/11** | **0.531** | <span style="color: #DC143C; font-weight: bold;">+23.6</span> | <span style="color: #B22222; font-weight: bold;">+11.0</span> | **-** | N/A | N/A |
+| **2024/10** | **0.504** | <span style="color: #DC143C; font-weight: bold;">+28.0</span> | <span style="color: #8B0000; font-weight: bold;">+9.8</span> | **-** | N/A | N/A |
 | **2024/09** | **0.523** | <span style="color: #B22222; font-weight: bold;">+18.8</span> | <span style="color: #8B0000; font-weight: bold;">+8.13</span> | **-** | N/A | N/A |
 | **2024/08** | **0.514** | <span style="color: #B22222; font-weight: bold;">+17.9</span> | <span style="color: #8B0000; font-weight: bold;">+6.91</span> | **-** | N/A | N/A |
 | **2024/07** | **0.54** | <span style="color: #DC143C; font-weight: bold;">+27.5</span> | <span style="color: #8B0000; font-weight: bold;">+5.51</span> | **-** | N/A | N/A |
-| **2024/06** | **0.559** | <span style="color: #DC143C; font-weight: bold;">+24</span> | <span style="color: #8B0000; font-weight: bold;">+2.4</span> | **-** | N/A | N/A |
+| **2024/06** | **0.559** | <span style="color: #DC143C; font-weight: bold;">+24.0</span> | <span style="color: #8B0000; font-weight: bold;">+2.4</span> | **-** | N/A | N/A |
 | **2024/05** | **0.568** | <span style="color: #B22222; font-weight: bold;">+19.2</span> | <span style="color: #002818; font-weight: bold;">-1.44</span> | **-** | N/A | N/A |
 | **2024/04** | **0.541** | <span style="color: #8B0000; font-weight: bold;">+9.63</span> | <span style="color: #002818; font-weight: bold;">-6.21</span> | **-** | N/A | N/A |
 | **2024/03** | **0.5** | <span style="color: #002818; font-weight: bold;">-6.18</span> | <span style="color: #004225; font-weight: bold;">-11.2</span> | **-** | N/A | N/A |
@@ -109,7 +109,7 @@ description: 月營收表 台灣精材 (3467) - 自動產生
 | **2023/12** | **0.523** | <span style="color: #002818; font-weight: bold;">-4.91</span> | <span style="color: #004225; font-weight: bold;">-13.6</span> | **-** | N/A | N/A |
 | **2023/11** | **0.43** | <span style="color: #006400; font-weight: bold;">-23.5</span> | <span style="color: #004225; font-weight: bold;">-14.4</span> | **-** | N/A | N/A |
 | **2023/10** | **0.394** | <span style="color: #228B22; font-weight: bold;">-33.2</span> | <span style="color: #004225; font-weight: bold;">-13.4</span> | **-** | N/A | N/A |
-| **2023/09** | **0.44** | <span style="color: #006400; font-weight: bold;">-20.1</span> | <span style="color: #004225; font-weight: bold;">-11</span> | **-** | N/A | N/A |
+| **2023/09** | **0.44** | <span style="color: #006400; font-weight: bold;">-20.1</span> | <span style="color: #004225; font-weight: bold;">-11.0</span> | **-** | N/A | N/A |
 | **2023/08** | **0.436** | <span style="color: #006400; font-weight: bold;">-25.7</span> | <span style="color: #004225; font-weight: bold;">-11.9</span> | **-** | N/A | N/A |
 
 </div>
@@ -206,7 +206,7 @@ description: 月營收表 台灣精材 (3467) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-16 00:44:40 CST
+- **產生時間**: 2026-04-16 05:39:39 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

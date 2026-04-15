@@ -25,7 +25,7 @@ description: 月營收表 意騰-KY (7749) - 自動產生
     **:building_construction: 公司名稱**: 意騰-KY  
     **:identification_card: 股票代號**: 7749  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-16 00:44:40 CST
+    **:clock3: 更新時間**: 2026-04-16 05:39:39 CST
 
 ## :bar_chart: 績效概覽
 
@@ -83,7 +83,7 @@ description: 月營收表 意騰-KY (7749) - 自動產生
 | **2026/02** | **1.64** | <span style="color: #FF7F7F; font-weight: bold;">+74.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+56.2</span> | **457** | <span style="color: #DC143C; font-weight: bold;">11.77</span> | <span style="color: #004225; font-weight: bold;">38.83</span> |
 | **2026/01** | **1.84** | <span style="color: #FF6347; font-weight: bold;">+42.6</span> | <span style="color: #FF6347; font-weight: bold;">+42.6</span> | **401.5** | <span style="color: #DC143C; font-weight: bold;">11.77</span> | <span style="color: #006400; font-weight: bold;">34.11</span> |
 | **2025/12** | **1.22** | <span style="color: #B22222; font-weight: bold;">+17.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+85.2</span> | **427** | <span style="color: #DC143C; font-weight: bold;">11.77</span> | <span style="color: #004225; font-weight: bold;">36.28</span> |
-| **2025/11** | **1.47** | <span style="color: #FF7F7F; font-weight: bold;">+60</span> | <span style="color: #FF7F7F; font-weight: bold;">+94.6</span> | **445** | <span style="color: #DC143C; font-weight: bold;">11.77</span> | <span style="color: #004225; font-weight: bold;">38.0</span> |
+| **2025/11** | **1.47** | <span style="color: #FF7F7F; font-weight: bold;">+60.0</span> | <span style="color: #FF7F7F; font-weight: bold;">+94.6</span> | **445** | <span style="color: #DC143C; font-weight: bold;">11.77</span> | <span style="color: #004225; font-weight: bold;">38.0</span> |
 | **2025/10** | **1.79** | <span style="color: #FF7F7F; font-weight: bold;">+62.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+99.4</span> | **482.5** | <span style="color: #DC143C; font-weight: bold;">11.77</span> | <span style="color: #002818; font-weight: bold;">41.42</span> |
 | **2025/09** | **2.12** | <span style="color: #FF7F7F; font-weight: bold;">+100.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+106.8</span> | **512** | <span style="color: #B22222; font-weight: bold;">11.59</span> | <span style="color: #002818; font-weight: bold;">44.18</span> |
 | **2025/08** | **1.24** | <span style="color: #FF7F7F; font-weight: bold;">+87.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+108.2</span> | **629** | <span style="color: #B22222; font-weight: bold;">11.59</span> | <span style="color: #B22222; font-weight: bold;">59.45</span> |
@@ -186,7 +186,7 @@ description: 月營收表 意騰-KY (7749) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-16 00:44:40 CST
+- **產生時間**: 2026-04-16 05:39:39 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

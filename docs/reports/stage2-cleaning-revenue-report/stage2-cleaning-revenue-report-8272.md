@@ -25,13 +25,13 @@ description: 月營收表 全景軟體 (8272) - 自動產生
     **:building_construction: 公司名稱**: 全景軟體  
     **:identification_card: 股票代號**: 8272  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-16 00:44:40 CST
+    **:clock3: 更新時間**: 2026-04-16 05:39:39 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+1.88</span> | <span style="color: #8B0000; font-weight: bold;">+4.3</span> | **57** 個月 | 2006/04 至 2026/03 |
+| <span style="color: #8B0000; font-weight: bold;">+1.88</span> | <span style="color: #8B0000; font-weight: bold;">+4.3</span> | **33** 個月 | 2023/07 至 2026/03 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 全景軟體 (8272) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2008** |
-|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | -- | 75<br/><span style="color: #8B0000;">(+5.98%)</span> | 71<br/><span style="color: #006400;">(-22.20%)</span> | 92<br/><span style="color: #B22222;">(+12.70%)</span> | -- |
-| **11月** | -- | 50<br/><span style="color: #8B0000;">(+2.74%)</span> | 49<br/><span style="color: #8B0000;">(+4.81%)</span> | 46<br/><span style="color: #8B0000;">(+6.61%)</span> | -- |
-| **10月** | -- | 35<br/><span style="color: #8B0000;">(+0.12%)</span> | 35<br/><span style="color: #002818;">(-2.21%)</span> | 35<br/><span style="color: #002818;">(-1.10%)</span> | -- |
-| **9月** | -- | 50<br/><span style="color: #DC143C;">(+29.50%)</span> | 38<br/><span style="color: #FF6347;">(+43.00%)</span> | 27<br/><span style="color: #8B0000;">(+9.31%)</span> | -- |
-| **8月** | -- | 37<br/><span style="color: #B22222;">(+13.40%)</span> | 32<br/><span style="color: #228B22;">(-32.40%)</span> | 48<br/><span style="color: #FF7F7F;">(+52.30%)</span> | -- |
-| **7月** | -- | 31<br/><span style="color: #FF4500;">(+36.60%)</span> | 23<br/><span style="color: #002818;">(-7.62%)</span> | 25<br/><span style="color: #228B22;">(-37.50%)</span> | -- |
-| **6月** | -- | 59<br/><span style="color: #FF4500;">(+33.90%)</span> | 44<br/><span style="color: #DC143C;">(+22.40%)</span> | -- | -- |
-| **5月** | -- | 35<br/><span style="color: #FF7F7F;">(+56.70%)</span> | 22<br/><span style="color: #006400;">(-22.60%)</span> | -- | -- |
-| **4月** | -- | 26<br/><span style="color: #002818;">(-5.20%)</span> | 28<br/><span style="color: #FF7F7F;">(+69.00%)</span> | -- | -- |
-| **3月** | 29<br/><span style="color: #8B0000;">(+1.88%)</span> | 28<br/><span style="color: #FF4500;">(+30.30%)</span> | 22<br/><span style="color: #006400;">(-25.00%)</span> | -- | -- |
-| **2月** | 23<br/><span style="color: #8B0000;">(+2.69%)</span> | 23<br/><span style="color: #8B0000;">(+0.38%)</span> | 23<br/><span style="color: #FF4500;">(+32.50%)</span> | -- | -- |
-| **1月** | 26<br/><span style="color: #8B0000;">(+8.66%)</span> | 24<br/><span style="color: #B22222;">(+10.70%)</span> | 22<br/><span style="color: #DC143C;">(+25.80%)</span> | -- | -- |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 75<br/><span style="color: #8B0000;">(+5.98%)</span> | 71<br/><span style="color: #006400;">(-22.20%)</span> | 92<br/><span style="color: #B22222;">(+12.70%)</span> |
+| **11月** | -- | 50<br/><span style="color: #8B0000;">(+2.74%)</span> | 49<br/><span style="color: #8B0000;">(+4.81%)</span> | 46<br/><span style="color: #8B0000;">(+6.61%)</span> |
+| **10月** | -- | 35<br/><span style="color: #8B0000;">(+0.12%)</span> | 35<br/><span style="color: #002818;">(-2.21%)</span> | 35<br/><span style="color: #002818;">(-1.10%)</span> |
+| **9月** | -- | 50<br/><span style="color: #DC143C;">(+29.50%)</span> | 38<br/><span style="color: #FF6347;">(+43.00%)</span> | 27<br/><span style="color: #8B0000;">(+9.31%)</span> |
+| **8月** | -- | 37<br/><span style="color: #B22222;">(+13.40%)</span> | 32<br/><span style="color: #228B22;">(-32.40%)</span> | 48<br/><span style="color: #FF7F7F;">(+52.30%)</span> |
+| **7月** | -- | 31<br/><span style="color: #FF4500;">(+36.60%)</span> | 23<br/><span style="color: #002818;">(-7.62%)</span> | 25<br/><span style="color: #228B22;">(-37.50%)</span> |
+| **6月** | -- | 59<br/><span style="color: #FF4500;">(+33.90%)</span> | 44<br/><span style="color: #DC143C;">(+22.40%)</span> | -- |
+| **5月** | -- | 35<br/><span style="color: #FF7F7F;">(+56.70%)</span> | 22<br/><span style="color: #006400;">(-22.60%)</span> | -- |
+| **4月** | -- | 26<br/><span style="color: #002818;">(-5.20%)</span> | 28<br/><span style="color: #FF7F7F;">(+69.00%)</span> | -- |
+| **3月** | 29<br/><span style="color: #8B0000;">(+1.88%)</span> | 28<br/><span style="color: #FF4500;">(+30.30%)</span> | 22<br/><span style="color: #006400;">(-25.00%)</span> | -- |
+| **2月** | 23<br/><span style="color: #8B0000;">(+2.69%)</span> | 23<br/><span style="color: #8B0000;">(+0.38%)</span> | 23<br/><span style="color: #FF4500;">(+32.50%)</span> | -- |
+| **1月** | 26<br/><span style="color: #8B0000;">(+8.66%)</span> | 24<br/><span style="color: #B22222;">(+10.70%)</span> | 22<br/><span style="color: #DC143C;">(+25.80%)</span> | -- |
 
 
 
@@ -97,13 +97,13 @@ description: 月營收表 全景軟體 (8272) - 自動產生
 | **2024/12** | **0.716** | <span style="color: #006400; font-weight: bold;">-22.2</span> | <span style="color: #002818; font-weight: bold;">-2.12</span> | **106** | <span style="color: #004225; font-weight: bold;">4.04</span> | <span style="color: #DC143C; font-weight: bold;">26.24</span> |
 | **2024/11** | **0.49** | <span style="color: #8B0000; font-weight: bold;">+4.81</span> | <span style="color: #8B0000; font-weight: bold;">+3.48</span> | **103.5** | <span style="color: #004225; font-weight: bold;">4.04</span> | <span style="color: #B22222; font-weight: bold;">25.62</span> |
 | **2024/10** | **0.35** | <span style="color: #002818; font-weight: bold;">-2.21</span> | <span style="color: #8B0000; font-weight: bold;">+3.26</span> | **132.5** | <span style="color: #004225; font-weight: bold;">4.04</span> | <span style="color: #FF6347; font-weight: bold;">32.8</span> |
-| **2024/09** | **0.388** | <span style="color: #FF6347; font-weight: bold;">+43</span> | <span style="color: #8B0000; font-weight: bold;">+4.05</span> | **-** | N/A | N/A |
+| **2024/09** | **0.388** | <span style="color: #FF6347; font-weight: bold;">+43.0</span> | <span style="color: #8B0000; font-weight: bold;">+4.05</span> | **-** | N/A | N/A |
 | **2024/08** | **0.328** | <span style="color: #228B22; font-weight: bold;">-32.4</span> | <span style="color: #002818; font-weight: bold;">-0.74</span> | **-** | N/A | N/A |
 | **2024/07** | **0.231** | <span style="color: #002818; font-weight: bold;">-7.62</span> | <span style="color: #8B0000; font-weight: bold;">+8.17</span> | **-** | N/A | N/A |
 | **2024/06** | **0.443** | <span style="color: #DC143C; font-weight: bold;">+22.4</span> | <span style="color: #B22222; font-weight: bold;">+10.9</span> | **-** | N/A | N/A |
 | **2024/05** | **0.225** | <span style="color: #006400; font-weight: bold;">-22.6</span> | <span style="color: #8B0000; font-weight: bold;">+7.07</span> | **-** | N/A | N/A |
-| **2024/04** | **0.282** | <span style="color: #FF7F7F; font-weight: bold;">+69</span> | <span style="color: #B22222; font-weight: bold;">+17.7</span> | **-** | N/A | N/A |
-| **2024/03** | **0.222** | <span style="color: #006400; font-weight: bold;">-25</span> | <span style="color: #8B0000; font-weight: bold;">+4.4</span> | **-** | N/A | N/A |
+| **2024/04** | **0.282** | <span style="color: #FF7F7F; font-weight: bold;">+69.0</span> | <span style="color: #B22222; font-weight: bold;">+17.7</span> | **-** | N/A | N/A |
+| **2024/03** | **0.222** | <span style="color: #006400; font-weight: bold;">-25.0</span> | <span style="color: #8B0000; font-weight: bold;">+4.4</span> | **-** | N/A | N/A |
 | **2024/02** | **0.231** | <span style="color: #FF4500; font-weight: bold;">+32.5</span> | <span style="color: #DC143C; font-weight: bold;">+29.1</span> | **-** | N/A | N/A |
 | **2024/01** | **0.223** | <span style="color: #DC143C; font-weight: bold;">+25.8</span> | <span style="color: #DC143C; font-weight: bold;">+25.8</span> | **-** | N/A | N/A |
 | **2023/12** | **0.92** | <span style="color: #B22222; font-weight: bold;">+12.7</span> | <span style="color: #8B0000; font-weight: bold;">+0.25</span> | **-** | N/A | N/A |
@@ -112,30 +112,6 @@ description: 月營收表 全景軟體 (8272) - 自動產生
 | **2023/09** | **0.271** | <span style="color: #8B0000; font-weight: bold;">+9.31</span> | <span style="color: #002818; font-weight: bold;">-4.55</span> | **-** | N/A | N/A |
 | **2023/08** | **0.484** | <span style="color: #FF7F7F; font-weight: bold;">+52.3</span> | <span style="color: #002818; font-weight: bold;">-6.02</span> | **-** | N/A | N/A |
 | **2023/07** | **0.25** | <span style="color: #228B22; font-weight: bold;">-37.5</span> | <span style="color: #004225; font-weight: bold;">-15.2</span> | **-** | N/A | N/A |
-| **2008/03** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2008/02** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2008/01** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2007/12** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2007/11** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2007/10** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2007/09** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2007/08** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2007/07** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2007/06** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2007/05** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2007/04** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2007/03** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2007/02** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2007/01** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/12** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/11** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/10** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/09** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/08** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/07** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/06** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/05** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/04** | **-** | N/A | N/A | **-** | N/A | N/A |
 
 </div>
 
@@ -231,7 +207,7 @@ description: 月營收表 全景軟體 (8272) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-16 00:44:40 CST
+- **產生時間**: 2026-04-16 05:39:39 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

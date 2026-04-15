@@ -25,7 +25,7 @@ description: 月營收表 威力德生醫 (7713) - 自動產生
     **:building_construction: 公司名稱**: 威力德生醫  
     **:identification_card: 股票代號**: 7713  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-16 00:44:40 CST
+    **:clock3: 更新時間**: 2026-04-16 05:39:39 CST
 
 ## :bar_chart: 績效概覽
 
@@ -82,9 +82,9 @@ description: 月營收表 威力德生醫 (7713) - 自動產生
 | **2026/03** | **1.02** | <span style="color: #B22222; font-weight: bold;">+14.3</span> | <span style="color: #B22222; font-weight: bold;">+13.8</span> | **67.4** | <span style="color: #DC143C; font-weight: bold;">4.64</span> | <span style="color: #006400; font-weight: bold;">14.53</span> |
 | **2026/02** | **0.783** | <span style="color: #8B0000; font-weight: bold;">+4.62</span> | <span style="color: #B22222; font-weight: bold;">+13.5</span> | **69.9** | <span style="color: #DC143C; font-weight: bold;">4.64</span> | <span style="color: #004225; font-weight: bold;">15.06</span> |
 | **2026/01** | **0.983** | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | **70.6** | <span style="color: #DC143C; font-weight: bold;">4.64</span> | <span style="color: #004225; font-weight: bold;">15.22</span> |
-| **2025/12** | **0.966** | <span style="color: #DC143C; font-weight: bold;">+21</span> | <span style="color: #B22222; font-weight: bold;">+11.9</span> | **73.4** | <span style="color: #DC143C; font-weight: bold;">4.64</span> | <span style="color: #002818; font-weight: bold;">15.82</span> |
+| **2025/12** | **0.966** | <span style="color: #DC143C; font-weight: bold;">+21.0</span> | <span style="color: #B22222; font-weight: bold;">+11.9</span> | **73.4** | <span style="color: #DC143C; font-weight: bold;">4.64</span> | <span style="color: #002818; font-weight: bold;">15.82</span> |
 | **2025/11** | **1.01** | <span style="color: #B22222; font-weight: bold;">+14.7</span> | <span style="color: #B22222; font-weight: bold;">+11.1</span> | **73.8** | <span style="color: #DC143C; font-weight: bold;">4.64</span> | <span style="color: #8B0000; font-weight: bold;">16.34</span> |
-| **2025/10** | **0.977** | <span style="color: #DC143C; font-weight: bold;">+22</span> | <span style="color: #B22222; font-weight: bold;">+10.7</span> | **74.5** | <span style="color: #DC143C; font-weight: bold;">4.64</span> | <span style="color: #DC143C; font-weight: bold;">16.96</span> |
+| **2025/10** | **0.977** | <span style="color: #DC143C; font-weight: bold;">+22.0</span> | <span style="color: #B22222; font-weight: bold;">+10.7</span> | **74.5** | <span style="color: #DC143C; font-weight: bold;">4.64</span> | <span style="color: #DC143C; font-weight: bold;">16.96</span> |
 | **2025/09** | **0.998** | <span style="color: #DC143C; font-weight: bold;">+25.8</span> | <span style="color: #8B0000; font-weight: bold;">+9.53</span> | **76.7** | <span style="color: #002818; font-weight: bold;">4.27</span> | <span style="color: #FF4500; font-weight: bold;">17.96</span> |
 | **2025/08** | **1.01** | <span style="color: #B22222; font-weight: bold;">+10.2</span> | <span style="color: #8B0000; font-weight: bold;">+7.59</span> | **69.9** | <span style="color: #002818; font-weight: bold;">4.27</span> | <span style="color: #B22222; font-weight: bold;">16.79</span> |
 | **2025/07** | **0.949** | <span style="color: #B22222; font-weight: bold;">+12.5</span> | <span style="color: #8B0000; font-weight: bold;">+7.17</span> | **64.9** | <span style="color: #002818; font-weight: bold;">4.27</span> | <span style="color: #8B0000; font-weight: bold;">16.0</span> |
@@ -100,12 +100,12 @@ description: 月營收表 威力德生醫 (7713) - 自動產生
 | **2024/09** | **0.793** | <span style="color: #002818; font-weight: bold;">-2.88</span> | <span style="color: #8B0000; font-weight: bold;">+4.67</span> | **-** | N/A | N/A |
 | **2024/08** | **0.918** | <span style="color: #8B0000; font-weight: bold;">+8.92</span> | <span style="color: #8B0000; font-weight: bold;">+5.66</span> | **-** | N/A | N/A |
 | **2024/07** | **0.844** | <span style="color: #8B0000; font-weight: bold;">+3.09</span> | <span style="color: #8B0000; font-weight: bold;">+5.15</span> | **-** | N/A | N/A |
-| **2024/06** | **0.978** | <span style="color: #B22222; font-weight: bold;">+16</span> | <span style="color: #8B0000; font-weight: bold;">+5.52</span> | **-** | N/A | N/A |
+| **2024/06** | **0.978** | <span style="color: #B22222; font-weight: bold;">+16.0</span> | <span style="color: #8B0000; font-weight: bold;">+5.52</span> | **-** | N/A | N/A |
 | **2024/05** | **0.803** | <span style="color: #8B0000; font-weight: bold;">+3.38</span> | <span style="color: #8B0000; font-weight: bold;">+3.18</span> | **-** | N/A | N/A |
 | **2024/04** | **0.744** | <span style="color: #8B0000; font-weight: bold;">+1.06</span> | <span style="color: #8B0000; font-weight: bold;">+3.13</span> | **-** | N/A | N/A |
 | **2024/03** | **0.842** | <span style="color: #002818; font-weight: bold;">-0.24</span> | <span style="color: #8B0000; font-weight: bold;">+3.81</span> | **-** | N/A | N/A |
 | **2024/02** | **0.677** | <span style="color: #002818; font-weight: bold;">-1.12</span> | <span style="color: #8B0000; font-weight: bold;">+6.22</span> | **-** | N/A | N/A |
-| **2024/01** | **0.832** | <span style="color: #B22222; font-weight: bold;">+13</span> | <span style="color: #B22222; font-weight: bold;">+13</span> | **-** | N/A | N/A |
+| **2024/01** | **0.832** | <span style="color: #B22222; font-weight: bold;">+13.0</span> | <span style="color: #B22222; font-weight: bold;">+13.0</span> | **-** | N/A | N/A |
 | **2023/12** | **0.787** | <span style="color: #002818; font-weight: bold;">-3.22</span> | <span style="color: #002818; font-weight: bold;">-9.17</span> | **-** | N/A | N/A |
 | **2023/11** | **0.764** | <span style="color: #002818; font-weight: bold;">-3.73</span> | <span style="color: #002818; font-weight: bold;">-9.68</span> | **-** | N/A | N/A |
 | **2023/10** | **0.757** | <span style="color: #002818; font-weight: bold;">-6.89</span> | <span style="color: #004225; font-weight: bold;">-10.2</span> | **-** | N/A | N/A |
@@ -204,7 +204,7 @@ description: 月營收表 威力德生醫 (7713) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-16 00:44:40 CST
+- **產生時間**: 2026-04-16 05:39:39 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
