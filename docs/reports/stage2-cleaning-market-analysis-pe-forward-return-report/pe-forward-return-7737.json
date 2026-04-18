@@ -3,7 +3,7 @@
     "stock_code": "7737",
     "company_name": "凱鈿",
     "industry": "數位雲端",
-    "generated_at": "2026-04-04T12:51:03.356669",
+    "generated_at": "2026-04-18T13:18:25.765057",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -53,15 +53,15 @@
     "1y": {
       "horizon_label": "1年",
       "avg_pe": null,
-      "avg_return": -41.18,
+      "avg_return": -29.64,
       "r_squared": 0.0,
       "slope": 0.0,
       "intercept": 0.0,
-      "data_points": 2,
+      "data_points": 3,
       "best_buy": {
-        "date": "2025-03",
+        "date": "2025-04",
         "pe": null,
-        "return": -35.9
+        "return": -6.56
       },
       "worst_buy": {
         "date": "2025-02",
@@ -127,6 +127,10 @@
     {
       "date": "2026-02-14",
       "revenue_yoy": -10.7
+    },
+    {
+      "date": "2026-03-16",
+      "revenue_yoy": -7.66
     }
   ]
 }
