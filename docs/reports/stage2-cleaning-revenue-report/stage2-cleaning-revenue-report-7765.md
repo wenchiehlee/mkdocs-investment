@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-19
+date: 2026-04-20
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 中華資安 (7765) - 自動產生
     **:building_construction: 公司名稱**: 中華資安  
     **:identification_card: 股票代號**: 7765  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-19 21:51:42 CST
+    **:clock3: 更新時間**: 2026-04-20 03:56:07 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 中華資安 (7765) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **11.47** | **11.48** | **12.48** |
-| **P/E倍數** | **20.75** | **23.14** | **25.17** |
+| **P/E倍數** | **20.83** | **23.17** | **25.17** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 中華資安 歷史平均獲利能力 (σup=1.00, σlo=0.01)
-    - **P/Ebase**: 中華資安 歷史平均估值水準 (σup=2.02, σlo=2.39)
+    - **P/Ebase**: 中華資安 歷史平均估值水準 (σup=2.00, σlo=2.34)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,7 +79,7 @@ description: 月營收表 中華資安 (7765) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/03** | **2.23** | <span style="color: #DC143C; font-weight: bold;">+22.6</span> | <span style="color: #B22222; font-weight: bold;">+15.8</span> | **225** | <span style="color: #004225; font-weight: bold;">11.47</span> | <span style="color: #006400; font-weight: bold;">19.62</span> |
+| **2026/03** | **2.23** | <span style="color: #DC143C; font-weight: bold;">+22.6</span> | <span style="color: #B22222; font-weight: bold;">+15.8</span> | **225** | <span style="color: #004225; font-weight: bold;">11.47</span> | <span style="color: #228B22; font-weight: bold;">19.62</span> |
 | **2026/02** | **1.51** | <span style="color: #004225; font-weight: bold;">-15.3</span> | <span style="color: #B22222; font-weight: bold;">+12.0</span> | **262.5** | <span style="color: #004225; font-weight: bold;">11.47</span> | <span style="color: #002818; font-weight: bold;">22.89</span> |
 | **2026/01** | **2.23** | <span style="color: #FF6347; font-weight: bold;">+43.4</span> | <span style="color: #FF6347; font-weight: bold;">+43.4</span> | **257** | <span style="color: #004225; font-weight: bold;">11.47</span> | <span style="color: #002818; font-weight: bold;">22.41</span> |
 | **2025/12** | **2.53** | <span style="color: #006400; font-weight: bold;">-28.2</span> | <span style="color: #8B0000; font-weight: bold;">+3.64</span> | **289** | <span style="color: #004225; font-weight: bold;">11.47</span> | <span style="color: #DC143C; font-weight: bold;">25.2</span> |
@@ -195,7 +195,7 @@ description: 月營收表 中華資安 (7765) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-19 21:51:42 CST
+- **產生時間**: 2026-04-20 03:56:07 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

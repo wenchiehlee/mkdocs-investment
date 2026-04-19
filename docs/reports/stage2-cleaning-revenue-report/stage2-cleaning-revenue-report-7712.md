@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-19
+date: 2026-04-20
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 博盛半導體 (7712) - 自動產生
     **:building_construction: 公司名稱**: 博盛半導體  
     **:identification_card: 股票代號**: 7712  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-19 21:51:42 CST
+    **:clock3: 更新時間**: 2026-04-20 03:56:07 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 博盛半導體 (7712) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **5.14** | **5.59** | **7.13** |
-| **P/E倍數** | **18.77** | **23.03** | **28.59** |
+| **P/E倍數** | **18.89** | **23.15** | **28.60** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 博盛半導體 歷史平均獲利能力 (σup=1.54, σlo=0.45)
-    - **P/Ebase**: 博盛半導體 歷史平均估值水準 (σup=5.55, σlo=4.26)
+    - **P/Ebase**: 博盛半導體 歷史平均估值水準 (σup=5.45, σlo=4.26)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -83,7 +83,7 @@ description: 月營收表 博盛半導體 (7712) - 自動產生
 | **2026/02** | **1.02** | <span style="color: #002818; font-weight: bold;">-2.05</span> | <span style="color: #8B0000; font-weight: bold;">+5.1</span> | **109** | <span style="color: #002818; font-weight: bold;">5.42</span> | <span style="color: #004225; font-weight: bold;">20.11</span> |
 | **2026/01** | **1.13** | <span style="color: #B22222; font-weight: bold;">+12.5</span> | <span style="color: #B22222; font-weight: bold;">+12.5</span> | **85.1** | <span style="color: #002818; font-weight: bold;">5.42</span> | <span style="color: #228B22; font-weight: bold;">15.7</span> |
 | **2025/12** | **1.09** | <span style="color: #002818; font-weight: bold;">-8.2</span> | <span style="color: #002818; font-weight: bold;">-6.13</span> | **85.2** | <span style="color: #002818; font-weight: bold;">5.42</span> | <span style="color: #228B22; font-weight: bold;">15.72</span> |
-| **2025/11** | **1.01** | <span style="color: #004225; font-weight: bold;">-13.6</span> | <span style="color: #002818; font-weight: bold;">-5.94</span> | **88.3** | <span style="color: #002818; font-weight: bold;">5.42</span> | <span style="color: #006400; font-weight: bold;">16.73</span> |
+| **2025/11** | **1.01** | <span style="color: #004225; font-weight: bold;">-13.6</span> | <span style="color: #002818; font-weight: bold;">-5.94</span> | **88.3** | <span style="color: #002818; font-weight: bold;">5.42</span> | <span style="color: #228B22; font-weight: bold;">16.73</span> |
 | **2025/10** | **1.1** | <span style="color: #8B0000; font-weight: bold;">+6.56</span> | <span style="color: #002818; font-weight: bold;">-5.17</span> | **113** | <span style="color: #002818; font-weight: bold;">5.42</span> | <span style="color: #002818; font-weight: bold;">22.01</span> |
 | **2025/09** | **1.0** | <span style="color: #004225; font-weight: bold;">-10.5</span> | <span style="color: #002818; font-weight: bold;">-6.31</span> | **137.5** | <span style="color: #006400; font-weight: bold;">4.99</span> | <span style="color: #B22222; font-weight: bold;">27.56</span> |
 | **2025/08** | **1.1** | <span style="color: #002818; font-weight: bold;">-1.59</span> | <span style="color: #002818; font-weight: bold;">-5.81</span> | **155** | <span style="color: #006400; font-weight: bold;">4.99</span> | <span style="color: #DC143C; font-weight: bold;">31.21</span> |
@@ -203,7 +203,7 @@ description: 月營收表 博盛半導體 (7712) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-19 21:51:42 CST
+- **產生時間**: 2026-04-20 03:56:07 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

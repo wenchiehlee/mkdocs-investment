@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-19
+date: 2026-04-20
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 可成 (2474) - 自動產生
     **:building_construction: 公司名稱**: 可成  
     **:identification_card: 股票代號**: 2474  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-19 21:51:42 CST
+    **:clock3: 更新時間**: 2026-04-20 03:56:07 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 可成 (2474) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **11.28** | **17.93** | **28.34** |
-| **P/E倍數** | **9.22** | **12.45** | **16.63** |
+| **P/E倍數** | **9.22** | **12.46** | **16.66** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 可成 歷史平均獲利能力 (σup=10.42, σlo=6.65)
-    - **P/Ebase**: 可成 歷史平均估值水準 (σup=4.18, σlo=3.23)
+    - **P/Ebase**: 可成 歷史平均估值水準 (σup=4.20, σlo=3.23)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -106,7 +106,7 @@ description: 月營收表 可成 (2474) - 自動產生
 | **2024/03** | **13.56** | <span style="color: #8B0000; font-weight: bold;">+5.65</span> | <span style="color: #8B0000; font-weight: bold;">+3.3</span> | **219** | <span style="color: #8B0000; font-weight: bold;">18.89</span> | <span style="color: #002818; font-weight: bold;">11.59</span> |
 | **2024/02** | **10.05** | <span style="color: #002818; font-weight: bold;">-6.73</span> | <span style="color: #8B0000; font-weight: bold;">+2.05</span> | **197** | <span style="color: #8B0000; font-weight: bold;">18.89</span> | <span style="color: #002818; font-weight: bold;">11.56</span> |
 | **2024/01** | **12.98** | <span style="color: #8B0000; font-weight: bold;">+9.96</span> | <span style="color: #8B0000; font-weight: bold;">+9.96</span> | **194.5** | <span style="color: #8B0000; font-weight: bold;">18.89</span> | <span style="color: #8B0000; font-weight: bold;">12.81</span> |
-| **2023/12** | **10.31** | <span style="color: #228B22; font-weight: bold;">-36.5</span> | <span style="color: #228B22; font-weight: bold;">-35.0</span> | **194** | <span style="color: #004225; font-weight: bold;">13.33</span> | <span style="color: #B22222; font-weight: bold;">14.55</span> |
+| **2023/12** | **10.31** | <span style="color: #228B22; font-weight: bold;">-36.5</span> | <span style="color: #228B22; font-weight: bold;">-35.0</span> | **194** | <span style="color: #004225; font-weight: bold;">13.33</span> | <span style="color: #8B0000; font-weight: bold;">14.55</span> |
 | **2023/11** | **11.82** | <span style="color: #32CD32; font-weight: bold;">-47.5</span> | <span style="color: #228B22; font-weight: bold;">-35.0</span> | **194.5** | <span style="color: #004225; font-weight: bold;">13.33</span> | <span style="color: #8B0000; font-weight: bold;">14.1</span> |
 | **2023/10** | **10.93** | <span style="color: #90EE90; font-weight: bold;">-60.7</span> | <span style="color: #228B22; font-weight: bold;">-33.8</span> | **181.5** | <span style="color: #004225; font-weight: bold;">13.33</span> | <span style="color: #8B0000; font-weight: bold;">12.72</span> |
 | **2023/09** | **11.86** | <span style="color: #90EE90; font-weight: bold;">-60.3</span> | <span style="color: #228B22; font-weight: bold;">-30.3</span> | **182.5** | <span style="color: #002818; font-weight: bold;">14.73</span> | <span style="color: #002818; font-weight: bold;">12.39</span> |
@@ -214,7 +214,7 @@ description: 月營收表 可成 (2474) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-19 21:51:42 CST
+- **產生時間**: 2026-04-20 03:56:07 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

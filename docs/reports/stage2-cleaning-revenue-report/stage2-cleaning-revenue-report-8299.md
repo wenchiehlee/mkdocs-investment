@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-19
+date: 2026-04-20
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 群聯 (8299) - 自動產生
     **:building_construction: 公司名稱**: 群聯  
     **:identification_card: 股票代號**: 8299  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-19 21:51:42 CST
+    **:clock3: 更新時間**: 2026-04-20 03:56:07 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 群聯 (8299) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **13.66** | **22.24** | **36.31** |
-| **P/E倍數** | **11.43** | **15.58** | **27.82** |
+| **P/E倍數** | **11.43** | **15.56** | **27.69** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 群聯 歷史平均獲利能力 (σup=14.07, σlo=8.58)
-    - **P/Ebase**: 群聯 歷史平均估值水準 (σup=12.24, σlo=4.15)
+    - **P/Ebase**: 群聯 歷史平均估值水準 (σup=12.13, σlo=4.13)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -111,7 +111,7 @@ description: 月營收表 群聯 (8299) - 自動產生
 | **2023/10** | **51.59** | <span style="color: #DC143C; font-weight: bold;">+22.6</span> | <span style="color: #006400; font-weight: bold;">-27.9</span> | **465.5** | <span style="color: #002818; font-weight: bold;">18.48</span> | <span style="color: #FF4500; font-weight: bold;">38.22</span> |
 | **2023/09** | **50.04** | <span style="color: #8B0000; font-weight: bold;">+4.05</span> | <span style="color: #228B22; font-weight: bold;">-32.3</span> | **456** | <span style="color: #228B22; font-weight: bold;">9.03</span> | <span style="color: #FF6347; font-weight: bold;">50.5</span> |
 | **2023/08** | **39.9** | <span style="color: #002818; font-weight: bold;">-9.78</span> | <span style="color: #228B22; font-weight: bold;">-36.3</span> | **423.5** | <span style="color: #228B22; font-weight: bold;">9.03</span> | <span style="color: #FF6347; font-weight: bold;">43.95</span> |
-| **2023/07** | **33.94** | <span style="color: #228B22; font-weight: bold;">-36.5</span> | <span style="color: #228B22; font-weight: bold;">-39.4</span> | **409** | <span style="color: #228B22; font-weight: bold;">9.03</span> | <span style="color: #FF4500; font-weight: bold;">39.93</span> |
+| **2023/07** | **33.94** | <span style="color: #228B22; font-weight: bold;">-36.5</span> | <span style="color: #228B22; font-weight: bold;">-39.4</span> | **409** | <span style="color: #228B22; font-weight: bold;">9.03</span> | <span style="color: #FF6347; font-weight: bold;">39.93</span> |
 | **2023/06** | **34.38** | <span style="color: #228B22; font-weight: bold;">-34.9</span> | <span style="color: #228B22; font-weight: bold;">-39.8</span> | **411.5** | <span style="color: #006400; font-weight: bold;">10.85</span> | <span style="color: #FF4500; font-weight: bold;">37.93</span> |
 | **2023/05** | **32.02** | <span style="color: #228B22; font-weight: bold;">-37.2</span> | <span style="color: #32CD32; font-weight: bold;">-40.8</span> | **427.5** | <span style="color: #006400; font-weight: bold;">10.85</span> | <span style="color: #DC143C; font-weight: bold;">32.3</span> |
 | **2023/04** | **33.67** | <span style="color: #32CD32; font-weight: bold;">-42.9</span> | <span style="color: #32CD32; font-weight: bold;">-41.6</span> | **389** | <span style="color: #006400; font-weight: bold;">10.85</span> | <span style="color: #B22222; font-weight: bold;">24.91</span> |
@@ -214,7 +214,7 @@ description: 月營收表 群聯 (8299) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-19 21:51:42 CST
+- **產生時間**: 2026-04-20 03:56:07 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

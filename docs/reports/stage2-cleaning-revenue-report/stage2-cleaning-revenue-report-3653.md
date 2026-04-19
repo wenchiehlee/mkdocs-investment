@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-19
+date: 2026-04-20
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 健策 (3653) - 自動產生
     **:building_construction: 公司名稱**: 健策  
     **:identification_card: 股票代號**: 3653  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-19 21:51:42 CST
+    **:clock3: 更新時間**: 2026-04-20 03:56:07 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 健策 (3653) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **3.96** | **9.40** | **24.57** |
-| **P/E倍數** | **22.00** | **32.04** | **54.62** |
+| **P/E倍數** | **22.01** | **32.12** | **55.42** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 健策 歷史平均獲利能力 (σup=15.17, σlo=5.44)
-    - **P/Ebase**: 健策 歷史平均估值水準 (σup=22.57, σlo=10.04)
+    - **P/Ebase**: 健策 歷史平均估值水準 (σup=23.30, σlo=10.11)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -81,7 +81,7 @@ description: 月營收表 健策 (3653) - 自動產生
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
 | **2026/03** | **21.64** | <span style="color: #B22222; font-weight: bold;">+18.8</span> | <span style="color: #B22222; font-weight: bold;">+11.6</span> | **3795** | <span style="color: #FF4500; font-weight: bold;">36.75</span> | <span style="color: #FF7F7F; font-weight: bold;">103.3</span> |
 | **2026/02** | **12.68** | <span style="color: #004225; font-weight: bold;">-14.6</span> | <span style="color: #8B0000; font-weight: bold;">+7.14</span> | **3120** | <span style="color: #FF4500; font-weight: bold;">36.75</span> | <span style="color: #FF6347; font-weight: bold;">84.9</span> |
-| **2026/01** | **18.73** | <span style="color: #DC143C; font-weight: bold;">+29.4</span> | <span style="color: #DC143C; font-weight: bold;">+29.4</span> | **2840** | <span style="color: #FF4500; font-weight: bold;">36.75</span> | <span style="color: #FF6347; font-weight: bold;">77.28</span> |
+| **2026/01** | **18.73** | <span style="color: #DC143C; font-weight: bold;">+29.4</span> | <span style="color: #DC143C; font-weight: bold;">+29.4</span> | **2840** | <span style="color: #FF4500; font-weight: bold;">36.75</span> | <span style="color: #FF4500; font-weight: bold;">77.28</span> |
 | **2025/12** | **18.7** | <span style="color: #B22222; font-weight: bold;">+13.3</span> | <span style="color: #FF6347; font-weight: bold;">+42.0</span> | **2745** | <span style="color: #FF4500; font-weight: bold;">36.75</span> | <span style="color: #FF4500; font-weight: bold;">74.69</span> |
 | **2025/11** | **17.01** | <span style="color: #B22222; font-weight: bold;">+16.6</span> | <span style="color: #FF6347; font-weight: bold;">+45.8</span> | **2905** | <span style="color: #FF4500; font-weight: bold;">36.75</span> | <span style="color: #FF6347; font-weight: bold;">80.63</span> |
 | **2025/10** | **17.01** | <span style="color: #DC143C; font-weight: bold;">+29.8</span> | <span style="color: #FF6347; font-weight: bold;">+49.6</span> | **2130** | <span style="color: #FF4500; font-weight: bold;">36.75</span> | <span style="color: #DC143C; font-weight: bold;">60.33</span> |
@@ -214,7 +214,7 @@ description: 月營收表 健策 (3653) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-19 21:51:42 CST
+- **產生時間**: 2026-04-20 03:56:07 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
