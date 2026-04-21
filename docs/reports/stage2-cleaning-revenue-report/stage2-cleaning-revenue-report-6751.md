@@ -25,13 +25,13 @@ description: 月營收表 智聯服務 (6751) - 自動產生
     **:building_construction: 公司名稱**: 智聯服務  
     **:identification_card: 股票代號**: 6751  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-21 13:23:53 CST
+    **:clock3: 更新時間**: 2026-04-21 16:29:36 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+8.76</span> | <span style="color: #002818; font-weight: bold;">-7.97</span> | **40** 個月 | 2022/12 至 2026/03 |
+| <span style="color: #8B0000; font-weight: bold;">+8.76</span> | <span style="color: #002818; font-weight: bold;">-7.97</span> | **80** 個月 | 2019/08 至 2026/03 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -44,17 +44,17 @@ description: 月營收表 智聯服務 (6751) - 自動產生
 | 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 139<br/><span style="color: #228B22;">(-33.80%)</span> | 210<br/><span style="color: #FF4500;">(+36.60%)</span> | 154<br/><span style="color: #B22222;">(+16.10%)</span> | 133<br/><span style="color: #8B0000;">(+3.54%)</span> |
-| **11月** | -- | 87<br/><span style="color: #228B22;">(-38.60%)</span> | 142<br/><span style="color: #002818;">(-2.65%)</span> | 146<br/><span style="color: #FF4500;">(+33.50%)</span> | -- |
-| **10月** | -- | 107<br/><span style="color: #32CD32;">(-42.70%)</span> | 186<br/><span style="color: #FF4500;">(+32.00%)</span> | 141<br/><span style="color: #002818;">(-5.46%)</span> | -- |
-| **9月** | -- | 103<br/><span style="color: #006400;">(-29.90%)</span> | 146<br/><span style="color: #8B0000;">(+1.62%)</span> | 144<br/><span style="color: #B22222;">(+13.80%)</span> | -- |
-| **8月** | -- | 112<br/><span style="color: #002818;">(-9.38%)</span> | 124<br/><span style="color: #006400;">(-23.30%)</span> | 162<br/><span style="color: #FF7F7F;">(+83.70%)</span> | -- |
-| **7月** | -- | 177<br/><span style="color: #FF7F7F;">(+52.00%)</span> | 115<br/><span style="color: #006400;">(-24.50%)</span> | 154<br/><span style="color: #FF4500;">(+33.20%)</span> | -- |
-| **6月** | -- | 191<br/><span style="color: #DC143C;">(+23.00%)</span> | 155<br/><span style="color: #DC143C;">(+21.90%)</span> | 127<br/><span style="color: #8B0000;">(+8.22%)</span> | -- |
-| **5月** | -- | 164<br/><span style="color: #002818;">(-9.91%)</span> | 182<br/><span style="color: #FF4500;">(+34.50%)</span> | 135<br/><span style="color: #FF4500;">(+30.60%)</span> | -- |
-| **4月** | -- | 178<br/><span style="color: #DC143C;">(+25.30%)</span> | 142<br/><span style="color: #002818;">(-8.50%)</span> | 155<br/><span style="color: #B22222;">(+17.80%)</span> | -- |
-| **3月** | 227<br/><span style="color: #8B0000;">(+8.76%)</span> | 208<br/><span style="color: #FF7F7F;">(+53.50%)</span> | 136<br/><span style="color: #006400;">(-20.40%)</span> | 171<br/><span style="color: #FF4500;">(+30.50%)</span> | -- |
-| **2月** | 110<br/><span style="color: #228B22;">(-33.80%)</span> | 166<br/><span style="color: #DC143C;">(+29.20%)</span> | 128<br/><span style="color: #002818;">(-3.38%)</span> | 133<br/><span style="color: #FF7F7F;">(+68.60%)</span> | -- |
-| **1月** | 126<br/><span style="color: #002818;">(-1.77%)</span> | 128<br/><span style="color: #002818;">(-5.72%)</span> | 136<br/><span style="color: #B22222;">(+17.00%)</span> | 115<br/><span style="color: #B22222;">(+10.80%)</span> | -- |
+| **11月** | -- | 87<br/><span style="color: #228B22;">(-38.60%)</span> | 142<br/><span style="color: #002818;">(-2.65%)</span> | 146<br/><span style="color: #FF4500;">(+33.50%)</span> | 109<br/><span style="color: #8B0000;">(+6.51%)</span> |
+| **10月** | -- | 107<br/><span style="color: #32CD32;">(-42.70%)</span> | 186<br/><span style="color: #FF4500;">(+32.00%)</span> | 141<br/><span style="color: #002818;">(-5.46%)</span> | 149<br/><span style="color: #FF7F7F;">(+59.70%)</span> |
+| **9月** | -- | 103<br/><span style="color: #006400;">(-29.90%)</span> | 146<br/><span style="color: #8B0000;">(+1.62%)</span> | 144<br/><span style="color: #B22222;">(+13.80%)</span> | 127<br/><span style="color: #8B0000;">(+6.09%)</span> |
+| **8月** | -- | 112<br/><span style="color: #002818;">(-9.38%)</span> | 124<br/><span style="color: #006400;">(-23.30%)</span> | 162<br/><span style="color: #FF7F7F;">(+83.70%)</span> | 88<br/><span style="color: #006400;">(-28.30%)</span> |
+| **7月** | -- | 177<br/><span style="color: #FF7F7F;">(+52.00%)</span> | 115<br/><span style="color: #006400;">(-24.50%)</span> | 154<br/><span style="color: #FF4500;">(+33.20%)</span> | 115<br/><span style="color: #DC143C;">(+20.90%)</span> |
+| **6月** | -- | 191<br/><span style="color: #DC143C;">(+23.00%)</span> | 155<br/><span style="color: #DC143C;">(+21.90%)</span> | 127<br/><span style="color: #8B0000;">(+8.22%)</span> | 117<br/><span style="color: #B22222;">(+18.80%)</span> |
+| **5月** | -- | 164<br/><span style="color: #002818;">(-9.91%)</span> | 182<br/><span style="color: #FF4500;">(+34.50%)</span> | 135<br/><span style="color: #FF4500;">(+30.60%)</span> | 104<br/><span style="color: #FF6347;">(+41.70%)</span> |
+| **4月** | -- | 178<br/><span style="color: #DC143C;">(+25.30%)</span> | 142<br/><span style="color: #002818;">(-8.50%)</span> | 155<br/><span style="color: #B22222;">(+17.80%)</span> | 132<br/><span style="color: #FF4500;">(+39.90%)</span> |
+| **3月** | 227<br/><span style="color: #8B0000;">(+8.76%)</span> | 208<br/><span style="color: #FF7F7F;">(+53.50%)</span> | 136<br/><span style="color: #006400;">(-20.40%)</span> | 171<br/><span style="color: #FF4500;">(+30.50%)</span> | 131<br/><span style="color: #FF4500;">(+38.60%)</span> |
+| **2月** | 110<br/><span style="color: #228B22;">(-33.80%)</span> | 166<br/><span style="color: #DC143C;">(+29.20%)</span> | 128<br/><span style="color: #002818;">(-3.38%)</span> | 133<br/><span style="color: #FF7F7F;">(+68.60%)</span> | 78<br/><span style="color: #006400;">(-26.20%)</span> |
+| **1月** | 126<br/><span style="color: #002818;">(-1.77%)</span> | 128<br/><span style="color: #002818;">(-5.72%)</span> | 136<br/><span style="color: #B22222;">(+17.00%)</span> | 115<br/><span style="color: #B22222;">(+10.80%)</span> | 105<br/><span style="color: #002818;">(-3.63%)</span> |
 
 
 
@@ -87,8 +87,8 @@ description: 月營收表 智聯服務 (6751) - 自動產生
 | **2025/10** | **1.07** | <span style="color: #32CD32; font-weight: bold;">-42.7</span> | <span style="color: #8B0000; font-weight: bold;">+5.61</span> | **43.8** | <span style="color: #DC143C; font-weight: bold;">5.2</span> | <span style="color: #228B22; font-weight: bold;">7.98</span> |
 | **2025/09** | **1.03** | <span style="color: #006400; font-weight: bold;">-29.9</span> | <span style="color: #B22222; font-weight: bold;">+12.7</span> | **44.8** | <span style="color: #FF4500; font-weight: bold;">5.63</span> | <span style="color: #228B22; font-weight: bold;">7.96</span> |
 | **2025/08** | **1.13** | <span style="color: #002818; font-weight: bold;">-9.38</span> | <span style="color: #B22222; font-weight: bold;">+18.3</span> | **47.5** | <span style="color: #FF4500; font-weight: bold;">5.63</span> | <span style="color: #006400; font-weight: bold;">11.84</span> |
-| **2025/07** | **1.77** | <span style="color: #FF7F7F; font-weight: bold;">+52.0</span> | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | **44** | <span style="color: #FF4500; font-weight: bold;">5.63</span> | <span style="color: #004225; font-weight: bold;">18.36</span> |
-| **2025/06** | **1.91** | <span style="color: #DC143C; font-weight: bold;">+23.0</span> | <span style="color: #B22222; font-weight: bold;">+17.7</span> | **44** | <span style="color: #228B22; font-weight: bold;">0.78</span> | <span style="color: #DC143C; font-weight: bold;">56.41</span> |
+| **2025/07** | **1.77** | <span style="color: #FF7F7F; font-weight: bold;">+52</span> | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | **44** | <span style="color: #FF4500; font-weight: bold;">5.63</span> | <span style="color: #004225; font-weight: bold;">18.36</span> |
+| **2025/06** | **1.91** | <span style="color: #DC143C; font-weight: bold;">+23</span> | <span style="color: #B22222; font-weight: bold;">+17.7</span> | **44** | <span style="color: #228B22; font-weight: bold;">0.78</span> | <span style="color: #DC143C; font-weight: bold;">56.41</span> |
 | **2025/05** | **1.64** | <span style="color: #002818; font-weight: bold;">-9.91</span> | <span style="color: #B22222; font-weight: bold;">+16.6</span> | **47.4** | <span style="color: #228B22; font-weight: bold;">0.78</span> | <span style="color: #DC143C; font-weight: bold;">53.66</span> |
 | **2025/04** | **1.78** | <span style="color: #DC143C; font-weight: bold;">+25.3</span> | <span style="color: #DC143C; font-weight: bold;">+25.5</span> | **49.1** | <span style="color: #228B22; font-weight: bold;">0.78</span> | <span style="color: #DC143C; font-weight: bold;">49.76</span> |
 | **2025/03** | **2.08** | <span style="color: #FF7F7F; font-weight: bold;">+53.5</span> | <span style="color: #DC143C; font-weight: bold;">+25.6</span> | **52.2** | <span style="color: #006400; font-weight: bold;">1.09</span> | <span style="color: #DC143C; font-weight: bold;">47.89</span> |
@@ -96,7 +96,7 @@ description: 月營收表 智聯服務 (6751) - 自動產生
 | **2025/01** | **1.28** | <span style="color: #002818; font-weight: bold;">-5.72</span> | <span style="color: #002818; font-weight: bold;">-5.72</span> | **53.8** | <span style="color: #006400; font-weight: bold;">1.09</span> | <span style="color: #FF4500; font-weight: bold;">58.69</span> |
 | **2024/12** | **2.1** | <span style="color: #FF4500; font-weight: bold;">+36.6</span> | <span style="color: #8B0000; font-weight: bold;">+3.8</span> | **56.3** | <span style="color: #228B22; font-weight: bold;">0.83</span> | <span style="color: #FF6347; font-weight: bold;">67.83</span> |
 | **2024/11** | **1.42** | <span style="color: #002818; font-weight: bold;">-2.65</span> | <span style="color: #8B0000; font-weight: bold;">+0.61</span> | **55.6** | <span style="color: #228B22; font-weight: bold;">0.83</span> | <span style="color: #FF4500; font-weight: bold;">64.15</span> |
-| **2024/10** | **1.86** | <span style="color: #FF4500; font-weight: bold;">+32.0</span> | <span style="color: #8B0000; font-weight: bold;">+0.94</span> | **58.5** | <span style="color: #228B22; font-weight: bold;">0.83</span> | <span style="color: #FF4500; font-weight: bold;">64.76</span> |
+| **2024/10** | **1.86** | <span style="color: #FF4500; font-weight: bold;">+32</span> | <span style="color: #8B0000; font-weight: bold;">+0.94</span> | **58.5** | <span style="color: #228B22; font-weight: bold;">0.83</span> | <span style="color: #FF4500; font-weight: bold;">64.76</span> |
 | **2024/09** | **1.46** | <span style="color: #8B0000; font-weight: bold;">+1.62</span> | <span style="color: #002818; font-weight: bold;">-2.41</span> | **52.8** | <span style="color: #228B22; font-weight: bold;">0.94</span> | <span style="color: #DC143C; font-weight: bold;">56.17</span> |
 | **2024/08** | **1.24** | <span style="color: #006400; font-weight: bold;">-23.3</span> | <span style="color: #002818; font-weight: bold;">-2.92</span> | **53.5** | <span style="color: #228B22; font-weight: bold;">0.94</span> | <span style="color: #B22222; font-weight: bold;">42.13</span> |
 | **2024/07** | **1.16** | <span style="color: #006400; font-weight: bold;">-24.5</span> | <span style="color: #8B0000; font-weight: bold;">+0.4</span> | **67** | <span style="color: #228B22; font-weight: bold;">0.94</span> | <span style="color: #B22222; font-weight: bold;">41.88</span> |
@@ -105,11 +105,11 @@ description: 月營收表 智聯服務 (6751) - 自動產生
 | **2024/04** | **1.42** | <span style="color: #002818; font-weight: bold;">-8.5</span> | <span style="color: #002818; font-weight: bold;">-5.69</span> | **64.5** | <span style="color: #004225; font-weight: bold;">1.93</span> | <span style="color: #8B0000; font-weight: bold;">34.49</span> |
 | **2024/03** | **1.36** | <span style="color: #006400; font-weight: bold;">-20.4</span> | <span style="color: #002818; font-weight: bold;">-4.65</span> | **71.2** | <span style="color: #004225; font-weight: bold;">1.84</span> | <span style="color: #B22222; font-weight: bold;">38.7</span> |
 | **2024/02** | **1.28** | <span style="color: #002818; font-weight: bold;">-3.38</span> | <span style="color: #8B0000; font-weight: bold;">+6.14</span> | **80** | <span style="color: #004225; font-weight: bold;">1.84</span> | <span style="color: #8B0000; font-weight: bold;">35.56</span> |
-| **2024/01** | **1.36** | <span style="color: #B22222; font-weight: bold;">+17.0</span> | <span style="color: #B22222; font-weight: bold;">+17.0</span> | **79.6** | <span style="color: #004225; font-weight: bold;">1.84</span> | <span style="color: #8B0000; font-weight: bold;">29.92</span> |
+| **2024/01** | **1.36** | <span style="color: #B22222; font-weight: bold;">+17</span> | <span style="color: #B22222; font-weight: bold;">+17</span> | **79.6** | <span style="color: #004225; font-weight: bold;">1.84</span> | <span style="color: #8B0000; font-weight: bold;">29.92</span> |
 | **2023/12** | **1.54** | <span style="color: #B22222; font-weight: bold;">+16.1</span> | <span style="color: #DC143C; font-weight: bold;">+25.2</span> | **82.8** | <span style="color: #8B0000; font-weight: bold;">3.07</span> | <span style="color: #002818; font-weight: bold;">26.97</span> |
 | **2023/11** | **1.46** | <span style="color: #FF4500; font-weight: bold;">+33.5</span> | <span style="color: #DC143C; font-weight: bold;">+26.1</span> | **82.4** | <span style="color: #8B0000; font-weight: bold;">3.07</span> | <span style="color: #002818; font-weight: bold;">24.26</span> |
 | **2023/10** | **1.41** | <span style="color: #002818; font-weight: bold;">-5.46</span> | <span style="color: #DC143C; font-weight: bold;">+25.4</span> | **83** | <span style="color: #8B0000; font-weight: bold;">3.07</span> | <span style="color: #002818; font-weight: bold;">22.29</span> |
-| **2023/09** | **1.44** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #FF4500; font-weight: bold;">+30.0</span> | **87.5** | <span style="color: #B22222; font-weight: bold;">4.05</span> | <span style="color: #004225; font-weight: bold;">21.6</span> |
+| **2023/09** | **1.44** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #FF4500; font-weight: bold;">+30</span> | **87.5** | <span style="color: #B22222; font-weight: bold;">4.05</span> | <span style="color: #004225; font-weight: bold;">21.6</span> |
 | **2023/08** | **1.62** | <span style="color: #FF7F7F; font-weight: bold;">+83.7</span> | <span style="color: #FF4500; font-weight: bold;">+32.4</span> | **83.9** | <span style="color: #B22222; font-weight: bold;">4.05</span> | <span style="color: #004225; font-weight: bold;">19.83</span> |
 | **2023/07** | **1.54** | <span style="color: #FF4500; font-weight: bold;">+33.2</span> | <span style="color: #DC143C; font-weight: bold;">+26.6</span> | **100** | <span style="color: #B22222; font-weight: bold;">4.05</span> | <span style="color: #002818; font-weight: bold;">22.68</span> |
 | **2023/06** | **1.27** | <span style="color: #8B0000; font-weight: bold;">+8.22</span> | <span style="color: #DC143C; font-weight: bold;">+25.5</span> | **102** | <span style="color: #B22222; font-weight: bold;">4.59</span> | <span style="color: #002818; font-weight: bold;">22.22</span> |
@@ -119,6 +119,46 @@ description: 月營收表 智聯服務 (6751) - 自動產生
 | **2023/02** | **1.33** | <span style="color: #FF7F7F; font-weight: bold;">+68.6</span> | <span style="color: #FF4500; font-weight: bold;">+35.6</span> | **60.6** | <span style="color: #B22222; font-weight: bold;">4.5</span> | <span style="color: #006400; font-weight: bold;">13.93</span> |
 | **2023/01** | **1.16** | <span style="color: #B22222; font-weight: bold;">+10.8</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **46.5** | <span style="color: #B22222; font-weight: bold;">4.5</span> | <span style="color: #006400; font-weight: bold;">11.07</span> |
 | **2022/12** | **1.33** | <span style="color: #8B0000; font-weight: bold;">+3.54</span> | <span style="color: #B22222; font-weight: bold;">+12.2</span> | **42.9** | <span style="color: #B22222; font-weight: bold;">4.05</span> | <span style="color: #006400; font-weight: bold;">10.59</span> |
+| **2022/11** | **1.09** | <span style="color: #8B0000; font-weight: bold;">+6.51</span> | <span style="color: #B22222; font-weight: bold;">+13.2</span> | **43.9** | <span style="color: #B22222; font-weight: bold;">4.05</span> | <span style="color: #006400; font-weight: bold;">11.79</span> |
+| **2022/10** | **1.49** | <span style="color: #FF7F7F; font-weight: bold;">+59.7</span> | <span style="color: #B22222; font-weight: bold;">+13.8</span> | **38.85** | <span style="color: #B22222; font-weight: bold;">4.05</span> | <span style="color: #006400; font-weight: bold;">11.44</span> |
+| **2022/09** | **1.27** | <span style="color: #8B0000; font-weight: bold;">+6.09</span> | <span style="color: #8B0000; font-weight: bold;">+9.14</span> | **38.95** | <span style="color: #8B0000; font-weight: bold;">3.07</span> | <span style="color: #006400; font-weight: bold;">12.69</span> |
+| **2022/08** | **0.882** | <span style="color: #006400; font-weight: bold;">-28.3</span> | <span style="color: #8B0000; font-weight: bold;">+9.6</span> | **46.4** | <span style="color: #8B0000; font-weight: bold;">3.07</span> | <span style="color: #004225; font-weight: bold;">16.67</span> |
+| **2022/07** | **1.16** | <span style="color: #DC143C; font-weight: bold;">+20.9</span> | <span style="color: #B22222; font-weight: bold;">+16.5</span> | **39.1** | <span style="color: #8B0000; font-weight: bold;">3.07</span> | <span style="color: #006400; font-weight: bold;">15.66</span> |
+| **2022/06** | **1.17** | <span style="color: #B22222; font-weight: bold;">+18.8</span> | <span style="color: #B22222; font-weight: bold;">+15.8</span> | **40.5** | <span style="color: #004225; font-weight: bold;">2.21</span> | <span style="color: #004225; font-weight: bold;">18.33</span> |
+| **2022/05** | **1.04** | <span style="color: #FF6347; font-weight: bold;">+41.7</span> | <span style="color: #B22222; font-weight: bold;">+15.2</span> | **41.55** | <span style="color: #004225; font-weight: bold;">2.21</span> | <span style="color: #004225; font-weight: bold;">18.6</span> |
+| **2022/04** | **1.32** | <span style="color: #FF4500; font-weight: bold;">+39.9</span> | <span style="color: #B22222; font-weight: bold;">+10.4</span> | **42** | <span style="color: #004225; font-weight: bold;">2.21</span> | <span style="color: #004225; font-weight: bold;">18.61</span> |
+| **2022/03** | **1.31** | <span style="color: #FF4500; font-weight: bold;">+38.6</span> | <span style="color: #8B0000; font-weight: bold;">+1.44</span> | **44.45** | <span style="color: #002818; font-weight: bold;">2.28</span> | <span style="color: #004225; font-weight: bold;">19.5</span> |
+| **2022/02** | **0.788** | <span style="color: #006400; font-weight: bold;">-26.2</span> | <span style="color: #004225; font-weight: bold;">-14.8</span> | **47.3** | <span style="color: #002818; font-weight: bold;">2.28</span> | <span style="color: #004225; font-weight: bold;">20.27</span> |
+| **2022/01** | **1.05** | <span style="color: #002818; font-weight: bold;">-3.63</span> | <span style="color: #002818; font-weight: bold;">-3.63</span> | **49.1** | <span style="color: #002818; font-weight: bold;">2.28</span> | <span style="color: #004225; font-weight: bold;">20.57</span> |
+| **2021/12** | **1.28** | <span style="color: #8B0000; font-weight: bold;">+7.06</span> | <span style="color: #DC143C; font-weight: bold;">+25.9</span> | **49.7** | <span style="color: #002818; font-weight: bold;">2.44</span> | <span style="color: #004225; font-weight: bold;">20.37</span> |
+| **2021/11** | **1.03** | <span style="color: #DC143C; font-weight: bold;">+26.8</span> | <span style="color: #DC143C; font-weight: bold;">+28.5</span> | **50.2** | <span style="color: #002818; font-weight: bold;">2.44</span> | <span style="color: #004225; font-weight: bold;">21.42</span> |
+| **2021/10** | **0.933** | <span style="color: #FF7F7F; font-weight: bold;">+147</span> | <span style="color: #DC143C; font-weight: bold;">+28.7</span> | **57.7** | <span style="color: #002818; font-weight: bold;">2.44</span> | <span style="color: #002818; font-weight: bold;">25.68</span> |
+| **2021/09** | **1.19** | <span style="color: #FF7F7F; font-weight: bold;">+74.8</span> | <span style="color: #DC143C; font-weight: bold;">+22.7</span> | **56.8** | <span style="color: #004225; font-weight: bold;">2.15</span> | <span style="color: #002818; font-weight: bold;">26.42</span> |
+| **2021/08** | **1.23** | <span style="color: #FF7F7F; font-weight: bold;">+131.2</span> | <span style="color: #B22222; font-weight: bold;">+17.4</span> | **59** | <span style="color: #004225; font-weight: bold;">2.15</span> | <span style="color: #002818; font-weight: bold;">26.9</span> |
+| **2021/07** | **0.958** | <span style="color: #8B0000; font-weight: bold;">+5.15</span> | <span style="color: #8B0000; font-weight: bold;">+7.72</span> | **64.3** | <span style="color: #004225; font-weight: bold;">2.15</span> | <span style="color: #8B0000; font-weight: bold;">28.75</span> |
+| **2021/06** | **0.989** | <span style="color: #B22222; font-weight: bold;">+14.7</span> | <span style="color: #8B0000; font-weight: bold;">+8.16</span> | **63** | <span style="color: #002818; font-weight: bold;">2.28</span> | <span style="color: #002818; font-weight: bold;">27.63</span> |
+| **2021/05** | **0.732** | <span style="color: #8B0000; font-weight: bold;">+3.62</span> | <span style="color: #8B0000; font-weight: bold;">+6.9</span> | **63.8** | <span style="color: #002818; font-weight: bold;">2.28</span> | <span style="color: #8B0000; font-weight: bold;">28.27</span> |
+| **2021/04** | **0.943** | <span style="color: #004225; font-weight: bold;">-10.6</span> | <span style="color: #8B0000; font-weight: bold;">+7.52</span> | **75.2** | <span style="color: #002818; font-weight: bold;">2.28</span> | <span style="color: #8B0000; font-weight: bold;">33.67</span> |
+| **2021/03** | **0.944** | <span style="color: #002818; font-weight: bold;">-0.5</span> | <span style="color: #B22222; font-weight: bold;">+14.6</span> | **77.7** | <span style="color: #004225; font-weight: bold;">2.21</span> | <span style="color: #8B0000; font-weight: bold;">35.16</span> |
+| **2021/02** | **1.07** | <span style="color: #B22222; font-weight: bold;">+13.1</span> | <span style="color: #DC143C; font-weight: bold;">+22.7</span> | **78.7** | <span style="color: #004225; font-weight: bold;">2.21</span> | <span style="color: #8B0000; font-weight: bold;">32.88</span> |
+| **2021/01** | **1.09** | <span style="color: #FF4500; font-weight: bold;">+33.9</span> | <span style="color: #FF4500; font-weight: bold;">+33.9</span> | **74** | <span style="color: #004225; font-weight: bold;">2.21</span> | <span style="color: #8B0000; font-weight: bold;">28.72</span> |
+| **2020/12** | **1.2** | <span style="color: #8B0000; font-weight: bold;">+5.94</span> | <span style="color: #002818; font-weight: bold;">-8.42</span> | **78** | <span style="color: #002818; font-weight: bold;">2.76</span> | <span style="color: #8B0000; font-weight: bold;">28.26</span> |
+| **2020/11** | **0.809** | <span style="color: #004225; font-weight: bold;">-15.9</span> | <span style="color: #004225; font-weight: bold;">-10.1</span> | **-** | N/A | N/A |
+| **2020/10** | **0.378** | <span style="color: #90EE90; font-weight: bold;">-57.3</span> | <span style="color: #002818; font-weight: bold;">-9.46</span> | **-** | N/A | N/A |
+| **2020/09** | **0.683** | <span style="color: #006400; font-weight: bold;">-23.3</span> | <span style="color: #002818; font-weight: bold;">-4.02</span> | **-** | N/A | N/A |
+| **2020/08** | **0.532** | <span style="color: #90EE90; font-weight: bold;">-53.7</span> | <span style="color: #002818; font-weight: bold;">-1.52</span> | **-** | N/A | N/A |
+| **2020/07** | **0.911** | <span style="color: #FF6347; font-weight: bold;">+45</span> | <span style="color: #8B0000; font-weight: bold;">+8.97</span> | **-** | N/A | N/A |
+| **2020/06** | **0.862** | <span style="color: #004225; font-weight: bold;">-10.7</span> | <span style="color: #8B0000; font-weight: bold;">+4.53</span> | **-** | N/A | N/A |
+| **2020/05** | **0.707** | <span style="color: #8B0000; font-weight: bold;">+8.4</span> | <span style="color: #8B0000; font-weight: bold;">+7.35</span> | **-** | N/A | N/A |
+| **2020/04** | **1.05** | <span style="color: #FF7F7F; font-weight: bold;">+72.4</span> | <span style="color: #8B0000; font-weight: bold;">+7.15</span> | **-** | N/A | N/A |
+| **2020/03** | **0.948** | <span style="color: #8B0000; font-weight: bold;">+7.87</span> | <span style="color: #002818; font-weight: bold;">-6.62</span> | **-** | N/A | N/A |
+| **2020/02** | **0.944** | <span style="color: #8B0000; font-weight: bold;">+2.09</span> | <span style="color: #004225; font-weight: bold;">-12.9</span> | **-** | N/A | N/A |
+| **2020/01** | **0.813** | <span style="color: #006400; font-weight: bold;">-25.6</span> | <span style="color: #006400; font-weight: bold;">-25.6</span> | **-** | N/A | N/A |
+| **2019/12** | **1.13** | <span style="color: #8B0000; font-weight: bold;">+7.71</span> | <span style="color: #DC143C; font-weight: bold;">+21.5</span> | **-** | N/A | N/A |
+| **2019/11** | **0.962** | <span style="color: #8B0000; font-weight: bold;">+2.56</span> | <span style="color: #DC143C; font-weight: bold;">+23.4</span> | **-** | N/A | N/A |
+| **2019/10** | **0.885** | <span style="color: #B22222; font-weight: bold;">+19.9</span> | <span style="color: #DC143C; font-weight: bold;">+26.2</span> | **-** | N/A | N/A |
+| **2019/09** | **0.89** | <span style="color: #FF4500; font-weight: bold;">+31.2</span> | <span style="color: #DC143C; font-weight: bold;">+27</span> | **-** | N/A | N/A |
+| **2019/08** | **1.15** | <span style="color: #FF7F7F; font-weight: bold;">+80</span> | <span style="color: #DC143C; font-weight: bold;">+26.5</span> | **-** | N/A | N/A |
 
 </div>
 
@@ -214,7 +254,7 @@ description: 月營收表 智聯服務 (6751) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-21 13:23:53 CST
+- **產生時間**: 2026-04-21 16:29:36 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

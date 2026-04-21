@@ -25,7 +25,7 @@ description: 月營收表 全家餐飲 (7708) - 自動產生
     **:building_construction: 公司名稱**: 全家餐飲  
     **:identification_card: 股票代號**: 7708  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-21 13:23:53 CST
+    **:clock3: 更新時間**: 2026-04-21 16:29:36 CST
 
 ## :bar_chart: 績效概覽
 
@@ -80,16 +80,16 @@ description: 月營收表 全家餐飲 (7708) - 自動產生
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
 | **2026/03** | **2.31** | <span style="color: #8B0000; font-weight: bold;">+8.72</span> | <span style="color: #B22222; font-weight: bold;">+11.7</span> | **92.1** | <span style="color: #DC143C; font-weight: bold;">6.46</span> | <span style="color: #006400; font-weight: bold;">14.26</span> |
-| **2026/02** | **2.52** | <span style="color: #DC143C; font-weight: bold;">+27.0</span> | <span style="color: #B22222; font-weight: bold;">+13.1</span> | **91.6** | <span style="color: #DC143C; font-weight: bold;">6.46</span> | <span style="color: #006400; font-weight: bold;">14.18</span> |
+| **2026/02** | **2.52** | <span style="color: #DC143C; font-weight: bold;">+27</span> | <span style="color: #B22222; font-weight: bold;">+13.1</span> | **91.6** | <span style="color: #DC143C; font-weight: bold;">6.46</span> | <span style="color: #006400; font-weight: bold;">14.18</span> |
 | **2026/01** | **2.39** | <span style="color: #8B0000; font-weight: bold;">+1.43</span> | <span style="color: #8B0000; font-weight: bold;">+1.43</span> | **97** | <span style="color: #DC143C; font-weight: bold;">6.46</span> | <span style="color: #004225; font-weight: bold;">15.02</span> |
-| **2025/12** | **2.42** | <span style="color: #B22222; font-weight: bold;">+14.0</span> | <span style="color: #B22222; font-weight: bold;">+14.5</span> | **96** | <span style="color: #DC143C; font-weight: bold;">6.46</span> | <span style="color: #004225; font-weight: bold;">14.86</span> |
+| **2025/12** | **2.42** | <span style="color: #B22222; font-weight: bold;">+14</span> | <span style="color: #B22222; font-weight: bold;">+14.5</span> | **96** | <span style="color: #DC143C; font-weight: bold;">6.46</span> | <span style="color: #004225; font-weight: bold;">14.86</span> |
 | **2025/11** | **2.3** | <span style="color: #B22222; font-weight: bold;">+18.2</span> | <span style="color: #B22222; font-weight: bold;">+14.5</span> | **97.5** | <span style="color: #DC143C; font-weight: bold;">6.46</span> | <span style="color: #002818; font-weight: bold;">15.5</span> |
 | **2025/10** | **2.36** | <span style="color: #DC143C; font-weight: bold;">+22.9</span> | <span style="color: #B22222; font-weight: bold;">+14.1</span> | **98** | <span style="color: #DC143C; font-weight: bold;">6.46</span> | <span style="color: #002818; font-weight: bold;">16.01</span> |
-| **2025/09** | **2.22** | <span style="color: #8B0000; font-weight: bold;">+9.0</span> | <span style="color: #B22222; font-weight: bold;">+13.2</span> | **99** | <span style="color: #8B0000; font-weight: bold;">5.95</span> | <span style="color: #8B0000; font-weight: bold;">16.64</span> |
+| **2025/09** | **2.22** | <span style="color: #8B0000; font-weight: bold;">+9</span> | <span style="color: #B22222; font-weight: bold;">+13.2</span> | **99** | <span style="color: #8B0000; font-weight: bold;">5.95</span> | <span style="color: #8B0000; font-weight: bold;">16.64</span> |
 | **2025/08** | **2.51** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #B22222; font-weight: bold;">+13.7</span> | **95.5** | <span style="color: #8B0000; font-weight: bold;">5.95</span> | <span style="color: #8B0000; font-weight: bold;">16.36</span> |
 | **2025/07** | **2.39** | <span style="color: #B22222; font-weight: bold;">+13.3</span> | <span style="color: #B22222; font-weight: bold;">+13.7</span> | **95.3** | <span style="color: #8B0000; font-weight: bold;">5.95</span> | <span style="color: #8B0000; font-weight: bold;">16.65</span> |
 | **2025/06** | **2.25** | <span style="color: #8B0000; font-weight: bold;">+8.8</span> | <span style="color: #B22222; font-weight: bold;">+13.8</span> | **97** | <span style="color: #004225; font-weight: bold;">5.61</span> | <span style="color: #DC143C; font-weight: bold;">17.29</span> |
-| **2025/05** | **2.27** | <span style="color: #DC143C; font-weight: bold;">+20.0</span> | <span style="color: #B22222; font-weight: bold;">+14.9</span> | **92.1** | <span style="color: #004225; font-weight: bold;">5.61</span> | <span style="color: #B22222; font-weight: bold;">16.72</span> |
+| **2025/05** | **2.27** | <span style="color: #DC143C; font-weight: bold;">+20</span> | <span style="color: #B22222; font-weight: bold;">+14.9</span> | **92.1** | <span style="color: #004225; font-weight: bold;">5.61</span> | <span style="color: #B22222; font-weight: bold;">16.72</span> |
 | **2025/04** | **2.06** | <span style="color: #B22222; font-weight: bold;">+10.2</span> | <span style="color: #B22222; font-weight: bold;">+13.6</span> | **92.5** | <span style="color: #004225; font-weight: bold;">5.61</span> | <span style="color: #B22222; font-weight: bold;">17.1</span> |
 | **2025/03** | **2.12** | <span style="color: #B22222; font-weight: bold;">+12.5</span> | <span style="color: #B22222; font-weight: bold;">+14.8</span> | **92.2** | <span style="color: #006400; font-weight: bold;">5.31</span> | <span style="color: #DC143C; font-weight: bold;">17.36</span> |
 | **2025/02** | **1.98** | <span style="color: #002818; font-weight: bold;">-0.49</span> | <span style="color: #B22222; font-weight: bold;">+15.9</span> | **96.1** | <span style="color: #006400; font-weight: bold;">5.31</span> | <span style="color: #FF4500; font-weight: bold;">18.01</span> |
@@ -205,7 +205,7 @@ description: 月營收表 全家餐飲 (7708) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-21 13:23:53 CST
+- **產生時間**: 2026-04-21 16:29:36 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

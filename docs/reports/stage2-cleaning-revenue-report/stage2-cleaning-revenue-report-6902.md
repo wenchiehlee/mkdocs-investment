@@ -25,7 +25,7 @@ description: 月營收表 GOGOLOOK (6902) - 自動產生
     **:building_construction: 公司名稱**: GOGOLOOK  
     **:identification_card: 股票代號**: 6902  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-21 13:23:53 CST
+    **:clock3: 更新時間**: 2026-04-21 16:29:36 CST
 
 ## :bar_chart: 績效概覽
 
@@ -91,7 +91,7 @@ description: 月營收表 GOGOLOOK (6902) - 自動產生
 | **2025/06** | **0.807** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #B22222; font-weight: bold;">+19.1</span> | **78.8** | <span style="color: #004225; font-weight: bold;">-1.22</span> | <span style="color: #000000;">-</span> |
 | **2025/05** | **0.788** | <span style="color: #B22222; font-weight: bold;">+16.4</span> | <span style="color: #DC143C; font-weight: bold;">+20.2</span> | **90.7** | <span style="color: #004225; font-weight: bold;">-1.22</span> | <span style="color: #000000;">-</span> |
 | **2025/04** | **0.816** | <span style="color: #FF6347; font-weight: bold;">+41.2</span> | <span style="color: #DC143C; font-weight: bold;">+21.2</span> | **97.3** | <span style="color: #004225; font-weight: bold;">-1.22</span> | <span style="color: #000000;">-</span> |
-| **2025/03** | **0.855** | <span style="color: #FF4500; font-weight: bold;">+31.0</span> | <span style="color: #B22222; font-weight: bold;">+15.6</span> | **122** | <span style="color: #006400; font-weight: bold;">-1.35</span> | <span style="color: #000000;">-</span> |
+| **2025/03** | **0.855** | <span style="color: #FF4500; font-weight: bold;">+31</span> | <span style="color: #B22222; font-weight: bold;">+15.6</span> | **122** | <span style="color: #006400; font-weight: bold;">-1.35</span> | <span style="color: #000000;">-</span> |
 | **2025/02** | **0.78** | <span style="color: #B22222; font-weight: bold;">+17.7</span> | <span style="color: #8B0000; font-weight: bold;">+8.48</span> | **137.5** | <span style="color: #006400; font-weight: bold;">-1.35</span> | <span style="color: #000000;">-</span> |
 | **2025/01** | **0.76** | <span style="color: #8B0000; font-weight: bold;">+0.44</span> | <span style="color: #8B0000; font-weight: bold;">+0.44</span> | **117** | <span style="color: #006400; font-weight: bold;">-1.35</span> | <span style="color: #000000;">-</span> |
 | **2024/12** | **0.857** | <span style="color: #B22222; font-weight: bold;">+10.5</span> | <span style="color: #B22222; font-weight: bold;">+12.5</span> | **118.5** | <span style="color: #004225; font-weight: bold;">-1.24</span> | <span style="color: #000000;">-</span> |
@@ -102,19 +102,19 @@ description: 月營收表 GOGOLOOK (6902) - 自動產生
 | **2024/07** | **0.612** | <span style="color: #8B0000; font-weight: bold;">+7.98</span> | <span style="color: #8B0000; font-weight: bold;">+8.44</span> | **147.5** | <span style="color: #006400; font-weight: bold;">-1.8</span> | <span style="color: #000000;">-</span> |
 | **2024/06** | **0.71** | <span style="color: #DC143C; font-weight: bold;">+20.1</span> | <span style="color: #8B0000; font-weight: bold;">+8.51</span> | **159** | <span style="color: #002818; font-weight: bold;">-0.23</span> | <span style="color: #000000;">-</span> |
 | **2024/05** | **0.677** | <span style="color: #8B0000; font-weight: bold;">+6.58</span> | <span style="color: #8B0000; font-weight: bold;">+6.32</span> | **145** | <span style="color: #002818; font-weight: bold;">-0.23</span> | <span style="color: #000000;">-</span> |
-| **2024/04** | **0.578** | <span style="color: #004225; font-weight: bold;">-14.0</span> | <span style="color: #8B0000; font-weight: bold;">+6.26</span> | **158** | <span style="color: #002818; font-weight: bold;">-0.23</span> | <span style="color: #B22222; font-weight: bold;">687.0</span> |
+| **2024/04** | **0.578** | <span style="color: #004225; font-weight: bold;">-14</span> | <span style="color: #8B0000; font-weight: bold;">+6.26</span> | **158** | <span style="color: #002818; font-weight: bold;">-0.23</span> | <span style="color: #B22222; font-weight: bold;">687.0</span> |
 | **2024/03** | **0.653** | <span style="color: #8B0000; font-weight: bold;">+5.09</span> | <span style="color: #B22222; font-weight: bold;">+13.8</span> | **150.5** | <span style="color: #B22222; font-weight: bold;">0.46</span> | <span style="color: #002818; font-weight: bold;">327.2</span> |
 | **2024/02** | **0.663** | <span style="color: #002818; font-weight: bold;">-1.53</span> | <span style="color: #B22222; font-weight: bold;">+18.2</span> | **156** | <span style="color: #B22222; font-weight: bold;">0.46</span> | <span style="color: #8B0000; font-weight: bold;">433.3</span> |
 | **2024/01** | **0.756** | <span style="color: #FF6347; font-weight: bold;">+43.5</span> | <span style="color: #FF6347; font-weight: bold;">+43.5</span> | **168.5** | <span style="color: #B22222; font-weight: bold;">0.46</span> | <span style="color: #B22222; font-weight: bold;">648.1</span> |
-| **2023/12** | **0.775** | <span style="color: #FF7F7F; font-weight: bold;">+60.0</span> | <span style="color: #FF7F7F; font-weight: bold;">+83.4</span> | **170** | <span style="color: #8B0000; font-weight: bold;">0.16</span> | <span style="color: #FF6347; font-weight: bold;">1062.0</span> |
+| **2023/12** | **0.775** | <span style="color: #FF7F7F; font-weight: bold;">+60</span> | <span style="color: #FF7F7F; font-weight: bold;">+83.4</span> | **170** | <span style="color: #8B0000; font-weight: bold;">0.16</span> | <span style="color: #FF6347; font-weight: bold;">1062.0</span> |
 | **2023/11** | **0.677** | <span style="color: #FF6347; font-weight: bold;">+43.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+86.5</span> | **189** | <span style="color: #8B0000; font-weight: bold;">0.16</span> | <span style="color: #DC143C; font-weight: bold;">821.7</span> |
-| **2023/10** | **0.668** | <span style="color: #FF7F7F; font-weight: bold;">+77.0</span> | <span style="color: #FF7F7F; font-weight: bold;">+92.8</span> | **143** | <span style="color: #8B0000; font-weight: bold;">0.16</span> | <span style="color: #8B0000; font-weight: bold;">476.7</span> |
+| **2023/10** | **0.668** | <span style="color: #FF7F7F; font-weight: bold;">+77</span> | <span style="color: #FF7F7F; font-weight: bold;">+92.8</span> | **143** | <span style="color: #8B0000; font-weight: bold;">0.16</span> | <span style="color: #8B0000; font-weight: bold;">476.7</span> |
 | **2023/09** | **0.68** | <span style="color: #FF7F7F; font-weight: bold;">+92.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+94.8</span> | **160.5** | <span style="color: #8B0000; font-weight: bold;">0.37</span> | <span style="color: #8B0000; font-weight: bold;">433.8</span> |
 | **2023/08** | **0.62** | <span style="color: #FF7F7F; font-weight: bold;">+81.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+95.1</span> | **169** | <span style="color: #8B0000; font-weight: bold;">0.37</span> | <span style="color: #8B0000; font-weight: bold;">456.8</span> |
 | **2023/07** | **0.566** | <span style="color: #FF7F7F; font-weight: bold;">+82.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+97.3</span> | **220** | <span style="color: #8B0000; font-weight: bold;">0.37</span> | <span style="color: #B22222; font-weight: bold;">594.6</span> |
 | **2023/06** | **0.591** | <span style="color: #FF7F7F; font-weight: bold;">+74.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+99.7</span> | **-** | N/A | N/A |
 | **2023/05** | **0.635** | <span style="color: #FF7F7F; font-weight: bold;">+87.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+105.3</span> | **-** | N/A | N/A |
-| **2023/04** | **0.672** | <span style="color: #FF7F7F; font-weight: bold;">+120.0</span> | <span style="color: #FF7F7F; font-weight: bold;">+110.2</span> | **-** | N/A | N/A |
+| **2023/04** | **0.672** | <span style="color: #FF7F7F; font-weight: bold;">+120</span> | <span style="color: #FF7F7F; font-weight: bold;">+110.2</span> | **-** | N/A | N/A |
 
 </div>
 
@@ -210,7 +210,7 @@ description: 月營收表 GOGOLOOK (6902) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-21 13:23:53 CST
+- **產生時間**: 2026-04-21 16:29:36 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
