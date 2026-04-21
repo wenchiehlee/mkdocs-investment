@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-21
+date: 2026-04-22
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 創見 (2451) - 自動產生
     **:building_construction: 公司名稱**: 創見  
     **:identification_card: 股票代號**: 2451  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-21 22:31:23 CST
+    **:clock3: 更新時間**: 2026-04-22 01:46:35 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 創見 (2451) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **4.49** | **6.38** | **8.53** |
-| **P/E倍數** | **11.92** | **14.57** | **19.42** |
+| **P/E倍數** | **11.92** | **14.58** | **19.43** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 創見 歷史平均獲利能力 (σup=2.14, σlo=1.89)
-    - **P/Ebase**: 創見 歷史平均估值水準 (σup=4.84, σlo=2.65)
+    - **P/Ebase**: 創見 歷史平均估值水準 (σup=4.85, σlo=2.66)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -154,7 +154,7 @@ description: 月營收表 創見 (2451) - 自動產生
 | **2020/03** | **10.22** | <span style="color: #004225; font-weight: bold;">-16.4</span> | <span style="color: #004225; font-weight: bold;">-12.5</span> | **66.5** | <span style="color: #006400; font-weight: bold;">4.25</span> | <span style="color: #8B0000; font-weight: bold;">15.65</span> |
 | **2020/02** | **11.29** | <span style="color: #8B0000; font-weight: bold;">+3.87</span> | <span style="color: #004225; font-weight: bold;">-10.6</span> | **78.1** | <span style="color: #006400; font-weight: bold;">4.25</span> | <span style="color: #B22222; font-weight: bold;">18.73</span> |
 | **2020/01** | **10.7** | <span style="color: #006400; font-weight: bold;">-22</span> | <span style="color: #006400; font-weight: bold;">-22</span> | **81** | <span style="color: #006400; font-weight: bold;">4.25</span> | <span style="color: #DC143C; font-weight: bold;">19.8</span> |
-| **2019/12** | **9.67** | <span style="color: #002818; font-weight: bold;">-7.19</span> | <span style="color: #006400; font-weight: bold;">-23.4</span> | **77.9** | <span style="color: #006400; font-weight: bold;">4.01</span> | <span style="color: #DC143C; font-weight: bold;">19.43</span> |
+| **2019/12** | **9.67** | <span style="color: #002818; font-weight: bold;">-7.19</span> | <span style="color: #006400; font-weight: bold;">-23.4</span> | **77.9** | <span style="color: #006400; font-weight: bold;">4.01</span> | <span style="color: #B22222; font-weight: bold;">19.43</span> |
 | **2019/11** | **11.66** | <span style="color: #004225; font-weight: bold;">-17.2</span> | <span style="color: #006400; font-weight: bold;">-24.4</span> | **71.5** | <span style="color: #006400; font-weight: bold;">4.01</span> | <span style="color: #B22222; font-weight: bold;">17.85</span> |
 | **2019/10** | **11.53** | <span style="color: #006400; font-weight: bold;">-24.3</span> | <span style="color: #006400; font-weight: bold;">-25.1</span> | **66.1** | <span style="color: #006400; font-weight: bold;">4.01</span> | <span style="color: #8B0000; font-weight: bold;">16.51</span> |
 | **2019/09** | **10.45** | <span style="color: #006400; font-weight: bold;">-20.5</span> | <span style="color: #006400; font-weight: bold;">-25.2</span> | **64.4** | <span style="color: #006400; font-weight: bold;">4.0</span> | <span style="color: #8B0000; font-weight: bold;">16.1</span> |
@@ -414,7 +414,7 @@ description: 月營收表 創見 (2451) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-21 22:31:23 CST
+- **產生時間**: 2026-04-22 01:46:35 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

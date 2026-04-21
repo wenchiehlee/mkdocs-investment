@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-21
+date: 2026-04-22
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 聯發科 (2454) - 自動產生
     **:building_construction: 公司名稱**: 聯發科  
     **:identification_card: 股票代號**: 2454  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-21 22:31:23 CST
+    **:clock3: 更新時間**: 2026-04-22 01:46:35 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 聯發科 (2454) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **17.77** | **31.95** | **61.39** |
-| **P/E倍數** | **13.74** | **18.42** | **24.61** |
+| **P/E倍數** | **13.74** | **18.43** | **24.65** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 聯發科 歷史平均獲利能力 (σup=29.44, σlo=14.18)
-    - **P/Ebase**: 聯發科 歷史平均估值水準 (σup=6.18, σlo=4.68)
+    - **P/Ebase**: 聯發科 歷史平均估值水準 (σup=6.22, σlo=4.69)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -158,7 +158,7 @@ description: 月營收表 聯發科 (2454) - 自動產生
 | **2019/11** | **206.2** | <span style="color: #B22222; font-weight: bold;">+10.4</span> | <span style="color: #8B0000; font-weight: bold;">+3.44</span> | **421.5** | <span style="color: #006400; font-weight: bold;">14.69</span> | <span style="color: #FF4500; font-weight: bold;">29.63</span> |
 | **2019/10** | **220** | <span style="color: #8B0000; font-weight: bold;">+5.6</span> | <span style="color: #8B0000; font-weight: bold;">+2.78</span> | **408** | <span style="color: #006400; font-weight: bold;">14.69</span> | <span style="color: #FF4500; font-weight: bold;">29.66</span> |
 | **2019/09** | **234.9** | <span style="color: #8B0000; font-weight: bold;">+1.68</span> | <span style="color: #8B0000; font-weight: bold;">+2.45</span> | **369** | <span style="color: #006400; font-weight: bold;">13.29</span> | <span style="color: #FF4500; font-weight: bold;">27.77</span> |
-| **2019/08** | **230.4** | <span style="color: #002818; font-weight: bold;">-1.95</span> | <span style="color: #8B0000; font-weight: bold;">+2.56</span> | **367.5** | <span style="color: #006400; font-weight: bold;">13.29</span> | <span style="color: #FF4500; font-weight: bold;">27.7</span> |
+| **2019/08** | **230.4** | <span style="color: #002818; font-weight: bold;">-1.95</span> | <span style="color: #8B0000; font-weight: bold;">+2.56</span> | **367.5** | <span style="color: #006400; font-weight: bold;">13.29</span> | <span style="color: #DC143C; font-weight: bold;">27.7</span> |
 | **2019/07** | **206.9** | <span style="color: #8B0000; font-weight: bold;">+1.29</span> | <span style="color: #8B0000; font-weight: bold;">+3.38</span> | **314.5** | <span style="color: #006400; font-weight: bold;">13.29</span> | <span style="color: #B22222; font-weight: bold;">23.75</span> |
 | **2019/06** | **208.9** | <span style="color: #002818; font-weight: bold;">-0.79</span> | <span style="color: #8B0000; font-weight: bold;">+3.77</span> | **314** | <span style="color: #006400; font-weight: bold;">13.22</span> | <span style="color: #B22222; font-weight: bold;">23.75</span> |
 | **2019/05** | **191.2** | <span style="color: #002818; font-weight: bold;">-6.29</span> | <span style="color: #8B0000; font-weight: bold;">+4.85</span> | **311** | <span style="color: #006400; font-weight: bold;">13.22</span> | <span style="color: #B22222; font-weight: bold;">23.19</span> |
@@ -414,7 +414,7 @@ description: 月營收表 聯發科 (2454) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-21 22:31:23 CST
+- **產生時間**: 2026-04-22 01:46:35 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

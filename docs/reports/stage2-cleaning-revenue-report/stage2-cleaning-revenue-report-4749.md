@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-21
+date: 2026-04-22
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 新應材 (4749) - 自動產生
     **:building_construction: 公司名稱**: 新應材  
     **:identification_card: 股票代號**: 4749  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-21 22:31:23 CST
+    **:clock3: 更新時間**: 2026-04-22 01:46:35 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 新應材 (4749) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **8.43** | **10.08** | **11.14** |
-| **P/E倍數** | **64.59** | **75.72** | **83.49** |
+| **P/E倍數** | **65.47** | **76.24** | **84.92** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 新應材 歷史平均獲利能力 (σup=1.05, σlo=1.66)
-    - **P/Ebase**: 新應材 歷史平均估值水準 (σup=7.77, σlo=11.12)
+    - **P/Ebase**: 新應材 歷史平均估值水準 (σup=8.68, σlo=10.77)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,9 +79,9 @@ description: 月營收表 新應材 (4749) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/03** | **4.33** | <span style="color: #FF4500; font-weight: bold;">+32.7</span> | <span style="color: #DC143C; font-weight: bold;">+29.8</span> | **798** | <span style="color: #DC143C; font-weight: bold;">11.33</span> | <span style="color: #002818; font-weight: bold;">70.43</span> |
-| **2026/02** | **4.46** | <span style="color: #FF6347; font-weight: bold;">+40.6</span> | <span style="color: #DC143C; font-weight: bold;">+28.4</span> | **911** | <span style="color: #DC143C; font-weight: bold;">11.33</span> | <span style="color: #B22222; font-weight: bold;">80.41</span> |
-| **2026/01** | **3.67** | <span style="color: #B22222; font-weight: bold;">+16.1</span> | <span style="color: #B22222; font-weight: bold;">+16.1</span> | **861** | <span style="color: #DC143C; font-weight: bold;">11.33</span> | <span style="color: #8B0000; font-weight: bold;">75.99</span> |
+| **2026/03** | **4.33** | <span style="color: #FF4500; font-weight: bold;">+32.7</span> | <span style="color: #DC143C; font-weight: bold;">+29.8</span> | **798** | <span style="color: #DC143C; font-weight: bold;">11.33</span> | <span style="color: #004225; font-weight: bold;">70.43</span> |
+| **2026/02** | **4.46** | <span style="color: #FF6347; font-weight: bold;">+40.6</span> | <span style="color: #DC143C; font-weight: bold;">+28.4</span> | **911** | <span style="color: #DC143C; font-weight: bold;">11.33</span> | <span style="color: #8B0000; font-weight: bold;">80.41</span> |
+| **2026/01** | **3.67** | <span style="color: #B22222; font-weight: bold;">+16.1</span> | <span style="color: #B22222; font-weight: bold;">+16.1</span> | **861** | <span style="color: #DC143C; font-weight: bold;">11.33</span> | <span style="color: #002818; font-weight: bold;">75.99</span> |
 | **2025/12** | **3.61** | <span style="color: #B22222; font-weight: bold;">+11</span> | <span style="color: #DC143C; font-weight: bold;">+28.3</span> | **877** | <span style="color: #DC143C; font-weight: bold;">11.33</span> | <span style="color: #8B0000; font-weight: bold;">77.41</span> |
 | **2025/11** | **3.66** | <span style="color: #B22222; font-weight: bold;">+15.5</span> | <span style="color: #FF4500; font-weight: bold;">+30.2</span> | **818** | <span style="color: #DC143C; font-weight: bold;">11.33</span> | <span style="color: #002818; font-weight: bold;">74.3</span> |
 | **2025/10** | **3.58** | <span style="color: #FF4500; font-weight: bold;">+30.8</span> | <span style="color: #FF4500; font-weight: bold;">+31.9</span> | **891** | <span style="color: #DC143C; font-weight: bold;">11.33</span> | <span style="color: #B22222; font-weight: bold;">83.35</span> |
@@ -92,8 +92,8 @@ description: 月營收表 新應材 (4749) - 自動產生
 | **2025/05** | **3.85** | <span style="color: #FF6347; font-weight: bold;">+49.6</span> | <span style="color: #FF6347; font-weight: bold;">+40.7</span> | **637** | <span style="color: #004225; font-weight: bold;">8.94</span> | <span style="color: #002818; font-weight: bold;">73.73</span> |
 | **2025/04** | **4.03** | <span style="color: #FF4500; font-weight: bold;">+37.5</span> | <span style="color: #FF4500; font-weight: bold;">+38.3</span> | **436.5** | <span style="color: #004225; font-weight: bold;">8.94</span> | <span style="color: #32CD32; font-weight: bold;">52.34</span> |
 | **2025/03** | **3.26** | <span style="color: #FF6347; font-weight: bold;">+41</span> | <span style="color: #FF4500; font-weight: bold;">+38.7</span> | **485** | <span style="color: #006400; font-weight: bold;">8.04</span> | <span style="color: #006400; font-weight: bold;">60.32</span> |
-| **2025/02** | **3.17** | <span style="color: #FF7F7F; font-weight: bold;">+58.8</span> | <span style="color: #FF4500; font-weight: bold;">+37.6</span> | **680** | <span style="color: #006400; font-weight: bold;">8.04</span> | <span style="color: #DC143C; font-weight: bold;">84.58</span> |
-| **2025/01** | **3.16** | <span style="color: #DC143C; font-weight: bold;">+21.3</span> | <span style="color: #DC143C; font-weight: bold;">+21.3</span> | **734** | <span style="color: #006400; font-weight: bold;">8.04</span> | <span style="color: #FF6347; font-weight: bold;">91.29</span> |
+| **2025/02** | **3.17** | <span style="color: #FF7F7F; font-weight: bold;">+58.8</span> | <span style="color: #FF4500; font-weight: bold;">+37.6</span> | **680** | <span style="color: #006400; font-weight: bold;">8.04</span> | <span style="color: #B22222; font-weight: bold;">84.58</span> |
+| **2025/01** | **3.16** | <span style="color: #DC143C; font-weight: bold;">+21.3</span> | <span style="color: #DC143C; font-weight: bold;">+21.3</span> | **734** | <span style="color: #006400; font-weight: bold;">8.04</span> | <span style="color: #FF4500; font-weight: bold;">91.29</span> |
 | **2024/12** | **3.25** | <span style="color: #FF6347; font-weight: bold;">+41.1</span> | <span style="color: #FF6347; font-weight: bold;">+40.5</span> | **-** | N/A | N/A |
 | **2024/11** | **3.16** | <span style="color: #FF7F7F; font-weight: bold;">+62.2</span> | <span style="color: #FF6347; font-weight: bold;">+40.4</span> | **-** | N/A | N/A |
 | **2024/10** | **2.74** | <span style="color: #FF7F7F; font-weight: bold;">+67.2</span> | <span style="color: #FF4500; font-weight: bold;">+38.2</span> | **-** | N/A | N/A |
@@ -312,7 +312,7 @@ description: 月營收表 新應材 (4749) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-21 22:31:23 CST
+- **產生時間**: 2026-04-22 01:46:35 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

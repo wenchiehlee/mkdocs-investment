@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-21
+date: 2026-04-22
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 致茂 (2360) - 自動產生
     **:building_construction: 公司名稱**: 致茂  
     **:identification_card: 股票代號**: 2360  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-21 22:31:23 CST
+    **:clock3: 更新時間**: 2026-04-22 01:46:35 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 致茂 (2360) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **3.78** | **6.62** | **15.23** |
-| **P/E倍數** | **15.18** | **21.53** | **31.30** |
+| **P/E倍數** | **15.17** | **21.50** | **30.83** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 致茂 歷史平均獲利能力 (σup=8.61, σlo=2.84)
-    - **P/Ebase**: 致茂 歷史平均估值水準 (σup=9.77, σlo=6.35)
+    - **P/Ebase**: 致茂 歷史平均估值水準 (σup=9.34, σlo=6.32)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -80,7 +80,7 @@ description: 月營收表 致茂 (2360) - 自動產生
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
 | **2026/03** | **43.66** | <span style="color: #FF7F7F; font-weight: bold;">+63.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+72.8</span> | **1465** | <span style="color: #FF6347; font-weight: bold;">27.7</span> | <span style="color: #FF7F7F; font-weight: bold;">52.89</span> |
-| **2026/02** | **36.67** | <span style="color: #FF7F7F; font-weight: bold;">+86</span> | <span style="color: #FF7F7F; font-weight: bold;">+78.6</span> | **1380** | <span style="color: #FF6347; font-weight: bold;">27.7</span> | <span style="color: #FF6347; font-weight: bold;">49.82</span> |
+| **2026/02** | **36.67** | <span style="color: #FF7F7F; font-weight: bold;">+86</span> | <span style="color: #FF7F7F; font-weight: bold;">+78.6</span> | **1380** | <span style="color: #FF6347; font-weight: bold;">27.7</span> | <span style="color: #FF7F7F; font-weight: bold;">49.82</span> |
 | **2026/01** | **38.26** | <span style="color: #FF7F7F; font-weight: bold;">+72.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+72.1</span> | **980** | <span style="color: #FF6347; font-weight: bold;">27.7</span> | <span style="color: #DC143C; font-weight: bold;">35.38</span> |
 | **2025/12** | **36.47** | <span style="color: #FF7F7F; font-weight: bold;">+59.3</span> | <span style="color: #FF4500; font-weight: bold;">+31</span> | **775** | <span style="color: #FF6347; font-weight: bold;">27.7</span> | <span style="color: #B22222; font-weight: bold;">27.98</span> |
 | **2025/11** | **25.58** | <span style="color: #FF4500; font-weight: bold;">+31.3</span> | <span style="color: #DC143C; font-weight: bold;">+27.7</span> | **819** | <span style="color: #FF6347; font-weight: bold;">27.7</span> | <span style="color: #B22222; font-weight: bold;">30.5</span> |
@@ -156,12 +156,12 @@ description: 月營收表 致茂 (2360) - 自動產生
 | **2020/01** | **10.41** | <span style="color: #8B0000; font-weight: bold;">+8.31</span> | <span style="color: #8B0000; font-weight: bold;">+8.31</span> | **150.5** | <span style="color: #004225; font-weight: bold;">4.87</span> | <span style="color: #DC143C; font-weight: bold;">32.65</span> |
 | **2019/12** | **16.59** | <span style="color: #FF4500; font-weight: bold;">+32.2</span> | <span style="color: #004225; font-weight: bold;">-17.8</span> | **145** | <span style="color: #004225; font-weight: bold;">4.48</span> | <span style="color: #DC143C; font-weight: bold;">32.37</span> |
 | **2019/11** | **13.21** | <span style="color: #B22222; font-weight: bold;">+11.5</span> | <span style="color: #006400; font-weight: bold;">-21.8</span> | **139.5** | <span style="color: #004225; font-weight: bold;">4.48</span> | <span style="color: #DC143C; font-weight: bold;">31.83</span> |
-| **2019/10** | **14.98** | <span style="color: #8B0000; font-weight: bold;">+0.87</span> | <span style="color: #006400; font-weight: bold;">-24.6</span> | **152.5** | <span style="color: #004225; font-weight: bold;">4.48</span> | <span style="color: #DC143C; font-weight: bold;">35.58</span> |
+| **2019/10** | **14.98** | <span style="color: #8B0000; font-weight: bold;">+0.87</span> | <span style="color: #006400; font-weight: bold;">-24.6</span> | **152.5** | <span style="color: #004225; font-weight: bold;">4.48</span> | <span style="color: #FF4500; font-weight: bold;">35.58</span> |
 | **2019/09** | **11.35** | <span style="color: #006400; font-weight: bold;">-22.9</span> | <span style="color: #006400; font-weight: bold;">-27.5</span> | **147** | <span style="color: #004225; font-weight: bold;">4.19</span> | <span style="color: #DC143C; font-weight: bold;">35.08</span> |
 | **2019/08** | **12.13** | <span style="color: #002818; font-weight: bold;">-3.64</span> | <span style="color: #006400; font-weight: bold;">-28.1</span> | **152** | <span style="color: #004225; font-weight: bold;">4.19</span> | <span style="color: #DC143C; font-weight: bold;">35.38</span> |
 | **2019/07** | **10.6** | <span style="color: #002818; font-weight: bold;">-9.97</span> | <span style="color: #228B22; font-weight: bold;">-31.1</span> | **147** | <span style="color: #004225; font-weight: bold;">4.19</span> | <span style="color: #DC143C; font-weight: bold;">33.38</span> |
 | **2019/06** | **11.69** | <span style="color: #32CD32; font-weight: bold;">-47.4</span> | <span style="color: #228B22; font-weight: bold;">-33.8</span> | **138** | <span style="color: #004225; font-weight: bold;">4.51</span> | <span style="color: #B22222; font-weight: bold;">30.6</span> |
-| **2019/05** | **10.43** | <span style="color: #32CD32; font-weight: bold;">-49.9</span> | <span style="color: #006400; font-weight: bold;">-29.4</span> | **130** | <span style="color: #004225; font-weight: bold;">4.51</span> | <span style="color: #8B0000; font-weight: bold;">26.19</span> |
+| **2019/05** | **10.43** | <span style="color: #32CD32; font-weight: bold;">-49.9</span> | <span style="color: #006400; font-weight: bold;">-29.4</span> | **130** | <span style="color: #004225; font-weight: bold;">4.51</span> | <span style="color: #B22222; font-weight: bold;">26.19</span> |
 | **2019/04** | **10.69** | <span style="color: #004225; font-weight: bold;">-19.4</span> | <span style="color: #006400; font-weight: bold;">-20.5</span> | **147.5** | <span style="color: #004225; font-weight: bold;">4.51</span> | <span style="color: #B22222; font-weight: bold;">27.23</span> |
 | **2019/03** | **9.8** | <span style="color: #006400; font-weight: bold;">-24</span> | <span style="color: #006400; font-weight: bold;">-20.9</span> | **146.5** | <span style="color: #002818; font-weight: bold;">5.87</span> | <span style="color: #8B0000; font-weight: bold;">24.96</span> |
 | **2019/02** | **8.02** | <span style="color: #006400; font-weight: bold;">-28.8</span> | <span style="color: #004225; font-weight: bold;">-19</span> | **128** | <span style="color: #002818; font-weight: bold;">5.87</span> | <span style="color: #002818; font-weight: bold;">21.38</span> |
@@ -180,7 +180,7 @@ description: 月營收表 致茂 (2360) - 自動產生
 | **2018/01** | **10.51** | <span style="color: #B22222; font-weight: bold;">+19.9</span> | <span style="color: #B22222; font-weight: bold;">+19.9</span> | **166** | <span style="color: #8B0000; font-weight: bold;">6.64</span> | <span style="color: #8B0000; font-weight: bold;">25.59</span> |
 | **2017/12** | **11.99** | <span style="color: #DC143C; font-weight: bold;">+27.6</span> | <span style="color: #DC143C; font-weight: bold;">+28.2</span> | **162** | <span style="color: #002818; font-weight: bold;">6.41</span> | <span style="color: #8B0000; font-weight: bold;">25.27</span> |
 | **2017/11** | **24.49** | <span style="color: #FF7F7F; font-weight: bold;">+138.2</span> | <span style="color: #DC143C; font-weight: bold;">+28.2</span> | **176.5** | <span style="color: #002818; font-weight: bold;">6.41</span> | <span style="color: #B22222; font-weight: bold;">29.38</span> |
-| **2017/10** | **15.66** | <span style="color: #FF7F7F; font-weight: bold;">+94.2</span> | <span style="color: #B22222; font-weight: bold;">+16.5</span> | **147** | <span style="color: #002818; font-weight: bold;">6.41</span> | <span style="color: #8B0000; font-weight: bold;">26.23</span> |
+| **2017/10** | **15.66** | <span style="color: #FF7F7F; font-weight: bold;">+94.2</span> | <span style="color: #B22222; font-weight: bold;">+16.5</span> | **147** | <span style="color: #002818; font-weight: bold;">6.41</span> | <span style="color: #B22222; font-weight: bold;">26.23</span> |
 | **2017/09** | **16.11** | <span style="color: #FF7F7F; font-weight: bold;">+52.2</span> | <span style="color: #8B0000; font-weight: bold;">+9.46</span> | **105.5** | <span style="color: #004225; font-weight: bold;">5.2</span> | <span style="color: #002818; font-weight: bold;">20.29</span> |
 | **2017/08** | **11.59** | <span style="color: #FF4500; font-weight: bold;">+31.7</span> | <span style="color: #8B0000; font-weight: bold;">+3.65</span> | **103.5** | <span style="color: #004225; font-weight: bold;">5.2</span> | <span style="color: #002818; font-weight: bold;">20.85</span> |
 | **2017/07** | **11.56** | <span style="color: #006400; font-weight: bold;">-28.6</span> | <span style="color: #8B0000; font-weight: bold;">+0.08</span> | **95.5** | <span style="color: #004225; font-weight: bold;">5.2</span> | <span style="color: #002818; font-weight: bold;">20.2</span> |
@@ -219,7 +219,7 @@ description: 月營收表 致茂 (2360) - 自動產生
 | **2014/10** | **8.14** | <span style="color: #002818; font-weight: bold;">-2.73</span> | <span style="color: #002818; font-weight: bold;">-0.71</span> | **75.7** | <span style="color: #006400; font-weight: bold;">3.52</span> | <span style="color: #8B0000; font-weight: bold;">21.97</span> |
 | **2014/09** | **9.6** | <span style="color: #B22222; font-weight: bold;">+12.5</span> | <span style="color: #002818; font-weight: bold;">-0.5</span> | **84.5** | <span style="color: #006400; font-weight: bold;">3.41</span> | <span style="color: #8B0000; font-weight: bold;">24.78</span> |
 | **2014/08** | **11.21** | <span style="color: #DC143C; font-weight: bold;">+29.1</span> | <span style="color: #002818; font-weight: bold;">-2.1</span> | **88** | <span style="color: #006400; font-weight: bold;">3.41</span> | <span style="color: #B22222; font-weight: bold;">27.33</span> |
-| **2014/07** | **9.85** | <span style="color: #8B0000; font-weight: bold;">+2.4</span> | <span style="color: #002818; font-weight: bold;">-6.61</span> | **80** | <span style="color: #006400; font-weight: bold;">3.41</span> | <span style="color: #8B0000; font-weight: bold;">26.4</span> |
+| **2014/07** | **9.85** | <span style="color: #8B0000; font-weight: bold;">+2.4</span> | <span style="color: #002818; font-weight: bold;">-6.61</span> | **80** | <span style="color: #006400; font-weight: bold;">3.41</span> | <span style="color: #B22222; font-weight: bold;">26.4</span> |
 | **2014/06** | **9.27** | <span style="color: #004225; font-weight: bold;">-17</span> | <span style="color: #002818; font-weight: bold;">-8.33</span> | **83.6** | <span style="color: #006400; font-weight: bold;">2.84</span> | <span style="color: #B22222; font-weight: bold;">29.44</span> |
 | **2014/05** | **8.35** | <span style="color: #002818; font-weight: bold;">-9.87</span> | <span style="color: #002818; font-weight: bold;">-5.87</span> | **74.9** | <span style="color: #006400; font-weight: bold;">2.84</span> | <span style="color: #8B0000; font-weight: bold;">25.51</span> |
 | **2014/04** | **8.66** | <span style="color: #8B0000; font-weight: bold;">+2.48</span> | <span style="color: #002818; font-weight: bold;">-4.64</span> | **77.7** | <span style="color: #006400; font-weight: bold;">2.84</span> | <span style="color: #8B0000; font-weight: bold;">25.62</span> |
@@ -235,10 +235,10 @@ description: 月營收表 致茂 (2360) - 自動產生
 | **2013/06** | **11.17** | <span style="color: #8B0000; font-weight: bold;">+0.03</span> | <span style="color: #004225; font-weight: bold;">-12.6</span> | **51** | <span style="color: #006400; font-weight: bold;">3.1</span> | <span style="color: #004225; font-weight: bold;">16.45</span> |
 | **2013/05** | **9.26** | <span style="color: #004225; font-weight: bold;">-11</span> | <span style="color: #004225; font-weight: bold;">-15.7</span> | **62** | <span style="color: #006400; font-weight: bold;">3.1</span> | <span style="color: #002818; font-weight: bold;">20.9</span> |
 | **2013/04** | **8.45** | <span style="color: #002818; font-weight: bold;">-9.34</span> | <span style="color: #004225; font-weight: bold;">-17</span> | **63.3** | <span style="color: #006400; font-weight: bold;">3.1</span> | <span style="color: #8B0000; font-weight: bold;">22.34</span> |
-| **2013/03** | **6.96** | <span style="color: #002818; font-weight: bold;">-5.27</span> | <span style="color: #004225; font-weight: bold;">-19.6</span> | **71.3** | <span style="color: #006400; font-weight: bold;">2.7</span> | <span style="color: #8B0000; font-weight: bold;">26.41</span> |
+| **2013/03** | **6.96** | <span style="color: #002818; font-weight: bold;">-5.27</span> | <span style="color: #004225; font-weight: bold;">-19.6</span> | **71.3** | <span style="color: #006400; font-weight: bold;">2.7</span> | <span style="color: #B22222; font-weight: bold;">26.41</span> |
 | **2013/02** | **7.4** | <span style="color: #006400; font-weight: bold;">-25.9</span> | <span style="color: #006400; font-weight: bold;">-25</span> | **68.1** | <span style="color: #006400; font-weight: bold;">2.7</span> | <span style="color: #8B0000; font-weight: bold;">26.01</span> |
 | **2013/01** | **7.31** | <span style="color: #006400; font-weight: bold;">-24.1</span> | <span style="color: #006400; font-weight: bold;">-24.1</span> | **63.3** | <span style="color: #006400; font-weight: bold;">2.7</span> | <span style="color: #8B0000; font-weight: bold;">24.96</span> |
-| **2012/12** | **-** | N/A | N/A | **64.7** | <span style="color: #006400; font-weight: bold;">2.45</span> | <span style="color: #8B0000; font-weight: bold;">26.37</span> |
+| **2012/12** | **-** | N/A | N/A | **64.7** | <span style="color: #006400; font-weight: bold;">2.45</span> | <span style="color: #B22222; font-weight: bold;">26.37</span> |
 | **2012/11** | **-** | N/A | N/A | **67** | <span style="color: #006400; font-weight: bold;">2.45</span> | <span style="color: #B22222; font-weight: bold;">27.58</span> |
 | **2012/10** | **-** | N/A | N/A | **55.6** | <span style="color: #006400; font-weight: bold;">2.45</span> | <span style="color: #8B0000; font-weight: bold;">23.12</span> |
 | **2012/09** | **-** | N/A | N/A | **61.7** | <span style="color: #006400; font-weight: bold;">2.38</span> | <span style="color: #8B0000; font-weight: bold;">25.92</span> |
@@ -277,7 +277,7 @@ description: 月營收表 致茂 (2360) - 自動產生
 | **2009/12** | **-** | N/A | N/A | **72.7** | <span style="color: #006400; font-weight: bold;">2.5</span> | <span style="color: #B22222; font-weight: bold;">29.08</span> |
 | **2009/11** | **-** | N/A | N/A | **66.8** | <span style="color: #006400; font-weight: bold;">2.5</span> | <span style="color: #B22222; font-weight: bold;">30.55</span> |
 | **2009/10** | **-** | N/A | N/A | **63.7** | <span style="color: #006400; font-weight: bold;">2.5</span> | <span style="color: #DC143C; font-weight: bold;">34.0</span> |
-| **2009/09** | **-** | N/A | N/A | **62.7** | <span style="color: #228B22; font-weight: bold;">1.56</span> | <span style="color: #FF4500; font-weight: bold;">40.19</span> |
+| **2009/09** | **-** | N/A | N/A | **62.7** | <span style="color: #228B22; font-weight: bold;">1.56</span> | <span style="color: #FF6347; font-weight: bold;">40.19</span> |
 | **2009/08** | **-** | N/A | N/A | **44.65** | <span style="color: #228B22; font-weight: bold;">1.56</span> | <span style="color: #B22222; font-weight: bold;">27.23</span> |
 | **2009/07** | **-** | N/A | N/A | **50.5** | <span style="color: #228B22; font-weight: bold;">1.56</span> | <span style="color: #B22222; font-weight: bold;">29.36</span> |
 | **2009/06** | **-** | N/A | N/A | **34** | <span style="color: #228B22; font-weight: bold;">1.8</span> | <span style="color: #002818; font-weight: bold;">18.89</span> |
@@ -414,7 +414,7 @@ description: 月營收表 致茂 (2360) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-21 22:31:23 CST
+- **產生時間**: 2026-04-22 01:46:35 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

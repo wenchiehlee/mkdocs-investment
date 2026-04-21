@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-21
+date: 2026-04-22
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 啟碁 (6285) - 自動產生
     **:building_construction: 公司名稱**: 啟碁  
     **:identification_card: 股票代號**: 6285  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-21 22:31:23 CST
+    **:clock3: 更新時間**: 2026-04-22 01:46:35 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 啟碁 (6285) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **3.95** | **5.38** | **7.22** |
-| **P/E倍數** | **11.89** | **15.26** | **20.20** |
+| **P/E倍數** | **11.89** | **15.25** | **20.08** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 啟碁 歷史平均獲利能力 (σup=1.84, σlo=1.43)
-    - **P/Ebase**: 啟碁 歷史平均估值水準 (σup=4.94, σlo=3.37)
+    - **P/Ebase**: 啟碁 歷史平均估值水準 (σup=4.83, σlo=3.36)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -140,13 +140,13 @@ description: 月營收表 啟碁 (6285) - 自動產生
 | **2021/05** | **52.8** | <span style="color: #8B0000; font-weight: bold;">+8.42</span> | <span style="color: #B22222; font-weight: bold;">+11.3</span> | **66.2** | <span style="color: #006400; font-weight: bold;">3.54</span> | <span style="color: #B22222; font-weight: bold;">18.25</span> |
 | **2021/04** | **51.37** | <span style="color: #8B0000; font-weight: bold;">+4.59</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **74.4** | <span style="color: #006400; font-weight: bold;">3.54</span> | <span style="color: #B22222; font-weight: bold;">20.04</span> |
 | **2021/03** | **57.47** | <span style="color: #B22222; font-weight: bold;">+18.2</span> | <span style="color: #B22222; font-weight: bold;">+14.8</span> | **74.5** | <span style="color: #006400; font-weight: bold;">3.8</span> | <span style="color: #B22222; font-weight: bold;">19.61</span> |
-| **2021/02** | **41.84** | <span style="color: #B22222; font-weight: bold;">+16.3</span> | <span style="color: #B22222; font-weight: bold;">+12.8</span> | **76.3** | <span style="color: #006400; font-weight: bold;">3.8</span> | <span style="color: #B22222; font-weight: bold;">20.15</span> |
-| **2021/01** | **54.12** | <span style="color: #B22222; font-weight: bold;">+10.3</span> | <span style="color: #B22222; font-weight: bold;">+10.3</span> | **75.8** | <span style="color: #006400; font-weight: bold;">3.8</span> | <span style="color: #B22222; font-weight: bold;">20.09</span> |
+| **2021/02** | **41.84** | <span style="color: #B22222; font-weight: bold;">+16.3</span> | <span style="color: #B22222; font-weight: bold;">+12.8</span> | **76.3** | <span style="color: #006400; font-weight: bold;">3.8</span> | <span style="color: #DC143C; font-weight: bold;">20.15</span> |
+| **2021/01** | **54.12** | <span style="color: #B22222; font-weight: bold;">+10.3</span> | <span style="color: #B22222; font-weight: bold;">+10.3</span> | **75.8** | <span style="color: #006400; font-weight: bold;">3.8</span> | <span style="color: #DC143C; font-weight: bold;">20.09</span> |
 | **2020/12** | **59.35** | <span style="color: #8B0000; font-weight: bold;">+8.93</span> | <span style="color: #8B0000; font-weight: bold;">+0.65</span> | **77.7** | <span style="color: #006400; font-weight: bold;">3.76</span> | <span style="color: #DC143C; font-weight: bold;">20.66</span> |
 | **2020/11** | **56.79** | <span style="color: #8B0000; font-weight: bold;">+7.62</span> | <span style="color: #002818; font-weight: bold;">-0.13</span> | **82.7** | <span style="color: #006400; font-weight: bold;">3.76</span> | <span style="color: #DC143C; font-weight: bold;">22.31</span> |
 | **2020/10** | **54.81** | <span style="color: #8B0000; font-weight: bold;">+2.77</span> | <span style="color: #002818; font-weight: bold;">-0.93</span> | **75.5** | <span style="color: #006400; font-weight: bold;">3.76</span> | <span style="color: #DC143C; font-weight: bold;">20.67</span> |
 | **2020/09** | **58.94** | <span style="color: #8B0000; font-weight: bold;">+0.96</span> | <span style="color: #002818; font-weight: bold;">-1.35</span> | **76.4** | <span style="color: #006400; font-weight: bold;">3.6</span> | <span style="color: #DC143C; font-weight: bold;">21.22</span> |
-| **2020/08** | **56.06** | <span style="color: #002818; font-weight: bold;">-5.23</span> | <span style="color: #002818; font-weight: bold;">-1.69</span> | **82.5** | <span style="color: #006400; font-weight: bold;">3.6</span> | <span style="color: #DC143C; font-weight: bold;">22.5</span> |
+| **2020/08** | **56.06** | <span style="color: #002818; font-weight: bold;">-5.23</span> | <span style="color: #002818; font-weight: bold;">-1.69</span> | **82.5** | <span style="color: #006400; font-weight: bold;">3.6</span> | <span style="color: #FF4500; font-weight: bold;">22.5</span> |
 | **2020/07** | **56.08** | <span style="color: #002818; font-weight: bold;">-6.31</span> | <span style="color: #002818; font-weight: bold;">-1.08</span> | **64.3** | <span style="color: #006400; font-weight: bold;">3.6</span> | <span style="color: #8B0000; font-weight: bold;">17.22</span> |
 | **2020/06** | **52.98** | <span style="color: #8B0000; font-weight: bold;">+1.45</span> | <span style="color: #8B0000; font-weight: bold;">+0.01</span> | **64.4** | <span style="color: #006400; font-weight: bold;">3.8</span> | <span style="color: #8B0000; font-weight: bold;">16.95</span> |
 | **2020/05** | **48.7** | <span style="color: #002818; font-weight: bold;">-2.09</span> | <span style="color: #002818; font-weight: bold;">-0.31</span> | **63.2** | <span style="color: #006400; font-weight: bold;">3.8</span> | <span style="color: #8B0000; font-weight: bold;">16.75</span> |
@@ -257,7 +257,7 @@ description: 月營收表 啟碁 (6285) - 自動產生
 | **2011/08** | **34.9** | <span style="color: #FF6347; font-weight: bold;">+48.2</span> | <span style="color: #FF6347; font-weight: bold;">+45</span> | **74.1** | <span style="color: #B22222; font-weight: bold;">6.44</span> | <span style="color: #006400; font-weight: bold;">11.6</span> |
 | **2011/07** | **28.81** | <span style="color: #FF4500; font-weight: bold;">+33.4</span> | <span style="color: #FF6347; font-weight: bold;">+44.4</span> | **102** | <span style="color: #B22222; font-weight: bold;">6.44</span> | <span style="color: #8B0000; font-weight: bold;">16.09</span> |
 | **2011/06** | **27.53** | <span style="color: #B22222; font-weight: bold;">+18.9</span> | <span style="color: #FF6347; font-weight: bold;">+46.6</span> | **90** | <span style="color: #8B0000; font-weight: bold;">6.29</span> | <span style="color: #002818; font-weight: bold;">14.31</span> |
-| **2011/05** | **27.78** | <span style="color: #FF4500; font-weight: bold;">+31.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+54.4</span> | **111.5** | <span style="color: #8B0000; font-weight: bold;">6.29</span> | <span style="color: #8B0000; font-weight: bold;">17.72</span> |
+| **2011/05** | **27.78** | <span style="color: #FF4500; font-weight: bold;">+31.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+54.4</span> | **111.5** | <span style="color: #8B0000; font-weight: bold;">6.29</span> | <span style="color: #B22222; font-weight: bold;">17.72</span> |
 | **2011/04** | **24.78** | <span style="color: #FF6347; font-weight: bold;">+48.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+62.4</span> | **110** | <span style="color: #8B0000; font-weight: bold;">6.29</span> | <span style="color: #8B0000; font-weight: bold;">17.47</span> |
 | **2011/03** | **28.85** | <span style="color: #FF7F7F; font-weight: bold;">+67.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+67.3</span> | **97.8** | <span style="color: #8B0000; font-weight: bold;">6.3</span> | <span style="color: #8B0000; font-weight: bold;">15.52</span> |
 | **2011/02** | **18.45** | <span style="color: #FF6347; font-weight: bold;">+48.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+67</span> | **97.5** | <span style="color: #8B0000; font-weight: bold;">6.3</span> | <span style="color: #8B0000; font-weight: bold;">15.79</span> |
@@ -414,7 +414,7 @@ description: 月營收表 啟碁 (6285) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-21 22:31:23 CST
+- **產生時間**: 2026-04-22 01:46:35 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

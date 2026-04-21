@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-21
+date: 2026-04-22
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 祥碩 (5269) - 自動產生
     **:building_construction: 公司名稱**: 祥碩  
     **:identification_card: 股票代號**: 5269  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-21 22:31:23 CST
+    **:clock3: 更新時間**: 2026-04-22 01:46:35 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 祥碩 (5269) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **6.62** | **24.97** | **49.49** |
-| **P/E倍數** | **25.87** | **37.76** | **51.30** |
+| **P/E倍數** | **25.86** | **37.76** | **51.30** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 祥碩 歷史平均獲利能力 (σup=24.52, σlo=18.35)
-    - **P/Ebase**: 祥碩 歷史平均估值水準 (σup=13.54, σlo=11.89)
+    - **P/Ebase**: 祥碩 歷史平均估值水準 (σup=13.54, σlo=11.90)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -120,7 +120,7 @@ description: 月營收表 祥碩 (5269) - 自動產生
 | **2023/01** | **3.49** | <span style="color: #228B22; font-weight: bold;">-39.6</span> | <span style="color: #228B22; font-weight: bold;">-39.6</span> | **893** | <span style="color: #8B0000; font-weight: bold;">31.21</span> | <span style="color: #006400; font-weight: bold;">25.05</span> |
 | **2022/12** | **3.73** | <span style="color: #002818; font-weight: bold;">-0.89</span> | <span style="color: #004225; font-weight: bold;">-12.6</span> | **670** | <span style="color: #B22222; font-weight: bold;">37.86</span> | <span style="color: #228B22; font-weight: bold;">17.7</span> |
 | **2022/11** | **3.07** | <span style="color: #004225; font-weight: bold;">-19</span> | <span style="color: #004225; font-weight: bold;">-13.4</span> | **741** | <span style="color: #B22222; font-weight: bold;">37.86</span> | <span style="color: #228B22; font-weight: bold;">18.63</span> |
-| **2022/10** | **3.28** | <span style="color: #006400; font-weight: bold;">-21.2</span> | <span style="color: #004225; font-weight: bold;">-13</span> | **582** | <span style="color: #B22222; font-weight: bold;">37.86</span> | <span style="color: #32CD32; font-weight: bold;">13.97</span> |
+| **2022/10** | **3.28** | <span style="color: #006400; font-weight: bold;">-21.2</span> | <span style="color: #004225; font-weight: bold;">-13</span> | **582** | <span style="color: #B22222; font-weight: bold;">37.86</span> | <span style="color: #228B22; font-weight: bold;">13.97</span> |
 | **2022/09** | **4.37** | <span style="color: #006400; font-weight: bold;">-21.7</span> | <span style="color: #004225; font-weight: bold;">-12.3</span> | **664** | <span style="color: #B22222; font-weight: bold;">43.58</span> | <span style="color: #228B22; font-weight: bold;">15.24</span> |
 | **2022/08** | **4.51** | <span style="color: #006400; font-weight: bold;">-20.5</span> | <span style="color: #004225; font-weight: bold;">-11.1</span> | **935** | <span style="color: #B22222; font-weight: bold;">43.58</span> | <span style="color: #006400; font-weight: bold;">20.85</span> |
 | **2022/07** | **4.49** | <span style="color: #228B22; font-weight: bold;">-32</span> | <span style="color: #002818; font-weight: bold;">-9.68</span> | **973** | <span style="color: #B22222; font-weight: bold;">43.58</span> | <span style="color: #006400; font-weight: bold;">21.1</span> |
@@ -346,7 +346,7 @@ description: 月營收表 祥碩 (5269) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-21 22:31:23 CST
+- **產生時間**: 2026-04-22 01:46:35 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

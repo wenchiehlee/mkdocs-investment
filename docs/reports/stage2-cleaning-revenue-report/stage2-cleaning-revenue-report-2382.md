@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-21
+date: 2026-04-22
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 廣達 (2382) - 自動產生
     **:building_construction: 公司名稱**: 廣達  
     **:identification_card: 股票代號**: 2382  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-21 22:31:23 CST
+    **:clock3: 更新時間**: 2026-04-22 01:46:35 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,7 +63,7 @@ description: 月營收表 廣達 (2382) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **4.69** | **6.74** | **13.51** |
-| **P/E倍數** | **10.24** | **13.47** | **17.52** |
+| **P/E倍數** | **10.24** | **13.47** | **17.53** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
@@ -98,7 +98,7 @@ description: 月營收表 廣達 (2382) - 自動產生
 | **2024/11** | **1414** | <span style="color: #FF4500; font-weight: bold;">+36.4</span> | <span style="color: #DC143C; font-weight: bold;">+28</span> | **291** | <span style="color: #DC143C; font-weight: bold;">15.49</span> | <span style="color: #DC143C; font-weight: bold;">19.39</span> |
 | **2024/10** | **1359** | <span style="color: #FF6347; font-weight: bold;">+48.7</span> | <span style="color: #DC143C; font-weight: bold;">+27</span> | **303.5** | <span style="color: #DC143C; font-weight: bold;">15.49</span> | <span style="color: #FF4500; font-weight: bold;">20.9</span> |
 | **2024/09** | **1551** | <span style="color: #FF7F7F; font-weight: bold;">+57.8</span> | <span style="color: #DC143C; font-weight: bold;">+24.5</span> | **264** | <span style="color: #DC143C; font-weight: bold;">14.04</span> | <span style="color: #DC143C; font-weight: bold;">18.8</span> |
-| **2024/08** | **1452** | <span style="color: #FF6347; font-weight: bold;">+43.2</span> | <span style="color: #B22222; font-weight: bold;">+19.8</span> | **268** | <span style="color: #DC143C; font-weight: bold;">14.04</span> | <span style="color: #FF4500; font-weight: bold;">19.55</span> |
+| **2024/08** | **1452** | <span style="color: #FF6347; font-weight: bold;">+43.2</span> | <span style="color: #B22222; font-weight: bold;">+19.8</span> | **268** | <span style="color: #DC143C; font-weight: bold;">14.04</span> | <span style="color: #DC143C; font-weight: bold;">19.55</span> |
 | **2024/07** | **1243** | <span style="color: #FF6347; font-weight: bold;">+43</span> | <span style="color: #B22222; font-weight: bold;">+15.9</span> | **272.5** | <span style="color: #DC143C; font-weight: bold;">14.04</span> | <span style="color: #FF4500; font-weight: bold;">20.37</span> |
 | **2024/06** | **1113** | <span style="color: #DC143C; font-weight: bold;">+23.4</span> | <span style="color: #B22222; font-weight: bold;">+11.3</span> | **312** | <span style="color: #B22222; font-weight: bold;">13.05</span> | <span style="color: #FF6347; font-weight: bold;">23.91</span> |
 | **2024/05** | **1013** | <span style="color: #FF4500; font-weight: bold;">+31.5</span> | <span style="color: #8B0000; font-weight: bold;">+8.67</span> | **274** | <span style="color: #B22222; font-weight: bold;">13.05</span> | <span style="color: #FF6347; font-weight: bold;">21.72</span> |
@@ -414,7 +414,7 @@ description: 月營收表 廣達 (2382) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-21 22:31:23 CST
+- **產生時間**: 2026-04-22 01:46:35 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

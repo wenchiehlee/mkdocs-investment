@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-21
+date: 2026-04-22
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 台達電 (2308) - 自動產生
     **:building_construction: 公司名稱**: 台達電  
     **:identification_card: 股票代號**: 2308  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-21 22:31:23 CST
+    **:clock3: 更新時間**: 2026-04-22 01:46:35 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 台達電 (2308) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **6.25** | **8.68** | **14.60** |
-| **P/E倍數** | **17.21** | **21.76** | **32.17** |
+| **P/E倍數** | **17.22** | **21.80** | **32.62** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 台達電 歷史平均獲利能力 (σup=5.92, σlo=2.43)
-    - **P/Ebase**: 台達電 歷史平均估值水準 (σup=10.40, σlo=4.55)
+    - **P/Ebase**: 台達電 歷史平均估值水準 (σup=10.82, σlo=4.58)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -83,11 +83,11 @@ description: 月營收表 台達電 (2308) - 自動產生
 | **2026/02** | **499** | <span style="color: #FF4500; font-weight: bold;">+31</span> | <span style="color: #FF4500; font-weight: bold;">+31.9</span> | **1430** | <span style="color: #FF6347; font-weight: bold;">23.14</span> | <span style="color: #FF7F7F; font-weight: bold;">61.8</span> |
 | **2026/01** | **496.8** | <span style="color: #FF4500; font-weight: bold;">+32.9</span> | <span style="color: #FF4500; font-weight: bold;">+32.9</span> | **1220** | <span style="color: #FF6347; font-weight: bold;">23.14</span> | <span style="color: #FF6347; font-weight: bold;">52.72</span> |
 | **2025/12** | **536.9** | <span style="color: #FF4500; font-weight: bold;">+38.6</span> | <span style="color: #FF4500; font-weight: bold;">+31.8</span> | **963** | <span style="color: #FF6347; font-weight: bold;">23.14</span> | <span style="color: #FF4500; font-weight: bold;">41.62</span> |
-| **2025/11** | **505.4** | <span style="color: #FF4500; font-weight: bold;">+37.9</span> | <span style="color: #FF4500; font-weight: bold;">+31.1</span> | **932** | <span style="color: #FF6347; font-weight: bold;">23.14</span> | <span style="color: #FF6347; font-weight: bold;">42.68</span> |
+| **2025/11** | **505.4** | <span style="color: #FF4500; font-weight: bold;">+37.9</span> | <span style="color: #FF4500; font-weight: bold;">+31.1</span> | **932** | <span style="color: #FF6347; font-weight: bold;">23.14</span> | <span style="color: #FF4500; font-weight: bold;">42.68</span> |
 | **2025/10** | **573.8** | <span style="color: #FF6347; font-weight: bold;">+47.8</span> | <span style="color: #FF4500; font-weight: bold;">+30.3</span> | **995** | <span style="color: #FF6347; font-weight: bold;">23.14</span> | <span style="color: #FF6347; font-weight: bold;">48.46</span> |
 | **2025/09** | **570.6** | <span style="color: #FF7F7F; font-weight: bold;">+53.8</span> | <span style="color: #DC143C; font-weight: bold;">+28.1</span> | **854** | <span style="color: #FF4500; font-weight: bold;">19.23</span> | <span style="color: #FF6347; font-weight: bold;">44.41</span> |
 | **2025/08** | **478.6** | <span style="color: #DC143C; font-weight: bold;">+26.7</span> | <span style="color: #DC143C; font-weight: bold;">+24.6</span> | **711** | <span style="color: #FF4500; font-weight: bold;">19.23</span> | <span style="color: #FF4500; font-weight: bold;">38.59</span> |
-| **2025/07** | **454** | <span style="color: #DC143C; font-weight: bold;">+21.6</span> | <span style="color: #DC143C; font-weight: bold;">+24.2</span> | **567** | <span style="color: #FF4500; font-weight: bold;">19.23</span> | <span style="color: #DC143C; font-weight: bold;">32.17</span> |
+| **2025/07** | **454** | <span style="color: #DC143C; font-weight: bold;">+21.6</span> | <span style="color: #DC143C; font-weight: bold;">+24.2</span> | **567** | <span style="color: #FF4500; font-weight: bold;">19.23</span> | <span style="color: #B22222; font-weight: bold;">32.17</span> |
 | **2025/06** | **422.1** | <span style="color: #DC143C; font-weight: bold;">+21.2</span> | <span style="color: #DC143C; font-weight: bold;">+24.8</span> | **413** | <span style="color: #DC143C; font-weight: bold;">16.82</span> | <span style="color: #8B0000; font-weight: bold;">24.55</span> |
 | **2025/05** | **410.4** | <span style="color: #B22222; font-weight: bold;">+17</span> | <span style="color: #DC143C; font-weight: bold;">+25.5</span> | **374** | <span style="color: #DC143C; font-weight: bold;">16.82</span> | <span style="color: #8B0000; font-weight: bold;">22.93</span> |
 | **2025/04** | **407.8** | <span style="color: #DC143C; font-weight: bold;">+21.6</span> | <span style="color: #DC143C; font-weight: bold;">+27.9</span> | **333.5** | <span style="color: #DC143C; font-weight: bold;">16.82</span> | <span style="color: #002818; font-weight: bold;">21.11</span> |
@@ -414,7 +414,7 @@ description: 月營收表 台達電 (2308) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-21 22:31:23 CST
+- **產生時間**: 2026-04-22 01:46:35 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-21
+date: 2026-04-22
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 朋億 (6613) - 自動產生
     **:building_construction: 公司名稱**: 朋億  
     **:identification_card: 股票代號**: 6613  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-21 22:31:23 CST
+    **:clock3: 更新時間**: 2026-04-22 01:46:35 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 朋億 (6613) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **12.37** | **14.61** | **17.38** |
-| **P/E倍數** | **8.85** | **10.78** | **13.30** |
+| **P/E倍數** | **8.87** | **10.79** | **13.39** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 朋億 歷史平均獲利能力 (σup=2.77, σlo=2.24)
-    - **P/Ebase**: 朋億 歷史平均估值水準 (σup=2.52, σlo=1.94)
+    - **P/Ebase**: 朋億 歷史平均估值水準 (σup=2.60, σlo=1.93)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -100,7 +100,7 @@ description: 月營收表 朋億 (6613) - 自動產生
 | **2024/09** | **10.91** | <span style="color: #FF6347; font-weight: bold;">+41.6</span> | <span style="color: #B22222; font-weight: bold;">+14.1</span> | **158** | <span style="color: #8B0000; font-weight: bold;">15.92</span> | <span style="color: #002818; font-weight: bold;">9.92</span> |
 | **2024/08** | **9.13** | <span style="color: #B22222; font-weight: bold;">+12.2</span> | <span style="color: #B22222; font-weight: bold;">+10.3</span> | **153** | <span style="color: #8B0000; font-weight: bold;">15.92</span> | <span style="color: #002818; font-weight: bold;">10.2</span> |
 | **2024/07** | **7.46** | <span style="color: #002818; font-weight: bold;">-10</span> | <span style="color: #B22222; font-weight: bold;">+10</span> | **161** | <span style="color: #8B0000; font-weight: bold;">15.92</span> | <span style="color: #8B0000; font-weight: bold;">11.42</span> |
-| **2024/06** | **6.18** | <span style="color: #228B22; font-weight: bold;">-33</span> | <span style="color: #B22222; font-weight: bold;">+14.1</span> | **192.5** | <span style="color: #004225; font-weight: bold;">13.18</span> | <span style="color: #FF4500; font-weight: bold;">14.61</span> |
+| **2024/06** | **6.18** | <span style="color: #228B22; font-weight: bold;">-33</span> | <span style="color: #B22222; font-weight: bold;">+14.1</span> | **192.5** | <span style="color: #004225; font-weight: bold;">13.18</span> | <span style="color: #DC143C; font-weight: bold;">14.61</span> |
 | **2024/05** | **7.88** | <span style="color: #8B0000; font-weight: bold;">+0.51</span> | <span style="color: #DC143C; font-weight: bold;">+28</span> | **202.5** | <span style="color: #004225; font-weight: bold;">13.18</span> | <span style="color: #DC143C; font-weight: bold;">14.38</span> |
 | **2024/04** | **9.61** | <span style="color: #DC143C; font-weight: bold;">+24.8</span> | <span style="color: #FF4500; font-weight: bold;">+37.3</span> | **203.5** | <span style="color: #004225; font-weight: bold;">13.18</span> | <span style="color: #DC143C; font-weight: bold;">13.57</span> |
 | **2024/03** | **8.8** | <span style="color: #FF4500; font-weight: bold;">+37.4</span> | <span style="color: #FF6347; font-weight: bold;">+43.4</span> | **186.5** | <span style="color: #8B0000; font-weight: bold;">15.9</span> | <span style="color: #8B0000; font-weight: bold;">11.73</span> |
@@ -155,12 +155,12 @@ description: 月營收表 朋億 (6613) - 自動產生
 | **2020/02** | **2.59** | <span style="color: #FF4500; font-weight: bold;">+30</span> | <span style="color: #006400; font-weight: bold;">-25.7</span> | **152.5** | <span style="color: #004225; font-weight: bold;">12.75</span> | <span style="color: #8B0000; font-weight: bold;">11.39</span> |
 | **2020/01** | **2.93** | <span style="color: #32CD32; font-weight: bold;">-46.1</span> | <span style="color: #32CD32; font-weight: bold;">-46.1</span> | **151** | <span style="color: #004225; font-weight: bold;">12.75</span> | <span style="color: #002818; font-weight: bold;">10.77</span> |
 | **2019/12** | **3.47** | <span style="color: #8B0000; font-weight: bold;">+1.8</span> | <span style="color: #002818; font-weight: bold;">-9.46</span> | **166** | <span style="color: #8B0000; font-weight: bold;">14.65</span> | <span style="color: #8B0000; font-weight: bold;">11.33</span> |
-| **2019/11** | **4.56** | <span style="color: #FF7F7F; font-weight: bold;">+81.3</span> | <span style="color: #004225; font-weight: bold;">-10.3</span> | **155.5** | <span style="color: #8B0000; font-weight: bold;">14.65</span> | <span style="color: #8B0000; font-weight: bold;">10.79</span> |
+| **2019/11** | **4.56** | <span style="color: #FF7F7F; font-weight: bold;">+81.3</span> | <span style="color: #004225; font-weight: bold;">-10.3</span> | **155.5** | <span style="color: #8B0000; font-weight: bold;">14.65</span> | <span style="color: #002818; font-weight: bold;">10.79</span> |
 | **2019/10** | **2.98** | <span style="color: #002818; font-weight: bold;">-9.15</span> | <span style="color: #004225; font-weight: bold;">-15.7</span> | **150.5** | <span style="color: #8B0000; font-weight: bold;">14.65</span> | <span style="color: #002818; font-weight: bold;">10.61</span> |
 | **2019/09** | **4.27** | <span style="color: #002818; font-weight: bold;">-9.59</span> | <span style="color: #004225; font-weight: bold;">-16.2</span> | **149.5** | <span style="color: #002818; font-weight: bold;">13.95</span> | <span style="color: #002818; font-weight: bold;">10.72</span> |
 | **2019/08** | **3.43** | <span style="color: #002818; font-weight: bold;">-1.11</span> | <span style="color: #004225; font-weight: bold;">-17.1</span> | **146** | <span style="color: #002818; font-weight: bold;">13.95</span> | <span style="color: #002818; font-weight: bold;">10.64</span> |
 | **2019/07** | **2.97** | <span style="color: #DC143C; font-weight: bold;">+22.3</span> | <span style="color: #004225; font-weight: bold;">-18.9</span> | **152** | <span style="color: #002818; font-weight: bold;">13.95</span> | <span style="color: #8B0000; font-weight: bold;">11.27</span> |
-| **2019/06** | **2.11** | <span style="color: #90EE90; font-weight: bold;">-64.3</span> | <span style="color: #006400; font-weight: bold;">-22.4</span> | **160** | <span style="color: #004225; font-weight: bold;">13.25</span> | <span style="color: #B22222; font-weight: bold;">12.08</span> |
+| **2019/06** | **2.11** | <span style="color: #90EE90; font-weight: bold;">-64.3</span> | <span style="color: #006400; font-weight: bold;">-22.4</span> | **160** | <span style="color: #004225; font-weight: bold;">13.25</span> | <span style="color: #8B0000; font-weight: bold;">12.08</span> |
 | **2019/05** | **4.14** | <span style="color: #004225; font-weight: bold;">-15.4</span> | <span style="color: #004225; font-weight: bold;">-11.6</span> | **176** | <span style="color: #004225; font-weight: bold;">13.25</span> | <span style="color: #8B0000; font-weight: bold;">11.7</span> |
 | **2019/04** | **3.87** | <span style="color: #006400; font-weight: bold;">-25.3</span> | <span style="color: #004225; font-weight: bold;">-10.5</span> | **171** | <span style="color: #004225; font-weight: bold;">13.25</span> | <span style="color: #002818; font-weight: bold;">10.16</span> |
 | **2019/03** | **4.83** | <span style="color: #004225; font-weight: bold;">-19.9</span> | <span style="color: #002818; font-weight: bold;">-4.57</span> | **171** | <span style="color: #DC143C; font-weight: bold;">18.61</span> | <span style="color: #004225; font-weight: bold;">9.19</span> |
@@ -175,7 +175,7 @@ description: 月營收表 朋億 (6613) - 自動產生
 | **2018/06** | **5.92** | <span style="color: #FF7F7F; font-weight: bold;">+110.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+98.7</span> | **175.5** | <span style="color: #B22222; font-weight: bold;">16.39</span> | <span style="color: #002818; font-weight: bold;">10.71</span> |
 | **2018/05** | **4.89** | <span style="color: #FF7F7F; font-weight: bold;">+137.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+95.9</span> | **182.5** | <span style="color: #B22222; font-weight: bold;">16.39</span> | <span style="color: #B22222; font-weight: bold;">12.27</span> |
 | **2018/04** | **5.18** | <span style="color: #FF7F7F; font-weight: bold;">+600.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+87.1</span> | **203** | <span style="color: #B22222; font-weight: bold;">16.39</span> | <span style="color: #FF4500; font-weight: bold;">15.21</span> |
-| **2018/03** | **6.03** | <span style="color: #FF7F7F; font-weight: bold;">+97.8</span> | <span style="color: #FF6347; font-weight: bold;">+44.4</span> | **188** | <span style="color: #006400; font-weight: bold;">11.83</span> | <span style="color: #FF6347; font-weight: bold;">15.89</span> |
+| **2018/03** | **6.03** | <span style="color: #FF7F7F; font-weight: bold;">+97.8</span> | <span style="color: #FF6347; font-weight: bold;">+44.4</span> | **188** | <span style="color: #006400; font-weight: bold;">11.83</span> | <span style="color: #FF4500; font-weight: bold;">15.89</span> |
 | **2018/02** | **2.8** | <span style="color: #004225; font-weight: bold;">-13.7</span> | <span style="color: #B22222; font-weight: bold;">+16.6</span> | **183.5** | <span style="color: #006400; font-weight: bold;">11.83</span> | <span style="color: #DC143C; font-weight: bold;">14.21</span> |
 | **2018/01** | **4.02** | <span style="color: #FF7F7F; font-weight: bold;">+54.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+54.1</span> | **171.5** | <span style="color: #006400; font-weight: bold;">11.83</span> | <span style="color: #B22222; font-weight: bold;">12.26</span> |
 | **2017/12** | **4.01** | <span style="color: #FF7F7F; font-weight: bold;">+165.6</span> | <span style="color: #DC143C; font-weight: bold;">+26.1</span> | **179** | <span style="color: #8B0000; font-weight: bold;">15.07</span> | <span style="color: #8B0000; font-weight: bold;">11.88</span> |
@@ -288,7 +288,7 @@ description: 月營收表 朋億 (6613) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-21 22:31:23 CST
+- **產生時間**: 2026-04-22 01:46:35 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

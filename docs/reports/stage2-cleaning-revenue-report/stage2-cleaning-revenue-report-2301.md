@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-21
+date: 2026-04-22
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 光寶科 (2301) - 自動產生
     **:building_construction: 公司名稱**: 光寶科  
     **:identification_card: 股票代號**: 2301  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-21 22:31:23 CST
+    **:clock3: 更新時間**: 2026-04-22 01:46:35 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 光寶科 (2301) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **2.70** | **3.96** | **5.57** |
-| **P/E倍數** | **11.47** | **14.77** | **27.91** |
+| **P/E倍數** | **11.47** | **14.78** | **27.93** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 光寶科 歷史平均獲利能力 (σup=1.61, σlo=1.26)
-    - **P/Ebase**: 光寶科 歷史平均估值水準 (σup=13.13, σlo=3.31)
+    - **P/Ebase**: 光寶科 歷史平均估值水準 (σup=13.15, σlo=3.31)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -86,7 +86,7 @@ description: 月營收表 光寶科 (2301) - 自動產生
 | **2025/11** | **142.5** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #DC143C; font-weight: bold;">+22.2</span> | **159** | <span style="color: #FF4500; font-weight: bold;">6.64</span> | <span style="color: #B22222; font-weight: bold;">24.39</span> |
 | **2025/10** | **152** | <span style="color: #DC143C; font-weight: bold;">+22.6</span> | <span style="color: #DC143C; font-weight: bold;">+23.1</span> | **179.5** | <span style="color: #FF4500; font-weight: bold;">6.64</span> | <span style="color: #DC143C; font-weight: bold;">28.05</span> |
 | **2025/09** | **154.3** | <span style="color: #FF4500; font-weight: bold;">+30.2</span> | <span style="color: #DC143C; font-weight: bold;">+23.2</span> | **172.5** | <span style="color: #DC143C; font-weight: bold;">6.28</span> | <span style="color: #B22222; font-weight: bold;">27.47</span> |
-| **2025/08** | **156.5** | <span style="color: #DC143C; font-weight: bold;">+29.8</span> | <span style="color: #DC143C; font-weight: bold;">+22.2</span> | **130** | <span style="color: #DC143C; font-weight: bold;">6.28</span> | <span style="color: #B22222; font-weight: bold;">21.35</span> |
+| **2025/08** | **156.5** | <span style="color: #DC143C; font-weight: bold;">+29.8</span> | <span style="color: #DC143C; font-weight: bold;">+22.2</span> | **130** | <span style="color: #DC143C; font-weight: bold;">6.28</span> | <span style="color: #8B0000; font-weight: bold;">21.35</span> |
 | **2025/07** | **138.1** | <span style="color: #8B0000; font-weight: bold;">+7.35</span> | <span style="color: #DC143C; font-weight: bold;">+21</span> | **119** | <span style="color: #DC143C; font-weight: bold;">6.28</span> | <span style="color: #8B0000; font-weight: bold;">20.17</span> |
 | **2025/06** | **136.2** | <span style="color: #B22222; font-weight: bold;">+16</span> | <span style="color: #DC143C; font-weight: bold;">+23.8</span> | **110.5** | <span style="color: #DC143C; font-weight: bold;">5.71</span> | <span style="color: #8B0000; font-weight: bold;">19.35</span> |
 | **2025/05** | **133.9** | <span style="color: #DC143C; font-weight: bold;">+22.3</span> | <span style="color: #DC143C; font-weight: bold;">+25.6</span> | **101.5** | <span style="color: #DC143C; font-weight: bold;">5.71</span> | <span style="color: #8B0000; font-weight: bold;">17.81</span> |
@@ -405,7 +405,7 @@ description: 月營收表 光寶科 (2301) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-21 22:31:23 CST
+- **產生時間**: 2026-04-22 01:46:35 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
