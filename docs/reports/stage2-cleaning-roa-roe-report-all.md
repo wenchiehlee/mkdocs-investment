@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-26
+date: 2026-04-27
 categories:
   - 股票
   - ROE/ROA
@@ -24,7 +24,7 @@ description: ROA/ROE 總覽 - 所有股票 - 自動產生
 # :chart: ROA/ROE 總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-04-26 13:29:01 CST  
+    **:calendar: 產生時間**: 2026-04-27 07:14:58 CST  
     **:building_construction: 分析股票總數**: 123 檔  
     **:chart_with_upwards_trend: 報告類型**: 各股盈利能力分析  
     **:file_folder: 資料來源**: Stage 2 cleaned_performance1.csv
