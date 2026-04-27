@@ -744,7 +744,7 @@ FactSet 股利 = 時間加權EPS × 平均配息率(5年) × 現金比例(5年)
 !!! note "資料來源說明"
     - **主要來源**：`cleaned_dividends.csv` (Type 1: DividendDetail)
     - **EPS資料**：交叉比對 `cleaned_performance1.csv` (Type 7: Quarterly Performance)
-    - **FactSet預測**：`factset_detailed_report_latest.csv` (Type 51: FactSet Analyst Consensus Summary)
+    - **FactSet預測**：`raw_factset_detailed_report.csv` (Type 51: FactSet Analyst Consensus Summary)
     - **預測演化**：FactSet 詳細報告時間序列 (同上 CSV)
     - **產業基準**：3.59%
 

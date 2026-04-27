@@ -678,7 +678,7 @@ description: 股利分配報告 南亞科 (2408) - 自動產生
 !!! note "資料來源說明"
     - **主要來源**：`cleaned_dividends.csv` (Type 1: DividendDetail)
     - **EPS資料**：交叉比對 `cleaned_performance1.csv` (Type 7: Quarterly Performance)
-    - **FactSet預測**：`factset_detailed_report_latest.csv` (Type 51: FactSet Analyst Consensus Summary)
+    - **FactSet預測**：`raw_factset_detailed_report.csv` (Type 51: FactSet Analyst Consensus Summary)
     - **預測演化**：FactSet 詳細報告時間序列 (同上 CSV)
     - **產業基準**：3.59%
 
