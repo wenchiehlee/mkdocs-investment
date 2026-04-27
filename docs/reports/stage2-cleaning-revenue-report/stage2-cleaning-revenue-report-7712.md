@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-20
+date: 2026-04-27
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 博盛半導體 (7712) - 自動產生
     **:building_construction: 公司名稱**: 博盛半導體  
     **:identification_card: 股票代號**: 7712  
     **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-04-20 13:31:17 CST
+    **:clock3: 更新時間**: 2026-04-27 07:16:20 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 博盛半導體 (7712) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **5.14** | **5.59** | **7.13** |
-| **P/E倍數** | **18.89** | **23.15** | **28.60** |
+| **P/E倍數** | **18.91** | **23.19** | **28.61** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 博盛半導體 歷史平均獲利能力 (σup=1.54, σlo=0.45)
-    - **P/Ebase**: 博盛半導體 歷史平均估值水準 (σup=5.45, σlo=4.26)
+    - **P/Ebase**: 博盛半導體 歷史平均估值水準 (σup=5.42, σlo=4.28)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -85,9 +85,9 @@ description: 月營收表 博盛半導體 (7712) - 自動產生
 | **2025/12** | **1.09** | <span style="color: #002818; font-weight: bold;">-8.2</span> | <span style="color: #002818; font-weight: bold;">-6.13</span> | **85.2** | <span style="color: #002818; font-weight: bold;">5.42</span> | <span style="color: #228B22; font-weight: bold;">15.72</span> |
 | **2025/11** | **1.01** | <span style="color: #004225; font-weight: bold;">-13.6</span> | <span style="color: #002818; font-weight: bold;">-5.94</span> | **88.3** | <span style="color: #002818; font-weight: bold;">5.42</span> | <span style="color: #228B22; font-weight: bold;">16.73</span> |
 | **2025/10** | **1.1** | <span style="color: #8B0000; font-weight: bold;">+6.56</span> | <span style="color: #002818; font-weight: bold;">-5.17</span> | **113** | <span style="color: #002818; font-weight: bold;">5.42</span> | <span style="color: #002818; font-weight: bold;">22.01</span> |
-| **2025/09** | **1.0** | <span style="color: #004225; font-weight: bold;">-10.5</span> | <span style="color: #002818; font-weight: bold;">-6.31</span> | **137.5** | <span style="color: #006400; font-weight: bold;">4.99</span> | <span style="color: #B22222; font-weight: bold;">27.56</span> |
+| **2025/09** | **1** | <span style="color: #004225; font-weight: bold;">-10.5</span> | <span style="color: #002818; font-weight: bold;">-6.31</span> | **137.5** | <span style="color: #006400; font-weight: bold;">4.99</span> | <span style="color: #B22222; font-weight: bold;">27.56</span> |
 | **2025/08** | **1.1** | <span style="color: #002818; font-weight: bold;">-1.59</span> | <span style="color: #002818; font-weight: bold;">-5.81</span> | **155** | <span style="color: #006400; font-weight: bold;">4.99</span> | <span style="color: #DC143C; font-weight: bold;">31.21</span> |
-| **2025/07** | **1.03** | <span style="color: #004225; font-weight: bold;">-19.0</span> | <span style="color: #002818; font-weight: bold;">-6.38</span> | **111.5** | <span style="color: #006400; font-weight: bold;">4.99</span> | <span style="color: #002818; font-weight: bold;">22.56</span> |
+| **2025/07** | **1.03** | <span style="color: #004225; font-weight: bold;">-19</span> | <span style="color: #002818; font-weight: bold;">-6.38</span> | **111.5** | <span style="color: #006400; font-weight: bold;">4.99</span> | <span style="color: #002818; font-weight: bold;">22.56</span> |
 | **2025/06** | **1.08** | <span style="color: #004225; font-weight: bold;">-16.2</span> | <span style="color: #002818; font-weight: bold;">-4.12</span> | **120.5** | <span style="color: #006400; font-weight: bold;">4.92</span> | <span style="color: #8B0000; font-weight: bold;">24.49</span> |
 | **2025/05** | **1.32** | <span style="color: #8B0000; font-weight: bold;">+6.28</span> | <span style="color: #002818; font-weight: bold;">-1.47</span> | **131** | <span style="color: #006400; font-weight: bold;">4.92</span> | <span style="color: #8B0000; font-weight: bold;">24.32</span> |
 | **2025/04** | **1.27** | <span style="color: #002818; font-weight: bold;">-2.12</span> | <span style="color: #002818; font-weight: bold;">-3.57</span> | **133.5** | <span style="color: #006400; font-weight: bold;">4.92</span> | <span style="color: #002818; font-weight: bold;">22.81</span> |
@@ -203,7 +203,7 @@ description: 月營收表 博盛半導體 (7712) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-04-20 13:31:17 CST
+- **產生時間**: 2026-04-27 07:16:20 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

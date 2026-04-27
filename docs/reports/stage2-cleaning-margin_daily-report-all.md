@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-04-20
+date: 2026-04-27
 categories:
   - 股票
   - 融資餘額
@@ -19,8 +19,8 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 # 📈 融資餘額總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-04-20 13:31:00 CST  
-    **:building_construction: 分析股票總數**: 127 檔  
+    **:calendar: 產生時間**: 2026-04-27 07:16:03 CST  
+    **:building_construction: 分析股票總數**: 126 檔  
     **:chart_with_upwards_trend: 報告類型**: 融資餘額總覽  
     **:file_folder: 資料來源**: Stage 2 cleaned_margin_daily.csv + cleaned_margin_weekly.csv + cleaned_margin_monthly.csv
 
@@ -47,1526 +47,1514 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**0000**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-0000/)</td>
 <td>台灣加權指數</td>
-<td>4271.2</td>
-<td>+7.16%</td>
-<td>+10.88%</td>
-<td>36804.34</td>
-<td>87.17 兆元</td>
-<td>0.49%</td>
+<td>4385.4</td>
+<td>+11.38%</td>
+<td>+9.30%</td>
+<td>37878.47</td>
+<td>93.76 兆元</td>
+<td>0.47%</td>
 <td>🟡</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2301**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2301/)</td>
 <td>光寶科</td>
-<td>25.4</td>
-<td>-8.97%</td>
-<td>+9.74%</td>
-<td>162.00</td>
-<td>3753.2 億元</td>
-<td>0.68%</td>
+<td>27.3</td>
+<td>+9.52%</td>
+<td>-0.89%</td>
+<td>176.00</td>
+<td>3926.9 億元</td>
+<td>0.70%</td>
 <td>🟠</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2303**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2303/)</td>
 <td>聯電</td>
-<td>105.2</td>
-<td>+145.69%</td>
-<td>+183.36%</td>
-<td>73.00</td>
-<td>9182.3 億元</td>
-<td>1.15%</td>
-<td>🔴</td>
-<td>2026-04-17</td>
+<td>79.6</td>
+<td>+99.75%</td>
+<td>+57.28%</td>
+<td>78.60</td>
+<td>9371.0 億元</td>
+<td>0.85%</td>
+<td>🟠</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2308**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2308/)</td>
 <td>台達電</td>
-<td>88.4</td>
-<td>+11.54%</td>
-<td>+15.15%</td>
-<td>1840.00</td>
-<td>4.78 兆元</td>
+<td>99.6</td>
+<td>+13.83%</td>
+<td>+18.19%</td>
+<td>2015.00</td>
+<td>5.39 兆元</td>
 <td>0.18%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2317**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2317/)</td>
 <td>鴻海</td>
-<td>125.5</td>
-<td>-6.79%</td>
-<td>+6.35%</td>
-<td>206.00</td>
-<td>2.88 兆元</td>
-<td>0.44%</td>
+<td>127.2</td>
+<td>+1.04%</td>
+<td>+2.54%</td>
+<td>221.00</td>
+<td>3.09 兆元</td>
+<td>0.41%</td>
 <td>🟡</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2324**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2324/)</td>
 <td>仁寶</td>
-<td>13.8</td>
-<td>+57.74%</td>
-<td>+74.85%</td>
-<td>30.35</td>
-<td>1337.6 億元</td>
-<td>1.03%</td>
+<td>16.7</td>
+<td>+98.17%</td>
+<td>+95.97%</td>
+<td>32.75</td>
+<td>1335.4 億元</td>
+<td>1.25%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2330**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2330/)</td>
 <td>台積電</td>
-<td>521.1</td>
-<td>+8.45%</td>
-<td>+8.24%</td>
-<td>2030.00</td>
-<td>52.64 兆元</td>
-<td>0.10%</td>
+<td>517.7</td>
+<td>+7.81%</td>
+<td>-4.89%</td>
+<td>2050.00</td>
+<td>56.66 兆元</td>
+<td>0.09%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2332**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2332/)</td>
 <td>友訊</td>
-<td>3.1</td>
-<td>-1.65%</td>
-<td>-0.89%</td>
-<td>15.35</td>
-<td>92.4 億元</td>
-<td>3.39%</td>
+<td>3.0</td>
+<td>-7.21%</td>
+<td>-6.68%</td>
+<td>15.25</td>
+<td>84.9 億元</td>
+<td>3.52%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2345**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2345/)</td>
 <td>智邦</td>
-<td>29.3</td>
-<td>-17.15%</td>
-<td>-0.05%</td>
-<td>2070.00</td>
-<td>1.16 兆元</td>
-<td>0.25%</td>
-<td>🟢</td>
-<td>2026-04-17</td>
+<td>38.4</td>
+<td>+1.35%</td>
+<td>+26.64%</td>
+<td>2200.00</td>
+<td>1.20 兆元</td>
+<td>0.32%</td>
+<td>🟡</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2347**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2347/)</td>
 <td>聯強</td>
 <td>0.4</td>
-<td>-39.16%</td>
-<td>-7.18%</td>
-<td>83.90</td>
-<td>1399.4 億元</td>
+<td>-41.81%</td>
+<td>-18.75%</td>
+<td>84.00</td>
+<td>1377.7 億元</td>
 <td>0.03%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2353**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2353/)</td>
 <td>宏碁</td>
-<td>7.9</td>
-<td>-7.63%</td>
-<td>-0.79%</td>
-<td>28.70</td>
-<td>874.7 億元</td>
-<td>0.90%</td>
+<td>8.2</td>
+<td>+0.13%</td>
+<td>+5.10%</td>
+<td>28.30</td>
+<td>842.7 億元</td>
+<td>0.97%</td>
 <td>🟠</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2354**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2354/)</td>
 <td>鴻準</td>
-<td>12.7</td>
-<td>-9.91%</td>
-<td>-2.29%</td>
-<td>51.60</td>
-<td>729.9 億元</td>
-<td>1.74%</td>
+<td>13.5</td>
+<td>-0.61%</td>
+<td>+5.98%</td>
+<td>54.20</td>
+<td>727.0 億元</td>
+<td>1.86%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2356**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2356/)</td>
 <td>英業達</td>
-<td>11.1</td>
-<td>-4.45%</td>
-<td>+8.09%</td>
-<td>45.75</td>
-<td>1641.3 億元</td>
-<td>0.68%</td>
+<td>10.8</td>
+<td>-2.85%</td>
+<td>+0.91%</td>
+<td>47.75</td>
+<td>1725.6 億元</td>
+<td>0.63%</td>
 <td>🟠</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2357**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2357/)</td>
 <td>華碩</td>
-<td>14.0</td>
-<td>-19.67%</td>
-<td>-4.07%</td>
-<td>599.00</td>
-<td>4449.1 億元</td>
-<td>0.32%</td>
-<td>🟡</td>
-<td>2026-04-17</td>
+<td>12.9</td>
+<td>-16.32%</td>
+<td>-14.87%</td>
+<td>609.00</td>
+<td>4345.1 億元</td>
+<td>0.30%</td>
+<td>🟢</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2359**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2359/)</td>
 <td>所羅門</td>
-<td>7.1</td>
-<td>-2.00%</td>
-<td>+7.87%</td>
-<td>115.00</td>
-<td>197.2 億元</td>
-<td>3.58%</td>
+<td>7.2</td>
+<td>+1.75%</td>
+<td>+6.75%</td>
+<td>117.00</td>
+<td>186.9 億元</td>
+<td>3.83%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2360**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2360/)</td>
 <td>致茂</td>
-<td>41.0</td>
-<td>-20.19%</td>
-<td>+31.49%</td>
-<td>2255.00</td>
-<td>9589.3 億元</td>
-<td>0.43%</td>
+<td>37.7</td>
+<td>-18.84%</td>
+<td>+15.34%</td>
+<td>2030.00</td>
+<td>8164.7 億元</td>
+<td>0.46%</td>
 <td>🟡</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2376**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2376/)</td>
 <td>技嘉</td>
-<td>27.5</td>
-<td>+44.17%</td>
-<td>+51.20%</td>
-<td>281.50</td>
-<td>1885.7 億元</td>
-<td>1.46%</td>
+<td>25.5</td>
+<td>+37.33%</td>
+<td>+6.39%</td>
+<td>285.00</td>
+<td>1862.3 億元</td>
+<td>1.37%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2377**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2377/)</td>
 <td>微星</td>
-<td>13.9</td>
-<td>-1.54%</td>
-<td>+5.07%</td>
-<td>91.90</td>
-<td>776.4 億元</td>
-<td>1.79%</td>
+<td>15.0</td>
+<td>+6.05%</td>
+<td>+9.98%</td>
+<td>97.50</td>
+<td>803.5 億元</td>
+<td>1.86%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2379**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2379/)</td>
 <td>瑞昱</td>
-<td>16.8</td>
-<td>-2.91%</td>
-<td>+4.38%</td>
-<td>531.00</td>
-<td>2737.4 億元</td>
-<td>0.61%</td>
+<td>16.3</td>
+<td>-3.53%</td>
+<td>-1.51%</td>
+<td>567.00</td>
+<td>2778.6 億元</td>
+<td>0.59%</td>
 <td>🟠</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2382**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2382/)</td>
 <td>廣達</td>
-<td>30.0</td>
-<td>-16.46%</td>
-<td>-4.00%</td>
-<td>323.00</td>
+<td>30.6</td>
+<td>-4.56%</td>
+<td>+0.18%</td>
+<td>335.00</td>
 <td>1.25 兆元</td>
 <td>0.24%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2383**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2383/)</td>
 <td>台光電</td>
-<td>70.6</td>
-<td>+26.39%</td>
-<td>+38.08%</td>
-<td>3800.00</td>
-<td>1.32 兆元</td>
-<td>0.54%</td>
+<td>77.6</td>
+<td>+41.47%</td>
+<td>+24.46%</td>
+<td>4065.00</td>
+<td>1.55 兆元</td>
+<td>0.50%</td>
 <td>🟠</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2395**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2395/)</td>
 <td>研華</td>
 <td>6.7</td>
-<td>-6.76%</td>
-<td>+7.61%</td>
-<td>366.00</td>
-<td>3162.8 億元</td>
-<td>0.21%</td>
+<td>-0.42%</td>
+<td>-4.59%</td>
+<td>361.00</td>
+<td>3059.2 億元</td>
+<td>0.22%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2405**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2405/)</td>
 <td>輔信</td>
-<td>1.4</td>
-<td>-6.58%</td>
-<td>+5.10%</td>
-<td>15.75</td>
-<td>54.1 億元</td>
-<td>2.59%</td>
+<td>1.5</td>
+<td>+2.87%</td>
+<td>+14.15%</td>
+<td>16.20</td>
+<td>51.9 億元</td>
+<td>2.81%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2408**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2408/)</td>
 <td>南亞科</td>
-<td>241.2</td>
-<td>-5.95%</td>
-<td>+7.64%</td>
-<td>210.00</td>
-<td>6507.1 億元</td>
-<td>3.71%</td>
+<td>246.8</td>
+<td>-0.71%</td>
+<td>+0.50%</td>
+<td>219.00</td>
+<td>6383.2 億元</td>
+<td>3.87%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2412**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2412/)</td>
 <td>中華電</td>
-<td>0.4</td>
-<td>-48.08%</td>
-<td>-51.54%</td>
-<td>137.50</td>
-<td>1.07 兆元</td>
-<td>0.00%</td>
+<td>0.6</td>
+<td>-9.52%</td>
+<td>-19.37%</td>
+<td>136.50</td>
+<td>1.05 兆元</td>
+<td>0.01%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2449**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2449/)</td>
 <td>京元電子</td>
-<td>42.2</td>
-<td>+22.09%</td>
-<td>+43.69%</td>
-<td>275.00</td>
-<td>3362.6 億元</td>
-<td>1.25%</td>
+<td>45.7</td>
+<td>+44.95%</td>
+<td>+42.36%</td>
+<td>287.50</td>
+<td>3497.1 億元</td>
+<td>1.31%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2450**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2450/)</td>
 <td>神腦</td>
 <td>0.0</td>
-<td>-36.07%</td>
-<td>+8.56%</td>
-<td>30.25</td>
-<td>78.1 億元</td>
+<td>+12.25%</td>
+<td>+12.11%</td>
+<td>30.10</td>
+<td>77.3 億元</td>
 <td>0.04%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2451**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2451/)</td>
 <td>創見</td>
-<td>12.2</td>
-<td>-21.92%</td>
-<td>+11.13%</td>
-<td>246.50</td>
-<td>1061.7 億元</td>
-<td>1.15%</td>
+<td>15.1</td>
+<td>+27.91%</td>
+<td>+24.08%</td>
+<td>269.00</td>
+<td>1087.5 億元</td>
+<td>1.39%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2454**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2454/)</td>
 <td>聯發科</td>
-<td>151.4</td>
-<td>+48.27%</td>
-<td>+62.14%</td>
-<td>1925.00</td>
-<td>3.09 兆元</td>
-<td>0.49%</td>
-<td>🟡</td>
-<td>2026-04-17</td>
+<td>214.2</td>
+<td>+120.03%</td>
+<td>+113.30%</td>
+<td>2295.00</td>
+<td>3.91 兆元</td>
+<td>0.55%</td>
+<td>🟠</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2458**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2458/)</td>
 <td>義隆</td>
-<td>5.6</td>
-<td>+33.61%</td>
-<td>+0.06%</td>
-<td>138.00</td>
-<td>419.4 億元</td>
-<td>1.34%</td>
+<td>6.1</td>
+<td>+22.99%</td>
+<td>+2.04%</td>
+<td>140.00</td>
+<td>414.8 億元</td>
+<td>1.48%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2474**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2474/)</td>
 <td>可成</td>
-<td>8.8</td>
-<td>+139.26%</td>
-<td>+189.21%</td>
-<td>217.00</td>
-<td>1218.2 億元</td>
-<td>0.73%</td>
+<td>9.8</td>
+<td>+196.18%</td>
+<td>+225.76%</td>
+<td>210.50</td>
+<td>1254.7 億元</td>
+<td>0.78%</td>
 <td>🟠</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2480**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2480/)</td>
 <td>敦陽科</td>
-<td>0.6</td>
-<td>+0.47%</td>
-<td>+2.64%</td>
+<td>0.7</td>
+<td>+10.50%</td>
+<td>+8.69%</td>
 <td>140.50</td>
-<td>149.4 億元</td>
-<td>0.43%</td>
+<td>148.4 億元</td>
+<td>0.48%</td>
 <td>🟡</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2603**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2603/)</td>
 <td>長榮</td>
 <td>27.9</td>
-<td>-14.03%</td>
-<td>-5.21%</td>
-<td>198.00</td>
-<td>4286.8 億元</td>
-<td>0.65%</td>
+<td>-7.72%</td>
+<td>-0.83%</td>
+<td>202.00</td>
+<td>4362.6 億元</td>
+<td>0.64%</td>
 <td>🟠</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2646**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2646/)</td>
 <td>星宇航空</td>
 <td>0.7</td>
-<td>+14.63%</td>
-<td>+8.20%</td>
-<td>20.95</td>
-<td>630.3 億元</td>
+<td>+6.72%</td>
+<td>+4.30%</td>
+<td>20.60</td>
+<td>606.3 億元</td>
 <td>0.11%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2881**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2881/)</td>
 <td>富邦金</td>
-<td>6.8</td>
-<td>-8.60%</td>
-<td>+3.89%</td>
-<td>88.00</td>
+<td>6.5</td>
+<td>-14.38%</td>
+<td>-5.36%</td>
+<td>88.30</td>
 <td>1.23 兆元</td>
-<td>0.06%</td>
+<td>0.05%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2882**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2882/)</td>
 <td>國泰金</td>
-<td>3.4</td>
-<td>-4.92%</td>
-<td>+1.92%</td>
-<td>75.00</td>
+<td>3.3</td>
+<td>-3.87%</td>
+<td>-0.12%</td>
+<td>75.90</td>
 <td>1.10 兆元</td>
 <td>0.03%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2884**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2884/)</td>
 <td>玉山金</td>
 <td>1.4</td>
-<td>+22.05%</td>
-<td>+25.53%</td>
-<td>32.75</td>
-<td>5297.0 億元</td>
+<td>+27.12%</td>
+<td>+25.02%</td>
+<td>33.05</td>
+<td>5264.6 億元</td>
 <td>0.03%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**2891**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2891/)</td>
 <td>中信金</td>
-<td>2.1</td>
-<td>+43.81%</td>
-<td>+55.72%</td>
-<td>53.10</td>
+<td>2.0</td>
+<td>+31.92%</td>
+<td>+14.00%</td>
+<td>53.50</td>
 <td>1.04 兆元</td>
 <td>0.02%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**3014**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3014/)</td>
 <td>聯陽</td>
-<td>3.1</td>
-<td>+5.92%</td>
-<td>+6.16%</td>
-<td>124.00</td>
-<td>205.8 億元</td>
-<td>1.49%</td>
+<td>3.0</td>
+<td>+3.39%</td>
+<td>+1.61%</td>
+<td>128.50</td>
+<td>208.3 億元</td>
+<td>1.43%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**3022**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3022/)</td>
 <td>威強電</td>
-<td>3.0</td>
-<td>-12.94%</td>
-<td>+10.65%</td>
-<td>69.00</td>
+<td>3.1</td>
+<td>-0.70%</td>
+<td>+4.82%</td>
+<td>71.90</td>
 <td>121.8 億元</td>
-<td>2.47%</td>
+<td>2.55%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**3026**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3026/)</td>
 <td>禾伸堂</td>
-<td>45.6</td>
-<td>+1167.73%</td>
-<td>+405.44%</td>
-<td>233.50</td>
-<td>387.4 億元</td>
-<td>11.78%</td>
+<td>49.7</td>
+<td>+373.18%</td>
+<td>+89.48%</td>
+<td>248.00</td>
+<td>358.3 億元</td>
+<td>13.87%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**3029**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3029/)</td>
 <td>零壹</td>
-<td>3.0</td>
-<td>-14.21%</td>
-<td>+4.55%</td>
-<td>97.30</td>
-<td>162.5 億元</td>
-<td>1.82%</td>
+<td>3.1</td>
+<td>+13.82%</td>
+<td>+4.21%</td>
+<td>97.90</td>
+<td>159.5 億元</td>
+<td>1.91%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**3034**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3034/)</td>
 <td>聯詠</td>
-<td>15.6</td>
-<td>-4.57%</td>
-<td>-2.28%</td>
-<td>415.00</td>
-<td>2525.3 億元</td>
+<td>15.8</td>
+<td>-4.83%</td>
+<td>-3.04%</td>
+<td>432.50</td>
+<td>2543.6 億元</td>
 <td>0.62%</td>
 <td>🟠</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**3035**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3035/)</td>
 <td>智原</td>
-<td>24.0</td>
-<td>-1.49%</td>
-<td>+11.32%</td>
-<td>159.00</td>
-<td>414.3 億元</td>
-<td>5.78%</td>
+<td>28.2</td>
+<td>+20.51%</td>
+<td>+20.58%</td>
+<td>179.00</td>
+<td>482.0 億元</td>
+<td>5.86%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**3045**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3045/)</td>
 <td>台灣大</td>
 <td>0.6</td>
-<td>-26.22%</td>
-<td>-10.68%</td>
-<td>112.50</td>
-<td>4188.7 億元</td>
+<td>-16.11%</td>
+<td>-16.11%</td>
+<td>113.00</td>
+<td>4207.3 億元</td>
 <td>0.01%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**3048**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3048/)</td>
 <td>益登</td>
-<td>2.2</td>
-<td>-14.06%</td>
-<td>+8.78%</td>
-<td>39.35</td>
-<td>106.2 億元</td>
-<td>2.06%</td>
+<td>2.3</td>
+<td>+0.55%</td>
+<td>+0.90%</td>
+<td>40.55</td>
+<td>101.2 億元</td>
+<td>2.24%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**3150**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3150/)</td>
 <td>鈺寶-創</td>
-<td>0.0</td>
-<td>+114.38%</td>
-<td>+24.93%</td>
-<td>19.20</td>
-<td>8.5 億元</td>
-<td>0.42%</td>
-<td>🟡</td>
-<td>2026-04-17</td>
+<td>0.1</td>
+<td>+95.65%</td>
+<td>+102.10%</td>
+<td>22.10</td>
+<td>9.4 億元</td>
+<td>0.57%</td>
+<td>🟠</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**3158**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3158/)</td>
 <td>嘉實</td>
 <td>0.0</td>
-<td>-79.63%</td>
-<td>-37.50%</td>
-<td>90.00</td>
-<td>27.2 億元</td>
-<td>0.12%</td>
+<td>-92.50%</td>
+<td>-46.43%</td>
+<td>90.10</td>
+<td>27.4 億元</td>
+<td>0.07%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**3231**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3231/)</td>
 <td>緯創</td>
-<td>77.0</td>
-<td>-1.08%</td>
-<td>+4.32%</td>
-<td>136.50</td>
-<td>4341.3 億元</td>
-<td>1.77%</td>
+<td>77.6</td>
+<td>+1.10%</td>
+<td>+4.10%</td>
+<td>144.00</td>
+<td>4500.3 億元</td>
+<td>1.72%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**3260**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3260/)</td>
 <td>威剛</td>
-<td>71.6</td>
-<td>+4.85%</td>
-<td>+23.30%</td>
-<td>368.50</td>
-<td>1200.4 億元</td>
-<td>5.96%</td>
+<td>85.8</td>
+<td>+45.16%</td>
+<td>+24.76%</td>
+<td>421.50</td>
+<td>1303.0 億元</td>
+<td>6.59%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**3293**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3293/)</td>
 <td>鈊象</td>
-<td>24.5</td>
-<td>-4.93%</td>
-<td>-3.51%</td>
-<td>775.00</td>
-<td>2184.0 億元</td>
-<td>1.12%</td>
+<td>24.1</td>
+<td>-7.51%</td>
+<td>-6.60%</td>
+<td>790.00</td>
+<td>2122.0 億元</td>
+<td>1.14%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**3356**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3356/)</td>
 <td>奇偶</td>
 <td>1.2</td>
-<td>+9.20%</td>
-<td>+19.16%</td>
-<td>52.40</td>
-<td>41.9 億元</td>
-<td>2.79%</td>
+<td>+19.08%</td>
+<td>+10.50%</td>
+<td>53.40</td>
+<td>40.9 億元</td>
+<td>2.91%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**3467**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3467/)</td>
 <td>台灣精材</td>
 <td>0.2</td>
-<td>+138.71%</td>
-<td>+95.43%</td>
-<td>59.30</td>
-<td>18.4 億元</td>
-<td>0.95%</td>
-<td>🟠</td>
-<td>2026-04-17</td>
+<td>+105.00%</td>
+<td>+144.91%</td>
+<td>64.90</td>
+<td>18.7 億元</td>
+<td>1.14%</td>
+<td>🔴</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**3558**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3558/)</td>
 <td>神準</td>
-<td>1.9</td>
-<td>-13.51%</td>
-<td>+0.27%</td>
-<td>112.00</td>
+<td>2.0</td>
+<td>-1.86%</td>
+<td>+7.72%</td>
+<td>117.00</td>
 <td>66.2 億元</td>
-<td>2.87%</td>
+<td>3.02%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**3653**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3653/)</td>
 <td>健策</td>
-<td>79.2</td>
-<td>+24.45%</td>
-<td>+23.26%</td>
-<td>4565.00</td>
-<td>6524.4 億元</td>
-<td>1.21%</td>
+<td>87.5</td>
+<td>+33.75%</td>
+<td>+15.33%</td>
+<td>5410.00</td>
+<td>7879.6 億元</td>
+<td>1.11%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**3661**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3661/)</td>
 <td>世芯-KY</td>
-<td>191.8</td>
-<td>-2.36%</td>
-<td>+18.13%</td>
-<td>3515.00</td>
-<td>2842.1 億元</td>
-<td>6.75%</td>
+<td>209.3</td>
+<td>+15.79%</td>
+<td>+18.34%</td>
+<td>4065.00</td>
+<td>3408.1 億元</td>
+<td>6.14%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**3665**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3665/)</td>
 <td>貿聯-KY</td>
-<td>64.6</td>
-<td>+22.29%</td>
-<td>+40.88%</td>
-<td>2365.00</td>
-<td>4587.4 億元</td>
-<td>1.41%</td>
+<td>65.4</td>
+<td>+18.07%</td>
+<td>+7.05%</td>
+<td>2555.00</td>
+<td>5393.9 億元</td>
+<td>1.21%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**3711**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3711/)</td>
 <td>日月光投控</td>
-<td>21.2</td>
-<td>+14.10%</td>
-<td>+33.82%</td>
-<td>442.00</td>
-<td>1.95 兆元</td>
-<td>0.11%</td>
+<td>21.7</td>
+<td>+30.34%</td>
+<td>+24.95%</td>
+<td>465.00</td>
+<td>2.19 兆元</td>
+<td>0.10%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**4114**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-4114/)</td>
 <td>健喬</td>
 <td>0.8</td>
-<td>+14.89%</td>
-<td>+8.50%</td>
-<td>31.95</td>
-<td>163.0 億元</td>
-<td>0.50%</td>
-<td>🟡</td>
-<td>2026-04-17</td>
+<td>+19.66%</td>
+<td>-0.15%</td>
+<td>31.60</td>
+<td>158.2 億元</td>
+<td>0.52%</td>
+<td>🟠</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**4749**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-4749/)</td>
 <td>新應材</td>
-<td>33.9</td>
-<td>+6.59%</td>
-<td>+22.92%</td>
-<td>895.00</td>
-<td>830.0 億元</td>
-<td>4.09%</td>
+<td>42.4</td>
+<td>+39.46%</td>
+<td>+27.96%</td>
+<td>1035.00</td>
+<td>908.8 億元</td>
+<td>4.67%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**4938**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-4938/)</td>
 <td>和碩</td>
-<td>3.7</td>
-<td>-16.73%</td>
-<td>+7.40%</td>
-<td>83.00</td>
-<td>2226.2 億元</td>
-<td>0.17%</td>
+<td>3.6</td>
+<td>-6.45%</td>
+<td>-11.15%</td>
+<td>84.70</td>
+<td>2261.1 億元</td>
+<td>0.16%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**4953**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-4953/)</td>
 <td>緯軟</td>
-<td>1.0</td>
-<td>+25.67%</td>
-<td>+31.78%</td>
-<td>123.50</td>
-<td>90.3 億元</td>
+<td>0.9</td>
+<td>+27.67%</td>
+<td>+11.49%</td>
+<td>124.50</td>
+<td>88.5 億元</td>
 <td>1.05%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**5203**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-5203/)</td>
 <td>訊連</td>
 <td>0.9</td>
-<td>+9.52%</td>
-<td>+1.53%</td>
-<td>65.30</td>
-<td>51.6 億元</td>
-<td>1.83%</td>
+<td>+5.03%</td>
+<td>+5.58%</td>
+<td>64.80</td>
+<td>49.4 億元</td>
+<td>1.90%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**5269**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-5269/)</td>
 <td>祥碩</td>
-<td>30.9</td>
-<td>+5.79%</td>
-<td>+26.95%</td>
-<td>1270.00</td>
-<td>949.7 億元</td>
-<td>3.26%</td>
+<td>35.3</td>
+<td>+25.46%</td>
+<td>+34.97%</td>
+<td>1380.00</td>
+<td>968.4 億元</td>
+<td>3.65%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**5274**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-5274/)</td>
 <td>信驊</td>
-<td>16.6</td>
-<td>+67.84%</td>
-<td>+44.60%</td>
-<td>13805.00</td>
-<td>5218.7 億元</td>
-<td>0.32%</td>
+<td>19.3</td>
+<td>+87.69%</td>
+<td>+46.13%</td>
+<td>16085.00</td>
+<td>6188.3 億元</td>
+<td>0.31%</td>
 <td>🟡</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**5434**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-5434/)</td>
 <td>崇越</td>
-<td>2.9</td>
-<td>+83.98%</td>
-<td>+81.96%</td>
-<td>417.00</td>
-<td>797.9 億元</td>
-<td>0.36%</td>
+<td>2.8</td>
+<td>+72.48%</td>
+<td>+0.14%</td>
+<td>432.00</td>
+<td>795.9 億元</td>
+<td>0.35%</td>
 <td>🟡</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**5536**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-5536/)</td>
 <td>聖暉</td>
-<td>15.9</td>
-<td>-7.57%</td>
-<td>+10.95%</td>
-<td>825.00</td>
-<td>1023.7 億元</td>
-<td>1.55%</td>
+<td>13.0</td>
+<td>-23.28%</td>
+<td>-20.73%</td>
+<td>896.00</td>
+<td>1206.1 億元</td>
+<td>1.08%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**5904**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-5904/)</td>
 <td>寶雅</td>
 <td>0.9</td>
-<td>-6.43%</td>
-<td>-4.89%</td>
-<td>510.00</td>
-<td>542.9 億元</td>
-<td>0.17%</td>
+<td>-13.54%</td>
+<td>-15.29%</td>
+<td>549.00</td>
+<td>574.8 億元</td>
+<td>0.15%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6035**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6035/)</td>
 <td>悠遊卡</td>
 <td>0.0</td>
-<td>-33.33%</td>
-<td>+87.50%</td>
-<td>51.10</td>
-<td>38.2 億元</td>
-<td>0.05%</td>
+<td>-74.74%</td>
+<td>+500.00%</td>
+<td>51.70</td>
+<td>36.7 億元</td>
+<td>0.03%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6123**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6123/)</td>
 <td>上奇</td>
 <td>0.1</td>
-<td>-2.14%</td>
-<td>-2.69%</td>
-<td>42.30</td>
-<td>26.3 億元</td>
-<td>0.39%</td>
+<td>+6.47%</td>
+<td>+9.71%</td>
+<td>42.35</td>
+<td>26.5 億元</td>
+<td>0.42%</td>
 <td>🟡</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6125**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6125/)</td>
 <td>廣運</td>
-<td>5.1</td>
-<td>-7.14%</td>
-<td>+5.26%</td>
-<td>56.60</td>
-<td>146.6 億元</td>
-<td>3.49%</td>
+<td>5.2</td>
+<td>-2.81%</td>
+<td>+5.55%</td>
+<td>57.80</td>
+<td>140.6 億元</td>
+<td>3.67%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6182**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6182/)</td>
 <td>合晶</td>
-<td>4.8</td>
-<td>-12.64%</td>
-<td>+2.64%</td>
-<td>35.80</td>
-<td>212.5 億元</td>
-<td>2.28%</td>
+<td>12.5</td>
+<td>+138.28%</td>
+<td>+126.42%</td>
+<td>45.00</td>
+<td>241.6 億元</td>
+<td>5.19%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6214**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6214/)</td>
 <td>精誠</td>
-<td>1.9</td>
-<td>+13.85%</td>
-<td>+19.94%</td>
+<td>2.0</td>
+<td>+21.35%</td>
+<td>+25.97%</td>
 <td>126.00</td>
-<td>343.0 億元</td>
-<td>0.57%</td>
-<td>🟠</td>
-<td>2026-04-17</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6231**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6231/)</td>
 <td>系微</td>
-<td>8.0</td>
-<td>+1.90%</td>
-<td>-9.78%</td>
-<td>262.50</td>
-<td>119.8 億元</td>
-<td>6.68%</td>
-<td>🔴</td>
-<td>2026-04-17</td>
+<td>13.0</td>
+<td>+39.38%</td>
+<td>+57.67%</td>
+<td>348.50</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6285**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6285/)</td>
 <td>啟碁</td>
-<td>52.7</td>
-<td>+40.58%</td>
-<td>+54.53%</td>
-<td>264.50</td>
-<td>1279.3 億元</td>
-<td>4.12%</td>
+<td>47.1</td>
+<td>+12.68%</td>
+<td>+6.19%</td>
+<td>241.50</td>
+<td>1008.4 億元</td>
+<td>4.67%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6425**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6425/)</td>
 <td>易發</td>
-<td>4.1</td>
-<td>+30.53%</td>
-<td>+43.23%</td>
-<td>85.90</td>
-<td>43.7 億元</td>
-<td>9.31%</td>
+<td>3.8</td>
+<td>+21.70%</td>
+<td>+30.46%</td>
+<td>88.80</td>
+<td>45.9 億元</td>
+<td>8.31%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6442**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6442/)</td>
 <td>光聖</td>
-<td>102.1</td>
-<td>+23.21%</td>
-<td>+34.58%</td>
-<td>2155.00</td>
-<td>1682.5 億元</td>
-<td>6.07%</td>
+<td>99.0</td>
+<td>+16.28%</td>
+<td>+11.31%</td>
+<td>2240.00</td>
+<td>1467.8 億元</td>
+<td>6.74%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6462**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6462/)</td>
 <td>神盾</td>
-<td>6.4</td>
-<td>+29.40%</td>
-<td>+22.51%</td>
-<td>122.50</td>
-<td>111.8 億元</td>
-<td>5.72%</td>
+<td>8.8</td>
+<td>+75.69%</td>
+<td>+79.32%</td>
+<td>143.50</td>
+<td>110.9 億元</td>
+<td>7.95%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6506**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6506/)</td>
 <td>雙邦</td>
-<td>0.0</td>
-<td>+12.29%</td>
-<td>+31.28%</td>
-<td>16.95</td>
-<td>14.0 億元</td>
-<td>0.33%</td>
-<td>🟡</td>
-<td>2026-04-17</td>
+<td>0.1</td>
+<td>+104.61%</td>
+<td>+127.68%</td>
+<td>18.40</td>
+<td>14.4 億元</td>
+<td>0.54%</td>
+<td>🟠</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6510**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6510/)</td>
 <td>精測</td>
-<td>22.8</td>
-<td>+62.64%</td>
-<td>+44.80%</td>
-<td>3740.00</td>
-<td>1226.3 億元</td>
-<td>1.86%</td>
+<td>24.2</td>
+<td>+42.20%</td>
+<td>+49.54%</td>
+<td>4200.00</td>
+<td>1190.2 億元</td>
+<td>2.04%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6526**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6526/)</td>
 <td>達發</td>
-<td>6.8</td>
-<td>-0.40%</td>
-<td>+13.51%</td>
-<td>506.00</td>
-<td>847.6 億元</td>
-<td>0.80%</td>
+<td>10.0</td>
+<td>+54.63%</td>
+<td>+71.72%</td>
+<td>610.00</td>
+<td>1006.7 億元</td>
+<td>0.99%</td>
 <td>🟠</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6561**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6561/)</td>
 <td>是方</td>
 <td>1.5</td>
-<td>+32.73%</td>
-<td>+31.48%</td>
-<td>373.00</td>
-<td>290.8 億元</td>
-<td>0.52%</td>
+<td>+15.50%</td>
+<td>+22.54%</td>
+<td>372.00</td>
+<td>283.0 億元</td>
+<td>0.54%</td>
 <td>🟠</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6597**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6597/)</td>
 <td>立誠</td>
 <td>0.0</td>
-<td>+350.00%</td>
-<td>+1025.00%</td>
-<td>57.00</td>
-<td>17.4 億元</td>
-<td>0.08%</td>
+<td>+860.00%</td>
+<td>+200.00%</td>
+<td>59.00</td>
+<td>18.0 億元</td>
+<td>0.19%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6613**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6613/)</td>
 <td>朋億</td>
-<td>1.9</td>
-<td>+66.51%</td>
-<td>+61.46%</td>
-<td>237.50</td>
-<td>184.8 億元</td>
-<td>1.03%</td>
+<td>2.1</td>
+<td>+60.71%</td>
+<td>+57.22%</td>
+<td>241.50</td>
+<td>181.3 億元</td>
+<td>1.16%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6669**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6669/)</td>
 <td>緯穎</td>
-<td>98.6</td>
-<td>+2.73%</td>
-<td>+5.33%</td>
-<td>3805.00</td>
-<td>7071.2 億元</td>
-<td>1.39%</td>
+<td>99.7</td>
+<td>+8.60%</td>
+<td>-0.60%</td>
+<td>4350.00</td>
+<td>8613.7 億元</td>
+<td>1.16%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6690**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6690/)</td>
 <td>安碁資訊</td>
 <td>0.2</td>
-<td>+12.28%</td>
-<td>+13.78%</td>
-<td>170.00</td>
-<td>51.0 億元</td>
-<td>0.32%</td>
+<td>+5.90%</td>
+<td>+8.71%</td>
+<td>173.00</td>
+<td>50.4 億元</td>
+<td>0.31%</td>
 <td>🟡</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6695**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6695/)</td>
 <td>芯鼎</td>
-<td>1.0</td>
-<td>-3.75%</td>
-<td>+6.87%</td>
-<td>40.40</td>
-<td>39.0 億元</td>
-<td>2.66%</td>
+<td>1.3</td>
+<td>+26.58%</td>
+<td>+37.99%</td>
+<td>45.45</td>
+<td>41.7 億元</td>
+<td>3.15%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6720**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6720/)</td>
 <td>久昌</td>
 <td>2.0</td>
-<td>+8.83%</td>
-<td>-1.92%</td>
-<td>162.50</td>
-<td>49.1 億元</td>
-<td>4.04%</td>
+<td>-1.90%</td>
+<td>-1.58%</td>
+<td>162.00</td>
+<td>49.9 億元</td>
+<td>3.98%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6751**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6751/)</td>
 <td>智聯服務</td>
 <td>0.1</td>
-<td>+8.11%</td>
-<td>+17.15%</td>
-<td>51.00</td>
-<td>11.3 億元</td>
-<td>0.78%</td>
+<td>-22.43%</td>
+<td>-21.73%</td>
+<td>52.30</td>
+<td>11.6 億元</td>
+<td>0.53%</td>
 <td>🟠</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6757**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6757/)</td>
 <td>台灣虎航</td>
 <td>1.6</td>
-<td>-22.03%</td>
-<td>-15.18%</td>
-<td>49.60</td>
-<td>227.9 億元</td>
-<td>0.72%</td>
+<td>-17.98%</td>
+<td>-7.49%</td>
+<td>48.95</td>
+<td>219.0 億元</td>
+<td>0.74%</td>
 <td>🟠</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6763**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6763/)</td>
 <td>綠界科技</td>
-<td>0.9</td>
-<td>-3.24%</td>
-<td>+5.57%</td>
-<td>48.60</td>
-<td>89.4 億元</td>
-<td>1.06%</td>
+<td>1.0</td>
+<td>+5.50%</td>
+<td>+8.36%</td>
+<td>48.85</td>
+<td>86.5 億元</td>
+<td>1.12%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6811**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6811/)</td>
 <td>宏碁資訊</td>
-<td>0.7</td>
-<td>-2.97%</td>
-<td>+4.70%</td>
-<td>195.00</td>
+<td>0.6</td>
+<td>-4.86%</td>
+<td>-0.44%</td>
+<td>198.00</td>
 <td>80.8 億元</td>
-<td>0.82%</td>
+<td>0.80%</td>
 <td>🟠</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6850**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6850/)</td>
 <td>光鼎生技</td>
 <td>0.0</td>
-<td>+50.00%</td>
-<td>+44.23%</td>
-<td>37.50</td>
-<td>12.6 億元</td>
-<td>0.11%</td>
+<td>-78.18%</td>
+<td>-53.85%</td>
+<td>36.70</td>
+<td>12.0 億元</td>
+<td>0.01%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6902**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6902/)</td>
 <td>GOGOLOOK</td>
 <td>0.5</td>
-<td>+56.24%</td>
-<td>+68.77%</td>
-<td>99.10</td>
-<td>35.0 億元</td>
-<td>1.40%</td>
+<td>+86.94%</td>
+<td>+70.17%</td>
+<td>108.00</td>
+<td>41.9 億元</td>
+<td>1.31%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6918**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6918/)</td>
 <td>愛派司</td>
 <td>0.0</td>
-<td>-1.31%</td>
-<td>-38.24%</td>
-<td>74.00</td>
+<td>-41.39%</td>
+<td>+27.68%</td>
+<td>73.90</td>
 <td>25.6 億元</td>
-<td>0.11%</td>
+<td>0.13%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6925**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6925/)</td>
 <td>意藍</td>
 <td>0.1</td>
-<td>-6.10%</td>
-<td>+3.74%</td>
-<td>73.50</td>
-<td>14.7 億元</td>
-<td>0.69%</td>
+<td>-14.89%</td>
+<td>+10.07%</td>
+<td>70.60</td>
+<td>13.6 億元</td>
+<td>0.77%</td>
 <td>🟠</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6962**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6962/)</td>
 <td>奕力-KY</td>
-<td>3.3</td>
-<td>+37.43%</td>
-<td>+5.81%</td>
-<td>35.00</td>
-<td>172.3 億元</td>
-<td>1.92%</td>
+<td>3.5</td>
+<td>+11.99%</td>
+<td>+11.17%</td>
+<td>37.40</td>
+<td>194.2 億元</td>
+<td>1.82%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6996**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6996/)</td>
 <td>力領科技</td>
-<td>0.4</td>
-<td>+93.93%</td>
-<td>+107.27%</td>
-<td>185.00</td>
-<td>77.7 億元</td>
-<td>0.47%</td>
-<td>🟡</td>
-<td>2026-04-17</td>
+<td>0.5</td>
+<td>+189.77%</td>
+<td>+197.69%</td>
+<td>191.50</td>
+<td>73.5 億元</td>
+<td>0.72%</td>
+<td>🟠</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**6997**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6997/)</td>
 <td>博弘</td>
 <td>0.0</td>
-<td>-50.00%</td>
-<td>+25.00%</td>
-<td>82.00</td>
-<td>18.1 億元</td>
-<td>0.04%</td>
+<td>+20.00%</td>
+<td>-</td>
+<td>82.30</td>
+<td>18.0 億元</td>
+<td>0.02%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**7547**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7547/)</td>
 <td>碩網</td>
-<td>0.2</td>
-<td>+70.99%</td>
-<td>-33.56%</td>
-<td>69.60</td>
-<td>23.4 億元</td>
-<td>0.88%</td>
-<td>🟠</td>
-<td>2026-04-17</td>
+<td>0.3</td>
+<td>-10.79%</td>
+<td>+41.34%</td>
+<td>77.50</td>
+<td>24.9 億元</td>
+<td>1.10%</td>
+<td>🔴</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**7703**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7703/)</td>
 <td>銳澤</td>
-<td>1.4</td>
-<td>+71.04%</td>
-<td>+22.15%</td>
-<td>230.50</td>
-<td>80.1 億元</td>
-<td>1.79%</td>
+<td>1.2</td>
+<td>-1.46%</td>
+<td>-7.90%</td>
+<td>226.50</td>
+<td>73.5 億元</td>
+<td>1.69%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**7704**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7704/)</td>
 <td>明遠精密</td>
 <td>0.3</td>
-<td>+315.46%</td>
-<td>+252.58%</td>
-<td>63.90</td>
-<td>21.6 億元</td>
-<td>1.34%</td>
+<td>+276.00%</td>
+<td>+41.12%</td>
+<td>64.00</td>
+<td>20.7 億元</td>
+<td>1.31%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**7705**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7705/)</td>
 <td>三商餐飲</td>
 <td>0.0</td>
-<td>-0.64%</td>
-<td>-2.67%</td>
-<td>34.80</td>
-<td>23.0 億元</td>
+<td>-3.37%</td>
+<td>-4.95%</td>
+<td>34.45</td>
+<td>22.5 億元</td>
 <td>0.14%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**7708**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7708/)</td>
 <td>全家餐飲</td>
-<td>0.0</td>
+<td>0.1</td>
+<td>+0.00%</td>
 <td>+25.00%</td>
-<td>+212.50%</td>
-<td>92.80</td>
-<td>23.5 億元</td>
-<td>0.07%</td>
+<td>92.00</td>
+<td>23.4 億元</td>
+<td>0.24%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**7709**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7709/)</td>
 <td>榮田</td>
 <td>0.5</td>
-<td>+490.12%</td>
-<td>+33.77%</td>
-<td>72.80</td>
-<td>28.5 億元</td>
-<td>1.75%</td>
+<td>+103.15%</td>
+<td>+12.08%</td>
+<td>79.70</td>
+<td>27.6 億元</td>
+<td>1.97%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**7712**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7712/)</td>
 <td>博盛半導體</td>
 <td>1.5</td>
-<td>-8.93%</td>
-<td>+22.89%</td>
-<td>120.50</td>
-<td>39.2 億元</td>
-<td>3.71%</td>
+<td>+2.54%</td>
+<td>+14.51%</td>
+<td>127.00</td>
+<td>37.8 億元</td>
+<td>3.97%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**7713**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7713/)</td>
 <td>威力德生醫</td>
 <td>0.0</td>
-<td>-50.00%</td>
-<td>+0.00%</td>
-<td>67.00</td>
-<td>30.5 億元</td>
-<td>0.03%</td>
+<td>-66.67%</td>
+<td>-62.50%</td>
+<td>66.40</td>
+<td>30.6 億元</td>
+<td>0.02%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**7722**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7722/)</td>
 <td>LINEPAY</td>
 <td>1.3</td>
-<td>-16.81%</td>
-<td>-19.59%</td>
-<td>305.00</td>
-<td>207.4 億元</td>
-<td>0.64%</td>
+<td>-31.38%</td>
+<td>-24.78%</td>
+<td>309.00</td>
+<td>195.2 億元</td>
+<td>0.67%</td>
 <td>🟠</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**7728**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7728/)</td>
 <td>光焱科技</td>
-<td>5.4</td>
-<td>-7.33%</td>
-<td>+1.01%</td>
-<td>815.00</td>
-<td>112.9 億元</td>
-<td>4.80%</td>
+<td>3.9</td>
+<td>-31.65%</td>
+<td>-39.54%</td>
+<td>767.00</td>
+<td>97.7 億元</td>
+<td>3.99%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**7732**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7732/)</td>
 <td>金興精密</td>
 <td>0.0</td>
-<td>+88.13%</td>
-<td>+0.70%</td>
-<td>35.00</td>
-<td>22.6 億元</td>
+<td>+3.00%</td>
+<td>-1.82%</td>
+<td>36.00</td>
+<td>23.0 億元</td>
 <td>0.07%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**7734**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7734/)</td>
 <td>印能科技</td>
-<td>28.8</td>
-<td>+94.36%</td>
-<td>+48.41%</td>
-<td>2505.00</td>
-<td>701.4 億元</td>
-<td>4.11%</td>
+<td>39.1</td>
+<td>+185.17%</td>
+<td>+63.72%</td>
+<td>3150.00</td>
+<td>1054.2 億元</td>
+<td>3.71%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**7736**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7736/)</td>
 <td>虎山</td>
 <td>0.0</td>
-<td>-5.59%</td>
-<td>-4.14%</td>
-<td>80.10</td>
-<td>60.9 億元</td>
+<td>-2.47%</td>
+<td>-1.74%</td>
+<td>78.90</td>
+<td>60.6 億元</td>
 <td>0.06%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**7737**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7737/)</td>
 <td>凱鈿</td>
 <td>0.0</td>
-<td>-28.57%</td>
-<td>-55.36%</td>
-<td>43.05</td>
-<td>13.0 億元</td>
-<td>0.05%</td>
+<td>-89.50%</td>
+<td>-76.67%</td>
+<td>43.65</td>
+<td>13.3 億元</td>
+<td>0.11%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**7747**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7747/)</td>
 <td>昕奇雲端</td>
-<td>0.1</td>
-<td>+100.00%</td>
-<td>+108.33%</td>
-<td>130.50</td>
-<td>36.5 億元</td>
-<td>0.29%</td>
+<td>0.0</td>
+<td>+80.00%</td>
+<td>-55.00%</td>
+<td>133.00</td>
+<td>35.9 億元</td>
+<td>0.01%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**7749**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7749/)</td>
 <td>意騰-KY</td>
-<td>2.4</td>
-<td>-0.52%</td>
-<td>+14.91%</td>
-<td>411.50</td>
-<td>191.3 億元</td>
-<td>1.23%</td>
+<td>2.7</td>
+<td>+21.38%</td>
+<td>+20.27%</td>
+<td>445.00</td>
+<td>201.1 億元</td>
+<td>1.32%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**7765**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7765/)</td>
 <td>中華資安</td>
 <td>0.1</td>
 <td>-</td>
-<td>+16.00%</td>
-<td>232.00</td>
-<td>94.4 億元</td>
+<td>+13.79%</td>
+<td>228.00</td>
+<td>90.1 億元</td>
 <td>0.08%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**7769**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7769/)</td>
 <td>鴻勁</td>
-<td>428.4</td>
-<td>-22.34%</td>
-<td>+61.73%</td>
-<td>4400.00</td>
-<td>8096.9 億元</td>
-<td>5.29%</td>
+<td>449.3</td>
+<td>-57.35%</td>
+<td>-23.01%</td>
+<td>4490.00</td>
+<td>8510.7 億元</td>
+<td>5.28%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
-</tr>
-<tr>
-<td markdown="span">[**7794**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7794/)</td>
-<td>宏碁智新</td>
-<td>0.0</td>
-<td>+33.33%</td>
-<td>+400.00%</td>
-<td>48.50</td>
-<td>11.9 億元</td>
-<td>0.08%</td>
-<td>🟢</td>
-<td>2026-04-16</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**7805**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7805/)</td>
 <td>威聯通</td>
-<td>3.0</td>
-<td>+3.17%</td>
-<td>+146.21%</td>
-<td>665.00</td>
-<td>222.3 億元</td>
-<td>1.35%</td>
+<td>9.8</td>
+<td>+28.00%</td>
+<td>+92.00%</td>
+<td>722.00</td>
+<td>237.5 億元</td>
+<td>4.15%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**8016**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-8016/)</td>
 <td>矽創</td>
-<td>3.0</td>
-<td>+22.37%</td>
-<td>+23.10%</td>
-<td>215.00</td>
-<td>258.3 億元</td>
-<td>1.18%</td>
+<td>3.4</td>
+<td>+38.79%</td>
+<td>+24.36%</td>
+<td>240.50</td>
+<td>275.7 億元</td>
+<td>1.22%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**8045**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-8045/)</td>
 <td>達運光電</td>
-<td>3.5</td>
-<td>-6.74%</td>
-<td>+2.06%</td>
-<td>73.50</td>
-<td>69.8 億元</td>
-<td>5.07%</td>
+<td>3.9</td>
+<td>+0.54%</td>
+<td>+12.88%</td>
+<td>80.60</td>
+<td>71.5 億元</td>
+<td>5.46%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**8272**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-8272/)</td>
 <td>全景軟體</td>
 <td>0.0</td>
-<td>+116.67%</td>
-<td>+441.67%</td>
+<td>+80.00%</td>
+<td>+28.57%</td>
 <td>70.90</td>
-<td>13.7 億元</td>
-<td>0.18%</td>
+<td>13.4 億元</td>
+<td>0.26%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**8299**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-8299/)</td>
 <td>群聯</td>
-<td>219.6</td>
-<td>-19.75%</td>
-<td>+13.22%</td>
-<td>1570.00</td>
-<td>3466.0 億元</td>
-<td>6.33%</td>
+<td>266.2</td>
+<td>+43.14%</td>
+<td>+15.97%</td>
+<td>1775.00</td>
+<td>3708.8 億元</td>
+<td>7.18%</td>
 <td>🔴</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**8454**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-8454/)</td>
 <td>富邦媒</td>
-<td>1.6</td>
-<td>-5.04%</td>
-<td>-0.92%</td>
-<td>175.50</td>
-<td>465.0 億元</td>
-<td>0.34%</td>
+<td>2.0</td>
+<td>+22.31%</td>
+<td>+23.27%</td>
+<td>176.00</td>
+<td>450.5 億元</td>
+<td>0.43%</td>
 <td>🟡</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**9914**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-9914/)</td>
 <td>美利達</td>
 <td>1.8</td>
-<td>-9.67%</td>
-<td>-29.81%</td>
-<td>60.90</td>
-<td>182.1 億元</td>
-<td>0.97%</td>
-<td>🟠</td>
-<td>2026-04-17</td>
+<td>-1.72%</td>
+<td>-44.14%</td>
+<td>61.50</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**9917**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-9917/)</td>
 <td>中保科</td>
 <td>0.1</td>
-<td>+14.86%</td>
-<td>-3.25%</td>
-<td>116.50</td>
-<td>525.6 億元</td>
+<td>-3.09%</td>
+<td>-6.79%</td>
+<td>115.50</td>
+<td>514.4 億元</td>
 <td>0.01%</td>
 <td>🟢</td>
-<td>2026-04-17</td>
+<td>2026-04-22</td>
 </tr>
 <tr>
 <td markdown="span">[**9921**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-9921/)</td>
 <td>巨大</td>
 <td>1.3</td>
-<td>+2.98%</td>
-<td>-1.07%</td>
-<td>69.20</td>
-<td>271.3 億元</td>
-<td>0.47%</td>
-<td>🟡</td>
-<td>2026-04-17</td>
+<td>+0.08%</td>
+<td>+5.11%</td>
+<td>70.50</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-04-22</td>
 </tr>
 
 </tbody>
