@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-05-01
+date: 2026-05-02
 categories:
   - 股票
   - 融資餘額
@@ -19,7 +19,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 # 📈 融資餘額總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-05-01 13:59:32 CST  
+    **:calendar: 產生時間**: 2026-05-02 01:46:48 CST  
     **:building_construction: 分析股票總數**: 126 檔  
     **:chart_with_upwards_trend: 報告類型**: 融資餘額總覽  
     **:file_folder: 資料來源**: Stage 2 cleaned_margin_daily.csv + cleaned_margin_weekly.csv + cleaned_margin_monthly.csv
@@ -51,7 +51,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+11.38%</td>
 <td>+9.30%</td>
 <td>37878.47</td>
-<td>94.00 兆元</td>
+<td>93.96 兆元</td>
 <td>0.47%</td>
 <td>🟡</td>
 <td>2026-04-22</td>
@@ -1167,9 +1167,9 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+86.94%</td>
 <td>+70.17%</td>
 <td>108.00</td>
-<td>36.2 億元</td>
-<td>1.52%</td>
-<td>🔴</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>-</td>
 <td>2026-04-22</td>
 </tr>
 <tr>
@@ -1263,9 +1263,9 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+276.00%</td>
 <td>+41.12%</td>
 <td>64.00</td>
-<td>22.0 億元</td>
-<td>1.23%</td>
-<td>🔴</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>-</td>
 <td>2026-04-22</td>
 </tr>
 <tr>
@@ -1467,9 +1467,9 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+38.79%</td>
 <td>+24.36%</td>
 <td>240.50</td>
-<td>276.3 億元</td>
-<td>1.22%</td>
-<td>🔴</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>-</td>
 <td>2026-04-22</td>
 </tr>
 <tr>
