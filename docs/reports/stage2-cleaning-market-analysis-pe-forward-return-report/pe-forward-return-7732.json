@@ -3,7 +3,7 @@
     "stock_code": "7732",
     "company_name": "金興精密",
     "industry": "汽車工業",
-    "generated_at": "2026-04-18T13:18:24.571641",
+    "generated_at": "2026-05-02T13:42:11.967365",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -239,7 +239,7 @@
       "horizon_label": "1年",
       "start_date": "2025-04-15",
       "pe_ratio": 20.62,
-      "forward_return": -10.88,
+      "forward_return": -11.72,
       "start_price": 41.85,
       "start_year": 2025
     }
@@ -286,10 +286,10 @@
     "1y": {
       "horizon_label": "1年",
       "avg_pe": 18.44,
-      "avg_return": -8.86,
-      "r_squared": 0.0509,
-      "slope": -0.4176,
-      "intercept": -1.1551,
+      "avg_return": -9.07,
+      "r_squared": 0.0988,
+      "slope": -0.6175,
+      "intercept": 2.3208,
       "data_points": 4,
       "best_buy": {
         "date": "2025-02",
@@ -297,9 +297,9 @@
         "return": -4.24
       },
       "worst_buy": {
-        "date": "2025-01",
-        "pe": 18.35,
-        "return": -11.27
+        "date": "2025-04",
+        "pe": 20.62,
+        "return": -11.72
       }
     }
   },
@@ -456,13 +456,13 @@
     },
     {
       "date": "2026-04-15",
-      "price": 35.3,
-      "pe": 20.4,
+      "price": 34.95,
+      "pe": 20.2,
       "pe_10": 31.83,
       "pe_25": 33.28,
-      "pe_50": 36.1,
+      "pe_50": 36.09,
       "pe_75": 39.94,
-      "pe_90": 43.09
+      "pe_90": 43.08
     }
   ],
   "revenue_yoy": [

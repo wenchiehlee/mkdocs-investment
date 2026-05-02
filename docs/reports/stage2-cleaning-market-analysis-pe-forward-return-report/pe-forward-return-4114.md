@@ -2,7 +2,7 @@
 title: "4114 健喬 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-04-18"
+date: "2026-05-02"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
     - **產業別**: 生技醫療業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-04-18 13:16:13 CST
+    - **報告生成時間**: 2026-05-02 13:39:54 CST
 
 ## 📈 互動式圖表
 
@@ -5359,7 +5359,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon_label": "1年",
         "start_date": "2025-04-15",
         "pe_ratio": 20.2,
-        "forward_return": -1.09,
+        "forward_return": -0.0,
         "start_price": 32.25,
         "start_year": 2025
       },
@@ -6988,7 +6988,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon_label": "2年",
         "start_date": "2024-04-15",
         "pe_ratio": 22.11,
-        "forward_return": -8.19,
+        "forward_return": -7.7,
         "start_price": 38.55,
         "start_year": 2024
       },
@@ -8509,7 +8509,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon_label": "3年",
         "start_date": "2023-04-15",
         "pe_ratio": 21.5,
-        "forward_return": -11.57,
+        "forward_return": -11.25,
         "start_price": 47.8,
         "start_year": 2023
       },
@@ -9922,7 +9922,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon_label": "4年",
         "start_date": "2022-04-15",
         "pe_ratio": 17.87,
-        "forward_return": 5.2,
+        "forward_return": 5.48,
         "start_price": 27.4,
         "start_year": 2022
       },
@@ -11227,7 +11227,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon_label": "5年",
         "start_date": "2021-04-15",
         "pe_ratio": 13.57,
-        "forward_return": 4.91,
+        "forward_return": 5.13,
         "start_price": 26.65,
         "start_year": 2021
       },
@@ -12424,7 +12424,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon_label": "6年",
         "start_date": "2020-04-15",
         "pe_ratio": 23.72,
-        "forward_return": 6.88,
+        "forward_return": 7.06,
         "start_price": 22.85,
         "start_year": 2020
       },
@@ -13405,7 +13405,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon_label": "8年",
         "start_date": "2018-04-15",
         "pe_ratio": 13.76,
-        "forward_return": 1.72,
+        "forward_return": 1.85,
         "start_price": 30.05,
         "start_year": 2018
       },
@@ -14251,7 +14251,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon_label": "10年",
         "start_date": "2016-04-15",
         "pe_ratio": 25.55,
-        "forward_return": -0.39,
+        "forward_return": -0.29,
         "start_price": 36.2,
         "start_year": 2016
       }
@@ -16507,13 +16507,13 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
       },
       {
         "date": "2026-04-15",
-        "price": 31.3,
-        "pe": 18.86,
+        "price": 31.65,
+        "pe": 19.07,
         "pe_10": 23.9,
-        "pe_25": 35.13,
+        "pe_25": 35.14,
         "pe_50": 48.56,
         "pe_75": 94.73,
-        "pe_90": 173.51
+        "pe_90": 173.52
       }
     ]
   },
@@ -16751,6 +16751,482 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
   "title": "4114 健喬 - 月營收年增率",
   "data": {
     "values": [
+      {
+        "date": "2013-01-16",
+        "revenue_yoy": 43.8
+      },
+      {
+        "date": "2013-02-14",
+        "revenue_yoy": -9.21
+      },
+      {
+        "date": "2013-03-16",
+        "revenue_yoy": 26.5
+      },
+      {
+        "date": "2013-04-15",
+        "revenue_yoy": 16.6
+      },
+      {
+        "date": "2013-05-16",
+        "revenue_yoy": 24.9
+      },
+      {
+        "date": "2013-06-15",
+        "revenue_yoy": 30.0
+      },
+      {
+        "date": "2013-07-16",
+        "revenue_yoy": -2.03
+      },
+      {
+        "date": "2013-08-16",
+        "revenue_yoy": 38.6
+      },
+      {
+        "date": "2013-09-15",
+        "revenue_yoy": 5.97
+      },
+      {
+        "date": "2013-10-16",
+        "revenue_yoy": 7.88
+      },
+      {
+        "date": "2013-11-15",
+        "revenue_yoy": 12.8
+      },
+      {
+        "date": "2013-12-16",
+        "revenue_yoy": 13.0
+      },
+      {
+        "date": "2014-01-16",
+        "revenue_yoy": 6.93
+      },
+      {
+        "date": "2014-02-14",
+        "revenue_yoy": 27.6
+      },
+      {
+        "date": "2014-03-16",
+        "revenue_yoy": 2.07
+      },
+      {
+        "date": "2014-04-15",
+        "revenue_yoy": 17.0
+      },
+      {
+        "date": "2014-05-16",
+        "revenue_yoy": 29.1
+      },
+      {
+        "date": "2014-06-15",
+        "revenue_yoy": 12.9
+      },
+      {
+        "date": "2014-07-16",
+        "revenue_yoy": 31.0
+      },
+      {
+        "date": "2014-08-16",
+        "revenue_yoy": 25.6
+      },
+      {
+        "date": "2014-09-15",
+        "revenue_yoy": 34.2
+      },
+      {
+        "date": "2014-10-16",
+        "revenue_yoy": 16.9
+      },
+      {
+        "date": "2014-11-15",
+        "revenue_yoy": 7.7
+      },
+      {
+        "date": "2014-12-16",
+        "revenue_yoy": 24.0
+      },
+      {
+        "date": "2015-01-16",
+        "revenue_yoy": 23.2
+      },
+      {
+        "date": "2015-02-14",
+        "revenue_yoy": 32.9
+      },
+      {
+        "date": "2015-03-16",
+        "revenue_yoy": 23.0
+      },
+      {
+        "date": "2015-04-15",
+        "revenue_yoy": 19.8
+      },
+      {
+        "date": "2015-05-16",
+        "revenue_yoy": 13.0
+      },
+      {
+        "date": "2015-06-15",
+        "revenue_yoy": 24.2
+      },
+      {
+        "date": "2015-07-16",
+        "revenue_yoy": 11.4
+      },
+      {
+        "date": "2015-08-16",
+        "revenue_yoy": 21.0
+      },
+      {
+        "date": "2015-09-15",
+        "revenue_yoy": 14.9
+      },
+      {
+        "date": "2015-10-16",
+        "revenue_yoy": 19.2
+      },
+      {
+        "date": "2015-11-15",
+        "revenue_yoy": 22.4
+      },
+      {
+        "date": "2015-12-16",
+        "revenue_yoy": 10.0
+      },
+      {
+        "date": "2016-01-16",
+        "revenue_yoy": 27.1
+      },
+      {
+        "date": "2016-02-15",
+        "revenue_yoy": -9.07
+      },
+      {
+        "date": "2016-03-16",
+        "revenue_yoy": 36.6
+      },
+      {
+        "date": "2016-04-15",
+        "revenue_yoy": 24.5
+      },
+      {
+        "date": "2016-05-16",
+        "revenue_yoy": 25.6
+      },
+      {
+        "date": "2016-06-15",
+        "revenue_yoy": -1.38
+      },
+      {
+        "date": "2016-07-16",
+        "revenue_yoy": -6.0
+      },
+      {
+        "date": "2016-08-16",
+        "revenue_yoy": -3.02
+      },
+      {
+        "date": "2016-09-15",
+        "revenue_yoy": -11.9
+      },
+      {
+        "date": "2016-10-16",
+        "revenue_yoy": -4.03
+      },
+      {
+        "date": "2016-11-15",
+        "revenue_yoy": -0.52
+      },
+      {
+        "date": "2016-12-16",
+        "revenue_yoy": -10.8
+      },
+      {
+        "date": "2017-01-16",
+        "revenue_yoy": -23.9
+      },
+      {
+        "date": "2017-02-14",
+        "revenue_yoy": 24.9
+      },
+      {
+        "date": "2017-03-16",
+        "revenue_yoy": -12.8
+      },
+      {
+        "date": "2017-04-15",
+        "revenue_yoy": -15.2
+      },
+      {
+        "date": "2017-05-16",
+        "revenue_yoy": -17.1
+      },
+      {
+        "date": "2017-06-15",
+        "revenue_yoy": 7.25
+      },
+      {
+        "date": "2017-07-16",
+        "revenue_yoy": -6.34
+      },
+      {
+        "date": "2017-08-16",
+        "revenue_yoy": 4.59
+      },
+      {
+        "date": "2017-09-15",
+        "revenue_yoy": 18.6
+      },
+      {
+        "date": "2017-10-16",
+        "revenue_yoy": -7.07
+      },
+      {
+        "date": "2017-11-15",
+        "revenue_yoy": 3.92
+      },
+      {
+        "date": "2017-12-16",
+        "revenue_yoy": 47.3
+      },
+      {
+        "date": "2018-01-16",
+        "revenue_yoy": 62.4
+      },
+      {
+        "date": "2018-02-14",
+        "revenue_yoy": 16.9
+      },
+      {
+        "date": "2018-03-16",
+        "revenue_yoy": 24.8
+      },
+      {
+        "date": "2018-04-15",
+        "revenue_yoy": 10.6
+      },
+      {
+        "date": "2018-05-16",
+        "revenue_yoy": 31.2
+      },
+      {
+        "date": "2018-06-15",
+        "revenue_yoy": 22.1
+      },
+      {
+        "date": "2018-07-16",
+        "revenue_yoy": 54.0
+      },
+      {
+        "date": "2018-08-16",
+        "revenue_yoy": 17.4
+      },
+      {
+        "date": "2018-09-15",
+        "revenue_yoy": 19.8
+      },
+      {
+        "date": "2018-10-16",
+        "revenue_yoy": 40.1
+      },
+      {
+        "date": "2018-11-15",
+        "revenue_yoy": 29.0
+      },
+      {
+        "date": "2018-12-16",
+        "revenue_yoy": -2.28
+      },
+      {
+        "date": "2019-01-16",
+        "revenue_yoy": 17.8
+      },
+      {
+        "date": "2019-02-14",
+        "revenue_yoy": -12.1
+      },
+      {
+        "date": "2019-03-16",
+        "revenue_yoy": -2.22
+      },
+      {
+        "date": "2019-04-15",
+        "revenue_yoy": 42.1
+      },
+      {
+        "date": "2019-05-16",
+        "revenue_yoy": 13.3
+      },
+      {
+        "date": "2019-06-15",
+        "revenue_yoy": 1.51
+      },
+      {
+        "date": "2019-07-16",
+        "revenue_yoy": 9.13
+      },
+      {
+        "date": "2019-08-16",
+        "revenue_yoy": 35.0
+      },
+      {
+        "date": "2019-09-15",
+        "revenue_yoy": 6.89
+      },
+      {
+        "date": "2019-10-16",
+        "revenue_yoy": 9.8
+      },
+      {
+        "date": "2019-11-15",
+        "revenue_yoy": 17.7
+      },
+      {
+        "date": "2019-12-16",
+        "revenue_yoy": 30.5
+      },
+      {
+        "date": "2020-01-16",
+        "revenue_yoy": -17.0
+      },
+      {
+        "date": "2020-02-15",
+        "revenue_yoy": 92.4
+      },
+      {
+        "date": "2020-03-16",
+        "revenue_yoy": 49.2
+      },
+      {
+        "date": "2020-04-15",
+        "revenue_yoy": 2.83
+      },
+      {
+        "date": "2020-05-16",
+        "revenue_yoy": -10.2
+      },
+      {
+        "date": "2020-06-15",
+        "revenue_yoy": 14.2
+      },
+      {
+        "date": "2020-07-16",
+        "revenue_yoy": 22.3
+      },
+      {
+        "date": "2020-08-16",
+        "revenue_yoy": -1.13
+      },
+      {
+        "date": "2020-09-15",
+        "revenue_yoy": 11.3
+      },
+      {
+        "date": "2020-10-16",
+        "revenue_yoy": 26.7
+      },
+      {
+        "date": "2020-11-15",
+        "revenue_yoy": 10.8
+      },
+      {
+        "date": "2020-12-16",
+        "revenue_yoy": 8.96
+      },
+      {
+        "date": "2021-01-16",
+        "revenue_yoy": 24.5
+      },
+      {
+        "date": "2021-02-14",
+        "revenue_yoy": -24.6
+      },
+      {
+        "date": "2021-03-16",
+        "revenue_yoy": -6.7
+      },
+      {
+        "date": "2021-04-15",
+        "revenue_yoy": 2.83
+      },
+      {
+        "date": "2021-05-16",
+        "revenue_yoy": 25.6
+      },
+      {
+        "date": "2021-06-15",
+        "revenue_yoy": 14.8
+      },
+      {
+        "date": "2021-07-16",
+        "revenue_yoy": -8.8
+      },
+      {
+        "date": "2021-08-16",
+        "revenue_yoy": 5.34
+      },
+      {
+        "date": "2021-09-15",
+        "revenue_yoy": 19.4
+      },
+      {
+        "date": "2021-10-16",
+        "revenue_yoy": 0.63
+      },
+      {
+        "date": "2021-11-15",
+        "revenue_yoy": 16.6
+      },
+      {
+        "date": "2021-12-16",
+        "revenue_yoy": 17.7
+      },
+      {
+        "date": "2022-01-16",
+        "revenue_yoy": 25.1
+      },
+      {
+        "date": "2022-02-14",
+        "revenue_yoy": 28.0
+      },
+      {
+        "date": "2022-03-16",
+        "revenue_yoy": 27.3
+      },
+      {
+        "date": "2022-04-15",
+        "revenue_yoy": 33.7
+      },
+      {
+        "date": "2022-05-16",
+        "revenue_yoy": 44.5
+      },
+      {
+        "date": "2022-06-15",
+        "revenue_yoy": 29.3
+      },
+      {
+        "date": "2022-07-16",
+        "revenue_yoy": 44.3
+      },
+      {
+        "date": "2022-08-16",
+        "revenue_yoy": 44.1
+      },
+      {
+        "date": "2022-09-15",
+        "revenue_yoy": 38.8
+      },
+      {
+        "date": "2022-10-16",
+        "revenue_yoy": 41.9
+      },
+      {
+        "date": "2022-11-15",
+        "revenue_yoy": 31.6
+      },
       {
         "date": "2022-12-16",
         "revenue_yoy": 38.8
@@ -17005,4 +17481,4 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-04-18 13:16:13 CST*
+*數據更新時間: 2026-05-02 13:39:54 CST*

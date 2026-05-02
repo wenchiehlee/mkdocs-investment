@@ -2,7 +2,7 @@
 title: "2450 神腦 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-04-18"
+date: "2026-05-02"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "2450 神腦 (通信網路業) 本益比與未來報酬率關係分
     - **產業別**: 通信網路業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-04-18 13:13:07 CST
+    - **報告生成時間**: 2026-05-02 13:36:41 CST
 
 ## 📈 互動式圖表
 
@@ -6331,7 +6331,7 @@ description: "2450 神腦 (通信網路業) 本益比與未來報酬率關係分
         "horizon_label": "1年",
         "start_date": "2025-04-15",
         "pe_ratio": 17.94,
-        "forward_return": -0.47,
+        "forward_return": 0.16,
         "start_price": 31.75,
         "start_year": 2025
       },
@@ -8284,7 +8284,7 @@ description: "2450 神腦 (通信網路業) 本益比與未來報酬率關係分
         "horizon_label": "2年",
         "start_date": "2024-04-15",
         "pe_ratio": 16.32,
-        "forward_return": -7.19,
+        "forward_return": -6.91,
         "start_price": 39.0,
         "start_year": 2024
       },
@@ -10129,7 +10129,7 @@ description: "2450 神腦 (通信網路業) 本益比與未來報酬率關係分
         "horizon_label": "3年",
         "start_date": "2023-04-15",
         "pe_ratio": 13.02,
-        "forward_return": 0.85,
+        "forward_return": 1.04,
         "start_price": 34.9,
         "start_year": 2023
       },
@@ -11866,7 +11866,7 @@ description: "2450 神腦 (通信網路業) 本益比與未來報酬率關係分
         "horizon_label": "4年",
         "start_date": "2022-04-15",
         "pe_ratio": 14.03,
-        "forward_return": 2.76,
+        "forward_return": 2.9,
         "start_price": 33.9,
         "start_year": 2022
       },
@@ -13495,7 +13495,7 @@ description: "2450 神腦 (通信網路業) 本益比與未來報酬率關係分
         "horizon_label": "5年",
         "start_date": "2021-04-15",
         "pe_ratio": 17.84,
-        "forward_return": 1.85,
+        "forward_return": 1.96,
         "start_price": 35.85,
         "start_year": 2021
       },
@@ -15016,7 +15016,7 @@ description: "2450 神腦 (通信網路業) 本益比與未來報酬率關係分
         "horizon_label": "6年",
         "start_date": "2020-04-15",
         "pe_ratio": 17.22,
-        "forward_return": 5.77,
+        "forward_return": 5.86,
         "start_price": 29.1,
         "start_year": 2020
       },
@@ -16321,7 +16321,7 @@ description: "2450 神腦 (通信網路業) 本益比與未來報酬率關係分
         "horizon_label": "8年",
         "start_date": "2018-04-15",
         "pe_ratio": 16.89,
-        "forward_return": -1.76,
+        "forward_return": -1.71,
         "start_price": 52.3,
         "start_year": 2018
       },
@@ -17410,7 +17410,7 @@ description: "2450 神腦 (通信網路業) 本益比與未來報酬率關係分
         "horizon_label": "10年",
         "start_date": "2016-04-15",
         "pe_ratio": 11.62,
-        "forward_return": 1.96,
+        "forward_return": 2.0,
         "start_price": 43.1,
         "start_year": 2016
       }
@@ -20026,11 +20026,11 @@ description: "2450 神腦 (通信網路業) 本益比與未來報酬率關係分
       },
       {
         "date": "2026-04-15",
-        "price": 29.95,
-        "pe": 17.41,
-        "pe_10": 19.34,
+        "price": 30.15,
+        "pe": 17.53,
+        "pe_10": 19.33,
         "pe_25": 21.88,
-        "pe_50": 27.77,
+        "pe_50": 27.76,
         "pe_75": 32.7,
         "pe_90": 38.22
       }
@@ -20270,6 +20270,482 @@ description: "2450 神腦 (通信網路業) 本益比與未來報酬率關係分
   "title": "2450 神腦 - 月營收年增率",
   "data": {
     "values": [
+      {
+        "date": "2013-01-16",
+        "revenue_yoy": 29.1
+      },
+      {
+        "date": "2013-02-14",
+        "revenue_yoy": 23.2
+      },
+      {
+        "date": "2013-03-16",
+        "revenue_yoy": 23.2
+      },
+      {
+        "date": "2013-04-15",
+        "revenue_yoy": 32.0
+      },
+      {
+        "date": "2013-05-16",
+        "revenue_yoy": 23.6
+      },
+      {
+        "date": "2013-06-15",
+        "revenue_yoy": 15.1
+      },
+      {
+        "date": "2013-07-16",
+        "revenue_yoy": 23.7
+      },
+      {
+        "date": "2013-08-16",
+        "revenue_yoy": 8.7
+      },
+      {
+        "date": "2013-09-15",
+        "revenue_yoy": 39.8
+      },
+      {
+        "date": "2013-10-16",
+        "revenue_yoy": 30.2
+      },
+      {
+        "date": "2013-11-15",
+        "revenue_yoy": 16.1
+      },
+      {
+        "date": "2013-12-16",
+        "revenue_yoy": 9.46
+      },
+      {
+        "date": "2014-01-16",
+        "revenue_yoy": 1.47
+      },
+      {
+        "date": "2014-02-14",
+        "revenue_yoy": -8.32
+      },
+      {
+        "date": "2014-03-16",
+        "revenue_yoy": -9.33
+      },
+      {
+        "date": "2014-04-15",
+        "revenue_yoy": 7.2
+      },
+      {
+        "date": "2014-05-16",
+        "revenue_yoy": -2.21
+      },
+      {
+        "date": "2014-06-15",
+        "revenue_yoy": 12.1
+      },
+      {
+        "date": "2014-07-16",
+        "revenue_yoy": -17.2
+      },
+      {
+        "date": "2014-08-16",
+        "revenue_yoy": -22.5
+      },
+      {
+        "date": "2014-09-15",
+        "revenue_yoy": -4.32
+      },
+      {
+        "date": "2014-10-16",
+        "revenue_yoy": 13.1
+      },
+      {
+        "date": "2014-11-15",
+        "revenue_yoy": 5.27
+      },
+      {
+        "date": "2014-12-16",
+        "revenue_yoy": -9.37
+      },
+      {
+        "date": "2015-01-16",
+        "revenue_yoy": -27.3
+      },
+      {
+        "date": "2015-02-14",
+        "revenue_yoy": -7.6
+      },
+      {
+        "date": "2015-03-16",
+        "revenue_yoy": -1.0
+      },
+      {
+        "date": "2015-04-15",
+        "revenue_yoy": -12.3
+      },
+      {
+        "date": "2015-05-16",
+        "revenue_yoy": -21.2
+      },
+      {
+        "date": "2015-06-15",
+        "revenue_yoy": -17.1
+      },
+      {
+        "date": "2015-07-16",
+        "revenue_yoy": -12.4
+      },
+      {
+        "date": "2015-08-16",
+        "revenue_yoy": -6.77
+      },
+      {
+        "date": "2015-09-15",
+        "revenue_yoy": -14.9
+      },
+      {
+        "date": "2015-10-16",
+        "revenue_yoy": -26.6
+      },
+      {
+        "date": "2015-11-15",
+        "revenue_yoy": -7.87
+      },
+      {
+        "date": "2015-12-16",
+        "revenue_yoy": -3.91
+      },
+      {
+        "date": "2016-01-16",
+        "revenue_yoy": -1.44
+      },
+      {
+        "date": "2016-02-15",
+        "revenue_yoy": -9.18
+      },
+      {
+        "date": "2016-03-16",
+        "revenue_yoy": -9.54
+      },
+      {
+        "date": "2016-04-15",
+        "revenue_yoy": -20.9
+      },
+      {
+        "date": "2016-05-16",
+        "revenue_yoy": -11.5
+      },
+      {
+        "date": "2016-06-15",
+        "revenue_yoy": -9.78
+      },
+      {
+        "date": "2016-07-16",
+        "revenue_yoy": -6.15
+      },
+      {
+        "date": "2016-08-16",
+        "revenue_yoy": 28.3
+      },
+      {
+        "date": "2016-09-15",
+        "revenue_yoy": 16.9
+      },
+      {
+        "date": "2016-10-16",
+        "revenue_yoy": 0.92
+      },
+      {
+        "date": "2016-11-15",
+        "revenue_yoy": -13.8
+      },
+      {
+        "date": "2016-12-16",
+        "revenue_yoy": -7.29
+      },
+      {
+        "date": "2017-01-16",
+        "revenue_yoy": -0.5
+      },
+      {
+        "date": "2017-02-14",
+        "revenue_yoy": 2.92
+      },
+      {
+        "date": "2017-03-16",
+        "revenue_yoy": 3.87
+      },
+      {
+        "date": "2017-04-15",
+        "revenue_yoy": 5.31
+      },
+      {
+        "date": "2017-05-16",
+        "revenue_yoy": 17.5
+      },
+      {
+        "date": "2017-06-15",
+        "revenue_yoy": 19.1
+      },
+      {
+        "date": "2017-07-16",
+        "revenue_yoy": 16.2
+      },
+      {
+        "date": "2017-08-16",
+        "revenue_yoy": -15.8
+      },
+      {
+        "date": "2017-09-15",
+        "revenue_yoy": -0.31
+      },
+      {
+        "date": "2017-10-16",
+        "revenue_yoy": -0.33
+      },
+      {
+        "date": "2017-11-15",
+        "revenue_yoy": 12.5
+      },
+      {
+        "date": "2017-12-16",
+        "revenue_yoy": 6.28
+      },
+      {
+        "date": "2018-01-16",
+        "revenue_yoy": 1.88
+      },
+      {
+        "date": "2018-02-14",
+        "revenue_yoy": -3.6
+      },
+      {
+        "date": "2018-03-16",
+        "revenue_yoy": 7.04
+      },
+      {
+        "date": "2018-04-15",
+        "revenue_yoy": -8.37
+      },
+      {
+        "date": "2018-05-16",
+        "revenue_yoy": -10.4
+      },
+      {
+        "date": "2018-06-15",
+        "revenue_yoy": -35.2
+      },
+      {
+        "date": "2018-07-16",
+        "revenue_yoy": -20.8
+      },
+      {
+        "date": "2018-08-16",
+        "revenue_yoy": -15.8
+      },
+      {
+        "date": "2018-09-15",
+        "revenue_yoy": -20.0
+      },
+      {
+        "date": "2018-10-16",
+        "revenue_yoy": -13.6
+      },
+      {
+        "date": "2018-11-15",
+        "revenue_yoy": -11.1
+      },
+      {
+        "date": "2018-12-16",
+        "revenue_yoy": -16.0
+      },
+      {
+        "date": "2019-01-16",
+        "revenue_yoy": -10.0
+      },
+      {
+        "date": "2019-02-14",
+        "revenue_yoy": -16.6
+      },
+      {
+        "date": "2019-03-16",
+        "revenue_yoy": -9.1
+      },
+      {
+        "date": "2019-04-15",
+        "revenue_yoy": -4.89
+      },
+      {
+        "date": "2019-05-16",
+        "revenue_yoy": -18.1
+      },
+      {
+        "date": "2019-06-15",
+        "revenue_yoy": 6.45
+      },
+      {
+        "date": "2019-07-16",
+        "revenue_yoy": -2.98
+      },
+      {
+        "date": "2019-08-16",
+        "revenue_yoy": -4.82
+      },
+      {
+        "date": "2019-09-15",
+        "revenue_yoy": 0.58
+      },
+      {
+        "date": "2019-10-16",
+        "revenue_yoy": 4.19
+      },
+      {
+        "date": "2019-11-15",
+        "revenue_yoy": -10.7
+      },
+      {
+        "date": "2019-12-16",
+        "revenue_yoy": -18.6
+      },
+      {
+        "date": "2020-01-16",
+        "revenue_yoy": -12.4
+      },
+      {
+        "date": "2020-02-15",
+        "revenue_yoy": -1.92
+      },
+      {
+        "date": "2020-03-16",
+        "revenue_yoy": -24.7
+      },
+      {
+        "date": "2020-04-15",
+        "revenue_yoy": -18.0
+      },
+      {
+        "date": "2020-05-16",
+        "revenue_yoy": -6.26
+      },
+      {
+        "date": "2020-06-15",
+        "revenue_yoy": -11.8
+      },
+      {
+        "date": "2020-07-16",
+        "revenue_yoy": -4.28
+      },
+      {
+        "date": "2020-08-16",
+        "revenue_yoy": -2.07
+      },
+      {
+        "date": "2020-09-15",
+        "revenue_yoy": -9.43
+      },
+      {
+        "date": "2020-10-16",
+        "revenue_yoy": -12.0
+      },
+      {
+        "date": "2020-11-15",
+        "revenue_yoy": 16.4
+      },
+      {
+        "date": "2020-12-16",
+        "revenue_yoy": 13.8
+      },
+      {
+        "date": "2021-01-16",
+        "revenue_yoy": 12.0
+      },
+      {
+        "date": "2021-02-14",
+        "revenue_yoy": 7.38
+      },
+      {
+        "date": "2021-03-16",
+        "revenue_yoy": 17.6
+      },
+      {
+        "date": "2021-04-15",
+        "revenue_yoy": 21.7
+      },
+      {
+        "date": "2021-05-16",
+        "revenue_yoy": 6.01
+      },
+      {
+        "date": "2021-06-15",
+        "revenue_yoy": 8.17
+      },
+      {
+        "date": "2021-07-16",
+        "revenue_yoy": 9.12
+      },
+      {
+        "date": "2021-08-16",
+        "revenue_yoy": 2.4
+      },
+      {
+        "date": "2021-09-15",
+        "revenue_yoy": 16.1
+      },
+      {
+        "date": "2021-10-16",
+        "revenue_yoy": 59.3
+      },
+      {
+        "date": "2021-11-15",
+        "revenue_yoy": 7.26
+      },
+      {
+        "date": "2021-12-16",
+        "revenue_yoy": 13.8
+      },
+      {
+        "date": "2022-01-16",
+        "revenue_yoy": 8.12
+      },
+      {
+        "date": "2022-02-14",
+        "revenue_yoy": -8.79
+      },
+      {
+        "date": "2022-03-16",
+        "revenue_yoy": 22.0
+      },
+      {
+        "date": "2022-04-15",
+        "revenue_yoy": 9.83
+      },
+      {
+        "date": "2022-05-16",
+        "revenue_yoy": 2.76
+      },
+      {
+        "date": "2022-06-15",
+        "revenue_yoy": 3.55
+      },
+      {
+        "date": "2022-07-16",
+        "revenue_yoy": 1.12
+      },
+      {
+        "date": "2022-08-16",
+        "revenue_yoy": 5.36
+      },
+      {
+        "date": "2022-09-15",
+        "revenue_yoy": 3.86
+      },
+      {
+        "date": "2022-10-16",
+        "revenue_yoy": -21.8
+      },
+      {
+        "date": "2022-11-15",
+        "revenue_yoy": -5.38
+      },
       {
         "date": "2022-12-16",
         "revenue_yoy": -2.04
@@ -20524,4 +21000,4 @@ description: "2450 神腦 (通信網路業) 本益比與未來報酬率關係分
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-04-18 13:13:07 CST*
+*數據更新時間: 2026-05-02 13:36:41 CST*

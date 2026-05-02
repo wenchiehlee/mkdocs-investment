@@ -3,7 +3,7 @@
     "stock_code": "8272",
     "company_name": "全景軟體",
     "industry": "資訊服務業",
-    "generated_at": "2026-04-18T13:18:35.688211",
+    "generated_at": "2026-05-02T13:42:24.273830",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -320,7 +320,7 @@
       "horizon_label": "1年",
       "start_date": "2025-04-15",
       "pe_ratio": 21.16,
-      "forward_return": -10.81,
+      "forward_return": -12.02,
       "start_price": 82.4,
       "start_year": 2025
     }
@@ -367,15 +367,15 @@
     "1y": {
       "horizon_label": "1年",
       "avg_pe": 25.34,
-      "avg_return": -17.42,
-      "r_squared": 0.9126,
-      "slope": -1.9026,
-      "intercept": 30.7938,
+      "avg_return": -17.6,
+      "r_squared": 0.8949,
+      "slope": -1.841,
+      "intercept": 29.0592,
       "data_points": 7,
       "best_buy": {
-        "date": "2025-04",
-        "pe": 21.16,
-        "return": -10.81
+        "date": "2025-03",
+        "pe": 22.76,
+        "return": -10.93
       },
       "worst_buy": {
         "date": "2024-10",
@@ -567,13 +567,13 @@
     },
     {
       "date": "2026-04-15",
-      "price": 71.1,
-      "pe": 15.26,
-      "pe_10": 77.21,
-      "pe_25": 81.05,
-      "pe_50": 89.97,
-      "pe_75": 109.77,
-      "pe_90": 119.95
+      "price": 70.1,
+      "pe": 15.04,
+      "pe_10": 77.24,
+      "pe_25": 81.08,
+      "pe_50": 90.0,
+      "pe_75": 109.81,
+      "pe_90": 119.99
     }
   ],
   "revenue_yoy": [

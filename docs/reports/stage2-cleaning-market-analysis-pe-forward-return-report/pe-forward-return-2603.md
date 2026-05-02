@@ -2,7 +2,7 @@
 title: "2603 長榮 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-04-18"
+date: "2026-05-02"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
     - **產業別**: 航運業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-04-18 13:13:50 CST
+    - **報告生成時間**: 2026-05-02 13:37:25 CST
 
 ## 📈 互動式圖表
 
@@ -4387,7 +4387,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon_label": "1年",
         "start_date": "2025-04-15",
         "pe_ratio": 3.12,
-        "forward_return": 13.08,
+        "forward_return": 13.33,
         "start_price": 206.5,
         "start_year": 2025
       },
@@ -5692,7 +5692,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon_label": "2年",
         "start_date": "2024-04-15",
         "pe_ratio": 7.26,
-        "forward_return": 13.36,
+        "forward_return": 13.47,
         "start_price": 189.5,
         "start_year": 2024
       },
@@ -6889,7 +6889,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon_label": "3年",
         "start_date": "2023-04-15",
         "pe_ratio": 1.66,
-        "forward_return": 24.73,
+        "forward_return": 24.8,
         "start_price": 161.5,
         "start_year": 2023
       },
@@ -7978,7 +7978,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon_label": "4年",
         "start_date": "2022-04-15",
         "pe_ratio": 2.37,
-        "forward_return": 22.96,
+        "forward_return": 23.01,
         "start_price": 145.0,
         "start_year": 2022
       },
@@ -8959,7 +8959,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon_label": "5年",
         "start_date": "2021-04-15",
         "pe_ratio": 5.52,
-        "forward_return": 33.42,
+        "forward_return": 33.46,
         "start_price": 79.0,
         "start_year": 2021
       },
@@ -9832,7 +9832,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon_label": "6年",
         "start_date": "2020-04-15",
         "pe_ratio": 175.3,
-        "forward_return": 76.38,
+        "forward_return": 76.42,
         "start_price": 11.1,
         "start_year": 2020
       },
@@ -10534,7 +10534,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon_label": "8年",
         "start_date": "2018-04-15",
         "pe_ratio": 12.28,
-        "forward_return": 47.27,
+        "forward_return": 47.3,
         "start_price": 15.1,
         "start_year": 2018
       },
@@ -13033,13 +13033,13 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       },
       {
         "date": "2026-04-15",
-        "price": 201.0,
-        "pe": 6.34,
-        "pe_10": 75.01,
-        "pe_25": 135.69,
-        "pe_50": 263.14,
-        "pe_75": 961.57,
-        "pe_90": 2287.28
+        "price": 201.5,
+        "pe": 6.36,
+        "pe_10": 74.96,
+        "pe_25": 135.6,
+        "pe_50": 262.96,
+        "pe_75": 960.93,
+        "pe_90": 2285.76
       }
     ]
   },
@@ -13277,6 +13277,530 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
   "title": "2603 長榮 - 月營收年增率",
   "data": {
     "values": [
+      {
+        "date": "2012-01-16",
+        "revenue_yoy": -8.67
+      },
+      {
+        "date": "2012-02-15",
+        "revenue_yoy": 4.19
+      },
+      {
+        "date": "2012-03-16",
+        "revenue_yoy": 25.1
+      },
+      {
+        "date": "2012-04-15",
+        "revenue_yoy": 20.5
+      },
+      {
+        "date": "2012-05-16",
+        "revenue_yoy": 40.4
+      },
+      {
+        "date": "2012-06-15",
+        "revenue_yoy": 33.4
+      },
+      {
+        "date": "2012-07-16",
+        "revenue_yoy": 42.0
+      },
+      {
+        "date": "2012-08-16",
+        "revenue_yoy": 41.6
+      },
+      {
+        "date": "2012-09-15",
+        "revenue_yoy": 51.9
+      },
+      {
+        "date": "2012-10-16",
+        "revenue_yoy": 40.4
+      },
+      {
+        "date": "2012-11-15",
+        "revenue_yoy": 33.9
+      },
+      {
+        "date": "2012-12-16",
+        "revenue_yoy": 38.6
+      },
+      {
+        "date": "2013-01-16",
+        "revenue_yoy": 34.1
+      },
+      {
+        "date": "2013-02-14",
+        "revenue_yoy": 35.8
+      },
+      {
+        "date": "2013-03-16",
+        "revenue_yoy": 12.0
+      },
+      {
+        "date": "2013-04-15",
+        "revenue_yoy": 9.13
+      },
+      {
+        "date": "2013-05-16",
+        "revenue_yoy": -5.43
+      },
+      {
+        "date": "2013-06-15",
+        "revenue_yoy": -6.58
+      },
+      {
+        "date": "2013-07-16",
+        "revenue_yoy": -12.3
+      },
+      {
+        "date": "2013-08-16",
+        "revenue_yoy": -11.2
+      },
+      {
+        "date": "2013-09-15",
+        "revenue_yoy": -8.13
+      },
+      {
+        "date": "2013-10-16",
+        "revenue_yoy": -11.1
+      },
+      {
+        "date": "2013-11-15",
+        "revenue_yoy": -12.9
+      },
+      {
+        "date": "2013-12-16",
+        "revenue_yoy": -7.61
+      },
+      {
+        "date": "2014-01-16",
+        "revenue_yoy": 3.7
+      },
+      {
+        "date": "2014-02-14",
+        "revenue_yoy": 1.08
+      },
+      {
+        "date": "2014-03-16",
+        "revenue_yoy": 4.39
+      },
+      {
+        "date": "2014-04-15",
+        "revenue_yoy": -1.32
+      },
+      {
+        "date": "2014-05-16",
+        "revenue_yoy": -0.32
+      },
+      {
+        "date": "2014-06-15",
+        "revenue_yoy": -9.41
+      },
+      {
+        "date": "2014-07-16",
+        "revenue_yoy": 7.2
+      },
+      {
+        "date": "2014-08-16",
+        "revenue_yoy": 1.3
+      },
+      {
+        "date": "2014-09-15",
+        "revenue_yoy": 4.78
+      },
+      {
+        "date": "2014-10-16",
+        "revenue_yoy": 14.9
+      },
+      {
+        "date": "2014-11-15",
+        "revenue_yoy": 6.38
+      },
+      {
+        "date": "2014-12-16",
+        "revenue_yoy": 12.8
+      },
+      {
+        "date": "2015-01-16",
+        "revenue_yoy": -6.27
+      },
+      {
+        "date": "2015-02-14",
+        "revenue_yoy": 9.92
+      },
+      {
+        "date": "2015-03-16",
+        "revenue_yoy": 5.98
+      },
+      {
+        "date": "2015-04-15",
+        "revenue_yoy": -5.08
+      },
+      {
+        "date": "2015-05-16",
+        "revenue_yoy": -1.08
+      },
+      {
+        "date": "2015-06-15",
+        "revenue_yoy": 3.41
+      },
+      {
+        "date": "2015-07-16",
+        "revenue_yoy": -11.1
+      },
+      {
+        "date": "2015-08-16",
+        "revenue_yoy": -8.38
+      },
+      {
+        "date": "2015-09-15",
+        "revenue_yoy": -16.2
+      },
+      {
+        "date": "2015-10-16",
+        "revenue_yoy": -19.1
+      },
+      {
+        "date": "2015-11-15",
+        "revenue_yoy": -4.74
+      },
+      {
+        "date": "2015-12-16",
+        "revenue_yoy": -27.4
+      },
+      {
+        "date": "2016-01-16",
+        "revenue_yoy": -12.2
+      },
+      {
+        "date": "2016-02-15",
+        "revenue_yoy": -16.2
+      },
+      {
+        "date": "2016-03-16",
+        "revenue_yoy": -28.2
+      },
+      {
+        "date": "2016-04-15",
+        "revenue_yoy": -25.0
+      },
+      {
+        "date": "2016-05-16",
+        "revenue_yoy": -7.08
+      },
+      {
+        "date": "2016-06-15",
+        "revenue_yoy": -12.3
+      },
+      {
+        "date": "2016-07-16",
+        "revenue_yoy": -3.78
+      },
+      {
+        "date": "2016-08-16",
+        "revenue_yoy": -11.2
+      },
+      {
+        "date": "2016-09-15",
+        "revenue_yoy": 5.19
+      },
+      {
+        "date": "2016-10-16",
+        "revenue_yoy": 3.62
+      },
+      {
+        "date": "2016-11-15",
+        "revenue_yoy": 10.2
+      },
+      {
+        "date": "2016-12-16",
+        "revenue_yoy": 22.0
+      },
+      {
+        "date": "2017-01-16",
+        "revenue_yoy": 25.8
+      },
+      {
+        "date": "2017-02-14",
+        "revenue_yoy": 5.38
+      },
+      {
+        "date": "2017-03-16",
+        "revenue_yoy": 32.5
+      },
+      {
+        "date": "2017-04-15",
+        "revenue_yoy": 28.4
+      },
+      {
+        "date": "2017-05-16",
+        "revenue_yoy": 21.4
+      },
+      {
+        "date": "2017-06-15",
+        "revenue_yoy": 24.2
+      },
+      {
+        "date": "2017-07-16",
+        "revenue_yoy": 35.4
+      },
+      {
+        "date": "2017-08-16",
+        "revenue_yoy": 35.6
+      },
+      {
+        "date": "2017-09-15",
+        "revenue_yoy": 19.9
+      },
+      {
+        "date": "2017-10-16",
+        "revenue_yoy": 15.7
+      },
+      {
+        "date": "2017-11-15",
+        "revenue_yoy": 3.82
+      },
+      {
+        "date": "2017-12-16",
+        "revenue_yoy": 8.93
+      },
+      {
+        "date": "2018-01-16",
+        "revenue_yoy": 2.55
+      },
+      {
+        "date": "2018-02-14",
+        "revenue_yoy": 21.1
+      },
+      {
+        "date": "2018-03-16",
+        "revenue_yoy": -2.27
+      },
+      {
+        "date": "2018-04-15",
+        "revenue_yoy": 15.9
+      },
+      {
+        "date": "2018-05-16",
+        "revenue_yoy": -5.19
+      },
+      {
+        "date": "2018-06-15",
+        "revenue_yoy": 6.85
+      },
+      {
+        "date": "2018-07-16",
+        "revenue_yoy": 1.18
+      },
+      {
+        "date": "2018-08-16",
+        "revenue_yoy": 8.67
+      },
+      {
+        "date": "2018-09-15",
+        "revenue_yoy": 13.8
+      },
+      {
+        "date": "2018-10-16",
+        "revenue_yoy": 22.9
+      },
+      {
+        "date": "2018-11-15",
+        "revenue_yoy": 29.9
+      },
+      {
+        "date": "2018-12-16",
+        "revenue_yoy": 38.6
+      },
+      {
+        "date": "2019-01-16",
+        "revenue_yoy": 29.0
+      },
+      {
+        "date": "2019-02-14",
+        "revenue_yoy": 14.6
+      },
+      {
+        "date": "2019-03-16",
+        "revenue_yoy": 29.0
+      },
+      {
+        "date": "2019-04-15",
+        "revenue_yoy": 22.1
+      },
+      {
+        "date": "2019-05-16",
+        "revenue_yoy": 25.8
+      },
+      {
+        "date": "2019-06-15",
+        "revenue_yoy": 16.2
+      },
+      {
+        "date": "2019-07-16",
+        "revenue_yoy": 16.1
+      },
+      {
+        "date": "2019-08-16",
+        "revenue_yoy": 7.96
+      },
+      {
+        "date": "2019-09-15",
+        "revenue_yoy": 9.8
+      },
+      {
+        "date": "2019-10-16",
+        "revenue_yoy": 4.69
+      },
+      {
+        "date": "2019-11-15",
+        "revenue_yoy": -1.47
+      },
+      {
+        "date": "2019-12-16",
+        "revenue_yoy": -9.69
+      },
+      {
+        "date": "2020-01-16",
+        "revenue_yoy": -1.57
+      },
+      {
+        "date": "2020-02-15",
+        "revenue_yoy": -7.74
+      },
+      {
+        "date": "2020-03-16",
+        "revenue_yoy": -5.84
+      },
+      {
+        "date": "2020-04-15",
+        "revenue_yoy": -7.14
+      },
+      {
+        "date": "2020-05-16",
+        "revenue_yoy": -13.0
+      },
+      {
+        "date": "2020-06-15",
+        "revenue_yoy": -0.17
+      },
+      {
+        "date": "2020-07-16",
+        "revenue_yoy": 1.6
+      },
+      {
+        "date": "2020-08-16",
+        "revenue_yoy": 17.0
+      },
+      {
+        "date": "2020-09-15",
+        "revenue_yoy": 15.1
+      },
+      {
+        "date": "2020-10-16",
+        "revenue_yoy": 27.0
+      },
+      {
+        "date": "2020-11-15",
+        "revenue_yoy": 22.2
+      },
+      {
+        "date": "2020-12-16",
+        "revenue_yoy": 58.8
+      },
+      {
+        "date": "2021-01-16",
+        "revenue_yoy": 71.7
+      },
+      {
+        "date": "2021-02-14",
+        "revenue_yoy": 125.1
+      },
+      {
+        "date": "2021-03-16",
+        "revenue_yoy": 132.7
+      },
+      {
+        "date": "2021-04-15",
+        "revenue_yoy": 95.2
+      },
+      {
+        "date": "2021-05-16",
+        "revenue_yoy": 145.3
+      },
+      {
+        "date": "2021-06-15",
+        "revenue_yoy": 140.8
+      },
+      {
+        "date": "2021-07-16",
+        "revenue_yoy": 168.5
+      },
+      {
+        "date": "2021-08-16",
+        "revenue_yoy": 164.8
+      },
+      {
+        "date": "2021-09-15",
+        "revenue_yoy": 145.8
+      },
+      {
+        "date": "2021-10-16",
+        "revenue_yoy": 159.7
+      },
+      {
+        "date": "2021-11-15",
+        "revenue_yoy": 159.1
+      },
+      {
+        "date": "2021-12-16",
+        "revenue_yoy": 112.5
+      },
+      {
+        "date": "2022-01-16",
+        "revenue_yoy": 99.9
+      },
+      {
+        "date": "2022-02-14",
+        "revenue_yoy": 86.6
+      },
+      {
+        "date": "2022-03-16",
+        "revenue_yoy": 84.0
+      },
+      {
+        "date": "2022-04-15",
+        "revenue_yoy": 102.5
+      },
+      {
+        "date": "2022-05-16",
+        "revenue_yoy": 69.7
+      },
+      {
+        "date": "2022-06-15",
+        "revenue_yoy": 59.7
+      },
+      {
+        "date": "2022-07-16",
+        "revenue_yoy": 36.9
+      },
+      {
+        "date": "2022-08-16",
+        "revenue_yoy": 14.8
+      },
+      {
+        "date": "2022-09-15",
+        "revenue_yoy": 5.49
+      },
+      {
+        "date": "2022-10-16",
+        "revenue_yoy": -13.4
+      },
+      {
+        "date": "2022-11-15",
+        "revenue_yoy": -29.3
+      },
       {
         "date": "2022-12-16",
         "revenue_yoy": -43.9
@@ -13531,4 +14055,4 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-04-18 13:13:50 CST*
+*數據更新時間: 2026-05-02 13:37:25 CST*

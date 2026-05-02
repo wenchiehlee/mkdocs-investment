@@ -3,7 +3,7 @@
     "stock_code": "3711",
     "company_name": "日月光投控",
     "industry": "半導體業",
-    "generated_at": "2026-04-18T13:16:06.778602",
+    "generated_at": "2026-05-02T13:39:46.750493",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -2431,7 +2431,7 @@
       "horizon_label": "1年",
       "start_date": "2025-04-15",
       "pe_ratio": 17.08,
-      "forward_return": 217.07,
+      "forward_return": 252.55,
       "start_price": 135.5,
       "start_year": 2025
     },
@@ -3088,7 +3088,7 @@
       "horizon_label": "2年",
       "start_date": "2024-04-15",
       "pe_ratio": 20.21,
-      "forward_return": 71.4,
+      "forward_return": 80.63,
       "start_price": 148.0,
       "start_year": 2024
     },
@@ -3637,7 +3637,7 @@
       "horizon_label": "3年",
       "start_date": "2023-04-15",
       "pe_ratio": 8.27,
-      "forward_return": 63.71,
+      "forward_return": 69.42,
       "start_price": 101.0,
       "start_year": 2023
     },
@@ -4078,7 +4078,7 @@
       "horizon_label": "4年",
       "start_date": "2022-04-15",
       "pe_ratio": 5.85,
-      "forward_return": 47.32,
+      "forward_return": 51.1,
       "start_price": 95.6,
       "start_year": 2022
     },
@@ -4411,7 +4411,7 @@
       "horizon_label": "5年",
       "start_date": "2021-04-15",
       "pe_ratio": 15.25,
-      "forward_return": 30.96,
+      "forward_return": 33.62,
       "start_price": 118.0,
       "start_year": 2021
     },
@@ -4636,7 +4636,7 @@
       "horizon_label": "6年",
       "start_date": "2020-04-15",
       "pe_ratio": 14.18,
-      "forward_return": 37.66,
+      "forward_return": 39.98,
       "start_price": 67.1,
       "start_year": 2020
     }
@@ -4683,15 +4683,15 @@
     "1y": {
       "horizon_label": "1年",
       "avg_pe": 13.33,
-      "avg_return": 28.55,
-      "r_squared": 0.0029,
-      "slope": -0.4267,
-      "intercept": 34.239,
+      "avg_return": 28.97,
+      "r_squared": 0.0019,
+      "slope": -0.3669,
+      "intercept": 33.8593,
       "data_points": 85,
       "best_buy": {
         "date": "2025-04",
         "pe": 17.08,
-        "return": 217.07
+        "return": 252.55
       },
       "worst_buy": {
         "date": "2021-08",
@@ -4702,15 +4702,15 @@
     "2y": {
       "horizon_label": "2年",
       "avg_pe": 12.13,
-      "avg_return": 23.35,
-      "r_squared": 0.0001,
-      "slope": -0.0412,
-      "intercept": 23.8451,
+      "avg_return": 23.47,
+      "r_squared": 0.0,
+      "slope": 0.0106,
+      "intercept": 23.3432,
       "data_points": 73,
       "best_buy": {
         "date": "2024-04",
         "pe": 20.21,
-        "return": 71.4
+        "return": 80.63
       },
       "worst_buy": {
         "date": "2018-09",
@@ -4721,15 +4721,15 @@
     "3y": {
       "horizon_label": "3年",
       "avg_pe": 11.51,
-      "avg_return": 22.79,
-      "r_squared": 0.362,
-      "slope": -1.5975,
-      "intercept": 41.1708,
+      "avg_return": 22.88,
+      "r_squared": 0.3473,
+      "slope": -1.6143,
+      "intercept": 41.4575,
       "data_points": 61,
       "best_buy": {
         "date": "2023-04",
         "pe": 8.27,
-        "return": 63.71
+        "return": 69.42
       },
       "worst_buy": {
         "date": "2019-10",
@@ -4740,15 +4740,15 @@
     "4y": {
       "horizon_label": "4年",
       "avg_pe": 12.8,
-      "avg_return": 19.99,
-      "r_squared": 0.2092,
-      "slope": -1.2043,
-      "intercept": 35.4071,
+      "avg_return": 20.06,
+      "r_squared": 0.213,
+      "slope": -1.2444,
+      "intercept": 35.9982,
       "data_points": 49,
       "best_buy": {
         "date": "2022-04",
         "pe": 5.85,
-        "return": 47.32
+        "return": 51.1
       },
       "worst_buy": {
         "date": "2018-06",
@@ -4759,10 +4759,10 @@
     "5y": {
       "horizon_label": "5年",
       "avg_pe": 13.86,
-      "avg_return": 21.27,
-      "r_squared": 0.0035,
-      "slope": -0.111,
-      "intercept": 22.8102,
+      "avg_return": 21.34,
+      "r_squared": 0.0027,
+      "slope": -0.1008,
+      "intercept": 22.7404,
       "data_points": 37,
       "best_buy": {
         "date": "2020-10",
@@ -4778,15 +4778,15 @@
     "6y": {
       "horizon_label": "6年",
       "avg_pe": 14.37,
-      "avg_return": 20.96,
-      "r_squared": 0.0326,
-      "slope": 0.3079,
-      "intercept": 16.5358,
+      "avg_return": 21.05,
+      "r_squared": 0.0297,
+      "slope": 0.3065,
+      "intercept": 16.6485,
       "data_points": 25,
       "best_buy": {
         "date": "2020-04",
         "pe": 14.18,
-        "return": 37.66
+        "return": 39.98
       },
       "worst_buy": {
         "date": "2018-04",
@@ -5758,16 +5758,188 @@
     },
     {
       "date": "2026-04-15",
-      "price": 424.0,
-      "pe": 45.25,
+      "price": 472.0,
+      "pe": 50.37,
       "pe_10": 60.7,
-      "pe_25": 97.26,
-      "pe_50": 127.06,
-      "pe_75": 177.38,
-      "pe_90": 205.38
+      "pe_25": 97.27,
+      "pe_50": 127.07,
+      "pe_75": 177.39,
+      "pe_90": 205.39
     }
   ],
   "revenue_yoy": [
+    {
+      "date": "2019-05-16",
+      "revenue_yoy": -2.78
+    },
+    {
+      "date": "2019-06-15",
+      "revenue_yoy": 1.73
+    },
+    {
+      "date": "2019-07-16",
+      "revenue_yoy": 11.1
+    },
+    {
+      "date": "2019-08-16",
+      "revenue_yoy": 12.5
+    },
+    {
+      "date": "2019-09-15",
+      "revenue_yoy": 4.75
+    },
+    {
+      "date": "2019-10-16",
+      "revenue_yoy": -0.9
+    },
+    {
+      "date": "2019-11-15",
+      "revenue_yoy": 1.34
+    },
+    {
+      "date": "2019-12-16",
+      "revenue_yoy": 4.97
+    },
+    {
+      "date": "2020-01-16",
+      "revenue_yoy": -5.19
+    },
+    {
+      "date": "2020-02-15",
+      "revenue_yoy": 7.22
+    },
+    {
+      "date": "2020-03-16",
+      "revenue_yoy": 28.1
+    },
+    {
+      "date": "2020-04-15",
+      "revenue_yoy": 21.5
+    },
+    {
+      "date": "2020-05-16",
+      "revenue_yoy": 18.8
+    },
+    {
+      "date": "2020-06-15",
+      "revenue_yoy": 15.5
+    },
+    {
+      "date": "2020-07-16",
+      "revenue_yoy": 2.6
+    },
+    {
+      "date": "2020-08-16",
+      "revenue_yoy": 4.75
+    },
+    {
+      "date": "2020-09-15",
+      "revenue_yoy": 6.76
+    },
+    {
+      "date": "2020-10-16",
+      "revenue_yoy": 23.5
+    },
+    {
+      "date": "2020-11-15",
+      "revenue_yoy": 31.7
+    },
+    {
+      "date": "2020-12-16",
+      "revenue_yoy": 29.7
+    },
+    {
+      "date": "2021-01-16",
+      "revenue_yoy": 30.3
+    },
+    {
+      "date": "2021-02-14",
+      "revenue_yoy": 30.2
+    },
+    {
+      "date": "2021-03-16",
+      "revenue_yoy": 10.9
+    },
+    {
+      "date": "2021-04-15",
+      "revenue_yoy": 17.1
+    },
+    {
+      "date": "2021-05-16",
+      "revenue_yoy": 18.1
+    },
+    {
+      "date": "2021-06-15",
+      "revenue_yoy": 18.8
+    },
+    {
+      "date": "2021-07-16",
+      "revenue_yoy": 24.5
+    },
+    {
+      "date": "2021-08-16",
+      "revenue_yoy": 20.3
+    },
+    {
+      "date": "2021-09-15",
+      "revenue_yoy": 22.3
+    },
+    {
+      "date": "2021-10-16",
+      "revenue_yoy": 10.1
+    },
+    {
+      "date": "2021-11-15",
+      "revenue_yoy": 19.4
+    },
+    {
+      "date": "2021-12-16",
+      "revenue_yoy": 18.6
+    },
+    {
+      "date": "2022-01-16",
+      "revenue_yoy": 18.9
+    },
+    {
+      "date": "2022-02-14",
+      "revenue_yoy": 19.7
+    },
+    {
+      "date": "2022-03-16",
+      "revenue_yoy": 23.8
+    },
+    {
+      "date": "2022-04-15",
+      "revenue_yoy": 17.7
+    },
+    {
+      "date": "2022-05-16",
+      "revenue_yoy": 27.3
+    },
+    {
+      "date": "2022-06-15",
+      "revenue_yoy": 33.9
+    },
+    {
+      "date": "2022-07-16",
+      "revenue_yoy": 25.1
+    },
+    {
+      "date": "2022-08-16",
+      "revenue_yoy": 26.5
+    },
+    {
+      "date": "2022-09-15",
+      "revenue_yoy": 24.0
+    },
+    {
+      "date": "2022-10-16",
+      "revenue_yoy": 21.6
+    },
+    {
+      "date": "2022-11-15",
+      "revenue_yoy": -0.68
+    },
     {
       "date": "2022-12-16",
       "revenue_yoy": -10.9

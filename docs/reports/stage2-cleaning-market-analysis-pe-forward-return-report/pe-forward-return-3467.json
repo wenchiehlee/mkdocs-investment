@@ -3,7 +3,7 @@
     "stock_code": "3467",
     "company_name": "台灣精材",
     "industry": "半導體業",
-    "generated_at": "2026-04-18T13:15:45.822264",
+    "generated_at": "2026-05-02T13:39:24.882628",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -185,7 +185,7 @@
       "horizon_label": "1年",
       "start_date": "2025-04-15",
       "pe_ratio": 48.28,
-      "forward_return": 3.74,
+      "forward_return": 23.1,
       "start_price": 48.6,
       "start_year": 2025
     }
@@ -232,15 +232,15 @@
     "1y": {
       "horizon_label": "1年",
       "avg_pe": 49.5,
-      "avg_return": -11.33,
+      "avg_return": -1.65,
       "r_squared": 1.0,
-      "slope": -12.4012,
-      "intercept": 602.4699,
+      "slope": -20.3668,
+      "intercept": 1006.4067,
       "data_points": 2,
       "best_buy": {
         "date": "2025-04",
         "pe": 48.28,
-        "return": 3.74
+        "return": 23.1
       },
       "worst_buy": {
         "date": "2025-03",
@@ -382,13 +382,13 @@
     },
     {
       "date": "2026-04-15",
-      "price": 49.6,
-      "pe": 85.52,
+      "price": 59.0,
+      "pe": 101.7,
       "pe_10": 30.92,
-      "pe_25": 35.61,
-      "pe_50": 40.25,
-      "pe_75": 43.76,
-      "pe_90": 47.9
+      "pe_25": 35.62,
+      "pe_50": 40.26,
+      "pe_75": 43.77,
+      "pe_90": 47.91
     }
   ],
   "revenue_yoy": [

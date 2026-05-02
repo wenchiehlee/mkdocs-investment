@@ -2,7 +2,7 @@
 title: "5904 寶雅 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-04-18"
+date: "2026-05-02"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
     - **產業別**: 居家生活
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-04-18 13:16:59 CST
+    - **報告生成時間**: 2026-05-02 13:40:41 CST
 
 ## 📈 互動式圖表
 
@@ -6331,7 +6331,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon_label": "1年",
         "start_date": "2025-04-15",
         "pe_ratio": 17.47,
-        "forward_return": 9.82,
+        "forward_return": 18.18,
         "start_price": 479.0,
         "start_year": 2025
       },
@@ -8284,7 +8284,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon_label": "2年",
         "start_date": "2024-04-15",
         "pe_ratio": 19.93,
-        "forward_return": 4.6,
+        "forward_return": 8.36,
         "start_price": 500.0,
         "start_year": 2024
       },
@@ -10129,7 +10129,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon_label": "3年",
         "start_date": "2023-04-15",
         "pe_ratio": 25.81,
-        "forward_return": -0.18,
+        "forward_return": 2.1,
         "start_price": 574.0,
         "start_year": 2023
       },
@@ -11866,7 +11866,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon_label": "4年",
         "start_date": "2022-04-15",
         "pe_ratio": 18.33,
-        "forward_return": 16.49,
+        "forward_return": 18.44,
         "start_price": 316.0,
         "start_year": 2022
       },
@@ -13495,7 +13495,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon_label": "5年",
         "start_date": "2021-04-15",
         "pe_ratio": 27.4,
-        "forward_return": -0.38,
+        "forward_return": 0.92,
         "start_price": 612.0,
         "start_year": 2021
       },
@@ -15016,7 +15016,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon_label": "6年",
         "start_date": "2020-04-15",
         "pe_ratio": 25.45,
-        "forward_return": 3.59,
+        "forward_return": 4.68,
         "start_price": 500.0,
         "start_year": 2020
       },
@@ -16321,7 +16321,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon_label": "8年",
         "start_date": "2018-04-15",
         "pe_ratio": 20.49,
-        "forward_return": 8.81,
+        "forward_return": 9.63,
         "start_price": 329.0,
         "start_year": 2018
       },
@@ -17410,7 +17410,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon_label": "10年",
         "start_date": "2016-04-15",
         "pe_ratio": 33.17,
-        "forward_return": 6.89,
+        "forward_return": 7.52,
         "start_price": 342.0,
         "start_year": 2016
       }
@@ -20026,13 +20026,13 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
       },
       {
         "date": "2026-04-15",
-        "price": 503.0,
-        "pe": 17.03,
-        "pe_10": 260.8,
-        "pe_25": 323.72,
-        "pe_50": 588.65,
-        "pe_75": 776.8,
-        "pe_90": 925.66
+        "price": 543.0,
+        "pe": 18.38,
+        "pe_10": 260.86,
+        "pe_25": 323.79,
+        "pe_50": 588.79,
+        "pe_75": 776.98,
+        "pe_90": 925.88
       }
     ]
   },
@@ -20271,6 +20271,482 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
   "data": {
     "values": [
       {
+        "date": "2013-01-16",
+        "revenue_yoy": -4.62
+      },
+      {
+        "date": "2013-02-14",
+        "revenue_yoy": 16.0
+      },
+      {
+        "date": "2013-03-16",
+        "revenue_yoy": 20.5
+      },
+      {
+        "date": "2013-04-15",
+        "revenue_yoy": 5.03
+      },
+      {
+        "date": "2013-05-16",
+        "revenue_yoy": 10.2
+      },
+      {
+        "date": "2013-06-15",
+        "revenue_yoy": 24.7
+      },
+      {
+        "date": "2013-07-16",
+        "revenue_yoy": 8.36
+      },
+      {
+        "date": "2013-08-16",
+        "revenue_yoy": 13.8
+      },
+      {
+        "date": "2013-09-15",
+        "revenue_yoy": 18.0
+      },
+      {
+        "date": "2013-10-16",
+        "revenue_yoy": 16.6
+      },
+      {
+        "date": "2013-11-15",
+        "revenue_yoy": 34.9
+      },
+      {
+        "date": "2013-12-16",
+        "revenue_yoy": 26.1
+      },
+      {
+        "date": "2014-01-16",
+        "revenue_yoy": 31.9
+      },
+      {
+        "date": "2014-02-14",
+        "revenue_yoy": 16.2
+      },
+      {
+        "date": "2014-03-16",
+        "revenue_yoy": 20.3
+      },
+      {
+        "date": "2014-04-15",
+        "revenue_yoy": 28.3
+      },
+      {
+        "date": "2014-05-16",
+        "revenue_yoy": 25.7
+      },
+      {
+        "date": "2014-06-15",
+        "revenue_yoy": 20.8
+      },
+      {
+        "date": "2014-07-16",
+        "revenue_yoy": 34.1
+      },
+      {
+        "date": "2014-08-16",
+        "revenue_yoy": 33.4
+      },
+      {
+        "date": "2014-09-15",
+        "revenue_yoy": 22.6
+      },
+      {
+        "date": "2014-10-16",
+        "revenue_yoy": 29.7
+      },
+      {
+        "date": "2014-11-15",
+        "revenue_yoy": 24.0
+      },
+      {
+        "date": "2014-12-16",
+        "revenue_yoy": 29.3
+      },
+      {
+        "date": "2015-01-16",
+        "revenue_yoy": 15.9
+      },
+      {
+        "date": "2015-02-14",
+        "revenue_yoy": 35.5
+      },
+      {
+        "date": "2015-03-16",
+        "revenue_yoy": 23.4
+      },
+      {
+        "date": "2015-04-15",
+        "revenue_yoy": 24.9
+      },
+      {
+        "date": "2015-05-16",
+        "revenue_yoy": 23.0
+      },
+      {
+        "date": "2015-06-15",
+        "revenue_yoy": 17.9
+      },
+      {
+        "date": "2015-07-16",
+        "revenue_yoy": 13.9
+      },
+      {
+        "date": "2015-08-16",
+        "revenue_yoy": 5.56
+      },
+      {
+        "date": "2015-09-15",
+        "revenue_yoy": 15.8
+      },
+      {
+        "date": "2015-10-16",
+        "revenue_yoy": 15.0
+      },
+      {
+        "date": "2015-11-15",
+        "revenue_yoy": 11.9
+      },
+      {
+        "date": "2015-12-16",
+        "revenue_yoy": 6.36
+      },
+      {
+        "date": "2016-01-16",
+        "revenue_yoy": 26.2
+      },
+      {
+        "date": "2016-02-15",
+        "revenue_yoy": 21.3
+      },
+      {
+        "date": "2016-03-16",
+        "revenue_yoy": 10.4
+      },
+      {
+        "date": "2016-04-15",
+        "revenue_yoy": 19.7
+      },
+      {
+        "date": "2016-05-16",
+        "revenue_yoy": 21.8
+      },
+      {
+        "date": "2016-06-15",
+        "revenue_yoy": 15.2
+      },
+      {
+        "date": "2016-07-16",
+        "revenue_yoy": 19.8
+      },
+      {
+        "date": "2016-08-16",
+        "revenue_yoy": 24.2
+      },
+      {
+        "date": "2016-09-15",
+        "revenue_yoy": 6.08
+      },
+      {
+        "date": "2016-10-16",
+        "revenue_yoy": 14.5
+      },
+      {
+        "date": "2016-11-15",
+        "revenue_yoy": 8.01
+      },
+      {
+        "date": "2016-12-16",
+        "revenue_yoy": 10.1
+      },
+      {
+        "date": "2017-01-16",
+        "revenue_yoy": 14.7
+      },
+      {
+        "date": "2017-02-14",
+        "revenue_yoy": 1.02
+      },
+      {
+        "date": "2017-03-16",
+        "revenue_yoy": 7.89
+      },
+      {
+        "date": "2017-04-15",
+        "revenue_yoy": 7.07
+      },
+      {
+        "date": "2017-05-16",
+        "revenue_yoy": 4.23
+      },
+      {
+        "date": "2017-06-15",
+        "revenue_yoy": 1.1
+      },
+      {
+        "date": "2017-07-16",
+        "revenue_yoy": 6.74
+      },
+      {
+        "date": "2017-08-16",
+        "revenue_yoy": 7.79
+      },
+      {
+        "date": "2017-09-15",
+        "revenue_yoy": 9.27
+      },
+      {
+        "date": "2017-10-16",
+        "revenue_yoy": 8.64
+      },
+      {
+        "date": "2017-11-15",
+        "revenue_yoy": 6.16
+      },
+      {
+        "date": "2017-12-16",
+        "revenue_yoy": 6.35
+      },
+      {
+        "date": "2018-01-16",
+        "revenue_yoy": -9.26
+      },
+      {
+        "date": "2018-02-14",
+        "revenue_yoy": 15.4
+      },
+      {
+        "date": "2018-03-16",
+        "revenue_yoy": 11.2
+      },
+      {
+        "date": "2018-04-15",
+        "revenue_yoy": 6.07
+      },
+      {
+        "date": "2018-05-16",
+        "revenue_yoy": 9.65
+      },
+      {
+        "date": "2018-06-15",
+        "revenue_yoy": 9.24
+      },
+      {
+        "date": "2018-07-16",
+        "revenue_yoy": 4.73
+      },
+      {
+        "date": "2018-08-16",
+        "revenue_yoy": 1.49
+      },
+      {
+        "date": "2018-09-15",
+        "revenue_yoy": 11.8
+      },
+      {
+        "date": "2018-10-16",
+        "revenue_yoy": 2.09
+      },
+      {
+        "date": "2018-11-15",
+        "revenue_yoy": 8.24
+      },
+      {
+        "date": "2018-12-16",
+        "revenue_yoy": 6.9
+      },
+      {
+        "date": "2019-01-16",
+        "revenue_yoy": 17.9
+      },
+      {
+        "date": "2019-02-14",
+        "revenue_yoy": 4.96
+      },
+      {
+        "date": "2019-03-16",
+        "revenue_yoy": 13.0
+      },
+      {
+        "date": "2019-04-15",
+        "revenue_yoy": 11.4
+      },
+      {
+        "date": "2019-05-16",
+        "revenue_yoy": 5.41
+      },
+      {
+        "date": "2019-06-15",
+        "revenue_yoy": 16.8
+      },
+      {
+        "date": "2019-07-16",
+        "revenue_yoy": 13.3
+      },
+      {
+        "date": "2019-08-16",
+        "revenue_yoy": 17.2
+      },
+      {
+        "date": "2019-09-15",
+        "revenue_yoy": 8.82
+      },
+      {
+        "date": "2019-10-16",
+        "revenue_yoy": 12.5
+      },
+      {
+        "date": "2019-11-15",
+        "revenue_yoy": 15.3
+      },
+      {
+        "date": "2019-12-16",
+        "revenue_yoy": 10.2
+      },
+      {
+        "date": "2020-01-16",
+        "revenue_yoy": 25.7
+      },
+      {
+        "date": "2020-02-15",
+        "revenue_yoy": 8.81
+      },
+      {
+        "date": "2020-03-16",
+        "revenue_yoy": 1.81
+      },
+      {
+        "date": "2020-04-15",
+        "revenue_yoy": -4.82
+      },
+      {
+        "date": "2020-05-16",
+        "revenue_yoy": 5.48
+      },
+      {
+        "date": "2020-06-15",
+        "revenue_yoy": 8.01
+      },
+      {
+        "date": "2020-07-16",
+        "revenue_yoy": 16.2
+      },
+      {
+        "date": "2020-08-16",
+        "revenue_yoy": 19.6
+      },
+      {
+        "date": "2020-09-15",
+        "revenue_yoy": 8.79
+      },
+      {
+        "date": "2020-10-16",
+        "revenue_yoy": 13.1
+      },
+      {
+        "date": "2020-11-15",
+        "revenue_yoy": 15.2
+      },
+      {
+        "date": "2020-12-16",
+        "revenue_yoy": 12.8
+      },
+      {
+        "date": "2021-01-16",
+        "revenue_yoy": 6.91
+      },
+      {
+        "date": "2021-02-14",
+        "revenue_yoy": 12.2
+      },
+      {
+        "date": "2021-03-16",
+        "revenue_yoy": 14.0
+      },
+      {
+        "date": "2021-04-15",
+        "revenue_yoy": 22.6
+      },
+      {
+        "date": "2021-05-16",
+        "revenue_yoy": -0.57
+      },
+      {
+        "date": "2021-06-15",
+        "revenue_yoy": -28.3
+      },
+      {
+        "date": "2021-07-16",
+        "revenue_yoy": -20.9
+      },
+      {
+        "date": "2021-08-16",
+        "revenue_yoy": -12.3
+      },
+      {
+        "date": "2021-09-15",
+        "revenue_yoy": -0.79
+      },
+      {
+        "date": "2021-10-16",
+        "revenue_yoy": 9.3
+      },
+      {
+        "date": "2021-11-15",
+        "revenue_yoy": 2.2
+      },
+      {
+        "date": "2021-12-16",
+        "revenue_yoy": 0.34
+      },
+      {
+        "date": "2022-01-16",
+        "revenue_yoy": -1.93
+      },
+      {
+        "date": "2022-02-14",
+        "revenue_yoy": -2.29
+      },
+      {
+        "date": "2022-03-16",
+        "revenue_yoy": 4.37
+      },
+      {
+        "date": "2022-04-15",
+        "revenue_yoy": 3.55
+      },
+      {
+        "date": "2022-05-16",
+        "revenue_yoy": 3.76
+      },
+      {
+        "date": "2022-06-15",
+        "revenue_yoy": 46.3
+      },
+      {
+        "date": "2022-07-16",
+        "revenue_yoy": 41.1
+      },
+      {
+        "date": "2022-08-16",
+        "revenue_yoy": 20.3
+      },
+      {
+        "date": "2022-09-15",
+        "revenue_yoy": 15.0
+      },
+      {
+        "date": "2022-10-16",
+        "revenue_yoy": 1.84
+      },
+      {
+        "date": "2022-11-15",
+        "revenue_yoy": 4.29
+      },
+      {
         "date": "2022-12-16",
         "revenue_yoy": 18.4
       },
@@ -20504,8 +20980,8 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
 | 4年 | 19.8 | +25.8% | 0.383 | 2011-05 (+85.0%) | 2021-04 (-2.5%) |
 | 5年 | 19.5 | +26.1% | 0.515 | 2011-09 (+69.5%) | 2021-01 (-3.2%) |
 | 6年 | 18.9 | +26.8% | 0.620 | 2010-10 (+59.9%) | 2016-05 (+0.2%) |
-| 8年 | 18.6 | +26.1% | 0.882 | 2008-10 (+50.7%) | 2016-08 (+3.7%) |
-| 10年 | 16.3 | +25.4% | 0.921 | 2010-11 (+37.7%) | 2015-10 (+5.2%) |
+| 8年 | 18.6 | +26.2% | 0.883 | 2008-10 (+50.7%) | 2016-08 (+3.7%) |
+| 10年 | 16.3 | +25.4% | 0.920 | 2010-11 (+37.7%) | 2015-10 (+5.2%) |
 
 
 ## 🎯 使用說明
@@ -20524,4 +21000,4 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-04-18 13:16:59 CST*
+*數據更新時間: 2026-05-02 13:40:41 CST*

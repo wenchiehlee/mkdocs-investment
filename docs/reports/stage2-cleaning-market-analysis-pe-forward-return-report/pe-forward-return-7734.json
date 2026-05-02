@@ -3,7 +3,7 @@
     "stock_code": "7734",
     "company_name": "印能科技",
     "industry": "半導體業",
-    "generated_at": "2026-04-18T13:18:24.973549",
+    "generated_at": "2026-05-02T13:42:12.467475",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -212,7 +212,7 @@
       "horizon_label": "1年",
       "start_date": "2025-04-15",
       "pe_ratio": 28.09,
-      "forward_return": 145.2,
+      "forward_return": 181.83,
       "start_price": 1025.0,
       "start_year": 2025
     }
@@ -259,15 +259,15 @@
     "1y": {
       "horizon_label": "1年",
       "avg_pe": 31.71,
-      "avg_return": 84.51,
-      "r_squared": 0.8223,
-      "slope": -9.2331,
-      "intercept": 377.3172,
+      "avg_return": 96.72,
+      "r_squared": 0.6961,
+      "slope": -10.8906,
+      "intercept": 442.0946,
       "data_points": 3,
       "best_buy": {
         "date": "2025-04",
         "pe": 28.09,
-        "return": 145.2
+        "return": 181.83
       },
       "worst_buy": {
         "date": "2025-02",
@@ -419,13 +419,13 @@
     },
     {
       "date": "2026-04-15",
-      "price": 2490.0,
-      "pe": 74.33,
-      "pe_10": 939.79,
-      "pe_25": 954.56,
-      "pe_50": 1084.37,
-      "pe_75": 1314.68,
-      "pe_90": 2020.01
+      "price": 2865.0,
+      "pe": 85.52,
+      "pe_10": 939.84,
+      "pe_25": 954.61,
+      "pe_50": 1084.43,
+      "pe_75": 1314.74,
+      "pe_90": 2020.11
     }
   ],
   "revenue_yoy": [

@@ -3,7 +3,7 @@
     "stock_code": "7705",
     "company_name": "三商餐飲",
     "industry": "觀光餐旅",
-    "generated_at": "2026-04-18T13:18:21.612559",
+    "generated_at": "2026-05-02T13:42:08.362140",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -293,7 +293,7 @@
       "horizon_label": "1年",
       "start_date": "2025-04-15",
       "pe_ratio": 25.21,
-      "forward_return": -37.11,
+      "forward_return": -37.6,
       "start_price": 61.6,
       "start_year": 2025
     }
@@ -340,10 +340,10 @@
     "1y": {
       "horizon_label": "1年",
       "avg_pe": 20.11,
-      "avg_return": -38.25,
-      "r_squared": 0.0156,
-      "slope": 0.047,
-      "intercept": -39.1919,
+      "avg_return": -38.33,
+      "r_squared": 0.0006,
+      "slope": -0.0082,
+      "intercept": -38.1633,
       "data_points": 6,
       "best_buy": {
         "date": "2025-01",
@@ -530,13 +530,13 @@
     },
     {
       "date": "2026-04-15",
-      "price": 34.95,
-      "pe": 18.2,
-      "pe_10": 34.33,
-      "pe_25": 36.46,
-      "pe_50": 40.45,
-      "pe_75": 53.99,
-      "pe_90": 64.49
+      "price": 34.65,
+      "pe": 18.05,
+      "pe_10": 34.32,
+      "pe_25": 36.45,
+      "pe_50": 40.44,
+      "pe_75": 53.97,
+      "pe_90": 64.46
     }
   ],
   "revenue_yoy": [

@@ -3,7 +3,7 @@
     "stock_code": "6035",
     "company_name": "悠遊卡",
     "industry": "金融保險業",
-    "generated_at": "2026-04-18T13:17:00.361072",
+    "generated_at": "2026-05-02T13:40:42.301115",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -889,7 +889,7 @@
       "horizon_label": "1年",
       "start_date": "2025-04-15",
       "pe_ratio": 18.59,
-      "forward_return": -16.88,
+      "forward_return": -18.81,
       "start_price": 67.3,
       "start_year": 2025
     },
@@ -1033,7 +1033,7 @@
       "horizon_label": "2年",
       "start_date": "2024-04-15",
       "pe_ratio": 26.46,
-      "forward_return": -14.45,
+      "forward_return": -15.4,
       "start_price": 80.0,
       "start_year": 2024
     },
@@ -1069,7 +1069,7 @@
       "horizon_label": "3年",
       "start_date": "2023-04-15",
       "pe_ratio": 49.48,
-      "forward_return": -25.24,
+      "forward_return": -25.79,
       "start_price": 142.0,
       "start_year": 2023
     }
@@ -1116,10 +1116,10 @@
     "1y": {
       "horizon_label": "1年",
       "avg_pe": 29.02,
-      "avg_return": -14.15,
-      "r_squared": 0.3728,
-      "slope": -0.9458,
-      "intercept": 13.3003,
+      "avg_return": -14.22,
+      "r_squared": 0.3625,
+      "slope": -0.9342,
+      "intercept": 12.8962,
       "data_points": 28,
       "best_buy": {
         "date": "2023-08",
@@ -1135,10 +1135,10 @@
     "2y": {
       "horizon_label": "2年",
       "avg_pe": 33.54,
-      "avg_return": -14.91,
-      "r_squared": 0.7718,
-      "slope": -0.947,
-      "intercept": 16.8526,
+      "avg_return": -14.97,
+      "r_squared": 0.7592,
+      "slope": -0.9392,
+      "intercept": 16.5309,
       "data_points": 16,
       "best_buy": {
         "date": "2023-08",
@@ -1154,10 +1154,10 @@
     "3y": {
       "horizon_label": "3年",
       "avg_pe": 42.69,
-      "avg_return": -20.08,
-      "r_squared": 0.9893,
-      "slope": -0.768,
-      "intercept": 12.6974,
+      "avg_return": -20.22,
+      "r_squared": 0.989,
+      "slope": -0.7848,
+      "intercept": 13.2774,
       "data_points": 4,
       "best_buy": {
         "date": "2023-01",
@@ -1167,7 +1167,7 @@
       "worst_buy": {
         "date": "2023-04",
         "pe": 49.48,
-        "return": -25.24
+        "return": -25.79
       }
     }
   },
@@ -1564,16 +1564,40 @@
     },
     {
       "date": "2026-04-15",
-      "price": 53.0,
-      "pe": 12.62,
+      "price": 51.7,
+      "pe": 12.31,
       "pe_10": 59.14,
-      "pe_25": 76.63,
+      "pe_25": 76.64,
       "pe_50": 105.79,
-      "pe_75": 129.63,
+      "pe_75": 129.64,
       "pe_90": 141.13
     }
   ],
   "revenue_yoy": [
+    {
+      "date": "2022-06-15",
+      "revenue_yoy": 35.8
+    },
+    {
+      "date": "2022-07-16",
+      "revenue_yoy": 16.2
+    },
+    {
+      "date": "2022-08-16",
+      "revenue_yoy": 39.0
+    },
+    {
+      "date": "2022-09-15",
+      "revenue_yoy": 31.1
+    },
+    {
+      "date": "2022-10-16",
+      "revenue_yoy": 29.6
+    },
+    {
+      "date": "2022-11-15",
+      "revenue_yoy": -12.0
+    },
     {
       "date": "2022-12-16",
       "revenue_yoy": -6.49

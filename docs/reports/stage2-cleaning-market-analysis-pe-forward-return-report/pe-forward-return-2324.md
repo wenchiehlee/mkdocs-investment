@@ -2,7 +2,7 @@
 title: "2324 仁寶 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-04-18"
+date: "2026-05-02"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "2324 仁寶 (電腦及週邊設備業) 本益比與未來報酬率
     - **產業別**: 電腦及週邊設備業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-04-18 13:10:38 CST
+    - **報告生成時間**: 2026-05-02 13:34:06 CST
 
 ## 📈 互動式圖表
 
@@ -6223,7 +6223,7 @@ description: "2324 仁寶 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon_label": "1年",
         "start_date": "2025-04-15",
         "pe_ratio": 12.57,
-        "forward_return": 12.99,
+        "forward_return": 20.12,
         "start_price": 27.35,
         "start_year": 2025
       },
@@ -8140,7 +8140,7 @@ description: "2324 仁寶 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon_label": "2年",
         "start_date": "2024-04-15",
         "pe_ratio": 18.58,
-        "forward_return": -5.31,
+        "forward_return": -2.48,
         "start_price": 35.8,
         "start_year": 2024
       },
@@ -9949,7 +9949,7 @@ description: "2324 仁寶 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon_label": "3年",
         "start_date": "2023-04-15",
         "pe_ratio": 15.93,
-        "forward_return": 11.61,
+        "forward_return": 13.75,
         "start_price": 23.95,
         "start_year": 2023
       },
@@ -11650,7 +11650,7 @@ description: "2324 仁寶 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon_label": "4年",
         "start_date": "2022-04-15",
         "pe_ratio": 8.0,
-        "forward_return": 12.23,
+        "forward_return": 13.75,
         "start_price": 22.25,
         "start_year": 2022
       },
@@ -13243,7 +13243,7 @@ description: "2324 仁寶 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon_label": "5年",
         "start_date": "2021-04-15",
         "pe_ratio": 9.43,
-        "forward_return": 8.1,
+        "forward_return": 9.22,
         "start_price": 25.0,
         "start_year": 2021
       },
@@ -14728,7 +14728,7 @@ description: "2324 仁寶 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon_label": "6年",
         "start_date": "2020-04-15",
         "pe_ratio": 13.2,
-        "forward_return": 12.2,
+        "forward_return": 13.14,
         "start_price": 19.1,
         "start_year": 2020
       },
@@ -15997,7 +15997,7 @@ description: "2324 仁寶 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon_label": "8年",
         "start_date": "2018-04-15",
         "pe_ratio": 12.68,
-        "forward_return": 9.64,
+        "forward_return": 10.28,
         "start_price": 19.4,
         "start_year": 2018
       },
@@ -17050,7 +17050,7 @@ description: "2324 仁寶 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon_label": "10年",
         "start_date": "2016-04-15",
         "pe_ratio": 9.86,
-        "forward_return": 8.49,
+        "forward_return": 8.97,
         "start_price": 19.0,
         "start_year": 2016
       }
@@ -19626,13 +19626,13 @@ description: "2324 仁寶 (電腦及週邊設備業) 本益比與未來報酬率
       },
       {
         "date": "2026-04-15",
-        "price": 29.5,
-        "pe": 21.38,
+        "price": 31.45,
+        "pe": 22.79,
         "pe_10": 10.34,
         "pe_25": 12.46,
         "pe_50": 15.44,
         "pe_75": 20.3,
-        "pe_90": 25.55
+        "pe_90": 25.56
       }
     ]
   },
@@ -19870,6 +19870,530 @@ description: "2324 仁寶 (電腦及週邊設備業) 本益比與未來報酬率
   "title": "2324 仁寶 - 月營收年增率",
   "data": {
     "values": [
+      {
+        "date": "2012-01-16",
+        "revenue_yoy": -21.7
+      },
+      {
+        "date": "2012-02-15",
+        "revenue_yoy": 27.3
+      },
+      {
+        "date": "2012-03-16",
+        "revenue_yoy": -14.9
+      },
+      {
+        "date": "2012-04-15",
+        "revenue_yoy": -14.7
+      },
+      {
+        "date": "2012-05-16",
+        "revenue_yoy": -10.9
+      },
+      {
+        "date": "2012-06-15",
+        "revenue_yoy": 6.27
+      },
+      {
+        "date": "2012-07-16",
+        "revenue_yoy": -3.33
+      },
+      {
+        "date": "2012-08-16",
+        "revenue_yoy": -10.2
+      },
+      {
+        "date": "2012-09-15",
+        "revenue_yoy": 12.9
+      },
+      {
+        "date": "2012-10-16",
+        "revenue_yoy": 1.19
+      },
+      {
+        "date": "2012-11-15",
+        "revenue_yoy": 5.97
+      },
+      {
+        "date": "2012-12-16",
+        "revenue_yoy": 15.2
+      },
+      {
+        "date": "2013-01-16",
+        "revenue_yoy": 30.3
+      },
+      {
+        "date": "2013-02-14",
+        "revenue_yoy": -22.2
+      },
+      {
+        "date": "2013-03-16",
+        "revenue_yoy": 8.58
+      },
+      {
+        "date": "2013-04-15",
+        "revenue_yoy": 13.1
+      },
+      {
+        "date": "2013-05-16",
+        "revenue_yoy": 2.77
+      },
+      {
+        "date": "2013-06-15",
+        "revenue_yoy": -9.27
+      },
+      {
+        "date": "2013-07-16",
+        "revenue_yoy": -9.24
+      },
+      {
+        "date": "2013-08-16",
+        "revenue_yoy": 0.74
+      },
+      {
+        "date": "2013-09-15",
+        "revenue_yoy": -4.93
+      },
+      {
+        "date": "2013-10-16",
+        "revenue_yoy": 3.91
+      },
+      {
+        "date": "2013-11-15",
+        "revenue_yoy": 3.77
+      },
+      {
+        "date": "2013-12-16",
+        "revenue_yoy": 7.14
+      },
+      {
+        "date": "2014-01-16",
+        "revenue_yoy": -6.48
+      },
+      {
+        "date": "2014-02-14",
+        "revenue_yoy": 9.33
+      },
+      {
+        "date": "2014-03-16",
+        "revenue_yoy": 4.36
+      },
+      {
+        "date": "2014-04-15",
+        "revenue_yoy": 0.07
+      },
+      {
+        "date": "2014-05-16",
+        "revenue_yoy": 28.3
+      },
+      {
+        "date": "2014-06-15",
+        "revenue_yoy": 34.6
+      },
+      {
+        "date": "2014-07-16",
+        "revenue_yoy": 36.8
+      },
+      {
+        "date": "2014-08-16",
+        "revenue_yoy": 38.9
+      },
+      {
+        "date": "2014-09-15",
+        "revenue_yoy": 37.0
+      },
+      {
+        "date": "2014-10-16",
+        "revenue_yoy": 29.2
+      },
+      {
+        "date": "2014-11-15",
+        "revenue_yoy": 25.0
+      },
+      {
+        "date": "2014-12-16",
+        "revenue_yoy": 28.2
+      },
+      {
+        "date": "2015-01-16",
+        "revenue_yoy": 28.5
+      },
+      {
+        "date": "2015-02-14",
+        "revenue_yoy": 10.3
+      },
+      {
+        "date": "2015-03-16",
+        "revenue_yoy": 10.9
+      },
+      {
+        "date": "2015-04-15",
+        "revenue_yoy": 7.81
+      },
+      {
+        "date": "2015-05-16",
+        "revenue_yoy": -5.08
+      },
+      {
+        "date": "2015-06-15",
+        "revenue_yoy": -5.25
+      },
+      {
+        "date": "2015-07-16",
+        "revenue_yoy": -13.6
+      },
+      {
+        "date": "2015-08-16",
+        "revenue_yoy": -11.3
+      },
+      {
+        "date": "2015-09-15",
+        "revenue_yoy": 7.89
+      },
+      {
+        "date": "2015-10-16",
+        "revenue_yoy": -9.91
+      },
+      {
+        "date": "2015-11-15",
+        "revenue_yoy": -5.52
+      },
+      {
+        "date": "2015-12-16",
+        "revenue_yoy": 0.3
+      },
+      {
+        "date": "2016-01-16",
+        "revenue_yoy": -18.4
+      },
+      {
+        "date": "2016-02-15",
+        "revenue_yoy": -6.64
+      },
+      {
+        "date": "2016-03-16",
+        "revenue_yoy": -7.16
+      },
+      {
+        "date": "2016-04-15",
+        "revenue_yoy": -24.9
+      },
+      {
+        "date": "2016-05-16",
+        "revenue_yoy": -12.1
+      },
+      {
+        "date": "2016-06-15",
+        "revenue_yoy": -3.81
+      },
+      {
+        "date": "2016-07-16",
+        "revenue_yoy": -5.3
+      },
+      {
+        "date": "2016-08-16",
+        "revenue_yoy": 0.58
+      },
+      {
+        "date": "2016-09-15",
+        "revenue_yoy": -16.6
+      },
+      {
+        "date": "2016-10-16",
+        "revenue_yoy": 5.17
+      },
+      {
+        "date": "2016-11-15",
+        "revenue_yoy": -9.08
+      },
+      {
+        "date": "2016-12-16",
+        "revenue_yoy": -13.8
+      },
+      {
+        "date": "2017-01-16",
+        "revenue_yoy": -8.56
+      },
+      {
+        "date": "2017-02-14",
+        "revenue_yoy": 11.9
+      },
+      {
+        "date": "2017-03-16",
+        "revenue_yoy": 13.7
+      },
+      {
+        "date": "2017-04-15",
+        "revenue_yoy": 31.8
+      },
+      {
+        "date": "2017-05-16",
+        "revenue_yoy": 23.6
+      },
+      {
+        "date": "2017-06-15",
+        "revenue_yoy": 18.2
+      },
+      {
+        "date": "2017-07-16",
+        "revenue_yoy": 23.8
+      },
+      {
+        "date": "2017-08-16",
+        "revenue_yoy": 21.6
+      },
+      {
+        "date": "2017-09-15",
+        "revenue_yoy": 8.1
+      },
+      {
+        "date": "2017-10-16",
+        "revenue_yoy": 12.1
+      },
+      {
+        "date": "2017-11-15",
+        "revenue_yoy": 32.6
+      },
+      {
+        "date": "2017-12-16",
+        "revenue_yoy": 4.33
+      },
+      {
+        "date": "2018-01-16",
+        "revenue_yoy": 16.6
+      },
+      {
+        "date": "2018-02-14",
+        "revenue_yoy": 1.59
+      },
+      {
+        "date": "2018-03-16",
+        "revenue_yoy": -0.94
+      },
+      {
+        "date": "2018-04-15",
+        "revenue_yoy": 13.7
+      },
+      {
+        "date": "2018-05-16",
+        "revenue_yoy": 13.2
+      },
+      {
+        "date": "2018-06-15",
+        "revenue_yoy": 7.87
+      },
+      {
+        "date": "2018-07-16",
+        "revenue_yoy": 14.1
+      },
+      {
+        "date": "2018-08-16",
+        "revenue_yoy": 5.6
+      },
+      {
+        "date": "2018-09-15",
+        "revenue_yoy": 9.03
+      },
+      {
+        "date": "2018-10-16",
+        "revenue_yoy": 15.0
+      },
+      {
+        "date": "2018-11-15",
+        "revenue_yoy": 1.65
+      },
+      {
+        "date": "2018-12-16",
+        "revenue_yoy": 14.6
+      },
+      {
+        "date": "2019-01-16",
+        "revenue_yoy": 17.3
+      },
+      {
+        "date": "2019-02-14",
+        "revenue_yoy": -6.19
+      },
+      {
+        "date": "2019-03-16",
+        "revenue_yoy": 9.9
+      },
+      {
+        "date": "2019-04-15",
+        "revenue_yoy": 17.9
+      },
+      {
+        "date": "2019-05-16",
+        "revenue_yoy": 6.6
+      },
+      {
+        "date": "2019-06-15",
+        "revenue_yoy": -3.51
+      },
+      {
+        "date": "2019-07-16",
+        "revenue_yoy": -2.43
+      },
+      {
+        "date": "2019-08-16",
+        "revenue_yoy": -10.0
+      },
+      {
+        "date": "2019-09-15",
+        "revenue_yoy": 7.57
+      },
+      {
+        "date": "2019-10-16",
+        "revenue_yoy": -0.23
+      },
+      {
+        "date": "2019-11-15",
+        "revenue_yoy": -9.41
+      },
+      {
+        "date": "2019-12-16",
+        "revenue_yoy": -4.16
+      },
+      {
+        "date": "2020-01-16",
+        "revenue_yoy": -11.9
+      },
+      {
+        "date": "2020-02-15",
+        "revenue_yoy": -27.3
+      },
+      {
+        "date": "2020-03-16",
+        "revenue_yoy": -6.21
+      },
+      {
+        "date": "2020-04-15",
+        "revenue_yoy": 15.2
+      },
+      {
+        "date": "2020-05-16",
+        "revenue_yoy": 3.6
+      },
+      {
+        "date": "2020-06-15",
+        "revenue_yoy": -4.97
+      },
+      {
+        "date": "2020-07-16",
+        "revenue_yoy": 14.3
+      },
+      {
+        "date": "2020-08-16",
+        "revenue_yoy": 12.5
+      },
+      {
+        "date": "2020-09-15",
+        "revenue_yoy": -1.33
+      },
+      {
+        "date": "2020-10-16",
+        "revenue_yoy": 14.0
+      },
+      {
+        "date": "2020-11-15",
+        "revenue_yoy": 23.6
+      },
+      {
+        "date": "2020-12-16",
+        "revenue_yoy": 39.2
+      },
+      {
+        "date": "2021-01-16",
+        "revenue_yoy": 47.6
+      },
+      {
+        "date": "2021-02-14",
+        "revenue_yoy": 78.8
+      },
+      {
+        "date": "2021-03-16",
+        "revenue_yoy": 33.9
+      },
+      {
+        "date": "2021-04-15",
+        "revenue_yoy": -5.25
+      },
+      {
+        "date": "2021-05-16",
+        "revenue_yoy": -8.49
+      },
+      {
+        "date": "2021-06-15",
+        "revenue_yoy": 11.9
+      },
+      {
+        "date": "2021-07-16",
+        "revenue_yoy": 20.3
+      },
+      {
+        "date": "2021-08-16",
+        "revenue_yoy": 22.0
+      },
+      {
+        "date": "2021-09-15",
+        "revenue_yoy": 32.4
+      },
+      {
+        "date": "2021-10-16",
+        "revenue_yoy": 3.63
+      },
+      {
+        "date": "2021-11-15",
+        "revenue_yoy": 15.4
+      },
+      {
+        "date": "2021-12-16",
+        "revenue_yoy": 11.6
+      },
+      {
+        "date": "2022-01-16",
+        "revenue_yoy": -9.35
+      },
+      {
+        "date": "2022-02-14",
+        "revenue_yoy": 16.7
+      },
+      {
+        "date": "2022-03-16",
+        "revenue_yoy": -4.97
+      },
+      {
+        "date": "2022-04-15",
+        "revenue_yoy": -39.6
+      },
+      {
+        "date": "2022-05-16",
+        "revenue_yoy": 11.3
+      },
+      {
+        "date": "2022-06-15",
+        "revenue_yoy": 33.9
+      },
+      {
+        "date": "2022-07-16",
+        "revenue_yoy": -9.59
+      },
+      {
+        "date": "2022-08-16",
+        "revenue_yoy": -13.2
+      },
+      {
+        "date": "2022-09-15",
+        "revenue_yoy": -17.3
+      },
+      {
+        "date": "2022-10-16",
+        "revenue_yoy": -18.8
+      },
+      {
+        "date": "2022-11-15",
+        "revenue_yoy": -34.0
+      },
       {
         "date": "2022-12-16",
         "revenue_yoy": -43.2
@@ -20124,4 +20648,4 @@ description: "2324 仁寶 (電腦及週邊設備業) 本益比與未來報酬率
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-04-18 13:10:38 CST*
+*數據更新時間: 2026-05-02 13:34:06 CST*

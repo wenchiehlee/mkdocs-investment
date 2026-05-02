@@ -3,7 +3,7 @@
     "stock_code": "6695",
     "company_name": "芯鼎",
     "industry": "半導體業",
-    "generated_at": "2026-04-18T13:18:11.033083",
+    "generated_at": "2026-05-02T13:41:56.099917",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -286,7 +286,7 @@
       "horizon_label": "3年",
       "start_date": "2023-04-15",
       "pe_ratio": 555.7,
-      "forward_return": -3.23,
+      "forward_return": 0.93,
       "start_price": 42.6,
       "start_year": 2023
     }
@@ -333,7 +333,7 @@
     "1y": {
       "horizon_label": "1年",
       "avg_pe": 173.27,
-      "avg_return": 9.15,
+      "avg_return": 9.55,
       "r_squared": 0.3685,
       "slope": -0.0995,
       "intercept": 81.2927,
@@ -352,7 +352,7 @@
     "2y": {
       "horizon_label": "2年",
       "avg_pe": 173.27,
-      "avg_return": -1.0,
+      "avg_return": -0.69,
       "r_squared": 0.4344,
       "slope": -0.0356,
       "intercept": 18.6421,
@@ -371,10 +371,10 @@
     "3y": {
       "horizon_label": "3年",
       "avg_pe": 173.27,
-      "avg_return": -1.02,
-      "r_squared": 0.2913,
-      "slope": -0.0085,
-      "intercept": 0.4595,
+      "avg_return": -0.33,
+      "r_squared": 0.0001,
+      "slope": -0.0002,
+      "intercept": -0.297,
       "data_points": 6,
       "best_buy": {
         "date": "2022-12",
@@ -451,6 +451,218 @@
     }
   ],
   "revenue_yoy": [
+    {
+      "date": "2018-07-16",
+      "revenue_yoy": 14.4
+    },
+    {
+      "date": "2018-08-16",
+      "revenue_yoy": -5.07
+    },
+    {
+      "date": "2018-09-15",
+      "revenue_yoy": -29.1
+    },
+    {
+      "date": "2018-10-16",
+      "revenue_yoy": -28.8
+    },
+    {
+      "date": "2018-11-15",
+      "revenue_yoy": -44.5
+    },
+    {
+      "date": "2018-12-16",
+      "revenue_yoy": -49.2
+    },
+    {
+      "date": "2019-01-16",
+      "revenue_yoy": -35.6
+    },
+    {
+      "date": "2019-02-14",
+      "revenue_yoy": -27.5
+    },
+    {
+      "date": "2019-03-16",
+      "revenue_yoy": -16.2
+    },
+    {
+      "date": "2019-04-15",
+      "revenue_yoy": -1.07
+    },
+    {
+      "date": "2019-05-16",
+      "revenue_yoy": 8.67
+    },
+    {
+      "date": "2019-06-15",
+      "revenue_yoy": 20.8
+    },
+    {
+      "date": "2019-07-16",
+      "revenue_yoy": 25.9
+    },
+    {
+      "date": "2019-08-16",
+      "revenue_yoy": 32.6
+    },
+    {
+      "date": "2019-09-15",
+      "revenue_yoy": 13.3
+    },
+    {
+      "date": "2019-10-16",
+      "revenue_yoy": 17.5
+    },
+    {
+      "date": "2019-11-15",
+      "revenue_yoy": 59.3
+    },
+    {
+      "date": "2019-12-16",
+      "revenue_yoy": 19.6
+    },
+    {
+      "date": "2020-01-16",
+      "revenue_yoy": -8.63
+    },
+    {
+      "date": "2020-02-15",
+      "revenue_yoy": 10.3
+    },
+    {
+      "date": "2020-03-16",
+      "revenue_yoy": 4.39
+    },
+    {
+      "date": "2020-04-15",
+      "revenue_yoy": -34.0
+    },
+    {
+      "date": "2020-05-16",
+      "revenue_yoy": -48.0
+    },
+    {
+      "date": "2020-06-15",
+      "revenue_yoy": -45.1
+    },
+    {
+      "date": "2020-07-16",
+      "revenue_yoy": -25.2
+    },
+    {
+      "date": "2020-08-16",
+      "revenue_yoy": -20.4
+    },
+    {
+      "date": "2020-09-15",
+      "revenue_yoy": 12.9
+    },
+    {
+      "date": "2020-10-16",
+      "revenue_yoy": 8.86
+    },
+    {
+      "date": "2020-11-15",
+      "revenue_yoy": -8.24
+    },
+    {
+      "date": "2020-12-16",
+      "revenue_yoy": 24.6
+    },
+    {
+      "date": "2021-01-16",
+      "revenue_yoy": 58.6
+    },
+    {
+      "date": "2021-02-14",
+      "revenue_yoy": 59.5
+    },
+    {
+      "date": "2021-03-16",
+      "revenue_yoy": 24.5
+    },
+    {
+      "date": "2021-04-15",
+      "revenue_yoy": 98.2
+    },
+    {
+      "date": "2021-05-16",
+      "revenue_yoy": 161.8
+    },
+    {
+      "date": "2021-06-15",
+      "revenue_yoy": 126.1
+    },
+    {
+      "date": "2021-07-16",
+      "revenue_yoy": 53.4
+    },
+    {
+      "date": "2021-08-16",
+      "revenue_yoy": 52.1
+    },
+    {
+      "date": "2021-09-15",
+      "revenue_yoy": 21.9
+    },
+    {
+      "date": "2021-10-16",
+      "revenue_yoy": 28.1
+    },
+    {
+      "date": "2021-11-15",
+      "revenue_yoy": 47.8
+    },
+    {
+      "date": "2021-12-16",
+      "revenue_yoy": 65.7
+    },
+    {
+      "date": "2022-01-16",
+      "revenue_yoy": 10.9
+    },
+    {
+      "date": "2022-02-14",
+      "revenue_yoy": 22.0
+    },
+    {
+      "date": "2022-03-16",
+      "revenue_yoy": 25.0
+    },
+    {
+      "date": "2022-04-15",
+      "revenue_yoy": 10.7
+    },
+    {
+      "date": "2022-05-16",
+      "revenue_yoy": 11.1
+    },
+    {
+      "date": "2022-06-15",
+      "revenue_yoy": 2.04
+    },
+    {
+      "date": "2022-07-16",
+      "revenue_yoy": -13.5
+    },
+    {
+      "date": "2022-08-16",
+      "revenue_yoy": -34.5
+    },
+    {
+      "date": "2022-09-15",
+      "revenue_yoy": -23.4
+    },
+    {
+      "date": "2022-10-16",
+      "revenue_yoy": -20.9
+    },
+    {
+      "date": "2022-11-15",
+      "revenue_yoy": -38.6
+    },
     {
       "date": "2022-12-16",
       "revenue_yoy": -37.3

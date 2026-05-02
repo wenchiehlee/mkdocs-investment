@@ -3,7 +3,7 @@
     "stock_code": "2330",
     "company_name": "台積電",
     "industry": "半導體業",
-    "generated_at": "2026-04-18T13:10:45.318386",
+    "generated_at": "2026-05-02T13:34:13.757713",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -6321,7 +6321,7 @@
       "horizon_label": "1年",
       "start_date": "2025-04-15",
       "pe_ratio": 17.31,
-      "forward_return": 128.54,
+      "forward_return": 127.99,
       "start_price": 908.0,
       "start_year": 2025
     },
@@ -8274,7 +8274,7 @@
       "horizon_label": "2年",
       "start_date": "2024-04-15",
       "pe_ratio": 23.3,
-      "forward_return": 62.67,
+      "forward_return": 62.47,
       "start_price": 790.0,
       "start_year": 2024
     },
@@ -10119,7 +10119,7 @@
       "horizon_label": "3年",
       "start_date": "2023-04-15",
       "pe_ratio": 12.99,
-      "forward_return": 61.12,
+      "forward_return": 61.0,
       "start_price": 502.0,
       "start_year": 2023
     },
@@ -11856,7 +11856,7 @@
       "horizon_label": "4年",
       "start_date": "2022-04-15",
       "pe_ratio": 20.1,
-      "forward_return": 40.75,
+      "forward_return": 40.67,
       "start_price": 538.0,
       "start_year": 2022
     },
@@ -13485,7 +13485,7 @@
       "horizon_label": "5年",
       "start_date": "2021-04-15",
       "pe_ratio": 28.53,
-      "forward_return": 28.75,
+      "forward_return": 28.69,
       "start_price": 600.0,
       "start_year": 2021
     },
@@ -15006,7 +15006,7 @@
       "horizon_label": "6年",
       "start_date": "2020-04-15",
       "pe_ratio": 18.86,
-      "forward_return": 38.32,
+      "forward_return": 38.27,
       "start_price": 304.5,
       "start_year": 2020
     },
@@ -16311,7 +16311,7 @@
       "horizon_label": "8年",
       "start_date": "2018-04-15",
       "pe_ratio": 16.95,
-      "forward_return": 32.47,
+      "forward_return": 32.43,
       "start_price": 227.0,
       "start_year": 2018
     },
@@ -17400,7 +17400,7 @@
       "horizon_label": "10年",
       "start_date": "2016-04-15",
       "pe_ratio": 13.41,
-      "forward_return": 30.61,
+      "forward_return": 30.58,
       "start_price": 150.0,
       "start_year": 2016
     }
@@ -17449,13 +17449,13 @@
       "avg_pe": 16.74,
       "avg_return": 24.17,
       "r_squared": 0.006,
-      "slope": -0.4548,
-      "intercept": 31.7853,
+      "slope": -0.4549,
+      "intercept": 31.784,
       "data_points": 229,
       "best_buy": {
         "date": "2025-04",
         "pe": 17.31,
-        "return": 128.54
+        "return": 127.99
       },
       "worst_buy": {
         "date": "2021-10",
@@ -17467,9 +17467,9 @@
       "horizon_label": "2年",
       "avg_pe": 16.4,
       "avg_return": 22.2,
-      "r_squared": 0.0178,
-      "slope": -0.5377,
-      "intercept": 31.0138,
+      "r_squared": 0.0179,
+      "slope": -0.538,
+      "intercept": 31.018,
       "data_points": 217,
       "best_buy": {
         "date": "2023-10",
@@ -17487,13 +17487,13 @@
       "avg_pe": 16.31,
       "avg_return": 21.14,
       "r_squared": 0.0208,
-      "slope": -0.359,
-      "intercept": 26.992,
+      "slope": -0.3589,
+      "intercept": 26.9897,
       "data_points": 205,
       "best_buy": {
         "date": "2023-04",
         "pe": 12.99,
-        "return": 61.12
+        "return": 61.0
       },
       "worst_buy": {
         "date": "2006-04",
@@ -17506,13 +17506,13 @@
       "avg_pe": 16.45,
       "avg_return": 20.53,
       "r_squared": 0.0099,
-      "slope": 0.1608,
-      "intercept": 17.8835,
+      "slope": 0.1607,
+      "intercept": 17.8843,
       "data_points": 193,
       "best_buy": {
         "date": "2022-04",
         "pe": 20.1,
-        "return": 40.75
+        "return": 40.67
       },
       "worst_buy": {
         "date": "2006-04",
@@ -17524,9 +17524,9 @@
       "horizon_label": "5年",
       "avg_pe": 15.82,
       "avg_return": 20.84,
-      "r_squared": 0.0524,
-      "slope": 0.38,
-      "intercept": 14.8343,
+      "r_squared": 0.0523,
+      "slope": 0.3797,
+      "intercept": 14.8383,
       "data_points": 181,
       "best_buy": {
         "date": "2016-01",
@@ -17544,13 +17544,13 @@
       "avg_pe": 15.2,
       "avg_return": 21.04,
       "r_squared": 0.0291,
-      "slope": 0.3435,
-      "intercept": 15.8147,
+      "slope": 0.3434,
+      "intercept": 15.8162,
       "data_points": 169,
       "best_buy": {
         "date": "2020-04",
         "pe": 18.86,
-        "return": 38.32
+        "return": 38.27
       },
       "worst_buy": {
         "date": "2006-04",
@@ -17563,13 +17563,13 @@
       "avg_pe": 14.48,
       "avg_return": 20.42,
       "r_squared": 0.0215,
-      "slope": 0.2685,
-      "intercept": 16.5265,
+      "slope": 0.2684,
+      "intercept": 16.5277,
       "data_points": 145,
       "best_buy": {
         "date": "2018-04",
         "pe": 16.95,
-        "return": 32.47
+        "return": 32.43
       },
       "worst_buy": {
         "date": "2006-04",
@@ -17583,12 +17583,12 @@
       "avg_return": 20.19,
       "r_squared": 0.0933,
       "slope": -0.4902,
-      "intercept": 27.1566,
+      "intercept": 27.1559,
       "data_points": 121,
       "best_buy": {
         "date": "2016-04",
         "pe": 13.41,
-        "return": 30.61
+        "return": 30.58
       },
       "worst_buy": {
         "date": "2006-04",
@@ -20000,16 +20000,768 @@
     },
     {
       "date": "2026-04-15",
-      "price": 2055.0,
-      "pe": 31.01,
-      "pe_10": 771.37,
-      "pe_25": 907.88,
-      "pe_50": 1035.12,
-      "pe_75": 1318.75,
-      "pe_90": 1622.26
+      "price": 2050.0,
+      "pe": 30.94,
+      "pe_10": 771.23,
+      "pe_25": 907.72,
+      "pe_50": 1034.94,
+      "pe_75": 1318.52,
+      "pe_90": 1621.98
     }
   ],
   "revenue_yoy": [
+    {
+      "date": "2007-04-15",
+      "revenue_yoy": -15.7
+    },
+    {
+      "date": "2007-05-16",
+      "revenue_yoy": -5.21
+    },
+    {
+      "date": "2007-06-15",
+      "revenue_yoy": -5.41
+    },
+    {
+      "date": "2007-07-16",
+      "revenue_yoy": 5.45
+    },
+    {
+      "date": "2007-08-16",
+      "revenue_yoy": 10.0
+    },
+    {
+      "date": "2007-09-15",
+      "revenue_yoy": 8.15
+    },
+    {
+      "date": "2007-10-16",
+      "revenue_yoy": 20.6
+    },
+    {
+      "date": "2007-11-15",
+      "revenue_yoy": 24.8
+    },
+    {
+      "date": "2007-12-16",
+      "revenue_yoy": 31.1
+    },
+    {
+      "date": "2008-01-16",
+      "revenue_yoy": 45.3
+    },
+    {
+      "date": "2008-02-15",
+      "revenue_yoy": 39.8
+    },
+    {
+      "date": "2008-03-16",
+      "revenue_yoy": 20.2
+    },
+    {
+      "date": "2008-04-15",
+      "revenue_yoy": 25.0
+    },
+    {
+      "date": "2008-05-16",
+      "revenue_yoy": 15.9
+    },
+    {
+      "date": "2008-06-15",
+      "revenue_yoy": 12.9
+    },
+    {
+      "date": "2008-07-16",
+      "revenue_yoy": 7.91
+    },
+    {
+      "date": "2008-08-16",
+      "revenue_yoy": 6.1
+    },
+    {
+      "date": "2008-09-15",
+      "revenue_yoy": -0.47
+    },
+    {
+      "date": "2008-10-16",
+      "revenue_yoy": -9.56
+    },
+    {
+      "date": "2008-11-15",
+      "revenue_yoy": -34.0
+    },
+    {
+      "date": "2008-12-16",
+      "revenue_yoy": -51.9
+    },
+    {
+      "date": "2009-01-16",
+      "revenue_yoy": -57.8
+    },
+    {
+      "date": "2009-02-14",
+      "revenue_yoy": -58.4
+    },
+    {
+      "date": "2009-03-16",
+      "revenue_yoy": -47.7
+    },
+    {
+      "date": "2009-04-15",
+      "revenue_yoy": -22.2
+    },
+    {
+      "date": "2009-05-16",
+      "revenue_yoy": -15.3
+    },
+    {
+      "date": "2009-06-15",
+      "revenue_yoy": -10.0
+    },
+    {
+      "date": "2009-07-16",
+      "revenue_yoy": -2.01
+    },
+    {
+      "date": "2009-08-16",
+      "revenue_yoy": -6.35
+    },
+    {
+      "date": "2009-09-15",
+      "revenue_yoy": -1.29
+    },
+    {
+      "date": "2009-10-16",
+      "revenue_yoy": 2.47
+    },
+    {
+      "date": "2009-11-15",
+      "revenue_yoy": 46.9
+    },
+    {
+      "date": "2009-12-16",
+      "revenue_yoy": 118.7
+    },
+    {
+      "date": "2010-01-16",
+      "revenue_yoy": 129.6
+    },
+    {
+      "date": "2010-02-14",
+      "revenue_yoy": 147.5
+    },
+    {
+      "date": "2010-03-16",
+      "revenue_yoy": 124.8
+    },
+    {
+      "date": "2010-04-15",
+      "revenue_yoy": 50.6
+    },
+    {
+      "date": "2010-05-16",
+      "revenue_yoy": 37.9
+    },
+    {
+      "date": "2010-06-15",
+      "revenue_yoy": 37.0
+    },
+    {
+      "date": "2010-07-16",
+      "revenue_yoy": 19.4
+    },
+    {
+      "date": "2010-08-16",
+      "revenue_yoy": 25.4
+    },
+    {
+      "date": "2010-09-15",
+      "revenue_yoy": 30.1
+    },
+    {
+      "date": "2010-10-16",
+      "revenue_yoy": 27.2
+    },
+    {
+      "date": "2010-11-15",
+      "revenue_yoy": 21.5
+    },
+    {
+      "date": "2010-12-16",
+      "revenue_yoy": 10.5
+    },
+    {
+      "date": "2011-01-16",
+      "revenue_yoy": 17.4
+    },
+    {
+      "date": "2011-02-14",
+      "revenue_yoy": 8.49
+    },
+    {
+      "date": "2011-03-16",
+      "revenue_yoy": 16.9
+    },
+    {
+      "date": "2011-04-15",
+      "revenue_yoy": 9.81
+    },
+    {
+      "date": "2011-05-16",
+      "revenue_yoy": 5.43
+    },
+    {
+      "date": "2011-06-15",
+      "revenue_yoy": 0.93
+    },
+    {
+      "date": "2011-07-16",
+      "revenue_yoy": -4.8
+    },
+    {
+      "date": "2011-08-16",
+      "revenue_yoy": 0.68
+    },
+    {
+      "date": "2011-09-15",
+      "revenue_yoy": -11.2
+    },
+    {
+      "date": "2011-10-16",
+      "revenue_yoy": -2.13
+    },
+    {
+      "date": "2011-11-15",
+      "revenue_yoy": -2.68
+    },
+    {
+      "date": "2011-12-16",
+      "revenue_yoy": -10.4
+    },
+    {
+      "date": "2012-01-16",
+      "revenue_yoy": -2.27
+    },
+    {
+      "date": "2012-02-15",
+      "revenue_yoy": 3.56
+    },
+    {
+      "date": "2012-03-16",
+      "revenue_yoy": -0.62
+    },
+    {
+      "date": "2012-04-15",
+      "revenue_yoy": 9.08
+    },
+    {
+      "date": "2012-05-16",
+      "revenue_yoy": 20.2
+    },
+    {
+      "date": "2012-06-15",
+      "revenue_yoy": 18.4
+    },
+    {
+      "date": "2012-07-16",
+      "revenue_yoy": 37.0
+    },
+    {
+      "date": "2012-08-16",
+      "revenue_yoy": 2.0
+    },
+    {
+      "date": "2012-09-15",
+      "revenue_yoy": 29.8
+    },
+    {
+      "date": "2012-10-16",
+      "revenue_yoy": 32.8
+    },
+    {
+      "date": "2012-11-15",
+      "revenue_yoy": 23.4
+    },
+    {
+      "date": "2012-12-16",
+      "revenue_yoy": 18.8
+    },
+    {
+      "date": "2013-01-16",
+      "revenue_yoy": 37.1
+    },
+    {
+      "date": "2013-02-14",
+      "revenue_yoy": 21.5
+    },
+    {
+      "date": "2013-03-16",
+      "revenue_yoy": 18.9
+    },
+    {
+      "date": "2013-04-15",
+      "revenue_yoy": 23.5
+    },
+    {
+      "date": "2013-05-16",
+      "revenue_yoy": 17.2
+    },
+    {
+      "date": "2013-06-15",
+      "revenue_yoy": 24.3
+    },
+    {
+      "date": "2013-07-16",
+      "revenue_yoy": 7.28
+    },
+    {
+      "date": "2013-08-16",
+      "revenue_yoy": 11.2
+    },
+    {
+      "date": "2013-09-15",
+      "revenue_yoy": 27.6
+    },
+    {
+      "date": "2013-10-16",
+      "revenue_yoy": 3.59
+    },
+    {
+      "date": "2013-11-15",
+      "revenue_yoy": 0.07
+    },
+    {
+      "date": "2013-12-16",
+      "revenue_yoy": 33.7
+    },
+    {
+      "date": "2014-01-16",
+      "revenue_yoy": 8.41
+    },
+    {
+      "date": "2014-02-14",
+      "revenue_yoy": 13.7
+    },
+    {
+      "date": "2014-03-16",
+      "revenue_yoy": 13.2
+    },
+    {
+      "date": "2014-04-15",
+      "revenue_yoy": 23.6
+    },
+    {
+      "date": "2014-05-16",
+      "revenue_yoy": 17.4
+    },
+    {
+      "date": "2014-06-15",
+      "revenue_yoy": 11.7
+    },
+    {
+      "date": "2014-07-16",
+      "revenue_yoy": 24.6
+    },
+    {
+      "date": "2014-08-16",
+      "revenue_yoy": 25.8
+    },
+    {
+      "date": "2014-09-15",
+      "revenue_yoy": 35.1
+    },
+    {
+      "date": "2014-10-16",
+      "revenue_yoy": 55.9
+    },
+    {
+      "date": "2014-11-15",
+      "revenue_yoy": 63.0
+    },
+    {
+      "date": "2014-12-16",
+      "revenue_yoy": 39.9
+    },
+    {
+      "date": "2015-01-16",
+      "revenue_yoy": 69.4
+    },
+    {
+      "date": "2015-02-14",
+      "revenue_yoy": 33.8
+    },
+    {
+      "date": "2015-03-16",
+      "revenue_yoy": 44.7
+    },
+    {
+      "date": "2015-04-15",
+      "revenue_yoy": 21.7
+    },
+    {
+      "date": "2015-05-16",
+      "revenue_yoy": 15.4
+    },
+    {
+      "date": "2015-06-15",
+      "revenue_yoy": -0.64
+    },
+    {
+      "date": "2015-07-16",
+      "revenue_yoy": 24.7
+    },
+    {
+      "date": "2015-08-16",
+      "revenue_yoy": -3.23
+    },
+    {
+      "date": "2015-09-15",
+      "revenue_yoy": -13.8
+    },
+    {
+      "date": "2015-10-16",
+      "revenue_yoy": 1.24
+    },
+    {
+      "date": "2015-11-15",
+      "revenue_yoy": -12.2
+    },
+    {
+      "date": "2015-12-16",
+      "revenue_yoy": -16.0
+    },
+    {
+      "date": "2016-01-16",
+      "revenue_yoy": -18.7
+    },
+    {
+      "date": "2016-02-15",
+      "revenue_yoy": -4.93
+    },
+    {
+      "date": "2016-03-16",
+      "revenue_yoy": 1.13
+    },
+    {
+      "date": "2016-04-15",
+      "revenue_yoy": -11.3
+    },
+    {
+      "date": "2016-05-16",
+      "revenue_yoy": 4.87
+    },
+    {
+      "date": "2016-06-15",
+      "revenue_yoy": 35.8
+    },
+    {
+      "date": "2016-07-16",
+      "revenue_yoy": -5.63
+    },
+    {
+      "date": "2016-08-16",
+      "revenue_yoy": 40.7
+    },
+    {
+      "date": "2016-09-15",
+      "revenue_yoy": 39.0
+    },
+    {
+      "date": "2016-10-16",
+      "revenue_yoy": 11.4
+    },
+    {
+      "date": "2016-11-15",
+      "revenue_yoy": 46.7
+    },
+    {
+      "date": "2016-12-16",
+      "revenue_yoy": 33.9
+    },
+    {
+      "date": "2017-01-16",
+      "revenue_yoy": 8.13
+    },
+    {
+      "date": "2017-02-14",
+      "revenue_yoy": 19.9
+    },
+    {
+      "date": "2017-03-16",
+      "revenue_yoy": 17.5
+    },
+    {
+      "date": "2017-04-15",
+      "revenue_yoy": -14.9
+    },
+    {
+      "date": "2017-05-16",
+      "revenue_yoy": -1.05
+    },
+    {
+      "date": "2017-06-15",
+      "revenue_yoy": 3.43
+    },
+    {
+      "date": "2017-07-16",
+      "revenue_yoy": -6.25
+    },
+    {
+      "date": "2017-08-16",
+      "revenue_yoy": -2.53
+    },
+    {
+      "date": "2017-09-15",
+      "revenue_yoy": -1.25
+    },
+    {
+      "date": "2017-10-16",
+      "revenue_yoy": 3.77
+    },
+    {
+      "date": "2017-11-15",
+      "revenue_yoy": 0.13
+    },
+    {
+      "date": "2017-12-16",
+      "revenue_yoy": 15.1
+    },
+    {
+      "date": "2018-01-16",
+      "revenue_yoy": 4.07
+    },
+    {
+      "date": "2018-02-14",
+      "revenue_yoy": -9.49
+    },
+    {
+      "date": "2018-03-16",
+      "revenue_yoy": 20.8
+    },
+    {
+      "date": "2018-04-15",
+      "revenue_yoy": 44.0
+    },
+    {
+      "date": "2018-05-16",
+      "revenue_yoy": 11.2
+    },
+    {
+      "date": "2018-06-15",
+      "revenue_yoy": -16.3
+    },
+    {
+      "date": "2018-07-16",
+      "revenue_yoy": 3.85
+    },
+    {
+      "date": "2018-08-16",
+      "revenue_yoy": -0.93
+    },
+    {
+      "date": "2018-09-15",
+      "revenue_yoy": 7.16
+    },
+    {
+      "date": "2018-10-16",
+      "revenue_yoy": 7.43
+    },
+    {
+      "date": "2018-11-15",
+      "revenue_yoy": 5.62
+    },
+    {
+      "date": "2018-12-16",
+      "revenue_yoy": -0.07
+    },
+    {
+      "date": "2019-01-16",
+      "revenue_yoy": -2.06
+    },
+    {
+      "date": "2019-02-14",
+      "revenue_yoy": -5.8
+    },
+    {
+      "date": "2019-03-16",
+      "revenue_yoy": -23.1
+    },
+    {
+      "date": "2019-04-15",
+      "revenue_yoy": -8.76
+    },
+    {
+      "date": "2019-05-16",
+      "revenue_yoy": -0.65
+    },
+    {
+      "date": "2019-06-15",
+      "revenue_yoy": 21.9
+    },
+    {
+      "date": "2019-07-16",
+      "revenue_yoy": 14.0
+    },
+    {
+      "date": "2019-08-16",
+      "revenue_yoy": 16.5
+    },
+    {
+      "date": "2019-09-15",
+      "revenue_yoy": 7.63
+    },
+    {
+      "date": "2019-10-16",
+      "revenue_yoy": 4.42
+    },
+    {
+      "date": "2019-11-15",
+      "revenue_yoy": 9.65
+    },
+    {
+      "date": "2019-12-16",
+      "revenue_yoy": 15.0
+    },
+    {
+      "date": "2020-01-16",
+      "revenue_yoy": 32.8
+    },
+    {
+      "date": "2020-02-15",
+      "revenue_yoy": 53.4
+    },
+    {
+      "date": "2020-03-16",
+      "revenue_yoy": 42.4
+    },
+    {
+      "date": "2020-04-15",
+      "revenue_yoy": 28.5
+    },
+    {
+      "date": "2020-05-16",
+      "revenue_yoy": 16.6
+    },
+    {
+      "date": "2020-06-15",
+      "revenue_yoy": 40.8
+    },
+    {
+      "date": "2020-07-16",
+      "revenue_yoy": 25.0
+    },
+    {
+      "date": "2020-08-16",
+      "revenue_yoy": 15.8
+    },
+    {
+      "date": "2020-09-15",
+      "revenue_yoy": 24.9
+    },
+    {
+      "date": "2020-10-16",
+      "revenue_yoy": 12.5
+    },
+    {
+      "date": "2020-11-15",
+      "revenue_yoy": 15.7
+    },
+    {
+      "date": "2020-12-16",
+      "revenue_yoy": 13.6
+    },
+    {
+      "date": "2021-01-16",
+      "revenue_yoy": 22.2
+    },
+    {
+      "date": "2021-02-14",
+      "revenue_yoy": 14.1
+    },
+    {
+      "date": "2021-03-16",
+      "revenue_yoy": 13.7
+    },
+    {
+      "date": "2021-04-15",
+      "revenue_yoy": 16.0
+    },
+    {
+      "date": "2021-05-16",
+      "revenue_yoy": 19.8
+    },
+    {
+      "date": "2021-06-15",
+      "revenue_yoy": 22.8
+    },
+    {
+      "date": "2021-07-16",
+      "revenue_yoy": 17.5
+    },
+    {
+      "date": "2021-08-16",
+      "revenue_yoy": 11.8
+    },
+    {
+      "date": "2021-09-15",
+      "revenue_yoy": 19.7
+    },
+    {
+      "date": "2021-10-16",
+      "revenue_yoy": 12.8
+    },
+    {
+      "date": "2021-11-15",
+      "revenue_yoy": 18.7
+    },
+    {
+      "date": "2021-12-16",
+      "revenue_yoy": 32.4
+    },
+    {
+      "date": "2022-01-16",
+      "revenue_yoy": 35.8
+    },
+    {
+      "date": "2022-02-14",
+      "revenue_yoy": 37.9
+    },
+    {
+      "date": "2022-03-16",
+      "revenue_yoy": 33.2
+    },
+    {
+      "date": "2022-04-15",
+      "revenue_yoy": 55.0
+    },
+    {
+      "date": "2022-05-16",
+      "revenue_yoy": 65.3
+    },
+    {
+      "date": "2022-06-15",
+      "revenue_yoy": 18.4
+    },
+    {
+      "date": "2022-07-16",
+      "revenue_yoy": 49.9
+    },
+    {
+      "date": "2022-08-16",
+      "revenue_yoy": 58.7
+    },
+    {
+      "date": "2022-09-15",
+      "revenue_yoy": 36.4
+    },
+    {
+      "date": "2022-10-16",
+      "revenue_yoy": 56.3
+    },
+    {
+      "date": "2022-11-15",
+      "revenue_yoy": 50.2
+    },
     {
       "date": "2022-12-16",
       "revenue_yoy": 23.9
