@@ -1,6 +1,6 @@
 ---
 authors: [Stock Analysis System]
-date: 2026-05-02
+date: 2026-05-16
 categories:
   - 市場分析
   - 風險分析
@@ -24,7 +24,7 @@ description: TWSE/TPEX 市場分析回檔總覽 - 所有 107 檔股票 - 自動�
 # :bar_chart: 市場分析回檔總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-05-02 13:44:26 CST  
+    **:calendar: 產生時間**: 2026-05-16 13:59:21 CST  
     **:building_construction: 分析股票總數**: 107 檔  
     **:chart_with_upwards_trend: 報告類型**: 年度報酬與最大回檔分析  
     **:file_folder: 資料來源**: Stage 2 cleaned_monthly_flow.csv
@@ -1160,4 +1160,4 @@ description: TWSE/TPEX 市場分析回檔總覽 - 所有 107 檔股票 - 自動�
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-05-02 13:44:26 CST*
+*數據更新時間: 2026-05-16 13:59:21 CST*
