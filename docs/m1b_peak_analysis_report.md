@@ -1,6 +1,6 @@
 # 表 19-7 頭部第一波最大日成交量佔貨幣供給額 (M1B) 比重分析報告
 
-此報告針對 [m1b_peak_analysis.py](m1b_peak_analysis.py) 的執行結果與產生的數據檔 [m1b_peak_result.csv](m1b_peak_result.csv) 進行整理與分析。
+此報告針對 `m1b_peak_analysis.py` 的執行結果與產生的數據檔 [m1b_peak_result.csv](m1b_peak_result.csv) 進行整理與分析。
 
 > [!NOTE]
 > **已修復的 Windows 相容性問題**
