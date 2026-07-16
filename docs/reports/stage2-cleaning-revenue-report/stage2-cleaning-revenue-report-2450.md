@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-05-17
+date: 2026-07-16
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 神腦 (2450) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 神腦  
     **:identification_card: 股票代號**: 2450  
-    **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-05-17 04:03:13 CST
+    **:calendar: 最新資料**: 2026/06  
+    **:clock3: 更新時間**: 2026-07-16 15:23:24 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF4500; font-weight: bold;">+31.4</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **240** 個月 | 2006/04 至 2026/03 |
+| <span style="color: #B22222; font-weight: bold;">+16.4</span> | <span style="color: #B22222; font-weight: bold;">+15.9</span> | **240** 個月 | 2006/07 至 2026/06 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -49,9 +49,9 @@ description: 月營收表 神腦 (2450) - 自動產生
 | **9月** | -- | 3,059<br/><span style="color: #B22222;">(+10.80%)</span> | 2,762<br/><span style="color: #002818;">(-1.69%)</span> | 2,809<br/><span style="color: #8B0000;">(+3.35%)</span> | 2,718<br/><span style="color: #8B0000;">(+3.86%)</span> |
 | **8月** | -- | 2,478<br/><span style="color: #002818;">(-6.12%)</span> | 2,640<br/><span style="color: #8B0000;">(+6.99%)</span> | 2,467<br/><span style="color: #002818;">(-1.79%)</span> | 2,512<br/><span style="color: #8B0000;">(+5.36%)</span> |
 | **7月** | -- | 2,385<br/><span style="color: #002818;">(-1.12%)</span> | 2,412<br/><span style="color: #8B0000;">(+2.01%)</span> | 2,364<br/><span style="color: #002818;">(-1.22%)</span> | 2,394<br/><span style="color: #8B0000;">(+1.12%)</span> |
-| **6月** | -- | 2,476<br/><span style="color: #8B0000;">(+4.77%)</span> | 2,363<br/><span style="color: #002818;">(-0.59%)</span> | 2,377<br/><span style="color: #8B0000;">(+5.25%)</span> | 2,258<br/><span style="color: #8B0000;">(+3.55%)</span> |
-| **5月** | -- | 2,436<br/><span style="color: #002818;">(-3.67%)</span> | 2,529<br/><span style="color: #8B0000;">(+3.06%)</span> | 2,453<br/><span style="color: #8B0000;">(+7.07%)</span> | 2,291<br/><span style="color: #8B0000;">(+2.76%)</span> |
-| **4月** | -- | 2,386<br/><span style="color: #002818;">(-5.50%)</span> | 2,526<br/><span style="color: #B22222;">(+13.30%)</span> | 2,228<br/><span style="color: #002818;">(-8.00%)</span> | 2,422<br/><span style="color: #8B0000;">(+9.83%)</span> |
+| **6月** | 2,882<br/><span style="color: #B22222;">(+16.40%)</span> | 2,476<br/><span style="color: #8B0000;">(+4.77%)</span> | 2,363<br/><span style="color: #002818;">(-0.59%)</span> | 2,377<br/><span style="color: #8B0000;">(+5.25%)</span> | 2,258<br/><span style="color: #8B0000;">(+3.55%)</span> |
+| **5月** | 2,664<br/><span style="color: #8B0000;">(+9.36%)</span> | 2,436<br/><span style="color: #002818;">(-3.67%)</span> | 2,529<br/><span style="color: #8B0000;">(+3.06%)</span> | 2,453<br/><span style="color: #8B0000;">(+7.07%)</span> | 2,291<br/><span style="color: #8B0000;">(+2.76%)</span> |
+| **4月** | 2,976<br/><span style="color: #DC143C;">(+24.70%)</span> | 2,386<br/><span style="color: #002818;">(-5.50%)</span> | 2,526<br/><span style="color: #B22222;">(+13.30%)</span> | 2,228<br/><span style="color: #002818;">(-8.00%)</span> | 2,422<br/><span style="color: #8B0000;">(+9.83%)</span> |
 | **3月** | 3,290<br/><span style="color: #FF4500;">(+31.40%)</span> | 2,503<br/><span style="color: #004225;">(-13.40%)</span> | 2,891<br/><span style="color: #8B0000;">(+3.55%)</span> | 2,792<br/><span style="color: #002818;">(-3.66%)</span> | 2,898<br/><span style="color: #DC143C;">(+22.00%)</span> |
 | **2月** | 2,354<br/><span style="color: #004225;">(-13.90%)</span> | 2,735<br/><span style="color: #8B0000;">(+1.13%)</span> | 2,704<br/><span style="color: #8B0000;">(+0.03%)</span> | 2,703<br/><span style="color: #DC143C;">(+20.80%)</span> | 2,238<br/><span style="color: #002818;">(-8.79%)</span> |
 | **1月** | 3,069<br/><span style="color: #FF4500;">(+31.50%)</span> | 2,334<br/><span style="color: #002818;">(-8.07%)</span> | 2,539<br/><span style="color: #002818;">(-6.50%)</span> | 2,716<br/><span style="color: #002818;">(-7.42%)</span> | 2,934<br/><span style="color: #8B0000;">(+8.12%)</span> |
@@ -62,15 +62,15 @@ description: 月營收表 神腦 (2450) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **1.90** | **3.19** | **4.81** |
-| **P/E倍數** | **12.13** | **16.44** | **21.76** |
+| **EPS(元)** | **1.91** | **3.19** | **4.81** |
+| **P/E倍數** | **12.10** | **16.50** | **21.76** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 神腦 歷史平均獲利能力 (σup=1.62, σlo=1.29)
-    - **P/Ebase**: 神腦 歷史平均估值水準 (σup=5.31, σlo=4.32)
+    - **P/Ebase**: 神腦 歷史平均估值水準 (σup=5.25, σlo=4.40)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,9 +79,12 @@ description: 月營收表 神腦 (2450) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/03** | **32.9** | <span style="color: #FF4500; font-weight: bold;">+31.4</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **29.05** | <span style="color: #006400; font-weight: bold;">1.72</span> | <span style="color: #8B0000; font-weight: bold;">16.89</span> |
-| **2026/02** | **23.54** | <span style="color: #004225; font-weight: bold;">-13.9</span> | <span style="color: #8B0000; font-weight: bold;">+6.98</span> | **30.4** | <span style="color: #006400; font-weight: bold;">1.72</span> | <span style="color: #8B0000; font-weight: bold;">17.67</span> |
-| **2026/01** | **30.69** | <span style="color: #FF4500; font-weight: bold;">+31.5</span> | <span style="color: #FF4500; font-weight: bold;">+31.5</span> | **28.95** | <span style="color: #006400; font-weight: bold;">1.72</span> | <span style="color: #8B0000; font-weight: bold;">16.83</span> |
+| **2026/06** | **28.82** | <span style="color: #B22222; font-weight: bold;">+16.4</span> | <span style="color: #B22222; font-weight: bold;">+15.9</span> | **28.85** | <span style="color: #006400; font-weight: bold;">1.52</span> | <span style="color: #8B0000; font-weight: bold;">19.11</span> |
+| **2026/05** | **26.64** | <span style="color: #8B0000; font-weight: bold;">+9.36</span> | <span style="color: #B22222; font-weight: bold;">+15.8</span> | **29.85** | <span style="color: #006400; font-weight: bold;">1.52</span> | <span style="color: #B22222; font-weight: bold;">19.64</span> |
+| **2026/04** | **29.76** | <span style="color: #DC143C; font-weight: bold;">+24.7</span> | <span style="color: #B22222; font-weight: bold;">+17.4</span> | **29.6** | <span style="color: #006400; font-weight: bold;">1.52</span> | <span style="color: #B22222; font-weight: bold;">19.47</span> |
+| **2026/03** | **32.9** | <span style="color: #FF4500; font-weight: bold;">+31.4</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **29.05** | <span style="color: #006400; font-weight: bold;">1.52</span> | <span style="color: #8B0000; font-weight: bold;">19.11</span> |
+| **2026/02** | **23.54** | <span style="color: #004225; font-weight: bold;">-13.9</span> | <span style="color: #8B0000; font-weight: bold;">+6.98</span> | **30.4** | <span style="color: #006400; font-weight: bold;">1.52</span> | <span style="color: #B22222; font-weight: bold;">19.16</span> |
+| **2026/01** | **30.69** | <span style="color: #FF4500; font-weight: bold;">+31.5</span> | <span style="color: #FF4500; font-weight: bold;">+31.5</span> | **28.95** | <span style="color: #006400; font-weight: bold;">1.52</span> | <span style="color: #8B0000; font-weight: bold;">17.51</span> |
 | **2025/12** | **29.48** | <span style="color: #B22222; font-weight: bold;">+17.1</span> | <span style="color: #8B0000; font-weight: bold;">+2.53</span> | **28.95** | <span style="color: #006400; font-weight: bold;">1.72</span> | <span style="color: #8B0000; font-weight: bold;">16.83</span> |
 | **2025/11** | **36.8** | <span style="color: #B22222; font-weight: bold;">+19.8</span> | <span style="color: #8B0000; font-weight: bold;">+1.3</span> | **29** | <span style="color: #006400; font-weight: bold;">1.72</span> | <span style="color: #8B0000; font-weight: bold;">17.26</span> |
 | **2025/10** | **37.05** | <span style="color: #B22222; font-weight: bold;">+10.5</span> | <span style="color: #002818; font-weight: bold;">-0.83</span> | **29.05** | <span style="color: #006400; font-weight: bold;">1.72</span> | <span style="color: #8B0000; font-weight: bold;">17.71</span> |
@@ -145,7 +148,7 @@ description: 月營收表 神腦 (2450) - 自動產生
 | **2020/12** | **25.08** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #002818; font-weight: bold;">-6.43</span> | **35.5** | <span style="color: #006400; font-weight: bold;">1.69</span> | <span style="color: #B22222; font-weight: bold;">21.01</span> |
 | **2020/11** | **27.86** | <span style="color: #B22222; font-weight: bold;">+16.4</span> | <span style="color: #002818; font-weight: bold;">-8.1</span> | **29.4** | <span style="color: #006400; font-weight: bold;">1.69</span> | <span style="color: #8B0000; font-weight: bold;">18.04</span> |
 | **2020/10** | **23.02** | <span style="color: #004225; font-weight: bold;">-12</span> | <span style="color: #004225; font-weight: bold;">-10.5</span> | **28.5** | <span style="color: #006400; font-weight: bold;">1.69</span> | <span style="color: #8B0000; font-weight: bold;">18.15</span> |
-| **2020/09** | **22.54** | <span style="color: #002818; font-weight: bold;">-9.43</span> | <span style="color: #004225; font-weight: bold;">-10.3</span> | **28.85** | <span style="color: #006400; font-weight: bold;">1.51</span> | <span style="color: #B22222; font-weight: bold;">19.11</span> |
+| **2020/09** | **22.54** | <span style="color: #002818; font-weight: bold;">-9.43</span> | <span style="color: #004225; font-weight: bold;">-10.3</span> | **28.85** | <span style="color: #006400; font-weight: bold;">1.51</span> | <span style="color: #8B0000; font-weight: bold;">19.11</span> |
 | **2020/08** | **23.28** | <span style="color: #002818; font-weight: bold;">-2.07</span> | <span style="color: #004225; font-weight: bold;">-10.5</span> | **29** | <span style="color: #006400; font-weight: bold;">1.51</span> | <span style="color: #8B0000; font-weight: bold;">18.55</span> |
 | **2020/07** | **21.69** | <span style="color: #002818; font-weight: bold;">-4.28</span> | <span style="color: #004225; font-weight: bold;">-11.6</span> | **28.1** | <span style="color: #006400; font-weight: bold;">1.51</span> | <span style="color: #8B0000; font-weight: bold;">17.38</span> |
 | **2020/06** | **20.16** | <span style="color: #004225; font-weight: bold;">-11.8</span> | <span style="color: #004225; font-weight: bold;">-12.8</span> | **29.7** | <span style="color: #006400; font-weight: bold;">1.67</span> | <span style="color: #8B0000; font-weight: bold;">17.78</span> |
@@ -278,7 +281,7 @@ description: 月營收表 神腦 (2450) - 自動產生
 | **2009/11** | **-** | N/A | N/A | **45.4** | <span style="color: #B22222; font-weight: bold;">4.08</span> | <span style="color: #006400; font-weight: bold;">11.02</span> |
 | **2009/10** | **-** | N/A | N/A | **44.1** | <span style="color: #B22222; font-weight: bold;">4.08</span> | <span style="color: #006400; font-weight: bold;">10.6</span> |
 | **2009/09** | **-** | N/A | N/A | **47.2** | <span style="color: #B22222; font-weight: bold;">4.2</span> | <span style="color: #006400; font-weight: bold;">11.24</span> |
-| **2009/08** | **-** | N/A | N/A | **42** | <span style="color: #B22222; font-weight: bold;">4.2</span> | <span style="color: #228B22; font-weight: bold;">9.92</span> |
+| **2009/08** | **-** | N/A | N/A | **42** | <span style="color: #B22222; font-weight: bold;">4.2</span> | <span style="color: #006400; font-weight: bold;">9.92</span> |
 | **2009/07** | **-** | N/A | N/A | **41.2** | <span style="color: #B22222; font-weight: bold;">4.2</span> | <span style="color: #228B22; font-weight: bold;">9.66</span> |
 | **2009/06** | **-** | N/A | N/A | **39.65** | <span style="color: #B22222; font-weight: bold;">4.3</span> | <span style="color: #228B22; font-weight: bold;">9.22</span> |
 | **2009/05** | **-** | N/A | N/A | **51.6** | <span style="color: #B22222; font-weight: bold;">4.3</span> | <span style="color: #006400; font-weight: bold;">11.98</span> |
@@ -316,9 +319,6 @@ description: 月營收表 神腦 (2450) - 自動產生
 | **2006/09** | **-** | N/A | N/A | **20.5** | <span style="color: #228B22; font-weight: bold;">1.02</span> | <span style="color: #B22222; font-weight: bold;">20.1</span> |
 | **2006/08** | **-** | N/A | N/A | **18.3** | <span style="color: #228B22; font-weight: bold;">1.02</span> | <span style="color: #8B0000; font-weight: bold;">17.71</span> |
 | **2006/07** | **-** | N/A | N/A | **17.4** | <span style="color: #228B22; font-weight: bold;">1.02</span> | <span style="color: #8B0000; font-weight: bold;">16.62</span> |
-| **2006/06** | **-** | N/A | N/A | **15.75** | <span style="color: #228B22; font-weight: bold;">1.06</span> | <span style="color: #002818; font-weight: bold;">14.86</span> |
-| **2006/05** | **-** | N/A | N/A | **15.85** | <span style="color: #228B22; font-weight: bold;">1.06</span> | <span style="color: #002818; font-weight: bold;">15.1</span> |
-| **2006/04** | **-** | N/A | N/A | **16.35** | <span style="color: #228B22; font-weight: bold;">1.06</span> | <span style="color: #002818; font-weight: bold;">15.72</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 神腦 (2450) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-05-17 04:03:13 CST
+- **產生時間**: 2026-07-16 15:23:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-05-17
+date: 2026-07-16
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 威聯通 (7805) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 威聯通  
     **:identification_card: 股票代號**: 7805  
-    **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-05-17 04:03:13 CST
+    **:calendar: 最新資料**: 2026/06  
+    **:clock3: 更新時間**: 2026-07-16 15:23:24 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+1.95</span> | <span style="color: #8B0000; font-weight: bold;">+9.39</span> | **17** 個月 | 2024/11 至 2026/03 |
+| <span style="color: #DC143C; font-weight: bold;">+28.1</span> | <span style="color: #B22222; font-weight: bold;">+11.4</span> | **20** 個月 | 2024/11 至 2026/06 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -49,9 +49,9 @@ description: 月營收表 威聯通 (7805) - 自動產生
 | **9月** | -- | 522<br/><span style="color: #B22222;">(+11.60%)</span> | -- |
 | **8月** | -- | 463<br/><span style="color: #8B0000;">(+9.71%)</span> | -- |
 | **7月** | -- | 514<br/><span style="color: #8B0000;">(+5.49%)</span> | -- |
-| **6月** | -- | 391<br/><span style="color: #004225;">(-17.70%)</span> | -- |
-| **5月** | -- | 520<br/><span style="color: #B22222;">(+11.80%)</span> | -- |
-| **4月** | -- | 568<br/><span style="color: #B22222;">(+19.80%)</span> | -- |
+| **6月** | 501<br/><span style="color: #DC143C;">(+28.10%)</span> | 391<br/><span style="color: #004225;">(-17.70%)</span> | -- |
+| **5月** | 555<br/><span style="color: #8B0000;">(+6.70%)</span> | 520<br/><span style="color: #B22222;">(+11.80%)</span> | -- |
+| **4月** | 625<br/><span style="color: #8B0000;">(+9.99%)</span> | 568<br/><span style="color: #B22222;">(+19.80%)</span> | -- |
 | **3月** | 586<br/><span style="color: #8B0000;">(+1.95%)</span> | 575<br/><span style="color: #DC143C;">(+22.50%)</span> | -- |
 | **2月** | 572<br/><span style="color: #B22222;">(+12.00%)</span> | 509<br/><span style="color: #002818;">(-0.20%)</span> | -- |
 | **1月** | 611<br/><span style="color: #B22222;">(+15.00%)</span> | 531<br/><span style="color: #002818;">(-5.01%)</span> | -- |
@@ -62,15 +62,15 @@ description: 月營收表 威聯通 (7805) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **43.56** | **44.56** | **44.56** |
-| **P/E倍數** | **13.42** | **15.00** | **16.69** |
+| **EPS(元)** | **43.16** | **43.36** | **44.36** |
+| **P/E倍數** | **13.74** | **15.71** | **17.25** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 威聯通 歷史平均獲利能力 (σup=0.00, σlo=1.00)
-    - **P/Ebase**: 威聯通 歷史平均估值水準 (σup=1.69, σlo=1.58)
+    - **EPSbase**: 威聯通 歷史平均獲利能力 (σup=1.00, σlo=0.20)
+    - **P/Ebase**: 威聯通 歷史平均估值水準 (σup=1.54, σlo=1.96)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,10 +79,13 @@ description: 月營收表 威聯通 (7805) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/03** | **5.86** | <span style="color: #8B0000; font-weight: bold;">+1.95</span> | <span style="color: #8B0000; font-weight: bold;">+9.39</span> | **664** | <span style="color: #000000; font-weight: bold;">44.56</span> | <span style="color: #002818; font-weight: bold;">14.9</span> |
-| **2026/02** | **5.72** | <span style="color: #B22222; font-weight: bold;">+12</span> | <span style="color: #B22222; font-weight: bold;">+13.5</span> | **648** | <span style="color: #000000; font-weight: bold;">44.56</span> | <span style="color: #002818; font-weight: bold;">14.54</span> |
-| **2026/01** | **6.11** | <span style="color: #B22222; font-weight: bold;">+15</span> | <span style="color: #B22222; font-weight: bold;">+15</span> | **548** | <span style="color: #000000; font-weight: bold;">44.56</span> | <span style="color: #228B22; font-weight: bold;">12.3</span> |
-| **2025/12** | **5.08** | <span style="color: #B22222; font-weight: bold;">+17.9</span> | <span style="color: #8B0000; font-weight: bold;">+5.79</span> | **760** | <span style="color: #000000; font-weight: bold;">44.56</span> | <span style="color: #DC143C; font-weight: bold;">17.06</span> |
+| **2026/06** | **5.01** | <span style="color: #DC143C; font-weight: bold;">+28.1</span> | <span style="color: #B22222; font-weight: bold;">+11.4</span> | **661** | <span style="color: #004225; font-weight: bold;">43.16</span> | <span style="color: #8B0000; font-weight: bold;">15.82</span> |
+| **2026/05** | **5.55** | <span style="color: #8B0000; font-weight: bold;">+6.7</span> | <span style="color: #8B0000; font-weight: bold;">+9</span> | **797** | <span style="color: #004225; font-weight: bold;">43.16</span> | <span style="color: #FF4500; font-weight: bold;">18.47</span> |
+| **2026/04** | **6.25** | <span style="color: #8B0000; font-weight: bold;">+9.99</span> | <span style="color: #8B0000; font-weight: bold;">+9.54</span> | **688** | <span style="color: #004225; font-weight: bold;">43.16</span> | <span style="color: #8B0000; font-weight: bold;">15.94</span> |
+| **2026/03** | **5.86** | <span style="color: #8B0000; font-weight: bold;">+1.95</span> | <span style="color: #8B0000; font-weight: bold;">+9.39</span> | **664** | <span style="color: #004225; font-weight: bold;">43.16</span> | <span style="color: #002818; font-weight: bold;">15.38</span> |
+| **2026/02** | **5.72** | <span style="color: #B22222; font-weight: bold;">+12</span> | <span style="color: #B22222; font-weight: bold;">+13.5</span> | **648** | <span style="color: #004225; font-weight: bold;">43.16</span> | <span style="color: #002818; font-weight: bold;">14.85</span> |
+| **2026/01** | **6.11** | <span style="color: #B22222; font-weight: bold;">+15</span> | <span style="color: #B22222; font-weight: bold;">+15</span> | **548** | <span style="color: #004225; font-weight: bold;">43.16</span> | <span style="color: #228B22; font-weight: bold;">12.43</span> |
+| **2025/12** | **5.08** | <span style="color: #B22222; font-weight: bold;">+17.9</span> | <span style="color: #8B0000; font-weight: bold;">+5.79</span> | **760** | <span style="color: #DC143C; font-weight: bold;">44.56</span> | <span style="color: #B22222; font-weight: bold;">17.06</span> |
 | **2025/11** | **5.97** | <span style="color: #B22222; font-weight: bold;">+11.4</span> | <span style="color: #8B0000; font-weight: bold;">+4.84</span> | **-** | N/A | N/A |
 | **2025/10** | **5.47** | <span style="color: #002818; font-weight: bold;">-9.83</span> | <span style="color: #8B0000; font-weight: bold;">+4.12</span> | **-** | N/A | N/A |
 | **2025/09** | **5.22** | <span style="color: #B22222; font-weight: bold;">+11.6</span> | <span style="color: #8B0000; font-weight: bold;">+6.08</span> | **-** | N/A | N/A |
@@ -191,7 +194,7 @@ description: 月營收表 威聯通 (7805) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-05-17 04:03:13 CST
+- **產生時間**: 2026-07-16 15:23:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

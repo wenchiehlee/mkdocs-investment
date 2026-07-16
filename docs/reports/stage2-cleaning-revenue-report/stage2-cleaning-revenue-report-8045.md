@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-05-17
+date: 2026-07-16
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 達運光電 (8045) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 達運光電  
     **:identification_card: 股票代號**: 8045  
-    **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-05-17 04:03:13 CST
+    **:calendar: 最新資料**: 2026/06  
+    **:clock3: 更新時間**: 2026-07-16 15:23:24 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+28.9</span> | <span style="color: #FF6347; font-weight: bold;">+46.3</span> | **237** 個月 | 2006/04 至 2026/03 |
+| <span style="color: #8B0000; font-weight: bold;">+6.34</span> | <span style="color: #FF6347; font-weight: bold;">+42.6</span> | **237** 個月 | 2006/07 至 2026/06 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -49,9 +49,9 @@ description: 月營收表 達運光電 (8045) - 自動產生
 | **9月** | -- | 106<br/><span style="color: #FF7F7F;">(+173.20%)</span> | 38<br/><span style="color: #90EE90;">(-87.60%)</span> | 315<br/><span style="color: #FF7F7F;">(+188.60%)</span> | 109<br/><span style="color: #8B0000;">(+3.43%)</span> |
 | **8月** | -- | 107<br/><span style="color: #8B0000;">(+5.64%)</span> | 102<br/><span style="color: #90EE90;">(-52.40%)</span> | 214<br/><span style="color: #FF7F7F;">(+268.20%)</span> | 57<br/><span style="color: #228B22;">(-30.50%)</span> |
 | **7月** | -- | 139<br/><span style="color: #32CD32;">(-44.50%)</span> | 250<br/><span style="color: #002818;">(-3.75%)</span> | 261<br/><span style="color: #FF7F7F;">(+284.70%)</span> | 67<br/><span style="color: #004225;">(-16.50%)</span> |
-| **6月** | -- | 111<br/><span style="color: #228B22;">(-38.20%)</span> | 181<br/><span style="color: #006400;">(-21.90%)</span> | 231<br/><span style="color: #FF7F7F;">(+159.10%)</span> | 89<br/><span style="color: #004225;">(-12.60%)</span> |
-| **5月** | -- | 104<br/><span style="color: #228B22;">(-37.10%)</span> | 165<br/><span style="color: #002818;">(-5.09%)</span> | 174<br/><span style="color: #FF7F7F;">(+123.40%)</span> | 78<br/><span style="color: #B22222;">(+10.20%)</span> |
-| **4月** | -- | 119<br/><span style="color: #DC143C;">(+25.50%)</span> | 95<br/><span style="color: #8B0000;">(+0.01%)</span> | 95<br/><span style="color: #DC143C;">(+25.80%)</span> | 75<br/><span style="color: #002818;">(-0.63%)</span> |
+| **6月** | 119<br/><span style="color: #8B0000;">(+6.34%)</span> | 111<br/><span style="color: #228B22;">(-38.20%)</span> | 181<br/><span style="color: #006400;">(-21.90%)</span> | 231<br/><span style="color: #FF7F7F;">(+159.10%)</span> | 89<br/><span style="color: #004225;">(-12.60%)</span> |
+| **5月** | 113<br/><span style="color: #8B0000;">(+9.02%)</span> | 104<br/><span style="color: #228B22;">(-37.10%)</span> | 165<br/><span style="color: #002818;">(-5.09%)</span> | 174<br/><span style="color: #FF7F7F;">(+123.40%)</span> | 78<br/><span style="color: #B22222;">(+10.20%)</span> |
+| **4月** | 234<br/><span style="color: #FF7F7F;">(+95.90%)</span> | 119<br/><span style="color: #DC143C;">(+25.50%)</span> | 95<br/><span style="color: #8B0000;">(+0.01%)</span> | 95<br/><span style="color: #DC143C;">(+25.80%)</span> | 75<br/><span style="color: #002818;">(-0.63%)</span> |
 | **3月** | 174<br/><span style="color: #DC143C;">(+28.90%)</span> | 135<br/><span style="color: #8B0000;">(+9.05%)</span> | 124<br/><span style="color: #FF7F7F;">(+137.60%)</span> | 52<br/><span style="color: #32CD32;">(-49.20%)</span> | 103<br/><span style="color: #004225;">(-17.30%)</span> |
 | **2月** | 119<br/><span style="color: #B22222;">(+11.30%)</span> | 107<br/><span style="color: #006400;">(-29.70%)</span> | 152<br/><span style="color: #FF7F7F;">(+233.30%)</span> | 45<br/><span style="color: #32CD32;">(-41.70%)</span> | 78<br/><span style="color: #8B0000;">(+4.98%)</span> |
 | **1月** | 162<br/><span style="color: #FF7F7F;">(+134.90%)</span> | 68<br/><span style="color: #90EE90;">(-75.20%)</span> | 278<br/><span style="color: #FF7F7F;">(+651.60%)</span> | 37<br/><span style="color: #32CD32;">(-44.00%)</span> | 66<br/><span style="color: #32CD32;">(-49.10%)</span> |
@@ -62,15 +62,15 @@ description: 月營收表 達運光電 (8045) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **0.55** | **0.79** | **1.43** |
-| **P/E倍數** | **83.22** | **121.23** | **159.99** |
+| **EPS(元)** | **0.57** | **0.79** | **1.43** |
+| **P/E倍數** | **83.10** | **116.76** | **158.56** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 達運光電 歷史平均獲利能力 (σup=0.64, σlo=0.24)
-    - **P/Ebase**: 達運光電 歷史平均估值水準 (σup=38.76, σlo=38.01)
+    - **EPSbase**: 達運光電 歷史平均獲利能力 (σup=0.64, σlo=0.21)
+    - **P/Ebase**: 達運光電 歷史平均估值水準 (σup=41.80, σlo=33.66)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,17 +79,20 @@ description: 月營收表 達運光電 (8045) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/03** | **1.74** | <span style="color: #DC143C; font-weight: bold;">+28.9</span> | <span style="color: #FF6347; font-weight: bold;">+46.3</span> | **73.7** | <span style="color: #004225; font-weight: bold;">0.64</span> | <span style="color: #002818; font-weight: bold;">115.2</span> |
-| **2026/02** | **1.19** | <span style="color: #B22222; font-weight: bold;">+11.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+59.7</span> | **81** | <span style="color: #004225; font-weight: bold;">0.64</span> | <span style="color: #8B0000; font-weight: bold;">126.6</span> |
-| **2026/01** | **1.62** | <span style="color: #FF7F7F; font-weight: bold;">+134.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+134.9</span> | **82.8** | <span style="color: #004225; font-weight: bold;">0.64</span> | <span style="color: #8B0000; font-weight: bold;">129.4</span> |
-| **2025/12** | **1.06** | <span style="color: #002818; font-weight: bold;">-3.07</span> | <span style="color: #228B22; font-weight: bold;">-30.3</span> | **76.4** | <span style="color: #004225; font-weight: bold;">0.64</span> | <span style="color: #002818; font-weight: bold;">119.4</span> |
+| **2026/06** | **1.19** | <span style="color: #8B0000; font-weight: bold;">+6.34</span> | <span style="color: #FF6347; font-weight: bold;">+42.6</span> | **58.9** | <span style="color: #002818; font-weight: bold;">0.68</span> | <span style="color: #004225; font-weight: bold;">90.0</span> |
+| **2026/05** | **1.14** | <span style="color: #8B0000; font-weight: bold;">+9.02</span> | <span style="color: #FF7F7F; font-weight: bold;">+50.1</span> | **66** | <span style="color: #002818; font-weight: bold;">0.68</span> | <span style="color: #004225; font-weight: bold;">97.06</span> |
+| **2026/04** | **2.34** | <span style="color: #FF7F7F; font-weight: bold;">+95.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+60.1</span> | **73.3** | <span style="color: #002818; font-weight: bold;">0.68</span> | <span style="color: #002818; font-weight: bold;">107.8</span> |
+| **2026/03** | **1.74** | <span style="color: #DC143C; font-weight: bold;">+28.9</span> | <span style="color: #FF6347; font-weight: bold;">+46.3</span> | **73.7** | <span style="color: #002818; font-weight: bold;">0.68</span> | <span style="color: #002818; font-weight: bold;">108.4</span> |
+| **2026/02** | **1.19** | <span style="color: #B22222; font-weight: bold;">+11.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+59.7</span> | **81** | <span style="color: #002818; font-weight: bold;">0.68</span> | <span style="color: #8B0000; font-weight: bold;">121.5</span> |
+| **2026/01** | **1.62** | <span style="color: #FF7F7F; font-weight: bold;">+134.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+134.9</span> | **82.8** | <span style="color: #002818; font-weight: bold;">0.68</span> | <span style="color: #8B0000; font-weight: bold;">126.7</span> |
+| **2025/12** | **1.06** | <span style="color: #002818; font-weight: bold;">-3.07</span> | <span style="color: #228B22; font-weight: bold;">-30.3</span> | **76.4** | <span style="color: #004225; font-weight: bold;">0.64</span> | <span style="color: #8B0000; font-weight: bold;">119.4</span> |
 | **2025/11** | **0.481** | <span style="color: #90EE90; font-weight: bold;">-52.8</span> | <span style="color: #228B22; font-weight: bold;">-32.1</span> | **77.9** | <span style="color: #004225; font-weight: bold;">0.64</span> | <span style="color: #002818; font-weight: bold;">112.9</span> |
 | **2025/10** | **0.576** | <span style="color: #90EE90; font-weight: bold;">-58.4</span> | <span style="color: #228B22; font-weight: bold;">-30.7</span> | **81** | <span style="color: #004225; font-weight: bold;">0.64</span> | <span style="color: #002818; font-weight: bold;">109.5</span> |
 | **2025/09** | **1.06** | <span style="color: #FF7F7F; font-weight: bold;">+173.2</span> | <span style="color: #006400; font-weight: bold;">-28</span> | **89.2** | <span style="color: #8B0000; font-weight: bold;">0.79</span> | <span style="color: #002818; font-weight: bold;">112.9</span> |
 | **2025/08** | **1.07** | <span style="color: #8B0000; font-weight: bold;">+5.64</span> | <span style="color: #228B22; font-weight: bold;">-33.8</span> | **122** | <span style="color: #8B0000; font-weight: bold;">0.79</span> | <span style="color: #FF4500; font-weight: bold;">183.9</span> |
 | **2025/07** | **1.39** | <span style="color: #32CD32; font-weight: bold;">-44.5</span> | <span style="color: #228B22; font-weight: bold;">-37</span> | **106.5** | <span style="color: #8B0000; font-weight: bold;">0.79</span> | <span style="color: #FF4500; font-weight: bold;">198.4</span> |
 | **2025/06** | **1.11** | <span style="color: #228B22; font-weight: bold;">-38.2</span> | <span style="color: #228B22; font-weight: bold;">-35.1</span> | **66.4** | <span style="color: #228B22; font-weight: bold;">0.41</span> | <span style="color: #DC143C; font-weight: bold;">162.0</span> |
-| **2025/05** | **1.04** | <span style="color: #228B22; font-weight: bold;">-37.1</span> | <span style="color: #228B22; font-weight: bold;">-34.4</span> | **83** | <span style="color: #228B22; font-weight: bold;">0.41</span> | <span style="color: #8B0000; font-weight: bold;">139.9</span> |
+| **2025/05** | **1.04** | <span style="color: #228B22; font-weight: bold;">-37.1</span> | <span style="color: #228B22; font-weight: bold;">-34.4</span> | **83** | <span style="color: #228B22; font-weight: bold;">0.41</span> | <span style="color: #B22222; font-weight: bold;">139.9</span> |
 | **2025/04** | **1.19** | <span style="color: #DC143C; font-weight: bold;">+25.5</span> | <span style="color: #228B22; font-weight: bold;">-33.7</span> | **90** | <span style="color: #228B22; font-weight: bold;">0.41</span> | <span style="color: #002818; font-weight: bold;">115.9</span> |
 | **2025/03** | **1.35** | <span style="color: #8B0000; font-weight: bold;">+9.05</span> | <span style="color: #32CD32; font-weight: bold;">-43.9</span> | **121.5** | <span style="color: #8B0000; font-weight: bold;">0.96</span> | <span style="color: #8B0000; font-weight: bold;">126.6</span> |
 | **2025/02** | **1.07** | <span style="color: #006400; font-weight: bold;">-29.7</span> | <span style="color: #90EE90; font-weight: bold;">-59.1</span> | **138.5** | <span style="color: #8B0000; font-weight: bold;">0.96</span> | <span style="color: #004225; font-weight: bold;">95.08</span> |
@@ -313,9 +316,6 @@ description: 月營收表 達運光電 (8045) - 自動產生
 | **2006/09** | **-** | N/A | N/A | **-** | N/A | N/A |
 | **2006/08** | **-** | N/A | N/A | **-** | N/A | N/A |
 | **2006/07** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/06** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/05** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/04** | **-** | N/A | N/A | **-** | N/A | N/A |
 
 </div>
 
@@ -411,7 +411,7 @@ description: 月營收表 達運光電 (8045) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-05-17 04:03:13 CST
+- **產生時間**: 2026-07-16 15:23:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

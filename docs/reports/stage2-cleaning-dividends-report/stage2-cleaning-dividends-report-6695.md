@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-05-17
+date: 2026-07-16
 categories:
   - 股票
   - 股利分配
@@ -27,7 +27,7 @@ description: 股利分配報告 芯鼎 (6695) - 自動產生
     **:identification_card: 股票代號**: 6695  
     **:calendar: 分析年度**: 2019-2026 (共 8 年)  
     **:clock3: 最新資料**: 2026  
-    **🕒 更新時間**: 2026-05-17 04:05:01 CST
+    **🕒 更新時間**: 2026-07-16 15:24:33 CST
 
 ## :chart_with_upwards_trend: 快速摘要指標
 
@@ -45,7 +45,7 @@ description: 股利分配報告 芯鼎 (6695) - 自動產生
 
 | :chart: 指標 | :new: 最新 | :two: 2年均 | :three: 3年均 | :five: 5年均 | :keycap_ten: 10年均 | :factory: 產業均 | :left_right_arrow: 相對產業 |
 |:--------:|:------:|:------:|:------:|:------:|:--------:|:----------:|:-----------:|
-| **現金殖利率(%)** | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 3.59 | - |
+| **現金殖利率(%)** | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 3.27 | - |
 | **總殖利率(%)** | - | - | - | - | - | - | - |
 | **配息率(%)** | - | - | - | 0.0 | 0.0 | - | - |
 | **填息天數(現金)** | - | - | - | - | - | - | - |
@@ -253,15 +253,14 @@ description: 股利分配報告 芯鼎 (6695) - 自動產生
 ## :information_source: 資料來源與方法
 
 !!! note "資料來源說明"
-    - **主要來源**：`cleaned_dividends.csv` (Type 1: DividendDetail)
-    - **EPS資料**：交叉比對 `cleaned_performance1.csv` (Type 7: Quarterly Performance)
+    - **主要來源**：`raw_dividends.csv` (Type 1: DividendDetail)
+    - **EPS資料**：交叉比對 `raw_performance1.csv` (Type 7: Quarterly Performance)
     - **FactSet預測**：`factset_detailed_report_latest.csv` (Type 51: FactSet Analyst Consensus Summary)
     - **預測演化**：FactSet 詳細報告時間序列 (同上 CSV)
-    - **產業基準**：3.59%
+    - **產業基準**：3.27%
 
 !!! info "報告元資訊"
-    - **報告產生時間**：2026-05-17 04:05:01
-    - **資料品質評分**：9.5/10
+    - **報告產生時間**：2026-07-16 15:24:33
     - **分析期間**：2019 - 2026 (共 8 年)
     - **資料來源**：Stage 2 資料清理股利報告系統
 

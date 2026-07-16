@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-05-17
+date: 2026-07-16
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 寶雅 (5904) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 寶雅  
     **:identification_card: 股票代號**: 5904  
-    **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-05-17 04:03:13 CST
+    **:calendar: 最新資料**: 2026/06  
+    **:clock3: 更新時間**: 2026-07-16 15:23:24 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+20.6</span> | <span style="color: #B22222; font-weight: bold;">+12.7</span> | **240** 個月 | 2006/04 至 2026/03 |
+| <span style="color: #8B0000; font-weight: bold;">+8.35</span> | <span style="color: #B22222; font-weight: bold;">+13.7</span> | **240** 個月 | 2006/07 至 2026/06 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -49,9 +49,9 @@ description: 月營收表 寶雅 (5904) - 自動產生
 | **9月** | -- | 2,093<br/><span style="color: #8B0000;">(+2.19%)</span> | 2,048<br/><span style="color: #8B0000;">(+5.82%)</span> | 1,935<br/><span style="color: #B22222;">(+14.60%)</span> | 1,689<br/><span style="color: #B22222;">(+15.00%)</span> |
 | **8月** | -- | 2,235<br/><span style="color: #8B0000;">(+8.80%)</span> | 2,054<br/><span style="color: #8B0000;">(+6.18%)</span> | 1,934<br/><span style="color: #8B0000;">(+9.59%)</span> | 1,764<br/><span style="color: #DC143C;">(+20.30%)</span> |
 | **7月** | -- | 2,073<br/><span style="color: #8B0000;">(+2.49%)</span> | 2,023<br/><span style="color: #8B0000;">(+1.12%)</span> | 2,000<br/><span style="color: #B22222;">(+11.30%)</span> | 1,797<br/><span style="color: #FF6347;">(+41.10%)</span> |
-| **6月** | -- | 2,072<br/><span style="color: #8B0000;">(+5.24%)</span> | 1,969<br/><span style="color: #8B0000;">(+8.72%)</span> | 1,811<br/><span style="color: #DC143C;">(+20.00%)</span> | 1,509<br/><span style="color: #FF6347;">(+46.30%)</span> |
-| **5月** | -- | 2,045<br/><span style="color: #8B0000;">(+9.66%)</span> | 1,864<br/><span style="color: #8B0000;">(+8.10%)</span> | 1,725<br/><span style="color: #DC143C;">(+26.70%)</span> | 1,362<br/><span style="color: #8B0000;">(+3.76%)</span> |
-| **4月** | -- | 1,927<br/><span style="color: #8B0000;">(+7.41%)</span> | 1,794<br/><span style="color: #8B0000;">(+2.81%)</span> | 1,744<br/><span style="color: #B22222;">(+16.20%)</span> | 1,501<br/><span style="color: #8B0000;">(+3.55%)</span> |
+| **6月** | 2,246<br/><span style="color: #8B0000;">(+8.35%)</span> | 2,072<br/><span style="color: #8B0000;">(+5.24%)</span> | 1,969<br/><span style="color: #8B0000;">(+8.72%)</span> | 1,811<br/><span style="color: #DC143C;">(+20.00%)</span> | 1,509<br/><span style="color: #FF6347;">(+46.30%)</span> |
+| **5月** | 2,439<br/><span style="color: #B22222;">(+19.20%)</span> | 2,045<br/><span style="color: #8B0000;">(+9.66%)</span> | 1,864<br/><span style="color: #8B0000;">(+8.10%)</span> | 1,725<br/><span style="color: #DC143C;">(+26.70%)</span> | 1,362<br/><span style="color: #8B0000;">(+3.76%)</span> |
+| **4月** | 2,248<br/><span style="color: #B22222;">(+16.70%)</span> | 1,927<br/><span style="color: #8B0000;">(+7.41%)</span> | 1,794<br/><span style="color: #8B0000;">(+2.81%)</span> | 1,744<br/><span style="color: #B22222;">(+16.20%)</span> | 1,501<br/><span style="color: #8B0000;">(+3.55%)</span> |
 | **3月** | 2,306<br/><span style="color: #DC143C;">(+20.60%)</span> | 1,912<br/><span style="color: #8B0000;">(+2.82%)</span> | 1,859<br/><span style="color: #B22222;">(+14.90%)</span> | 1,618<br/><span style="color: #B22222;">(+10.40%)</span> | 1,465<br/><span style="color: #8B0000;">(+4.37%)</span> |
 | **2月** | 2,414<br/><span style="color: #DC143C;">(+22.90%)</span> | 1,964<br/><span style="color: #002818;">(-5.01%)</span> | 2,068<br/><span style="color: #DC143C;">(+29.20%)</span> | 1,600<br/><span style="color: #8B0000;">(+4.01%)</span> | 1,538<br/><span style="color: #002818;">(-2.29%)</span> |
 | **1月** | 2,375<br/><span style="color: #002818;">(-1.85%)</span> | 2,420<br/><span style="color: #DC143C;">(+24.30%)</span> | 1,946<br/><span style="color: #002818;">(-6.22%)</span> | 2,076<br/><span style="color: #DC143C;">(+21.40%)</span> | 1,710<br/><span style="color: #002818;">(-1.93%)</span> |
@@ -62,15 +62,15 @@ description: 月營收表 寶雅 (5904) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **4.55** | **12.43** | **22.06** |
-| **P/E倍數** | **11.27** | **19.84** | **28.74** |
+| **EPS(元)** | **4.58** | **12.69** | **22.46** |
+| **P/E倍數** | **11.46** | **19.93** | **28.79** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 寶雅 歷史平均獲利能力 (σup=9.63, σlo=7.89)
-    - **P/Ebase**: 寶雅 歷史平均估值水準 (σup=8.90, σlo=8.57)
+    - **EPSbase**: 寶雅 歷史平均獲利能力 (σup=9.77, σlo=8.12)
+    - **P/Ebase**: 寶雅 歷史平均估值水準 (σup=8.87, σlo=8.47)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,18 +79,21 @@ description: 月營收表 寶雅 (5904) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/03** | **23.06** | <span style="color: #DC143C; font-weight: bold;">+20.6</span> | <span style="color: #B22222; font-weight: bold;">+12.7</span> | **493.5** | <span style="color: #FF4500; font-weight: bold;">29.54</span> | <span style="color: #002818; font-weight: bold;">16.71</span> |
-| **2026/02** | **24.14** | <span style="color: #DC143C; font-weight: bold;">+22.9</span> | <span style="color: #8B0000; font-weight: bold;">+9.22</span> | **506** | <span style="color: #FF4500; font-weight: bold;">29.54</span> | <span style="color: #002818; font-weight: bold;">17.13</span> |
-| **2026/01** | **23.75** | <span style="color: #002818; font-weight: bold;">-1.85</span> | <span style="color: #002818; font-weight: bold;">-1.85</span> | **396** | <span style="color: #FF4500; font-weight: bold;">29.54</span> | <span style="color: #004225; font-weight: bold;">13.41</span> |
+| **2026/06** | **22.46** | <span style="color: #8B0000; font-weight: bold;">+8.35</span> | <span style="color: #B22222; font-weight: bold;">+13.7</span> | **667** | <span style="color: #FF4500; font-weight: bold;">31.45</span> | <span style="color: #002818; font-weight: bold;">19.65</span> |
+| **2026/05** | **24.39** | <span style="color: #B22222; font-weight: bold;">+19.2</span> | <span style="color: #B22222; font-weight: bold;">+14.7</span> | **575** | <span style="color: #FF4500; font-weight: bold;">31.45</span> | <span style="color: #002818; font-weight: bold;">18.28</span> |
+| **2026/04** | **22.48** | <span style="color: #B22222; font-weight: bold;">+16.7</span> | <span style="color: #B22222; font-weight: bold;">+13.6</span> | **575** | <span style="color: #FF4500; font-weight: bold;">31.45</span> | <span style="color: #002818; font-weight: bold;">18.28</span> |
+| **2026/03** | **23.06** | <span style="color: #DC143C; font-weight: bold;">+20.6</span> | <span style="color: #B22222; font-weight: bold;">+12.7</span> | **493.5** | <span style="color: #FF4500; font-weight: bold;">31.45</span> | <span style="color: #004225; font-weight: bold;">15.69</span> |
+| **2026/02** | **24.14** | <span style="color: #DC143C; font-weight: bold;">+22.9</span> | <span style="color: #8B0000; font-weight: bold;">+9.22</span> | **506** | <span style="color: #FF4500; font-weight: bold;">31.45</span> | <span style="color: #002818; font-weight: bold;">16.42</span> |
+| **2026/01** | **23.75** | <span style="color: #002818; font-weight: bold;">-1.85</span> | <span style="color: #002818; font-weight: bold;">-1.85</span> | **396** | <span style="color: #FF4500; font-weight: bold;">31.45</span> | <span style="color: #004225; font-weight: bold;">13.12</span> |
 | **2025/12** | **22.55** | <span style="color: #8B0000; font-weight: bold;">+2.5</span> | <span style="color: #8B0000; font-weight: bold;">+7.15</span> | **439.5** | <span style="color: #FF4500; font-weight: bold;">29.54</span> | <span style="color: #004225; font-weight: bold;">14.88</span> |
 | **2025/11** | **21.76** | <span style="color: #B22222; font-weight: bold;">+14.3</span> | <span style="color: #8B0000; font-weight: bold;">+7.63</span> | **439** | <span style="color: #FF4500; font-weight: bold;">29.54</span> | <span style="color: #004225; font-weight: bold;">15.19</span> |
 | **2025/10** | **21.47** | <span style="color: #B22222; font-weight: bold;">+13.2</span> | <span style="color: #8B0000; font-weight: bold;">+6.99</span> | **454.5** | <span style="color: #FF4500; font-weight: bold;">29.54</span> | <span style="color: #002818; font-weight: bold;">16.08</span> |
 | **2025/09** | **20.93** | <span style="color: #8B0000; font-weight: bold;">+2.19</span> | <span style="color: #8B0000; font-weight: bold;">+6.32</span> | **469** | <span style="color: #FF4500; font-weight: bold;">27.62</span> | <span style="color: #002818; font-weight: bold;">16.98</span> |
 | **2025/08** | **22.35** | <span style="color: #8B0000; font-weight: bold;">+8.8</span> | <span style="color: #8B0000; font-weight: bold;">+6.86</span> | **467** | <span style="color: #FF4500; font-weight: bold;">27.62</span> | <span style="color: #002818; font-weight: bold;">16.99</span> |
 | **2025/07** | **20.73** | <span style="color: #8B0000; font-weight: bold;">+2.49</span> | <span style="color: #8B0000; font-weight: bold;">+6.57</span> | **463** | <span style="color: #FF4500; font-weight: bold;">27.62</span> | <span style="color: #002818; font-weight: bold;">16.93</span> |
-| **2025/06** | **20.72** | <span style="color: #8B0000; font-weight: bold;">+5.24</span> | <span style="color: #8B0000; font-weight: bold;">+7.29</span> | **502** | <span style="color: #FF4500; font-weight: bold;">27.21</span> | <span style="color: #002818; font-weight: bold;">18.45</span> |
-| **2025/05** | **20.45** | <span style="color: #8B0000; font-weight: bold;">+9.66</span> | <span style="color: #8B0000; font-weight: bold;">+7.71</span> | **503** | <span style="color: #FF4500; font-weight: bold;">27.21</span> | <span style="color: #002818; font-weight: bold;">18.41</span> |
-| **2025/04** | **19.27** | <span style="color: #8B0000; font-weight: bold;">+7.41</span> | <span style="color: #8B0000; font-weight: bold;">+7.24</span> | **479** | <span style="color: #FF4500; font-weight: bold;">27.21</span> | <span style="color: #002818; font-weight: bold;">17.47</span> |
+| **2025/06** | **20.72** | <span style="color: #8B0000; font-weight: bold;">+5.24</span> | <span style="color: #8B0000; font-weight: bold;">+7.29</span> | **502** | <span style="color: #DC143C; font-weight: bold;">27.21</span> | <span style="color: #002818; font-weight: bold;">18.45</span> |
+| **2025/05** | **20.45** | <span style="color: #8B0000; font-weight: bold;">+9.66</span> | <span style="color: #8B0000; font-weight: bold;">+7.71</span> | **503** | <span style="color: #DC143C; font-weight: bold;">27.21</span> | <span style="color: #002818; font-weight: bold;">18.41</span> |
+| **2025/04** | **19.27** | <span style="color: #8B0000; font-weight: bold;">+7.41</span> | <span style="color: #8B0000; font-weight: bold;">+7.24</span> | **479** | <span style="color: #DC143C; font-weight: bold;">27.21</span> | <span style="color: #002818; font-weight: bold;">17.47</span> |
 | **2025/03** | **19.12** | <span style="color: #8B0000; font-weight: bold;">+2.82</span> | <span style="color: #8B0000; font-weight: bold;">+7.18</span> | **478** | <span style="color: #FF4500; font-weight: bold;">27.53</span> | <span style="color: #002818; font-weight: bold;">17.36</span> |
 | **2025/02** | **19.64** | <span style="color: #002818; font-weight: bold;">-5.01</span> | <span style="color: #8B0000; font-weight: bold;">+9.2</span> | **519** | <span style="color: #FF4500; font-weight: bold;">27.53</span> | <span style="color: #002818; font-weight: bold;">19.03</span> |
 | **2025/01** | **24.2** | <span style="color: #DC143C; font-weight: bold;">+24.3</span> | <span style="color: #DC143C; font-weight: bold;">+24.3</span> | **484** | <span style="color: #FF4500; font-weight: bold;">27.53</span> | <span style="color: #002818; font-weight: bold;">17.92</span> |
@@ -104,7 +107,7 @@ description: 月營收表 寶雅 (5904) - 自動產生
 | **2024/05** | **18.65** | <span style="color: #8B0000; font-weight: bold;">+8.1</span> | <span style="color: #8B0000; font-weight: bold;">+8.77</span> | **507** | <span style="color: #DC143C; font-weight: bold;">25.59</span> | <span style="color: #8B0000; font-weight: bold;">20.01</span> |
 | **2024/04** | **17.94** | <span style="color: #8B0000; font-weight: bold;">+2.81</span> | <span style="color: #8B0000; font-weight: bold;">+8.94</span> | **500** | <span style="color: #DC143C; font-weight: bold;">25.59</span> | <span style="color: #8B0000; font-weight: bold;">19.93</span> |
 | **2024/03** | **18.59** | <span style="color: #B22222; font-weight: bold;">+14.9</span> | <span style="color: #B22222; font-weight: bold;">+11</span> | **495** | <span style="color: #DC143C; font-weight: bold;">24.83</span> | <span style="color: #8B0000; font-weight: bold;">19.94</span> |
-| **2024/02** | **20.68** | <span style="color: #DC143C; font-weight: bold;">+29.2</span> | <span style="color: #8B0000; font-weight: bold;">+9.21</span> | **491** | <span style="color: #DC143C; font-weight: bold;">24.83</span> | <span style="color: #8B0000; font-weight: bold;">19.89</span> |
+| **2024/02** | **20.68** | <span style="color: #DC143C; font-weight: bold;">+29.2</span> | <span style="color: #8B0000; font-weight: bold;">+9.21</span> | **491** | <span style="color: #DC143C; font-weight: bold;">24.83</span> | <span style="color: #002818; font-weight: bold;">19.89</span> |
 | **2024/01** | **19.46** | <span style="color: #002818; font-weight: bold;">-6.22</span> | <span style="color: #002818; font-weight: bold;">-6.22</span> | **517** | <span style="color: #DC143C; font-weight: bold;">24.83</span> | <span style="color: #8B0000; font-weight: bold;">21.06</span> |
 | **2023/12** | **19.8** | <span style="color: #8B0000; font-weight: bold;">+2.26</span> | <span style="color: #B22222; font-weight: bold;">+13.4</span> | **552** | <span style="color: #DC143C; font-weight: bold;">24.41</span> | <span style="color: #8B0000; font-weight: bold;">22.61</span> |
 | **2023/11** | **17.46** | <span style="color: #B22222; font-weight: bold;">+13</span> | <span style="color: #B22222; font-weight: bold;">+14.6</span> | **510** | <span style="color: #DC143C; font-weight: bold;">24.41</span> | <span style="color: #8B0000; font-weight: bold;">20.96</span> |
@@ -127,9 +130,9 @@ description: 月營收表 寶雅 (5904) - 自動產生
 | **2022/06** | **15.09** | <span style="color: #FF6347; font-weight: bold;">+46.3</span> | <span style="color: #8B0000; font-weight: bold;">+6.69</span> | **316** | <span style="color: #8B0000; font-weight: bold;">17.23</span> | <span style="color: #002818; font-weight: bold;">18.34</span> |
 | **2022/05** | **13.62** | <span style="color: #8B0000; font-weight: bold;">+3.76</span> | <span style="color: #8B0000; font-weight: bold;">+1.23</span> | **287** | <span style="color: #8B0000; font-weight: bold;">17.23</span> | <span style="color: #002818; font-weight: bold;">16.65</span> |
 | **2022/04** | **15.01** | <span style="color: #8B0000; font-weight: bold;">+3.55</span> | <span style="color: #8B0000; font-weight: bold;">+0.69</span> | **316** | <span style="color: #8B0000; font-weight: bold;">17.23</span> | <span style="color: #002818; font-weight: bold;">18.33</span> |
-| **2022/03** | **14.65** | <span style="color: #8B0000; font-weight: bold;">+4.37</span> | <span style="color: #002818; font-weight: bold;">-0.18</span> | **389** | <span style="color: #B22222; font-weight: bold;">17.25</span> | <span style="color: #8B0000; font-weight: bold;">22.55</span> |
-| **2022/02** | **15.38** | <span style="color: #002818; font-weight: bold;">-2.29</span> | <span style="color: #002818; font-weight: bold;">-2.1</span> | **405** | <span style="color: #B22222; font-weight: bold;">17.25</span> | <span style="color: #8B0000; font-weight: bold;">23.03</span> |
-| **2022/01** | **17.1** | <span style="color: #002818; font-weight: bold;">-1.93</span> | <span style="color: #002818; font-weight: bold;">-1.93</span> | **421** | <span style="color: #B22222; font-weight: bold;">17.25</span> | <span style="color: #8B0000; font-weight: bold;">23.5</span> |
+| **2022/03** | **14.65** | <span style="color: #8B0000; font-weight: bold;">+4.37</span> | <span style="color: #002818; font-weight: bold;">-0.18</span> | **389** | <span style="color: #8B0000; font-weight: bold;">17.25</span> | <span style="color: #8B0000; font-weight: bold;">22.55</span> |
+| **2022/02** | **15.38** | <span style="color: #002818; font-weight: bold;">-2.29</span> | <span style="color: #002818; font-weight: bold;">-2.1</span> | **405** | <span style="color: #8B0000; font-weight: bold;">17.25</span> | <span style="color: #8B0000; font-weight: bold;">23.03</span> |
+| **2022/01** | **17.1** | <span style="color: #002818; font-weight: bold;">-1.93</span> | <span style="color: #002818; font-weight: bold;">-1.93</span> | **421** | <span style="color: #8B0000; font-weight: bold;">17.25</span> | <span style="color: #8B0000; font-weight: bold;">23.5</span> |
 | **2021/12** | **16.35** | <span style="color: #8B0000; font-weight: bold;">+0.34</span> | <span style="color: #002818; font-weight: bold;">-0.39</span> | **423.5** | <span style="color: #B22222; font-weight: bold;">18.25</span> | <span style="color: #8B0000; font-weight: bold;">23.21</span> |
 | **2021/11** | **14.81** | <span style="color: #8B0000; font-weight: bold;">+2.2</span> | <span style="color: #002818; font-weight: bold;">-0.47</span> | **488** | <span style="color: #B22222; font-weight: bold;">18.25</span> | <span style="color: #B22222; font-weight: bold;">26.85</span> |
 | **2021/10** | **16.29** | <span style="color: #8B0000; font-weight: bold;">+9.3</span> | <span style="color: #002818; font-weight: bold;">-0.74</span> | **497** | <span style="color: #B22222; font-weight: bold;">18.25</span> | <span style="color: #B22222; font-weight: bold;">27.46</span> |
@@ -152,7 +155,7 @@ description: 月營收表 寶雅 (5904) - 自動產生
 | **2020/05** | **13.2** | <span style="color: #8B0000; font-weight: bold;">+5.48</span> | <span style="color: #8B0000; font-weight: bold;">+7.59</span> | **578** | <span style="color: #B22222; font-weight: bold;">19.47</span> | <span style="color: #DC143C; font-weight: bold;">29.56</span> |
 | **2020/04** | **11.82** | <span style="color: #002818; font-weight: bold;">-4.82</span> | <span style="color: #8B0000; font-weight: bold;">+8.12</span> | **500** | <span style="color: #B22222; font-weight: bold;">19.47</span> | <span style="color: #B22222; font-weight: bold;">25.45</span> |
 | **2020/03** | **12.32** | <span style="color: #8B0000; font-weight: bold;">+1.81</span> | <span style="color: #B22222; font-weight: bold;">+12.4</span> | **429** | <span style="color: #B22222; font-weight: bold;">19.73</span> | <span style="color: #8B0000; font-weight: bold;">21.74</span> |
-| **2020/02** | **14.04** | <span style="color: #8B0000; font-weight: bold;">+8.81</span> | <span style="color: #B22222; font-weight: bold;">+17.3</span> | **477** | <span style="color: #B22222; font-weight: bold;">19.73</span> | <span style="color: #B22222; font-weight: bold;">24.35</span> |
+| **2020/02** | **14.04** | <span style="color: #8B0000; font-weight: bold;">+8.81</span> | <span style="color: #B22222; font-weight: bold;">+17.3</span> | **477** | <span style="color: #B22222; font-weight: bold;">19.73</span> | <span style="color: #8B0000; font-weight: bold;">24.35</span> |
 | **2020/01** | **16.31** | <span style="color: #DC143C; font-weight: bold;">+25.7</span> | <span style="color: #DC143C; font-weight: bold;">+25.7</span> | **435** | <span style="color: #B22222; font-weight: bold;">19.73</span> | <span style="color: #8B0000; font-weight: bold;">22.37</span> |
 | **2019/12** | **14.44** | <span style="color: #B22222; font-weight: bold;">+10.2</span> | <span style="color: #B22222; font-weight: bold;">+12.1</span> | **421.5** | <span style="color: #B22222; font-weight: bold;">19.31</span> | <span style="color: #8B0000; font-weight: bold;">21.83</span> |
 | **2019/11** | **12.58** | <span style="color: #B22222; font-weight: bold;">+15.3</span> | <span style="color: #B22222; font-weight: bold;">+12.3</span> | **432** | <span style="color: #B22222; font-weight: bold;">19.31</span> | <span style="color: #8B0000; font-weight: bold;">22.73</span> |
@@ -166,9 +169,9 @@ description: 月營收表 寶雅 (5904) - 自動產生
 | **2019/03** | **12.1** | <span style="color: #B22222; font-weight: bold;">+13</span> | <span style="color: #B22222; font-weight: bold;">+11.7</span> | **364.5** | <span style="color: #B22222; font-weight: bold;">17.61</span> | <span style="color: #8B0000; font-weight: bold;">20.7</span> |
 | **2019/02** | **12.9** | <span style="color: #8B0000; font-weight: bold;">+4.96</span> | <span style="color: #B22222; font-weight: bold;">+11.1</span> | **315** | <span style="color: #B22222; font-weight: bold;">17.61</span> | <span style="color: #002818; font-weight: bold;">17.92</span> |
 | **2019/01** | **12.97** | <span style="color: #B22222; font-weight: bold;">+17.9</span> | <span style="color: #B22222; font-weight: bold;">+17.9</span> | **311** | <span style="color: #B22222; font-weight: bold;">17.61</span> | <span style="color: #002818; font-weight: bold;">17.73</span> |
-| **2018/12** | **13.11** | <span style="color: #8B0000; font-weight: bold;">+6.9</span> | <span style="color: #8B0000; font-weight: bold;">+6.19</span> | **316.5** | <span style="color: #B22222; font-weight: bold;">17.5</span> | <span style="color: #002818; font-weight: bold;">18.09</span> |
-| **2018/11** | **10.91** | <span style="color: #8B0000; font-weight: bold;">+8.24</span> | <span style="color: #8B0000; font-weight: bold;">+6.12</span> | **299** | <span style="color: #B22222; font-weight: bold;">17.5</span> | <span style="color: #002818; font-weight: bold;">17.23</span> |
-| **2018/10** | **11.72** | <span style="color: #8B0000; font-weight: bold;">+2.09</span> | <span style="color: #8B0000; font-weight: bold;">+5.93</span> | **269.5** | <span style="color: #B22222; font-weight: bold;">17.5</span> | <span style="color: #002818; font-weight: bold;">15.66</span> |
+| **2018/12** | **13.11** | <span style="color: #8B0000; font-weight: bold;">+6.9</span> | <span style="color: #8B0000; font-weight: bold;">+6.19</span> | **316.5** | <span style="color: #8B0000; font-weight: bold;">17.5</span> | <span style="color: #002818; font-weight: bold;">18.09</span> |
+| **2018/11** | **10.91** | <span style="color: #8B0000; font-weight: bold;">+8.24</span> | <span style="color: #8B0000; font-weight: bold;">+6.12</span> | **299** | <span style="color: #8B0000; font-weight: bold;">17.5</span> | <span style="color: #002818; font-weight: bold;">17.23</span> |
+| **2018/10** | **11.72** | <span style="color: #8B0000; font-weight: bold;">+2.09</span> | <span style="color: #8B0000; font-weight: bold;">+5.93</span> | **269.5** | <span style="color: #8B0000; font-weight: bold;">17.5</span> | <span style="color: #004225; font-weight: bold;">15.66</span> |
 | **2018/09** | **12.5** | <span style="color: #B22222; font-weight: bold;">+11.8</span> | <span style="color: #8B0000; font-weight: bold;">+6.37</span> | **278** | <span style="color: #8B0000; font-weight: bold;">17.06</span> | <span style="color: #002818; font-weight: bold;">16.3</span> |
 | **2018/08** | **11.94** | <span style="color: #8B0000; font-weight: bold;">+1.49</span> | <span style="color: #8B0000; font-weight: bold;">+5.68</span> | **315** | <span style="color: #8B0000; font-weight: bold;">17.06</span> | <span style="color: #002818; font-weight: bold;">18.65</span> |
 | **2018/07** | **12.23** | <span style="color: #8B0000; font-weight: bold;">+4.73</span> | <span style="color: #8B0000; font-weight: bold;">+6.32</span> | **327.5** | <span style="color: #8B0000; font-weight: bold;">17.06</span> | <span style="color: #002818; font-weight: bold;">19.6</span> |
@@ -246,7 +249,7 @@ description: 月營收表 寶雅 (5904) - 自動產生
 | **2012/07** | **-** | N/A | N/A | **61.3** | <span style="color: #004225; font-weight: bold;">5.33</span> | <span style="color: #004225; font-weight: bold;">12.57</span> |
 | **2012/06** | **-** | N/A | N/A | **54.6** | <span style="color: #004225; font-weight: bold;">4.65</span> | <span style="color: #004225; font-weight: bold;">11.74</span> |
 | **2012/05** | **-** | N/A | N/A | **53.6** | <span style="color: #004225; font-weight: bold;">4.65</span> | <span style="color: #004225; font-weight: bold;">11.94</span> |
-| **2012/04** | **-** | N/A | N/A | **49.4** | <span style="color: #004225; font-weight: bold;">4.65</span> | <span style="color: #004225; font-weight: bold;">11.41</span> |
+| **2012/04** | **-** | N/A | N/A | **49.4** | <span style="color: #004225; font-weight: bold;">4.65</span> | <span style="color: #006400; font-weight: bold;">11.41</span> |
 | **2012/03** | **-** | N/A | N/A | **45.8** | <span style="color: #006400; font-weight: bold;">4.17</span> | <span style="color: #006400; font-weight: bold;">10.98</span> |
 | **2012/02** | **-** | N/A | N/A | **42.05** | <span style="color: #006400; font-weight: bold;">4.17</span> | <span style="color: #006400; font-weight: bold;">10.43</span> |
 | **2012/01** | **-** | N/A | N/A | **38.1** | <span style="color: #006400; font-weight: bold;">4.17</span> | <span style="color: #006400; font-weight: bold;">9.78</span> |
@@ -256,7 +259,7 @@ description: 月營收表 寶雅 (5904) - 自動產生
 | **2011/09** | **-** | N/A | N/A | **35.3** | <span style="color: #006400; font-weight: bold;">3.33</span> | <span style="color: #006400; font-weight: bold;">10.6</span> |
 | **2011/08** | **-** | N/A | N/A | **41.35** | <span style="color: #006400; font-weight: bold;">3.33</span> | <span style="color: #004225; font-weight: bold;">12.56</span> |
 | **2011/07** | **-** | N/A | N/A | **45.1** | <span style="color: #006400; font-weight: bold;">3.33</span> | <span style="color: #004225; font-weight: bold;">13.85</span> |
-| **2011/06** | **-** | N/A | N/A | **36.75** | <span style="color: #006400; font-weight: bold;">3.22</span> | <span style="color: #004225; font-weight: bold;">11.41</span> |
+| **2011/06** | **-** | N/A | N/A | **36.75** | <span style="color: #006400; font-weight: bold;">3.22</span> | <span style="color: #006400; font-weight: bold;">11.41</span> |
 | **2011/05** | **-** | N/A | N/A | **34.4** | <span style="color: #006400; font-weight: bold;">3.22</span> | <span style="color: #006400; font-weight: bold;">10.47</span> |
 | **2011/04** | **-** | N/A | N/A | **34.25** | <span style="color: #006400; font-weight: bold;">3.22</span> | <span style="color: #006400; font-weight: bold;">10.21</span> |
 | **2011/03** | **-** | N/A | N/A | **30** | <span style="color: #006400; font-weight: bold;">3.42</span> | <span style="color: #006400; font-weight: bold;">8.77</span> |
@@ -297,12 +300,12 @@ description: 月營收表 寶雅 (5904) - 自動產生
 | **2008/04** | **-** | N/A | N/A | **26.35** | <span style="color: #006400; font-weight: bold;">2.82</span> | <span style="color: #006400; font-weight: bold;">9.55</span> |
 | **2008/03** | **-** | N/A | N/A | **23.95** | <span style="color: #006400; font-weight: bold;">2.73</span> | <span style="color: #006400; font-weight: bold;">8.77</span> |
 | **2008/02** | **-** | N/A | N/A | **20.3** | <span style="color: #006400; font-weight: bold;">2.73</span> | <span style="color: #006400; font-weight: bold;">7.65</span> |
-| **2008/01** | **-** | N/A | N/A | **18.6** | <span style="color: #006400; font-weight: bold;">2.73</span> | <span style="color: #006400; font-weight: bold;">7.22</span> |
+| **2008/01** | **-** | N/A | N/A | **18.6** | <span style="color: #006400; font-weight: bold;">2.73</span> | <span style="color: #228B22; font-weight: bold;">7.22</span> |
 | **2007/12** | **-** | N/A | N/A | **20** | <span style="color: #006400; font-weight: bold;">2.5</span> | <span style="color: #006400; font-weight: bold;">8.0</span> |
 | **2007/11** | **-** | N/A | N/A | **21.5** | <span style="color: #006400; font-weight: bold;">2.5</span> | <span style="color: #006400; font-weight: bold;">9.03</span> |
-| **2007/10** | **-** | N/A | N/A | **25.6** | <span style="color: #006400; font-weight: bold;">2.5</span> | <span style="color: #004225; font-weight: bold;">11.33</span> |
-| **2007/09** | **-** | N/A | N/A | **24.4** | <span style="color: #006400; font-weight: bold;">2.14</span> | <span style="color: #004225; font-weight: bold;">11.4</span> |
-| **2007/08** | **-** | N/A | N/A | **24.85** | <span style="color: #006400; font-weight: bold;">2.14</span> | <span style="color: #004225; font-weight: bold;">11.42</span> |
+| **2007/10** | **-** | N/A | N/A | **25.6** | <span style="color: #006400; font-weight: bold;">2.5</span> | <span style="color: #006400; font-weight: bold;">11.33</span> |
+| **2007/09** | **-** | N/A | N/A | **24.4** | <span style="color: #006400; font-weight: bold;">2.14</span> | <span style="color: #006400; font-weight: bold;">11.4</span> |
+| **2007/08** | **-** | N/A | N/A | **24.85** | <span style="color: #006400; font-weight: bold;">2.14</span> | <span style="color: #006400; font-weight: bold;">11.42</span> |
 | **2007/07** | **-** | N/A | N/A | **28.7** | <span style="color: #006400; font-weight: bold;">2.14</span> | <span style="color: #004225; font-weight: bold;">12.97</span> |
 | **2007/06** | **-** | N/A | N/A | **31** | <span style="color: #006400; font-weight: bold;">2.25</span> | <span style="color: #004225; font-weight: bold;">13.78</span> |
 | **2007/05** | **-** | N/A | N/A | **22.4** | <span style="color: #006400; font-weight: bold;">2.25</span> | <span style="color: #006400; font-weight: bold;">10.07</span> |
@@ -312,13 +315,10 @@ description: 月營收表 寶雅 (5904) - 自動產生
 | **2007/01** | **-** | N/A | N/A | **21.5** | <span style="color: #006400; font-weight: bold;">2.17</span> | <span style="color: #006400; font-weight: bold;">8.97</span> |
 | **2006/12** | **-** | N/A | N/A | **21.85** | <span style="color: #006400; font-weight: bold;">2.51</span> | <span style="color: #006400; font-weight: bold;">8.71</span> |
 | **2006/11** | **-** | N/A | N/A | **21.1** | <span style="color: #006400; font-weight: bold;">2.51</span> | <span style="color: #006400; font-weight: bold;">7.86</span> |
-| **2006/10** | **-** | N/A | N/A | **20.3** | <span style="color: #006400; font-weight: bold;">2.51</span> | <span style="color: #006400; font-weight: bold;">7.11</span> |
+| **2006/10** | **-** | N/A | N/A | **20.3** | <span style="color: #006400; font-weight: bold;">2.51</span> | <span style="color: #228B22; font-weight: bold;">7.11</span> |
 | **2006/09** | **-** | N/A | N/A | **23.4** | <span style="color: #006400; font-weight: bold;">3.03</span> | <span style="color: #006400; font-weight: bold;">7.72</span> |
 | **2006/08** | **-** | N/A | N/A | **22.9** | <span style="color: #006400; font-weight: bold;">3.03</span> | <span style="color: #228B22; font-weight: bold;">6.95</span> |
-| **2006/07** | **-** | N/A | N/A | **25.15** | <span style="color: #006400; font-weight: bold;">3.03</span> | <span style="color: #006400; font-weight: bold;">7.07</span> |
-| **2006/06** | **-** | N/A | N/A | **27.1** | <span style="color: #006400; font-weight: bold;">3.82</span> | <span style="color: #006400; font-weight: bold;">7.09</span> |
-| **2006/05** | **-** | N/A | N/A | **27.75** | <span style="color: #006400; font-weight: bold;">3.82</span> | <span style="color: #006400; font-weight: bold;">7.37</span> |
-| **2006/04** | **-** | N/A | N/A | **29.1** | <span style="color: #006400; font-weight: bold;">3.82</span> | <span style="color: #006400; font-weight: bold;">7.85</span> |
+| **2006/07** | **-** | N/A | N/A | **25.15** | <span style="color: #006400; font-weight: bold;">3.03</span> | <span style="color: #228B22; font-weight: bold;">7.07</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 寶雅 (5904) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-05-17 04:03:13 CST
+- **產生時間**: 2026-07-16 15:23:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

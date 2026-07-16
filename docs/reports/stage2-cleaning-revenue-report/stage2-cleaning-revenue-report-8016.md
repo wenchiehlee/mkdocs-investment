@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-05-17
+date: 2026-07-16
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 矽創 (8016) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 矽創  
     **:identification_card: 股票代號**: 8016  
-    **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-05-17 04:03:13 CST
+    **:calendar: 最新資料**: 2026/06  
+    **:clock3: 更新時間**: 2026-07-16 15:23:24 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+29.3</span> | <span style="color: #DC143C; font-weight: bold;">+23</span> | **240** 個月 | 2006/04 至 2026/03 |
+| <span style="color: #DC143C; font-weight: bold;">+26.6</span> | <span style="color: #DC143C; font-weight: bold;">+29</span> | **240** 個月 | 2006/07 至 2026/06 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -49,9 +49,9 @@ description: 月營收表 矽創 (8016) - 自動產生
 | **9月** | -- | 1,657<br/><span style="color: #8B0000;">(+4.29%)</span> | 1,589<br/><span style="color: #B22222;">(+11.00%)</span> | 1,432<br/><span style="color: #8B0000;">(+4.83%)</span> | 1,366<br/><span style="color: #228B22;">(-36.50%)</span> |
 | **8月** | -- | 1,543<br/><span style="color: #002818;">(-3.38%)</span> | 1,597<br/><span style="color: #B22222;">(+14.80%)</span> | 1,391<br/><span style="color: #8B0000;">(+2.40%)</span> | 1,358<br/><span style="color: #228B22;">(-38.40%)</span> |
 | **7月** | -- | 1,514<br/><span style="color: #8B0000;">(+1.09%)</span> | 1,497<br/><span style="color: #8B0000;">(+8.61%)</span> | 1,379<br/><span style="color: #8B0000;">(+2.78%)</span> | 1,341<br/><span style="color: #228B22;">(-39.80%)</span> |
-| **6月** | -- | 1,577<br/><span style="color: #B22222;">(+15.10%)</span> | 1,370<br/><span style="color: #8B0000;">(+2.26%)</span> | 1,340<br/><span style="color: #B22222;">(+12.00%)</span> | 1,196<br/><span style="color: #228B22;">(-35.90%)</span> |
-| **5月** | -- | 1,535<br/><span style="color: #002818;">(-2.12%)</span> | 1,569<br/><span style="color: #8B0000;">(+2.03%)</span> | 1,537<br/><span style="color: #002818;">(-3.76%)</span> | 1,597<br/><span style="color: #004225;">(-16.00%)</span> |
-| **4月** | -- | 1,535<br/><span style="color: #8B0000;">(+6.74%)</span> | 1,438<br/><span style="color: #002818;">(-6.14%)</span> | 1,533<br/><span style="color: #004225;">(-12.10%)</span> | 1,744<br/><span style="color: #002818;">(-1.21%)</span> |
+| **6月** | 1,997<br/><span style="color: #DC143C;">(+26.60%)</span> | 1,577<br/><span style="color: #B22222;">(+15.10%)</span> | 1,370<br/><span style="color: #8B0000;">(+2.26%)</span> | 1,340<br/><span style="color: #B22222;">(+12.00%)</span> | 1,196<br/><span style="color: #228B22;">(-35.90%)</span> |
+| **5月** | 2,147<br/><span style="color: #FF4500;">(+39.80%)</span> | 1,535<br/><span style="color: #002818;">(-2.12%)</span> | 1,569<br/><span style="color: #8B0000;">(+2.03%)</span> | 1,537<br/><span style="color: #002818;">(-3.76%)</span> | 1,597<br/><span style="color: #004225;">(-16.00%)</span> |
+| **4月** | 2,108<br/><span style="color: #FF4500;">(+37.20%)</span> | 1,535<br/><span style="color: #8B0000;">(+6.74%)</span> | 1,438<br/><span style="color: #002818;">(-6.14%)</span> | 1,533<br/><span style="color: #004225;">(-12.10%)</span> | 1,744<br/><span style="color: #002818;">(-1.21%)</span> |
 | **3月** | 2,179<br/><span style="color: #DC143C;">(+29.30%)</span> | 1,685<br/><span style="color: #FF4500;">(+34.00%)</span> | 1,258<br/><span style="color: #004225;">(-16.10%)</span> | 1,500<br/><span style="color: #006400;">(-20.00%)</span> | 1,873<br/><span style="color: #DC143C;">(+20.50%)</span> |
 | **2月** | 1,370<br/><span style="color: #B22222;">(+10.10%)</span> | 1,244<br/><span style="color: #002818;">(-1.20%)</span> | 1,259<br/><span style="color: #B22222;">(+19.10%)</span> | 1,058<br/><span style="color: #32CD32;">(-42.40%)</span> | 1,835<br/><span style="color: #FF7F7F;">(+71.60%)</span> |
 | **1月** | 1,780<br/><span style="color: #DC143C;">(+26.90%)</span> | 1,403<br/><span style="color: #004225;">(-14.00%)</span> | 1,632<br/><span style="color: #FF7F7F;">(+56.40%)</span> | 1,043<br/><span style="color: #32CD32;">(-44.60%)</span> | 1,884<br/><span style="color: #FF4500;">(+32.80%)</span> |
@@ -62,15 +62,15 @@ description: 月營收表 矽創 (8016) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **5.47** | **10.98** | **29.30** |
-| **P/E倍數** | **9.55** | **13.18** | **15.96** |
+| **EPS(元)** | **5.50** | **11.06** | **29.50** |
+| **P/E倍數** | **9.59** | **13.21** | **16.07** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 矽創 歷史平均獲利能力 (σup=18.33, σlo=5.50)
-    - **P/Ebase**: 矽創 歷史平均估值水準 (σup=2.77, σlo=3.63)
+    - **EPSbase**: 矽創 歷史平均獲利能力 (σup=18.44, σlo=5.55)
+    - **P/Ebase**: 矽創 歷史平均估值水準 (σup=2.86, σlo=3.63)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,9 +79,12 @@ description: 月營收表 矽創 (8016) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/03** | **21.79** | <span style="color: #DC143C; font-weight: bold;">+29.3</span> | <span style="color: #DC143C; font-weight: bold;">+23</span> | **191** | <span style="color: #8B0000; font-weight: bold;">14.66</span> | <span style="color: #002818; font-weight: bold;">13.03</span> |
-| **2026/02** | **13.7** | <span style="color: #B22222; font-weight: bold;">+10.1</span> | <span style="color: #B22222; font-weight: bold;">+19</span> | **199** | <span style="color: #8B0000; font-weight: bold;">14.66</span> | <span style="color: #8B0000; font-weight: bold;">13.57</span> |
-| **2026/01** | **17.8** | <span style="color: #DC143C; font-weight: bold;">+26.9</span> | <span style="color: #DC143C; font-weight: bold;">+26.9</span> | **195.5** | <span style="color: #8B0000; font-weight: bold;">14.66</span> | <span style="color: #8B0000; font-weight: bold;">13.34</span> |
+| **2026/06** | **19.97** | <span style="color: #DC143C; font-weight: bold;">+26.6</span> | <span style="color: #DC143C; font-weight: bold;">+29</span> | **332** | <span style="color: #8B0000; font-weight: bold;">15.91</span> | <span style="color: #FF4500; font-weight: bold;">18.57</span> |
+| **2026/05** | **21.47** | <span style="color: #FF4500; font-weight: bold;">+39.8</span> | <span style="color: #DC143C; font-weight: bold;">+29.4</span> | **306** | <span style="color: #8B0000; font-weight: bold;">15.91</span> | <span style="color: #FF6347; font-weight: bold;">19.23</span> |
+| **2026/04** | **21.08** | <span style="color: #FF4500; font-weight: bold;">+37.2</span> | <span style="color: #DC143C; font-weight: bold;">+26.7</span> | **230** | <span style="color: #8B0000; font-weight: bold;">15.91</span> | <span style="color: #8B0000; font-weight: bold;">14.46</span> |
+| **2026/03** | **21.79** | <span style="color: #DC143C; font-weight: bold;">+29.3</span> | <span style="color: #DC143C; font-weight: bold;">+23</span> | **191** | <span style="color: #8B0000; font-weight: bold;">15.91</span> | <span style="color: #002818; font-weight: bold;">12.01</span> |
+| **2026/02** | **13.7** | <span style="color: #B22222; font-weight: bold;">+10.1</span> | <span style="color: #B22222; font-weight: bold;">+19</span> | **199** | <span style="color: #8B0000; font-weight: bold;">15.91</span> | <span style="color: #002818; font-weight: bold;">12.84</span> |
+| **2026/01** | **17.8** | <span style="color: #DC143C; font-weight: bold;">+26.9</span> | <span style="color: #DC143C; font-weight: bold;">+26.9</span> | **195.5** | <span style="color: #8B0000; font-weight: bold;">15.91</span> | <span style="color: #002818; font-weight: bold;">12.97</span> |
 | **2025/12** | **18.86** | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | <span style="color: #8B0000; font-weight: bold;">+6.59</span> | **179.5** | <span style="color: #8B0000; font-weight: bold;">14.66</span> | <span style="color: #002818; font-weight: bold;">12.24</span> |
 | **2025/11** | **18.01** | <span style="color: #B22222; font-weight: bold;">+18.3</span> | <span style="color: #8B0000; font-weight: bold;">+5.26</span> | **182.5** | <span style="color: #8B0000; font-weight: bold;">14.66</span> | <span style="color: #002818; font-weight: bold;">12.69</span> |
 | **2025/10** | **16.2** | <span style="color: #8B0000; font-weight: bold;">+6.05</span> | <span style="color: #8B0000; font-weight: bold;">+3.91</span> | **200.5** | <span style="color: #8B0000; font-weight: bold;">14.66</span> | <span style="color: #8B0000; font-weight: bold;">14.21</span> |
@@ -100,15 +103,15 @@ description: 月營收表 矽創 (8016) - 自動產生
 | **2024/09** | **15.89** | <span style="color: #B22222; font-weight: bold;">+11</span> | <span style="color: #8B0000; font-weight: bold;">+8.17</span> | **228.5** | <span style="color: #8B0000; font-weight: bold;">15.51</span> | <span style="color: #B22222; font-weight: bold;">14.73</span> |
 | **2024/08** | **15.97** | <span style="color: #B22222; font-weight: bold;">+14.8</span> | <span style="color: #8B0000; font-weight: bold;">+7.79</span> | **234** | <span style="color: #8B0000; font-weight: bold;">15.51</span> | <span style="color: #B22222; font-weight: bold;">14.88</span> |
 | **2024/07** | **14.97** | <span style="color: #8B0000; font-weight: bold;">+8.61</span> | <span style="color: #8B0000; font-weight: bold;">+6.76</span> | **248.5** | <span style="color: #8B0000; font-weight: bold;">15.51</span> | <span style="color: #B22222; font-weight: bold;">15.59</span> |
-| **2024/06** | **13.7** | <span style="color: #8B0000; font-weight: bold;">+2.26</span> | <span style="color: #8B0000; font-weight: bold;">+6.44</span> | **258.5** | <span style="color: #8B0000; font-weight: bold;">16.15</span> | <span style="color: #DC143C; font-weight: bold;">16.01</span> |
+| **2024/06** | **13.7** | <span style="color: #8B0000; font-weight: bold;">+2.26</span> | <span style="color: #8B0000; font-weight: bold;">+6.44</span> | **258.5** | <span style="color: #8B0000; font-weight: bold;">16.15</span> | <span style="color: #B22222; font-weight: bold;">16.01</span> |
 | **2024/05** | **15.69** | <span style="color: #8B0000; font-weight: bold;">+2.03</span> | <span style="color: #8B0000; font-weight: bold;">+7.28</span> | **260** | <span style="color: #8B0000; font-weight: bold;">16.15</span> | <span style="color: #B22222; font-weight: bold;">15.93</span> |
 | **2024/04** | **14.38** | <span style="color: #002818; font-weight: bold;">-6.14</span> | <span style="color: #8B0000; font-weight: bold;">+8.85</span> | **280** | <span style="color: #8B0000; font-weight: bold;">16.15</span> | <span style="color: #DC143C; font-weight: bold;">16.98</span> |
 | **2024/03** | **12.58** | <span style="color: #004225; font-weight: bold;">-16.1</span> | <span style="color: #B22222; font-weight: bold;">+15.2</span> | **291.5** | <span style="color: #8B0000; font-weight: bold;">16.66</span> | <span style="color: #FF4500; font-weight: bold;">17.5</span> |
 | **2024/02** | **12.59** | <span style="color: #B22222; font-weight: bold;">+19.1</span> | <span style="color: #FF4500; font-weight: bold;">+37.6</span> | **290** | <span style="color: #8B0000; font-weight: bold;">16.66</span> | <span style="color: #FF4500; font-weight: bold;">17.82</span> |
 | **2024/01** | **16.32** | <span style="color: #FF7F7F; font-weight: bold;">+56.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+56.4</span> | **272.5** | <span style="color: #8B0000; font-weight: bold;">16.66</span> | <span style="color: #DC143C; font-weight: bold;">17.15</span> |
 | **2023/12** | **14.72** | <span style="color: #DC143C; font-weight: bold;">+27.1</span> | <span style="color: #002818; font-weight: bold;">-7.23</span> | **278** | <span style="color: #8B0000; font-weight: bold;">15.5</span> | <span style="color: #FF4500; font-weight: bold;">17.94</span> |
-| **2023/11** | **15.18** | <span style="color: #B22222; font-weight: bold;">+19.4</span> | <span style="color: #002818; font-weight: bold;">-9.59</span> | **289** | <span style="color: #8B0000; font-weight: bold;">15.5</span> | <span style="color: #FF6347; font-weight: bold;">18.85</span> |
-| **2023/10** | **15.22** | <span style="color: #8B0000; font-weight: bold;">+8.53</span> | <span style="color: #004225; font-weight: bold;">-12</span> | **285** | <span style="color: #8B0000; font-weight: bold;">15.5</span> | <span style="color: #FF6347; font-weight: bold;">18.79</span> |
+| **2023/11** | **15.18** | <span style="color: #B22222; font-weight: bold;">+19.4</span> | <span style="color: #002818; font-weight: bold;">-9.59</span> | **289** | <span style="color: #8B0000; font-weight: bold;">15.5</span> | <span style="color: #FF4500; font-weight: bold;">18.85</span> |
+| **2023/10** | **15.22** | <span style="color: #8B0000; font-weight: bold;">+8.53</span> | <span style="color: #004225; font-weight: bold;">-12</span> | **285** | <span style="color: #8B0000; font-weight: bold;">15.5</span> | <span style="color: #FF4500; font-weight: bold;">18.79</span> |
 | **2023/09** | **14.32** | <span style="color: #8B0000; font-weight: bold;">+4.83</span> | <span style="color: #004225; font-weight: bold;">-14</span> | **278.5** | <span style="color: #8B0000; font-weight: bold;">15.0</span> | <span style="color: #FF4500; font-weight: bold;">18.57</span> |
 | **2023/08** | **13.91** | <span style="color: #8B0000; font-weight: bold;">+2.4</span> | <span style="color: #004225; font-weight: bold;">-16</span> | **250** | <span style="color: #8B0000; font-weight: bold;">15.0</span> | <span style="color: #DC143C; font-weight: bold;">16.1</span> |
 | **2023/07** | **13.79** | <span style="color: #8B0000; font-weight: bold;">+2.78</span> | <span style="color: #004225; font-weight: bold;">-18.2</span> | **220** | <span style="color: #8B0000; font-weight: bold;">15.0</span> | <span style="color: #8B0000; font-weight: bold;">13.71</span> |
@@ -151,9 +154,9 @@ description: 月營收表 矽創 (8016) - 自動產生
 | **2020/06** | **9.26** | <span style="color: #006400; font-weight: bold;">-23</span> | <span style="color: #002818; font-weight: bold;">-4.7</span> | **154** | <span style="color: #002818; font-weight: bold;">10.63</span> | <span style="color: #8B0000; font-weight: bold;">14.49</span> |
 | **2020/05** | **7.63** | <span style="color: #228B22; font-weight: bold;">-36.4</span> | <span style="color: #002818; font-weight: bold;">-0.17</span> | **152** | <span style="color: #002818; font-weight: bold;">10.63</span> | <span style="color: #8B0000; font-weight: bold;">14.14</span> |
 | **2020/04** | **9.56** | <span style="color: #004225; font-weight: bold;">-13.4</span> | <span style="color: #B22222; font-weight: bold;">+11.7</span> | **146.5** | <span style="color: #002818; font-weight: bold;">10.63</span> | <span style="color: #8B0000; font-weight: bold;">13.47</span> |
-| **2020/03** | **11.88** | <span style="color: #DC143C; font-weight: bold;">+20.8</span> | <span style="color: #DC143C; font-weight: bold;">+22.5</span> | **118** | <span style="color: #8B0000; font-weight: bold;">11.0</span> | <span style="color: #004225; font-weight: bold;">10.73</span> |
-| **2020/02** | **8.98** | <span style="color: #FF4500; font-weight: bold;">+36.5</span> | <span style="color: #DC143C; font-weight: bold;">+23.6</span> | **144** | <span style="color: #8B0000; font-weight: bold;">11.0</span> | <span style="color: #8B0000; font-weight: bold;">13.39</span> |
-| **2020/01** | **10.53** | <span style="color: #B22222; font-weight: bold;">+14.4</span> | <span style="color: #B22222; font-weight: bold;">+14.4</span> | **154.5** | <span style="color: #8B0000; font-weight: bold;">11.0</span> | <span style="color: #B22222; font-weight: bold;">14.7</span> |
+| **2020/03** | **11.88** | <span style="color: #DC143C; font-weight: bold;">+20.8</span> | <span style="color: #DC143C; font-weight: bold;">+22.5</span> | **118** | <span style="color: #002818; font-weight: bold;">11.0</span> | <span style="color: #004225; font-weight: bold;">10.73</span> |
+| **2020/02** | **8.98** | <span style="color: #FF4500; font-weight: bold;">+36.5</span> | <span style="color: #DC143C; font-weight: bold;">+23.6</span> | **144** | <span style="color: #002818; font-weight: bold;">11.0</span> | <span style="color: #8B0000; font-weight: bold;">13.39</span> |
+| **2020/01** | **10.53** | <span style="color: #B22222; font-weight: bold;">+14.4</span> | <span style="color: #B22222; font-weight: bold;">+14.4</span> | **154.5** | <span style="color: #002818; font-weight: bold;">11.0</span> | <span style="color: #B22222; font-weight: bold;">14.7</span> |
 | **2019/12** | **12.01** | <span style="color: #FF4500; font-weight: bold;">+31.3</span> | <span style="color: #FF4500; font-weight: bold;">+33.6</span> | **167.5** | <span style="color: #002818; font-weight: bold;">10.27</span> | <span style="color: #DC143C; font-weight: bold;">16.31</span> |
 | **2019/11** | **12.15** | <span style="color: #DC143C; font-weight: bold;">+25.1</span> | <span style="color: #FF4500; font-weight: bold;">+33.8</span> | **169** | <span style="color: #002818; font-weight: bold;">10.27</span> | <span style="color: #DC143C; font-weight: bold;">16.89</span> |
 | **2019/10** | **13.16** | <span style="color: #FF4500; font-weight: bold;">+39.9</span> | <span style="color: #FF4500; font-weight: bold;">+34.8</span> | **182** | <span style="color: #002818; font-weight: bold;">10.27</span> | <span style="color: #FF4500; font-weight: bold;">18.69</span> |
@@ -162,7 +165,7 @@ description: 月營收表 矽創 (8016) - 自動產生
 | **2019/07** | **12.76** | <span style="color: #FF4500; font-weight: bold;">+38.2</span> | <span style="color: #DC143C; font-weight: bold;">+29.3</span> | **136.5** | <span style="color: #002818; font-weight: bold;">9.47</span> | <span style="color: #B22222; font-weight: bold;">15.34</span> |
 | **2019/06** | **12.03** | <span style="color: #FF4500; font-weight: bold;">+30.6</span> | <span style="color: #DC143C; font-weight: bold;">+27.6</span> | **130** | <span style="color: #002818; font-weight: bold;">8.61</span> | <span style="color: #B22222; font-weight: bold;">15.1</span> |
 | **2019/05** | **12.01** | <span style="color: #FF4500; font-weight: bold;">+33.2</span> | <span style="color: #DC143C; font-weight: bold;">+26.8</span> | **126** | <span style="color: #002818; font-weight: bold;">8.61</span> | <span style="color: #B22222; font-weight: bold;">15.21</span> |
-| **2019/04** | **11.04** | <span style="color: #DC143C; font-weight: bold;">+28.4</span> | <span style="color: #DC143C; font-weight: bold;">+24.9</span> | **127** | <span style="color: #002818; font-weight: bold;">8.61</span> | <span style="color: #DC143C; font-weight: bold;">15.96</span> |
+| **2019/04** | **11.04** | <span style="color: #DC143C; font-weight: bold;">+28.4</span> | <span style="color: #DC143C; font-weight: bold;">+24.9</span> | **127** | <span style="color: #002818; font-weight: bold;">8.61</span> | <span style="color: #B22222; font-weight: bold;">15.96</span> |
 | **2019/03** | **9.84** | <span style="color: #B22222; font-weight: bold;">+18.3</span> | <span style="color: #DC143C; font-weight: bold;">+23.5</span> | **141.5** | <span style="color: #004225; font-weight: bold;">7.63</span> | <span style="color: #FF4500; font-weight: bold;">18.55</span> |
 | **2019/02** | **6.58** | <span style="color: #FF6347; font-weight: bold;">+42.3</span> | <span style="color: #DC143C; font-weight: bold;">+26.9</span> | **117** | <span style="color: #004225; font-weight: bold;">7.63</span> | <span style="color: #B22222; font-weight: bold;">15.75</span> |
 | **2019/01** | **9.2** | <span style="color: #B22222; font-weight: bold;">+17.8</span> | <span style="color: #B22222; font-weight: bold;">+17.8</span> | **110** | <span style="color: #004225; font-weight: bold;">7.63</span> | <span style="color: #B22222; font-weight: bold;">15.21</span> |
@@ -180,7 +183,7 @@ description: 月營收表 矽創 (8016) - 自動產生
 | **2018/01** | **7.81** | <span style="color: #FF4500; font-weight: bold;">+30.2</span> | <span style="color: #FF4500; font-weight: bold;">+30.2</span> | **86.9** | <span style="color: #004225; font-weight: bold;">7.06</span> | <span style="color: #002818; font-weight: bold;">12.01</span> |
 | **2017/12** | **8.4** | <span style="color: #B22222; font-weight: bold;">+11.9</span> | <span style="color: #002818; font-weight: bold;">-7.44</span> | **83.6** | <span style="color: #004225; font-weight: bold;">7.32</span> | <span style="color: #002818; font-weight: bold;">11.42</span> |
 | **2017/11** | **8.13** | <span style="color: #002818; font-weight: bold;">-8.69</span> | <span style="color: #002818; font-weight: bold;">-8.98</span> | **82.1** | <span style="color: #004225; font-weight: bold;">7.32</span> | <span style="color: #004225; font-weight: bold;">11.07</span> |
-| **2017/10** | **7.82** | <span style="color: #006400; font-weight: bold;">-20.4</span> | <span style="color: #002818; font-weight: bold;">-9.01</span> | **85.4** | <span style="color: #004225; font-weight: bold;">7.32</span> | <span style="color: #002818; font-weight: bold;">11.38</span> |
+| **2017/10** | **7.82** | <span style="color: #006400; font-weight: bold;">-20.4</span> | <span style="color: #002818; font-weight: bold;">-9.01</span> | **85.4** | <span style="color: #004225; font-weight: bold;">7.32</span> | <span style="color: #004225; font-weight: bold;">11.38</span> |
 | **2017/09** | **8.7** | <span style="color: #004225; font-weight: bold;">-19.6</span> | <span style="color: #002818; font-weight: bold;">-7.54</span> | **89.3** | <span style="color: #004225; font-weight: bold;">7.6</span> | <span style="color: #002818; font-weight: bold;">11.75</span> |
 | **2017/08** | **8.92** | <span style="color: #002818; font-weight: bold;">-9.17</span> | <span style="color: #002818; font-weight: bold;">-5.53</span> | **91.6** | <span style="color: #004225; font-weight: bold;">7.6</span> | <span style="color: #002818; font-weight: bold;">11.82</span> |
 | **2017/07** | **8.81** | <span style="color: #8B0000; font-weight: bold;">+8.64</span> | <span style="color: #002818; font-weight: bold;">-4.88</span> | **96.5** | <span style="color: #004225; font-weight: bold;">7.6</span> | <span style="color: #002818; font-weight: bold;">12.23</span> |
@@ -275,7 +278,7 @@ description: 月營收表 矽創 (8016) - 自動產生
 | **2010/02** | **-** | N/A | N/A | **56.4** | <span style="color: #006400; font-weight: bold;">4.6</span> | <span style="color: #002818; font-weight: bold;">12.9</span> |
 | **2010/01** | **-** | N/A | N/A | **57** | <span style="color: #006400; font-weight: bold;">4.6</span> | <span style="color: #8B0000; font-weight: bold;">13.75</span> |
 | **2009/12** | **-** | N/A | N/A | **65** | <span style="color: #006400; font-weight: bold;">3.92</span> | <span style="color: #DC143C; font-weight: bold;">16.58</span> |
-| **2009/11** | **-** | N/A | N/A | **62.2** | <span style="color: #006400; font-weight: bold;">3.92</span> | <span style="color: #FF4500; font-weight: bold;">17.42</span> |
+| **2009/11** | **-** | N/A | N/A | **62.2** | <span style="color: #006400; font-weight: bold;">3.92</span> | <span style="color: #DC143C; font-weight: bold;">17.42</span> |
 | **2009/10** | **-** | N/A | N/A | **55.4** | <span style="color: #006400; font-weight: bold;">3.92</span> | <span style="color: #DC143C; font-weight: bold;">17.2</span> |
 | **2009/09** | **-** | N/A | N/A | **61.7** | <span style="color: #006400; font-weight: bold;">2.87</span> | <span style="color: #FF6347; font-weight: bold;">21.5</span> |
 | **2009/08** | **-** | N/A | N/A | **58** | <span style="color: #006400; font-weight: bold;">2.87</span> | <span style="color: #FF6347; font-weight: bold;">19.04</span> |
@@ -316,9 +319,6 @@ description: 月營收表 矽創 (8016) - 自動產生
 | **2006/09** | **-** | N/A | N/A | **96** | <span style="color: #004225; font-weight: bold;">8.13</span> | <span style="color: #002818; font-weight: bold;">11.81</span> |
 | **2006/08** | **-** | N/A | N/A | **97.3** | <span style="color: #004225; font-weight: bold;">8.13</span> | <span style="color: #002818; font-weight: bold;">11.75</span> |
 | **2006/07** | **-** | N/A | N/A | **112.5** | <span style="color: #004225; font-weight: bold;">8.13</span> | <span style="color: #8B0000; font-weight: bold;">13.35</span> |
-| **2006/06** | **-** | N/A | N/A | **103** | <span style="color: #002818; font-weight: bold;">8.58</span> | <span style="color: #002818; font-weight: bold;">12.0</span> |
-| **2006/05** | **-** | N/A | N/A | **128** | <span style="color: #002818; font-weight: bold;">8.58</span> | <span style="color: #8B0000; font-weight: bold;">14.0</span> |
-| **2006/04** | **-** | N/A | N/A | **131** | <span style="color: #002818; font-weight: bold;">8.58</span> | <span style="color: #8B0000; font-weight: bold;">13.51</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 矽創 (8016) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-05-17 04:03:13 CST
+- **產生時間**: 2026-07-16 15:23:24 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
