@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-16
+date: 2026-05-17
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 碩網 (7547) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 碩網  
     **:identification_card: 股票代號**: 7547  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-07-16 15:23:24 CST
+    **:calendar: 最新資料**: 2026/03  
+    **:clock3: 更新時間**: 2026-05-17 04:03:13 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF4500; font-weight: bold;">+36.2</span> | <span style="color: #FF4500; font-weight: bold;">+35.6</span> | **73** 個月 | 2020/06 至 2026/06 |
+| <span style="color: #FF6347; font-weight: bold;">+46.3</span> | <span style="color: #FF6347; font-weight: bold;">+46.8</span> | **70** 個月 | 2020/06 至 2026/03 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -49,9 +49,9 @@ description: 月營收表 碩網 (7547) - 自動產生
 | **9月** | -- | 39<br/><span style="color: #B22222;">(+11.40%)</span> | 35<br/><span style="color: #FF7F7F;">(+171.60%)</span> | 13<br/><span style="color: #004225;">(-16.80%)</span> | 15<br/><span style="color: #DC143C;">(+29.40%)</span> |
 | **8月** | -- | 34<br/><span style="color: #002818;">(-9.48%)</span> | 37<br/><span style="color: #FF7F7F;">(+176.70%)</span> | 13<br/><span style="color: #228B22;">(-33.90%)</span> | 20<br/><span style="color: #228B22;">(-30.50%)</span> |
 | **7月** | -- | 30<br/><span style="color: #8B0000;">(+3.33%)</span> | 29<br/><span style="color: #FF7F7F;">(+61.10%)</span> | 18<br/><span style="color: #FF7F7F;">(+60.30%)</span> | 11<br/><span style="color: #006400;">(-20.40%)</span> |
-| **6月** | 44<br/><span style="color: #FF4500;">(+36.20%)</span> | 32<br/><span style="color: #8B0000;">(+9.64%)</span> | 29<br/><span style="color: #FF7F7F;">(+74.10%)</span> | 17<br/><span style="color: #8B0000;">(+0.51%)</span> | 17<br/><span style="color: #002818;">(-4.37%)</span> |
-| **5月** | 35<br/><span style="color: #FF4500;">(+37.60%)</span> | 25<br/><span style="color: #B22222;">(+16.40%)</span> | 22<br/><span style="color: #FF7F7F;">(+84.40%)</span> | 12<br/><span style="color: #8B0000;">(+7.60%)</span> | 11<br/><span style="color: #B22222;">(+13.60%)</span> |
-| **4月** | 24<br/><span style="color: #8B0000;">(+3.14%)</span> | 23<br/><span style="color: #DC143C;">(+22.80%)</span> | 19<br/><span style="color: #FF7F7F;">(+69.70%)</span> | 11<br/><span style="color: #004225;">(-13.70%)</span> | 13<br/><span style="color: #8B0000;">(+9.48%)</span> |
+| **6月** | -- | 32<br/><span style="color: #8B0000;">(+9.64%)</span> | 29<br/><span style="color: #FF7F7F;">(+74.10%)</span> | 17<br/><span style="color: #8B0000;">(+0.51%)</span> | 17<br/><span style="color: #002818;">(-4.37%)</span> |
+| **5月** | -- | 25<br/><span style="color: #B22222;">(+16.40%)</span> | 22<br/><span style="color: #FF7F7F;">(+84.40%)</span> | 12<br/><span style="color: #8B0000;">(+7.60%)</span> | 11<br/><span style="color: #B22222;">(+13.60%)</span> |
+| **4月** | -- | 23<br/><span style="color: #DC143C;">(+22.80%)</span> | 19<br/><span style="color: #FF7F7F;">(+69.70%)</span> | 11<br/><span style="color: #004225;">(-13.70%)</span> | 13<br/><span style="color: #8B0000;">(+9.48%)</span> |
 | **3月** | 35<br/><span style="color: #FF6347;">(+46.30%)</span> | 24<br/><span style="color: #FF6347;">(+45.00%)</span> | 16<br/><span style="color: #002818;">(-7.62%)</span> | 18<br/><span style="color: #FF7F7F;">(+78.60%)</span> | 10<br/><span style="color: #228B22;">(-39.30%)</span> |
 | **2月** | 27<br/><span style="color: #FF6347;">(+49.80%)</span> | 18<br/><span style="color: #DC143C;">(+21.30%)</span> | 15<br/><span style="color: #FF6347;">(+49.10%)</span> | 10<br/><span style="color: #228B22;">(-31.50%)</span> | 14<br/><span style="color: #FF7F7F;">(+52.00%)</span> |
 | **1月** | 28<br/><span style="color: #FF6347;">(+44.70%)</span> | 19<br/><span style="color: #B22222;">(+10.00%)</span> | 17<br/><span style="color: #B22222;">(+15.60%)</span> | 15<br/><span style="color: #FF4500;">(+30.60%)</span> | 11<br/><span style="color: #FF7F7F;">(+112.90%)</span> |
@@ -62,15 +62,15 @@ description: 月營收表 碩網 (7547) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **2.49** | **2.59** | **2.70** |
-| **P/E倍數** | **23.64** | **28.61** | **37.97** |
+| **EPS(元)** | **2.65** | **2.67** | **2.73** |
+| **P/E倍數** | **23.42** | **29.36** | **37.87** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 碩網 歷史平均獲利能力 (σup=0.11, σlo=0.10)
-    - **P/Ebase**: 碩網 歷史平均估值水準 (σup=9.37, σlo=4.97)
+    - **EPSbase**: 碩網 歷史平均獲利能力 (σup=0.06, σlo=0.02)
+    - **P/Ebase**: 碩網 歷史平均估值水準 (σup=8.51, σlo=5.94)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,15 +79,12 @@ description: 月營收表 碩網 (7547) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/06** | **0.444** | <span style="color: #FF4500; font-weight: bold;">+36.2</span> | <span style="color: #FF4500; font-weight: bold;">+35.6</span> | **56.9** | <span style="color: #004225; font-weight: bold;">2.49</span> | <span style="color: #006400; font-weight: bold;">23.37</span> |
-| **2026/05** | **0.357** | <span style="color: #FF4500; font-weight: bold;">+37.6</span> | <span style="color: #FF4500; font-weight: bold;">+35.4</span> | **60.9** | <span style="color: #004225; font-weight: bold;">2.49</span> | <span style="color: #004225; font-weight: bold;">24.46</span> |
-| **2026/04** | **0.245** | <span style="color: #8B0000; font-weight: bold;">+3.14</span> | <span style="color: #FF4500; font-weight: bold;">+34.7</span> | **69** | <span style="color: #004225; font-weight: bold;">2.49</span> | <span style="color: #002818; font-weight: bold;">27.71</span> |
-| **2026/03** | **0.354** | <span style="color: #FF6347; font-weight: bold;">+46.3</span> | <span style="color: #FF6347; font-weight: bold;">+46.8</span> | **83.2** | <span style="color: #004225; font-weight: bold;">2.49</span> | <span style="color: #B22222; font-weight: bold;">33.41</span> |
-| **2026/02** | **0.272** | <span style="color: #FF6347; font-weight: bold;">+49.8</span> | <span style="color: #FF6347; font-weight: bold;">+47.1</span> | **55.8** | <span style="color: #004225; font-weight: bold;">2.49</span> | <span style="color: #006400; font-weight: bold;">21.94</span> |
-| **2026/01** | **0.282** | <span style="color: #FF6347; font-weight: bold;">+44.7</span> | <span style="color: #FF6347; font-weight: bold;">+44.7</span> | **55.3** | <span style="color: #004225; font-weight: bold;">2.49</span> | <span style="color: #006400; font-weight: bold;">21.3</span> |
-| **2025/12** | **0.311** | <span style="color: #228B22; font-weight: bold;">-33.8</span> | <span style="color: #8B0000; font-weight: bold;">+2.44</span> | **57.2** | <span style="color: #B22222; font-weight: bold;">2.65</span> | <span style="color: #006400; font-weight: bold;">21.58</span> |
-| **2025/11** | **0.273** | <span style="color: #004225; font-weight: bold;">-15.9</span> | <span style="color: #8B0000; font-weight: bold;">+8.37</span> | **71.1** | <span style="color: #B22222; font-weight: bold;">2.65</span> | <span style="color: #002818; font-weight: bold;">26.56</span> |
-| **2025/10** | **0.35** | <span style="color: #B22222; font-weight: bold;">+14.1</span> | <span style="color: #B22222; font-weight: bold;">+11.5</span> | **75.4** | <span style="color: #B22222; font-weight: bold;">2.65</span> | <span style="color: #002818; font-weight: bold;">27.89</span> |
+| **2026/03** | **0.354** | <span style="color: #FF6347; font-weight: bold;">+46.3</span> | <span style="color: #FF6347; font-weight: bold;">+46.8</span> | **83.2** | <span style="color: #004225; font-weight: bold;">2.65</span> | <span style="color: #8B0000; font-weight: bold;">31.4</span> |
+| **2026/02** | **0.272** | <span style="color: #FF6347; font-weight: bold;">+49.8</span> | <span style="color: #FF6347; font-weight: bold;">+47.1</span> | **55.8** | <span style="color: #004225; font-weight: bold;">2.65</span> | <span style="color: #006400; font-weight: bold;">21.06</span> |
+| **2026/01** | **0.282** | <span style="color: #FF6347; font-weight: bold;">+44.7</span> | <span style="color: #FF6347; font-weight: bold;">+44.7</span> | **55.3** | <span style="color: #004225; font-weight: bold;">2.65</span> | <span style="color: #006400; font-weight: bold;">20.87</span> |
+| **2025/12** | **0.311** | <span style="color: #228B22; font-weight: bold;">-33.8</span> | <span style="color: #8B0000; font-weight: bold;">+2.44</span> | **57.2** | <span style="color: #004225; font-weight: bold;">2.65</span> | <span style="color: #006400; font-weight: bold;">21.58</span> |
+| **2025/11** | **0.273** | <span style="color: #004225; font-weight: bold;">-15.9</span> | <span style="color: #8B0000; font-weight: bold;">+8.37</span> | **71.1** | <span style="color: #004225; font-weight: bold;">2.65</span> | <span style="color: #002818; font-weight: bold;">26.56</span> |
+| **2025/10** | **0.35** | <span style="color: #B22222; font-weight: bold;">+14.1</span> | <span style="color: #B22222; font-weight: bold;">+11.5</span> | **75.4** | <span style="color: #004225; font-weight: bold;">2.65</span> | <span style="color: #002818; font-weight: bold;">27.89</span> |
 | **2025/09** | **0.393** | <span style="color: #B22222; font-weight: bold;">+11.4</span> | <span style="color: #B22222; font-weight: bold;">+11.1</span> | **90.1** | <span style="color: #DC143C; font-weight: bold;">2.73</span> | <span style="color: #8B0000; font-weight: bold;">33.0</span> |
 | **2025/08** | **0.343** | <span style="color: #002818; font-weight: bold;">-9.48</span> | <span style="color: #B22222; font-weight: bold;">+11</span> | **112.5** | <span style="color: #DC143C; font-weight: bold;">2.73</span> | <span style="color: #DC143C; font-weight: bold;">41.21</span> |
 | **2025/07** | **0.306** | <span style="color: #8B0000; font-weight: bold;">+3.33</span> | <span style="color: #B22222; font-weight: bold;">+16.2</span> | **111.5** | <span style="color: #DC143C; font-weight: bold;">2.73</span> | <span style="color: #DC143C; font-weight: bold;">40.84</span> |
@@ -247,7 +244,7 @@ description: 月營收表 碩網 (7547) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-07-16 15:23:24 CST
+- **產生時間**: 2026-05-17 04:03:13 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

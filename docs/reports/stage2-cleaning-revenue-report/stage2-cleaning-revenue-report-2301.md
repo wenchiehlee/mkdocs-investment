@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-16
+date: 2026-05-17
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 光寶科 (2301) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 光寶科  
     **:identification_card: 股票代號**: 2301  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-07-16 15:23:24 CST
+    **:calendar: 最新資料**: 2026/03  
+    **:clock3: 更新時間**: 2026-05-17 04:03:13 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF4500; font-weight: bold;">+37</span> | <span style="color: #DC143C; font-weight: bold;">+25.1</span> | **234** 個月 | 2007/01 至 2026/06 |
+| <span style="color: #DC143C; font-weight: bold;">+23.4</span> | <span style="color: #B22222; font-weight: bold;">+19.2</span> | **231** 個月 | 2007/01 至 2026/03 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -49,9 +49,9 @@ description: 月營收表 光寶科 (2301) - 自動產生
 | **9月** | -- | 15,430<br/><span style="color: #FF4500;">(+30.20%)</span> | 11,850<br/><span style="color: #004225;">(-16.00%)</span> | 14,100<br/><span style="color: #004225;">(-11.50%)</span> | 15,940<br/><span style="color: #8B0000;">(+9.06%)</span> |
 | **8月** | -- | 15,650<br/><span style="color: #DC143C;">(+29.80%)</span> | 12,050<br/><span style="color: #002818;">(-9.29%)</span> | 13,290<br/><span style="color: #004225;">(-13.90%)</span> | 15,430<br/><span style="color: #B22222;">(+14.00%)</span> |
 | **7月** | -- | 13,810<br/><span style="color: #8B0000;">(+7.35%)</span> | 12,869<br/><span style="color: #8B0000;">(+2.36%)</span> | 12,570<br/><span style="color: #004225;">(-15.10%)</span> | 14,800<br/><span style="color: #8B0000;">(+7.96%)</span> |
-| **6月** | 18,660<br/><span style="color: #FF4500;">(+37.00%)</span> | 13,619<br/><span style="color: #B22222;">(+16.00%)</span> | 11,740<br/><span style="color: #002818;">(-9.10%)</span> | 12,910<br/><span style="color: #004225;">(-11.80%)</span> | 14,640<br/><span style="color: #8B0000;">(+8.62%)</span> |
-| **5月** | 17,350<br/><span style="color: #DC143C;">(+29.60%)</span> | 13,390<br/><span style="color: #DC143C;">(+22.30%)</span> | 10,950<br/><span style="color: #004225;">(-11.30%)</span> | 12,350<br/><span style="color: #004225;">(-15.20%)</span> | 14,560<br/><span style="color: #8B0000;">(+7.45%)</span> |
-| **4月** | 16,690<br/><span style="color: #DC143C;">(+24.50%)</span> | 13,410<br/><span style="color: #DC143C;">(+26.60%)</span> | 10,600<br/><span style="color: #004225;">(-11.90%)</span> | 12,030<br/><span style="color: #004225;">(-12.60%)</span> | 13,769<br/><span style="color: #8B0000;">(+0.91%)</span> |
+| **6月** | -- | 13,619<br/><span style="color: #B22222;">(+16.00%)</span> | 11,740<br/><span style="color: #002818;">(-9.10%)</span> | 12,910<br/><span style="color: #004225;">(-11.80%)</span> | 14,640<br/><span style="color: #8B0000;">(+8.62%)</span> |
+| **5月** | -- | 13,390<br/><span style="color: #DC143C;">(+22.30%)</span> | 10,950<br/><span style="color: #004225;">(-11.30%)</span> | 12,350<br/><span style="color: #004225;">(-15.20%)</span> | 14,560<br/><span style="color: #8B0000;">(+7.45%)</span> |
+| **4月** | -- | 13,410<br/><span style="color: #DC143C;">(+26.60%)</span> | 10,600<br/><span style="color: #004225;">(-11.90%)</span> | 12,030<br/><span style="color: #004225;">(-12.60%)</span> | 13,769<br/><span style="color: #8B0000;">(+0.91%)</span> |
 | **3月** | 16,480<br/><span style="color: #DC143C;">(+23.40%)</span> | 13,350<br/><span style="color: #DC143C;">(+23.80%)</span> | 10,790<br/><span style="color: #004225;">(-15.00%)</span> | 12,680<br/><span style="color: #004225;">(-16.20%)</span> | 15,150<br/><span style="color: #B22222;">(+14.40%)</span> |
 | **2月** | 12,810<br/><span style="color: #B22222;">(+17.40%)</span> | 10,920<br/><span style="color: #FF4500;">(+35.10%)</span> | 8,081<br/><span style="color: #006400;">(-25.20%)</span> | 10,810<br/><span style="color: #002818;">(-6.71%)</span> | 11,590<br/><span style="color: #B22222;">(+11.40%)</span> |
 | **1月** | 14,110<br/><span style="color: #B22222;">(+16.20%)</span> | 12,150<br/><span style="color: #DC143C;">(+22.60%)</span> | 9,908<br/><span style="color: #002818;">(-7.21%)</span> | 10,680<br/><span style="color: #006400;">(-26.30%)</span> | 14,500<br/><span style="color: #8B0000;">(+2.96%)</span> |
@@ -62,15 +62,15 @@ description: 月營收表 光寶科 (2301) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **2.70** | **3.99** | **5.62** |
-| **P/E倍數** | **11.47** | **14.93** | **28.23** |
+| **EPS(元)** | **2.70** | **3.96** | **5.57** |
+| **P/E倍數** | **11.47** | **14.78** | **27.93** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 光寶科 歷史平均獲利能力 (σup=1.63, σlo=1.29)
-    - **P/Ebase**: 光寶科 歷史平均估值水準 (σup=13.30, σlo=3.45)
+    - **EPSbase**: 光寶科 歷史平均獲利能力 (σup=1.61, σlo=1.26)
+    - **P/Ebase**: 光寶科 歷史平均估值水準 (σup=13.15, σlo=3.31)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,15 +79,12 @@ description: 月營收表 光寶科 (2301) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/06** | **186.6** | <span style="color: #FF4500; font-weight: bold;">+37</span> | <span style="color: #DC143C; font-weight: bold;">+25.1</span> | **222** | <span style="color: #FF4500; font-weight: bold;">6.79</span> | <span style="color: #DC143C; font-weight: bold;">30.93</span> |
-| **2026/05** | **173.5** | <span style="color: #DC143C; font-weight: bold;">+29.6</span> | <span style="color: #DC143C; font-weight: bold;">+22.5</span> | **234.5** | <span style="color: #FF4500; font-weight: bold;">6.79</span> | <span style="color: #DC143C; font-weight: bold;">34.54</span> |
-| **2026/04** | **166.9** | <span style="color: #DC143C; font-weight: bold;">+24.5</span> | <span style="color: #DC143C; font-weight: bold;">+20.6</span> | **166** | <span style="color: #FF4500; font-weight: bold;">6.79</span> | <span style="color: #B22222; font-weight: bold;">24.45</span> |
-| **2026/03** | **164.8** | <span style="color: #DC143C; font-weight: bold;">+23.4</span> | <span style="color: #B22222; font-weight: bold;">+19.2</span> | **140.5** | <span style="color: #FF4500; font-weight: bold;">6.79</span> | <span style="color: #8B0000; font-weight: bold;">20.69</span> |
-| **2026/02** | **128.1** | <span style="color: #B22222; font-weight: bold;">+17.4</span> | <span style="color: #B22222; font-weight: bold;">+16.7</span> | **173** | <span style="color: #FF4500; font-weight: bold;">6.79</span> | <span style="color: #B22222; font-weight: bold;">25.67</span> |
-| **2026/01** | **141.1** | <span style="color: #B22222; font-weight: bold;">+16.2</span> | <span style="color: #B22222; font-weight: bold;">+16.2</span> | **164** | <span style="color: #FF4500; font-weight: bold;">6.79</span> | <span style="color: #B22222; font-weight: bold;">24.51</span> |
+| **2026/03** | **164.8** | <span style="color: #DC143C; font-weight: bold;">+23.4</span> | <span style="color: #B22222; font-weight: bold;">+19.2</span> | **140.5** | <span style="color: #FF4500; font-weight: bold;">6.64</span> | <span style="color: #8B0000; font-weight: bold;">21.16</span> |
+| **2026/02** | **128.1** | <span style="color: #B22222; font-weight: bold;">+17.4</span> | <span style="color: #B22222; font-weight: bold;">+16.7</span> | **173** | <span style="color: #FF4500; font-weight: bold;">6.64</span> | <span style="color: #B22222; font-weight: bold;">26.05</span> |
+| **2026/01** | **141.1** | <span style="color: #B22222; font-weight: bold;">+16.2</span> | <span style="color: #B22222; font-weight: bold;">+16.2</span> | **164** | <span style="color: #FF4500; font-weight: bold;">6.64</span> | <span style="color: #B22222; font-weight: bold;">24.7</span> |
 | **2025/12** | **149.1** | <span style="color: #B22222; font-weight: bold;">+11.4</span> | <span style="color: #DC143C; font-weight: bold;">+21.1</span> | **163.5** | <span style="color: #FF4500; font-weight: bold;">6.64</span> | <span style="color: #B22222; font-weight: bold;">24.62</span> |
 | **2025/11** | **142.5** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #DC143C; font-weight: bold;">+22.2</span> | **159** | <span style="color: #FF4500; font-weight: bold;">6.64</span> | <span style="color: #B22222; font-weight: bold;">24.39</span> |
-| **2025/10** | **152** | <span style="color: #DC143C; font-weight: bold;">+22.6</span> | <span style="color: #DC143C; font-weight: bold;">+23.1</span> | **179.5** | <span style="color: #FF4500; font-weight: bold;">6.64</span> | <span style="color: #B22222; font-weight: bold;">28.05</span> |
+| **2025/10** | **152** | <span style="color: #DC143C; font-weight: bold;">+22.6</span> | <span style="color: #DC143C; font-weight: bold;">+23.1</span> | **179.5** | <span style="color: #FF4500; font-weight: bold;">6.64</span> | <span style="color: #DC143C; font-weight: bold;">28.05</span> |
 | **2025/09** | **154.3** | <span style="color: #FF4500; font-weight: bold;">+30.2</span> | <span style="color: #DC143C; font-weight: bold;">+23.2</span> | **172.5** | <span style="color: #DC143C; font-weight: bold;">6.28</span> | <span style="color: #B22222; font-weight: bold;">27.47</span> |
 | **2025/08** | **156.5** | <span style="color: #DC143C; font-weight: bold;">+29.8</span> | <span style="color: #DC143C; font-weight: bold;">+22.2</span> | **130** | <span style="color: #DC143C; font-weight: bold;">6.28</span> | <span style="color: #8B0000; font-weight: bold;">21.35</span> |
 | **2025/07** | **138.1** | <span style="color: #8B0000; font-weight: bold;">+7.35</span> | <span style="color: #DC143C; font-weight: bold;">+21</span> | **119** | <span style="color: #DC143C; font-weight: bold;">6.28</span> | <span style="color: #8B0000; font-weight: bold;">20.17</span> |
@@ -115,18 +112,18 @@ description: 月營收表 光寶科 (2301) - 自動產生
 | **2023/09** | **141** | <span style="color: #004225; font-weight: bold;">-11.5</span> | <span style="color: #004225; font-weight: bold;">-14.5</span> | **121.5** | <span style="color: #FF4500; font-weight: bold;">6.54</span> | <span style="color: #8B0000; font-weight: bold;">18.58</span> |
 | **2023/08** | **132.9** | <span style="color: #004225; font-weight: bold;">-13.9</span> | <span style="color: #004225; font-weight: bold;">-15</span> | **137** | <span style="color: #FF4500; font-weight: bold;">6.54</span> | <span style="color: #8B0000; font-weight: bold;">21.11</span> |
 | **2023/07** | **125.7** | <span style="color: #004225; font-weight: bold;">-15.1</span> | <span style="color: #004225; font-weight: bold;">-15.1</span> | **150.5** | <span style="color: #FF4500; font-weight: bold;">6.54</span> | <span style="color: #B22222; font-weight: bold;">23.37</span> |
-| **2023/06** | **129.1** | <span style="color: #004225; font-weight: bold;">-11.8</span> | <span style="color: #004225; font-weight: bold;">-15.1</span> | **103.5** | <span style="color: #DC143C; font-weight: bold;">6.39</span> | <span style="color: #8B0000; font-weight: bold;">16.2</span> |
-| **2023/05** | **123.5** | <span style="color: #004225; font-weight: bold;">-15.2</span> | <span style="color: #004225; font-weight: bold;">-15.8</span> | **89** | <span style="color: #DC143C; font-weight: bold;">6.39</span> | <span style="color: #002818; font-weight: bold;">13.99</span> |
-| **2023/04** | **120.3** | <span style="color: #004225; font-weight: bold;">-12.6</span> | <span style="color: #004225; font-weight: bold;">-16</span> | **73.5** | <span style="color: #DC143C; font-weight: bold;">6.39</span> | <span style="color: #004225; font-weight: bold;">11.61</span> |
+| **2023/06** | **129.1** | <span style="color: #004225; font-weight: bold;">-11.8</span> | <span style="color: #004225; font-weight: bold;">-15.1</span> | **103.5** | <span style="color: #FF4500; font-weight: bold;">6.39</span> | <span style="color: #8B0000; font-weight: bold;">16.2</span> |
+| **2023/05** | **123.5** | <span style="color: #004225; font-weight: bold;">-15.2</span> | <span style="color: #004225; font-weight: bold;">-15.8</span> | **89** | <span style="color: #FF4500; font-weight: bold;">6.39</span> | <span style="color: #002818; font-weight: bold;">13.99</span> |
+| **2023/04** | **120.3** | <span style="color: #004225; font-weight: bold;">-12.6</span> | <span style="color: #004225; font-weight: bold;">-16</span> | **73.5** | <span style="color: #FF4500; font-weight: bold;">6.39</span> | <span style="color: #004225; font-weight: bold;">11.61</span> |
 | **2023/03** | **126.8** | <span style="color: #004225; font-weight: bold;">-16.2</span> | <span style="color: #004225; font-weight: bold;">-17.1</span> | **73.3** | <span style="color: #DC143C; font-weight: bold;">6.3</span> | <span style="color: #004225; font-weight: bold;">11.63</span> |
 | **2023/02** | **108.1** | <span style="color: #002818; font-weight: bold;">-6.71</span> | <span style="color: #004225; font-weight: bold;">-17.6</span> | **69.5** | <span style="color: #DC143C; font-weight: bold;">6.3</span> | <span style="color: #006400; font-weight: bold;">11.1</span> |
 | **2023/01** | **106.8** | <span style="color: #006400; font-weight: bold;">-26.3</span> | <span style="color: #006400; font-weight: bold;">-26.3</span> | **66.4** | <span style="color: #DC143C; font-weight: bold;">6.3</span> | <span style="color: #006400; font-weight: bold;">10.66</span> |
 | **2022/12** | **133.5** | <span style="color: #004225; font-weight: bold;">-11.3</span> | <span style="color: #8B0000; font-weight: bold;">+5.24</span> | **63.8** | <span style="color: #DC143C; font-weight: bold;">6.19</span> | <span style="color: #006400; font-weight: bold;">10.31</span> |
 | **2022/11** | **148.5** | <span style="color: #002818; font-weight: bold;">-0.48</span> | <span style="color: #8B0000; font-weight: bold;">+6.91</span> | **65.6** | <span style="color: #DC143C; font-weight: bold;">6.19</span> | <span style="color: #006400; font-weight: bold;">10.94</span> |
 | **2022/10** | **149** | <span style="color: #8B0000; font-weight: bold;">+2.07</span> | <span style="color: #8B0000; font-weight: bold;">+7.73</span> | **64** | <span style="color: #DC143C; font-weight: bold;">6.19</span> | <span style="color: #006400; font-weight: bold;">11.03</span> |
-| **2022/09** | **159.4** | <span style="color: #8B0000; font-weight: bold;">+9.06</span> | <span style="color: #8B0000; font-weight: bold;">+8.41</span> | **63.8** | <span style="color: #B22222; font-weight: bold;">5.61</span> | <span style="color: #006400; font-weight: bold;">11.37</span> |
-| **2022/08** | **154.3** | <span style="color: #B22222; font-weight: bold;">+14</span> | <span style="color: #8B0000; font-weight: bold;">+8.32</span> | **65.8** | <span style="color: #B22222; font-weight: bold;">5.61</span> | <span style="color: #004225; font-weight: bold;">12.09</span> |
-| **2022/07** | **148** | <span style="color: #8B0000; font-weight: bold;">+7.96</span> | <span style="color: #8B0000; font-weight: bold;">+7.49</span> | **65.3** | <span style="color: #B22222; font-weight: bold;">5.61</span> | <span style="color: #004225; font-weight: bold;">12.38</span> |
+| **2022/09** | **159.4** | <span style="color: #8B0000; font-weight: bold;">+9.06</span> | <span style="color: #8B0000; font-weight: bold;">+8.41</span> | **63.8** | <span style="color: #DC143C; font-weight: bold;">5.61</span> | <span style="color: #006400; font-weight: bold;">11.37</span> |
+| **2022/08** | **154.3** | <span style="color: #B22222; font-weight: bold;">+14</span> | <span style="color: #8B0000; font-weight: bold;">+8.32</span> | **65.8** | <span style="color: #DC143C; font-weight: bold;">5.61</span> | <span style="color: #004225; font-weight: bold;">12.09</span> |
+| **2022/07** | **148** | <span style="color: #8B0000; font-weight: bold;">+7.96</span> | <span style="color: #8B0000; font-weight: bold;">+7.49</span> | **65.3** | <span style="color: #DC143C; font-weight: bold;">5.61</span> | <span style="color: #004225; font-weight: bold;">12.38</span> |
 | **2022/06** | **146.4** | <span style="color: #8B0000; font-weight: bold;">+8.62</span> | <span style="color: #8B0000; font-weight: bold;">+7.41</span> | **57.9** | <span style="color: #B22222; font-weight: bold;">5.11</span> | <span style="color: #006400; font-weight: bold;">11.33</span> |
 | **2022/05** | **145.6** | <span style="color: #8B0000; font-weight: bold;">+7.45</span> | <span style="color: #8B0000; font-weight: bold;">+7.16</span> | **63.2** | <span style="color: #B22222; font-weight: bold;">5.11</span> | <span style="color: #004225; font-weight: bold;">12.35</span> |
 | **2022/04** | **137.7** | <span style="color: #8B0000; font-weight: bold;">+0.91</span> | <span style="color: #8B0000; font-weight: bold;">+7.08</span> | **65** | <span style="color: #B22222; font-weight: bold;">5.11</span> | <span style="color: #004225; font-weight: bold;">12.69</span> |
@@ -184,7 +181,7 @@ description: 月營收表 光寶科 (2301) - 自動產生
 | **2017/12** | **180.2** | <span style="color: #004225; font-weight: bold;">-15.8</span> | <span style="color: #002818; font-weight: bold;">-6.52</span> | **40.6** | <span style="color: #32CD32; font-weight: bold;">1.13</span> | <span style="color: #FF4500; font-weight: bold;">35.93</span> |
 | **2017/11** | **185.3** | <span style="color: #004225; font-weight: bold;">-13.2</span> | <span style="color: #002818; font-weight: bold;">-5.57</span> | **36.85** | <span style="color: #32CD32; font-weight: bold;">1.13</span> | <span style="color: #DC143C; font-weight: bold;">31.59</span> |
 | **2017/10** | **176.4** | <span style="color: #004225; font-weight: bold;">-14.2</span> | <span style="color: #002818; font-weight: bold;">-4.7</span> | **42.55** | <span style="color: #32CD32; font-weight: bold;">1.13</span> | <span style="color: #FF4500; font-weight: bold;">35.36</span> |
-| **2017/09** | **198.5** | <span style="color: #004225; font-weight: bold;">-10.8</span> | <span style="color: #002818; font-weight: bold;">-3.53</span> | **43.2** | <span style="color: #32CD32; font-weight: bold;">1.24</span> | <span style="color: #DC143C; font-weight: bold;">34.84</span> |
+| **2017/09** | **198.5** | <span style="color: #004225; font-weight: bold;">-10.8</span> | <span style="color: #002818; font-weight: bold;">-3.53</span> | **43.2** | <span style="color: #32CD32; font-weight: bold;">1.24</span> | <span style="color: #FF4500; font-weight: bold;">34.84</span> |
 | **2017/08** | **186.2** | <span style="color: #004225; font-weight: bold;">-11.6</span> | <span style="color: #002818; font-weight: bold;">-2.41</span> | **44.65** | <span style="color: #32CD32; font-weight: bold;">1.24</span> | <span style="color: #8B0000; font-weight: bold;">20.39</span> |
 | **2017/07** | **175.2** | <span style="color: #002818; font-weight: bold;">-9.56</span> | <span style="color: #002818; font-weight: bold;">-0.84</span> | **48.85** | <span style="color: #32CD32; font-weight: bold;">1.24</span> | <span style="color: #8B0000; font-weight: bold;">15.56</span> |
 | **2017/06** | **195.3** | <span style="color: #8B0000; font-weight: bold;">+2.23</span> | <span style="color: #8B0000; font-weight: bold;">+0.78</span> | **50** | <span style="color: #8B0000; font-weight: bold;">4.09</span> | <span style="color: #004225; font-weight: bold;">12.22</span> |
@@ -210,7 +207,7 @@ description: 月營收表 光寶科 (2301) - 自動產生
 | **2015/10** | **197.6** | <span style="color: #8B0000; font-weight: bold;">+0.37</span> | <span style="color: #002818; font-weight: bold;">-5.93</span> | **33.8** | <span style="color: #004225; font-weight: bold;">3.11</span> | <span style="color: #004225; font-weight: bold;">12.03</span> |
 | **2015/09** | **206** | <span style="color: #8B0000; font-weight: bold;">+1.38</span> | <span style="color: #002818; font-weight: bold;">-6.66</span> | **30.2** | <span style="color: #006400; font-weight: bold;">2.66</span> | <span style="color: #006400; font-weight: bold;">11.35</span> |
 | **2015/08** | **179** | <span style="color: #002818; font-weight: bold;">-6.71</span> | <span style="color: #002818; font-weight: bold;">-7.75</span> | **29.8** | <span style="color: #006400; font-weight: bold;">2.66</span> | <span style="color: #006400; font-weight: bold;">11.25</span> |
-| **2015/07** | **174.8** | <span style="color: #004225; font-weight: bold;">-16</span> | <span style="color: #002818; font-weight: bold;">-7.9</span> | **34.7** | <span style="color: #006400; font-weight: bold;">2.66</span> | <span style="color: #004225; font-weight: bold;">13.14</span> |
+| **2015/07** | **174.8** | <span style="color: #004225; font-weight: bold;">-16</span> | <span style="color: #002818; font-weight: bold;">-7.9</span> | **34.7** | <span style="color: #006400; font-weight: bold;">2.66</span> | <span style="color: #002818; font-weight: bold;">13.14</span> |
 | **2015/06** | **177.3** | <span style="color: #004225; font-weight: bold;">-12.4</span> | <span style="color: #002818; font-weight: bold;">-6.38</span> | **36.2** | <span style="color: #006400; font-weight: bold;">2.63</span> | <span style="color: #002818; font-weight: bold;">13.76</span> |
 | **2015/05** | **167.6** | <span style="color: #004225; font-weight: bold;">-14.9</span> | <span style="color: #002818; font-weight: bold;">-5.02</span> | **39.4** | <span style="color: #006400; font-weight: bold;">2.63</span> | <span style="color: #002818; font-weight: bold;">14.52</span> |
 | **2015/04** | **171.7** | <span style="color: #002818; font-weight: bold;">-9.21</span> | <span style="color: #002818; font-weight: bold;">-2.26</span> | **38.8** | <span style="color: #006400; font-weight: bold;">2.63</span> | <span style="color: #002818; font-weight: bold;">13.87</span> |
@@ -235,7 +232,7 @@ description: 月營收表 光寶科 (2301) - 自動產生
 | **2013/09** | **203.6** | <span style="color: #8B0000; font-weight: bold;">+5.03</span> | <span style="color: #002818; font-weight: bold;">-5.94</span> | **50.4** | <span style="color: #002818; font-weight: bold;">3.74</span> | <span style="color: #002818; font-weight: bold;">13.48</span> |
 | **2013/08** | **189.7** | <span style="color: #8B0000; font-weight: bold;">+0.75</span> | <span style="color: #002818; font-weight: bold;">-7.42</span> | **50.7** | <span style="color: #002818; font-weight: bold;">3.74</span> | <span style="color: #002818; font-weight: bold;">13.79</span> |
 | **2013/07** | **178.9** | <span style="color: #8B0000; font-weight: bold;">+2.51</span> | <span style="color: #002818; font-weight: bold;">-8.65</span> | **51** | <span style="color: #002818; font-weight: bold;">3.74</span> | <span style="color: #002818; font-weight: bold;">14.11</span> |
-| **2013/06** | **172.1** | <span style="color: #002818; font-weight: bold;">-5.29</span> | <span style="color: #004225; font-weight: bold;">-10.5</span> | **52.6** | <span style="color: #002818; font-weight: bold;">3.55</span> | <span style="color: #002818; font-weight: bold;">14.82</span> |
+| **2013/06** | **172.1** | <span style="color: #002818; font-weight: bold;">-5.29</span> | <span style="color: #004225; font-weight: bold;">-10.5</span> | **52.6** | <span style="color: #002818; font-weight: bold;">3.55</span> | <span style="color: #8B0000; font-weight: bold;">14.82</span> |
 | **2013/05** | **164.9** | <span style="color: #002818; font-weight: bold;">-9.25</span> | <span style="color: #004225; font-weight: bold;">-11.5</span> | **47.85** | <span style="color: #002818; font-weight: bold;">3.55</span> | <span style="color: #002818; font-weight: bold;">13.61</span> |
 | **2013/04** | **162.5** | <span style="color: #004225; font-weight: bold;">-11.1</span> | <span style="color: #004225; font-weight: bold;">-12.1</span> | **53.1** | <span style="color: #002818; font-weight: bold;">3.55</span> | <span style="color: #8B0000; font-weight: bold;">15.24</span> |
 | **2013/03** | **164.3** | <span style="color: #004225; font-weight: bold;">-16.1</span> | <span style="color: #004225; font-weight: bold;">-12.4</span> | **48.2** | <span style="color: #002818; font-weight: bold;">3.45</span> | <span style="color: #002818; font-weight: bold;">13.97</span> |
@@ -267,7 +264,7 @@ description: 月營收表 光寶科 (2301) - 自動產生
 | **2011/01** | **-** | N/A | N/A | **39.6** | <span style="color: #002818; font-weight: bold;">3.88</span> | <span style="color: #006400; font-weight: bold;">9.92</span> |
 | **2010/12** | **-** | N/A | N/A | **40.1** | <span style="color: #8B0000; font-weight: bold;">4.05</span> | <span style="color: #006400; font-weight: bold;">9.9</span> |
 | **2010/11** | **-** | N/A | N/A | **39.55** | <span style="color: #8B0000; font-weight: bold;">4.05</span> | <span style="color: #228B22; font-weight: bold;">9.65</span> |
-| **2010/10** | **-** | N/A | N/A | **40.45** | <span style="color: #8B0000; font-weight: bold;">4.05</span> | <span style="color: #006400; font-weight: bold;">9.75</span> |
+| **2010/10** | **-** | N/A | N/A | **40.45** | <span style="color: #8B0000; font-weight: bold;">4.05</span> | <span style="color: #228B22; font-weight: bold;">9.75</span> |
 | **2010/09** | **-** | N/A | N/A | **39.4** | <span style="color: #8B0000; font-weight: bold;">4.2</span> | <span style="color: #228B22; font-weight: bold;">9.38</span> |
 | **2010/08** | **-** | N/A | N/A | **36.9** | <span style="color: #8B0000; font-weight: bold;">4.2</span> | <span style="color: #228B22; font-weight: bold;">8.76</span> |
 | **2010/07** | **-** | N/A | N/A | **40.9** | <span style="color: #8B0000; font-weight: bold;">4.2</span> | <span style="color: #228B22; font-weight: bold;">9.68</span> |
@@ -308,7 +305,7 @@ description: 月營收表 光寶科 (2301) - 自動產生
 | **2007/08** | **-** | N/A | N/A | **52.1** | <span style="color: #002818; font-weight: bold;">3.45</span> | <span style="color: #8B0000; font-weight: bold;">15.71</span> |
 | **2007/07** | **-** | N/A | N/A | **54.5** | <span style="color: #002818; font-weight: bold;">3.45</span> | <span style="color: #8B0000; font-weight: bold;">17.12</span> |
 | **2007/06** | **-** | N/A | N/A | **42.35** | <span style="color: #004225; font-weight: bold;">3.05</span> | <span style="color: #002818; font-weight: bold;">13.89</span> |
-| **2007/05** | **-** | N/A | N/A | **39** | <span style="color: #004225; font-weight: bold;">3.05</span> | <span style="color: #004225; font-weight: bold;">13.16</span> |
+| **2007/05** | **-** | N/A | N/A | **39** | <span style="color: #004225; font-weight: bold;">3.05</span> | <span style="color: #002818; font-weight: bold;">13.16</span> |
 | **2007/04** | **-** | N/A | N/A | **41.35** | <span style="color: #004225; font-weight: bold;">3.05</span> | <span style="color: #002818; font-weight: bold;">14.37</span> |
 | **2007/03** | **-** | N/A | N/A | **42.75** | <span style="color: #004225; font-weight: bold;">2.79</span> | <span style="color: #8B0000; font-weight: bold;">15.32</span> |
 | **2007/02** | **-** | N/A | N/A | **48.15** | <span style="color: #004225; font-weight: bold;">2.79</span> | <span style="color: #8B0000; font-weight: bold;">16.76</span> |
@@ -408,7 +405,7 @@ description: 月營收表 光寶科 (2301) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-07-16 15:23:24 CST
+- **產生時間**: 2026-05-17 04:03:13 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

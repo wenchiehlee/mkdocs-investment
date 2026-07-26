@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-16
+date: 2026-05-17
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 崇越 (5434) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 崇越  
     **:identification_card: 股票代號**: 5434  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-07-16 15:23:24 CST
+    **:calendar: 最新資料**: 2026/03  
+    **:clock3: 更新時間**: 2026-05-17 04:03:13 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF4500; font-weight: bold;">+32.8</span> | <span style="color: #DC143C; font-weight: bold;">+20.2</span> | **240** 個月 | 2006/07 至 2026/06 |
+| <span style="color: #FF4500; font-weight: bold;">+30.6</span> | <span style="color: #B22222; font-weight: bold;">+17.6</span> | **240** 個月 | 2006/04 至 2026/03 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -49,9 +49,9 @@ description: 月營收表 崇越 (5434) - 自動產生
 | **9月** | -- | 6,092<br/><span style="color: #B22222;">(+14.60%)</span> | 5,314<br/><span style="color: #DC143C;">(+26.20%)</span> | 4,211<br/><span style="color: #002818;">(-7.23%)</span> | 4,539<br/><span style="color: #DC143C;">(+21.90%)</span> |
 | **8月** | -- | 5,715<br/><span style="color: #8B0000;">(+7.74%)</span> | 5,304<br/><span style="color: #DC143C;">(+27.70%)</span> | 4,153<br/><span style="color: #004225;">(-10.30%)</span> | 4,632<br/><span style="color: #DC143C;">(+26.90%)</span> |
 | **7月** | -- | 5,731<br/><span style="color: #DC143C;">(+20.70%)</span> | 4,748<br/><span style="color: #B22222;">(+15.00%)</span> | 4,129<br/><span style="color: #004225;">(-10.70%)</span> | 4,622<br/><span style="color: #DC143C;">(+27.80%)</span> |
-| **6月** | 7,506<br/><span style="color: #FF4500;">(+32.80%)</span> | 5,651<br/><span style="color: #DC143C;">(+24.70%)</span> | 4,531<br/><span style="color: #B22222;">(+11.80%)</span> | 4,051<br/><span style="color: #004225;">(-11.70%)</span> | 4,587<br/><span style="color: #FF4500;">(+31.50%)</span> |
-| **5月** | 6,542<br/><span style="color: #B22222;">(+18.60%)</span> | 5,516<br/><span style="color: #DC143C;">(+20.40%)</span> | 4,581<br/><span style="color: #B22222;">(+12.90%)</span> | 4,056<br/><span style="color: #004225;">(-11.60%)</span> | 4,588<br/><span style="color: #FF6347;">(+46.20%)</span> |
-| **4月** | 6,776<br/><span style="color: #B22222;">(+16.40%)</span> | 5,821<br/><span style="color: #DC143C;">(+24.40%)</span> | 4,680<br/><span style="color: #B22222;">(+18.50%)</span> | 3,947<br/><span style="color: #002818;">(-2.54%)</span> | 4,051<br/><span style="color: #8B0000;">(+7.85%)</span> |
+| **6月** | -- | 5,651<br/><span style="color: #DC143C;">(+24.70%)</span> | 4,531<br/><span style="color: #B22222;">(+11.80%)</span> | 4,051<br/><span style="color: #004225;">(-11.70%)</span> | 4,587<br/><span style="color: #FF4500;">(+31.50%)</span> |
+| **5月** | -- | 5,516<br/><span style="color: #DC143C;">(+20.40%)</span> | 4,581<br/><span style="color: #B22222;">(+12.90%)</span> | 4,056<br/><span style="color: #004225;">(-11.60%)</span> | 4,588<br/><span style="color: #FF6347;">(+46.20%)</span> |
+| **4月** | -- | 5,821<br/><span style="color: #DC143C;">(+24.40%)</span> | 4,680<br/><span style="color: #B22222;">(+18.50%)</span> | 3,947<br/><span style="color: #002818;">(-2.54%)</span> | 4,051<br/><span style="color: #8B0000;">(+7.85%)</span> |
 | **3月** | 7,015<br/><span style="color: #FF4500;">(+30.60%)</span> | 5,369<br/><span style="color: #DC143C;">(+29.70%)</span> | 4,139<br/><span style="color: #002818;">(-2.36%)</span> | 4,239<br/><span style="color: #002818;">(-6.94%)</span> | 4,555<br/><span style="color: #FF4500;">(+33.00%)</span> |
 | **2月** | 5,518<br/><span style="color: #B22222;">(+13.90%)</span> | 4,844<br/><span style="color: #DC143C;">(+29.40%)</span> | 3,744<br/><span style="color: #002818;">(-1.81%)</span> | 3,814<br/><span style="color: #8B0000;">(+6.23%)</span> | 3,590<br/><span style="color: #DC143C;">(+21.30%)</span> |
 | **1月** | 6,004<br/><span style="color: #8B0000;">(+8.25%)</span> | 5,547<br/><span style="color: #FF4500;">(+37.00%)</span> | 4,049<br/><span style="color: #002818;">(-8.81%)</span> | 4,440<br/><span style="color: #8B0000;">(+0.04%)</span> | 4,438<br/><span style="color: #FF6347;">(+40.90%)</span> |
@@ -62,15 +62,15 @@ description: 月營收表 崇越 (5434) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **4.71** | **8.74** | **16.52** |
-| **P/E倍數** | **9.80** | **12.93** | **25.99** |
+| **EPS(元)** | **4.67** | **8.54** | **16.07** |
+| **P/E倍數** | **9.82** | **13.02** | **26.34** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 崇越 歷史平均獲利能力 (σup=7.78, σlo=4.03)
-    - **P/Ebase**: 崇越 歷史平均估值水準 (σup=13.06, σlo=3.13)
+    - **EPSbase**: 崇越 歷史平均獲利能力 (σup=7.53, σlo=3.87)
+    - **P/Ebase**: 崇越 歷史平均估值水準 (σup=13.32, σlo=3.20)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,24 +79,21 @@ description: 月營收表 崇越 (5434) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/06** | **75.07** | <span style="color: #FF4500; font-weight: bold;">+32.8</span> | <span style="color: #DC143C; font-weight: bold;">+20.2</span> | **549** | <span style="color: #FF4500; font-weight: bold;">23.67</span> | <span style="color: #B22222; font-weight: bold;">20.19</span> |
-| **2026/05** | **65.42** | <span style="color: #B22222; font-weight: bold;">+18.6</span> | <span style="color: #B22222; font-weight: bold;">+17.6</span> | **453** | <span style="color: #FF4500; font-weight: bold;">23.67</span> | <span style="color: #8B0000; font-weight: bold;">19.14</span> |
-| **2026/04** | **67.76** | <span style="color: #B22222; font-weight: bold;">+16.4</span> | <span style="color: #B22222; font-weight: bold;">+17.3</span> | **406** | <span style="color: #FF4500; font-weight: bold;">23.67</span> | <span style="color: #8B0000; font-weight: bold;">17.15</span> |
-| **2026/03** | **70.15** | <span style="color: #FF4500; font-weight: bold;">+30.6</span> | <span style="color: #B22222; font-weight: bold;">+17.6</span> | **304.5** | <span style="color: #FF4500; font-weight: bold;">23.67</span> | <span style="color: #002818; font-weight: bold;">12.86</span> |
-| **2026/02** | **55.18** | <span style="color: #B22222; font-weight: bold;">+13.9</span> | <span style="color: #B22222; font-weight: bold;">+10.9</span> | **348.5** | <span style="color: #FF4500; font-weight: bold;">23.67</span> | <span style="color: #8B0000; font-weight: bold;">15.12</span> |
-| **2026/01** | **60.04** | <span style="color: #8B0000; font-weight: bold;">+8.25</span> | <span style="color: #8B0000; font-weight: bold;">+8.25</span> | **323** | <span style="color: #FF4500; font-weight: bold;">23.67</span> | <span style="color: #8B0000; font-weight: bold;">14.4</span> |
+| **2026/03** | **70.15** | <span style="color: #FF4500; font-weight: bold;">+30.6</span> | <span style="color: #B22222; font-weight: bold;">+17.6</span> | **304.5** | <span style="color: #FF4500; font-weight: bold;">21.81</span> | <span style="color: #8B0000; font-weight: bold;">13.96</span> |
+| **2026/02** | **55.18** | <span style="color: #B22222; font-weight: bold;">+13.9</span> | <span style="color: #B22222; font-weight: bold;">+10.9</span> | **348.5** | <span style="color: #FF4500; font-weight: bold;">21.81</span> | <span style="color: #8B0000; font-weight: bold;">15.98</span> |
+| **2026/01** | **60.04** | <span style="color: #8B0000; font-weight: bold;">+8.25</span> | <span style="color: #8B0000; font-weight: bold;">+8.25</span> | **323** | <span style="color: #FF4500; font-weight: bold;">21.81</span> | <span style="color: #8B0000; font-weight: bold;">14.81</span> |
 | **2025/12** | **64.8** | <span style="color: #B22222; font-weight: bold;">+18.9</span> | <span style="color: #B22222; font-weight: bold;">+18.6</span> | **291** | <span style="color: #FF4500; font-weight: bold;">21.81</span> | <span style="color: #8B0000; font-weight: bold;">13.34</span> |
 | **2025/11** | **57.4** | <span style="color: #8B0000; font-weight: bold;">+9.99</span> | <span style="color: #B22222; font-weight: bold;">+18.5</span> | **302.5** | <span style="color: #FF4500; font-weight: bold;">21.81</span> | <span style="color: #8B0000; font-weight: bold;">14.2</span> |
 | **2025/10** | **50.79** | <span style="color: #002818; font-weight: bold;">-3.03</span> | <span style="color: #B22222; font-weight: bold;">+19.5</span> | **342** | <span style="color: #FF4500; font-weight: bold;">21.81</span> | <span style="color: #8B0000; font-weight: bold;">16.45</span> |
-| **2025/09** | **60.92** | <span style="color: #B22222; font-weight: bold;">+14.6</span> | <span style="color: #DC143C; font-weight: bold;">+22.4</span> | **314** | <span style="color: #DC143C; font-weight: bold;">20.28</span> | <span style="color: #8B0000; font-weight: bold;">15.48</span> |
-| **2025/08** | **57.15** | <span style="color: #8B0000; font-weight: bold;">+7.74</span> | <span style="color: #DC143C; font-weight: bold;">+23.5</span> | **292** | <span style="color: #DC143C; font-weight: bold;">20.28</span> | <span style="color: #8B0000; font-weight: bold;">14.61</span> |
-| **2025/07** | **57.31** | <span style="color: #DC143C; font-weight: bold;">+20.7</span> | <span style="color: #DC143C; font-weight: bold;">+26.3</span> | **288.5** | <span style="color: #DC143C; font-weight: bold;">20.28</span> | <span style="color: #8B0000; font-weight: bold;">14.64</span> |
+| **2025/09** | **60.92** | <span style="color: #B22222; font-weight: bold;">+14.6</span> | <span style="color: #DC143C; font-weight: bold;">+22.4</span> | **314** | <span style="color: #FF4500; font-weight: bold;">20.28</span> | <span style="color: #8B0000; font-weight: bold;">15.48</span> |
+| **2025/08** | **57.15** | <span style="color: #8B0000; font-weight: bold;">+7.74</span> | <span style="color: #DC143C; font-weight: bold;">+23.5</span> | **292** | <span style="color: #FF4500; font-weight: bold;">20.28</span> | <span style="color: #8B0000; font-weight: bold;">14.61</span> |
+| **2025/07** | **57.31** | <span style="color: #DC143C; font-weight: bold;">+20.7</span> | <span style="color: #DC143C; font-weight: bold;">+26.3</span> | **288.5** | <span style="color: #FF4500; font-weight: bold;">20.28</span> | <span style="color: #8B0000; font-weight: bold;">14.64</span> |
 | **2025/06** | **56.51** | <span style="color: #DC143C; font-weight: bold;">+24.7</span> | <span style="color: #DC143C; font-weight: bold;">+27.3</span> | **274.5** | <span style="color: #DC143C; font-weight: bold;">19.41</span> | <span style="color: #8B0000; font-weight: bold;">14.14</span> |
 | **2025/05** | **55.16** | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | <span style="color: #DC143C; font-weight: bold;">+27.8</span> | **262** | <span style="color: #DC143C; font-weight: bold;">19.41</span> | <span style="color: #8B0000; font-weight: bold;">13.37</span> |
 | **2025/04** | **58.21** | <span style="color: #DC143C; font-weight: bold;">+24.4</span> | <span style="color: #DC143C; font-weight: bold;">+29.9</span> | **245.5** | <span style="color: #DC143C; font-weight: bold;">19.41</span> | <span style="color: #002818; font-weight: bold;">12.41</span> |
-| **2025/03** | **53.69** | <span style="color: #DC143C; font-weight: bold;">+29.7</span> | <span style="color: #FF4500; font-weight: bold;">+32.1</span> | **261** | <span style="color: #DC143C; font-weight: bold;">19.97</span> | <span style="color: #8B0000; font-weight: bold;">13.07</span> |
-| **2025/02** | **48.44** | <span style="color: #DC143C; font-weight: bold;">+29.4</span> | <span style="color: #FF4500; font-weight: bold;">+33.3</span> | **295.5** | <span style="color: #DC143C; font-weight: bold;">19.97</span> | <span style="color: #8B0000; font-weight: bold;">14.97</span> |
-| **2025/01** | **55.47** | <span style="color: #FF4500; font-weight: bold;">+37</span> | <span style="color: #FF4500; font-weight: bold;">+37</span> | **290** | <span style="color: #DC143C; font-weight: bold;">19.97</span> | <span style="color: #8B0000; font-weight: bold;">14.86</span> |
+| **2025/03** | **53.69** | <span style="color: #DC143C; font-weight: bold;">+29.7</span> | <span style="color: #FF4500; font-weight: bold;">+32.1</span> | **261** | <span style="color: #FF4500; font-weight: bold;">19.97</span> | <span style="color: #8B0000; font-weight: bold;">13.07</span> |
+| **2025/02** | **48.44** | <span style="color: #DC143C; font-weight: bold;">+29.4</span> | <span style="color: #FF4500; font-weight: bold;">+33.3</span> | **295.5** | <span style="color: #FF4500; font-weight: bold;">19.97</span> | <span style="color: #8B0000; font-weight: bold;">14.97</span> |
+| **2025/01** | **55.47** | <span style="color: #FF4500; font-weight: bold;">+37</span> | <span style="color: #FF4500; font-weight: bold;">+37</span> | **290** | <span style="color: #FF4500; font-weight: bold;">19.97</span> | <span style="color: #8B0000; font-weight: bold;">14.86</span> |
 | **2024/12** | **54.5** | <span style="color: #FF4500; font-weight: bold;">+38.8</span> | <span style="color: #B22222; font-weight: bold;">+15.7</span> | **280** | <span style="color: #DC143C; font-weight: bold;">19.29</span> | <span style="color: #8B0000; font-weight: bold;">14.52</span> |
 | **2024/11** | **52.19** | <span style="color: #FF4500; font-weight: bold;">+31.7</span> | <span style="color: #B22222; font-weight: bold;">+13.7</span> | **295.5** | <span style="color: #DC143C; font-weight: bold;">19.29</span> | <span style="color: #8B0000; font-weight: bold;">15.72</span> |
 | **2024/10** | **52.38** | <span style="color: #DC143C; font-weight: bold;">+20.6</span> | <span style="color: #B22222; font-weight: bold;">+11.9</span> | **314.5** | <span style="color: #DC143C; font-weight: bold;">19.29</span> | <span style="color: #8B0000; font-weight: bold;">17.19</span> |
@@ -172,10 +169,10 @@ description: 月營收表 崇越 (5434) - 自動產生
 | **2018/12** | **25.21** | <span style="color: #B22222; font-weight: bold;">+10.8</span> | <span style="color: #DC143C; font-weight: bold;">+21.4</span> | **69.6** | <span style="color: #002818; font-weight: bold;">7.73</span> | <span style="color: #006400; font-weight: bold;">9.0</span> |
 | **2018/11** | **23.38** | <span style="color: #B22222; font-weight: bold;">+16.8</span> | <span style="color: #DC143C; font-weight: bold;">+22.5</span> | **70.8** | <span style="color: #002818; font-weight: bold;">7.73</span> | <span style="color: #006400; font-weight: bold;">9.6</span> |
 | **2018/10** | **25.56** | <span style="color: #DC143C; font-weight: bold;">+24</span> | <span style="color: #DC143C; font-weight: bold;">+23.1</span> | **64** | <span style="color: #002818; font-weight: bold;">7.73</span> | <span style="color: #006400; font-weight: bold;">9.12</span> |
-| **2018/09** | **27.46** | <span style="color: #FF4500; font-weight: bold;">+30.4</span> | <span style="color: #DC143C; font-weight: bold;">+23</span> | **70.7** | <span style="color: #004225; font-weight: bold;">6.66</span> | <span style="color: #004225; font-weight: bold;">10.62</span> |
-| **2018/08** | **23.85** | <span style="color: #B22222; font-weight: bold;">+16.7</span> | <span style="color: #DC143C; font-weight: bold;">+21.9</span> | **78** | <span style="color: #004225; font-weight: bold;">6.66</span> | <span style="color: #002818; font-weight: bold;">12.01</span> |
-| **2018/07** | **23.31** | <span style="color: #DC143C; font-weight: bold;">+23.2</span> | <span style="color: #DC143C; font-weight: bold;">+22.7</span> | **83.9** | <span style="color: #004225; font-weight: bold;">6.66</span> | <span style="color: #8B0000; font-weight: bold;">13.25</span> |
-| **2018/06** | **25.17** | <span style="color: #DC143C; font-weight: bold;">+24.7</span> | <span style="color: #DC143C; font-weight: bold;">+22.7</span> | **79.9** | <span style="color: #004225; font-weight: bold;">6.17</span> | <span style="color: #8B0000; font-weight: bold;">12.95</span> |
+| **2018/09** | **27.46** | <span style="color: #FF4500; font-weight: bold;">+30.4</span> | <span style="color: #DC143C; font-weight: bold;">+23</span> | **70.7** | <span style="color: #002818; font-weight: bold;">6.66</span> | <span style="color: #004225; font-weight: bold;">10.62</span> |
+| **2018/08** | **23.85** | <span style="color: #B22222; font-weight: bold;">+16.7</span> | <span style="color: #DC143C; font-weight: bold;">+21.9</span> | **78** | <span style="color: #002818; font-weight: bold;">6.66</span> | <span style="color: #002818; font-weight: bold;">12.01</span> |
+| **2018/07** | **23.31** | <span style="color: #DC143C; font-weight: bold;">+23.2</span> | <span style="color: #DC143C; font-weight: bold;">+22.7</span> | **83.9** | <span style="color: #002818; font-weight: bold;">6.66</span> | <span style="color: #8B0000; font-weight: bold;">13.25</span> |
+| **2018/06** | **25.17** | <span style="color: #DC143C; font-weight: bold;">+24.7</span> | <span style="color: #DC143C; font-weight: bold;">+22.7</span> | **79.9** | <span style="color: #004225; font-weight: bold;">6.17</span> | <span style="color: #002818; font-weight: bold;">12.95</span> |
 | **2018/05** | **27.1** | <span style="color: #FF6347; font-weight: bold;">+40.2</span> | <span style="color: #DC143C; font-weight: bold;">+22.2</span> | **81.7** | <span style="color: #004225; font-weight: bold;">6.17</span> | <span style="color: #8B0000; font-weight: bold;">13.7</span> |
 | **2018/04** | **23.18** | <span style="color: #DC143C; font-weight: bold;">+23.5</span> | <span style="color: #B22222; font-weight: bold;">+17.6</span> | **80.3** | <span style="color: #004225; font-weight: bold;">6.17</span> | <span style="color: #8B0000; font-weight: bold;">13.95</span> |
 | **2018/03** | **21.97** | <span style="color: #B22222; font-weight: bold;">+18.3</span> | <span style="color: #B22222; font-weight: bold;">+15.6</span> | **86** | <span style="color: #004225; font-weight: bold;">5.55</span> | <span style="color: #8B0000; font-weight: bold;">15.5</span> |
@@ -184,9 +181,9 @@ description: 月營收表 崇越 (5434) - 自動產生
 | **2017/12** | **22.76** | <span style="color: #FF4500; font-weight: bold;">+31.8</span> | <span style="color: #8B0000; font-weight: bold;">+5.1</span> | **80.9** | <span style="color: #004225; font-weight: bold;">5.98</span> | <span style="color: #8B0000; font-weight: bold;">13.53</span> |
 | **2017/11** | **20.02** | <span style="color: #8B0000; font-weight: bold;">+1.28</span> | <span style="color: #8B0000; font-weight: bold;">+2.89</span> | **78.9** | <span style="color: #004225; font-weight: bold;">5.98</span> | <span style="color: #002818; font-weight: bold;">12.71</span> |
 | **2017/10** | **20.61** | <span style="color: #B22222; font-weight: bold;">+16.9</span> | <span style="color: #8B0000; font-weight: bold;">+3.06</span> | **76** | <span style="color: #004225; font-weight: bold;">5.98</span> | <span style="color: #002818; font-weight: bold;">11.8</span> |
-| **2017/09** | **21.06** | <span style="color: #8B0000; font-weight: bold;">+9.9</span> | <span style="color: #8B0000; font-weight: bold;">+1.64</span> | **74.6** | <span style="color: #004225; font-weight: bold;">6.67</span> | <span style="color: #004225; font-weight: bold;">11.18</span> |
-| **2017/08** | **20.44** | <span style="color: #B22222; font-weight: bold;">+10.7</span> | <span style="color: #8B0000; font-weight: bold;">+0.6</span> | **79** | <span style="color: #004225; font-weight: bold;">6.67</span> | <span style="color: #002818; font-weight: bold;">11.9</span> |
-| **2017/07** | **18.93** | <span style="color: #8B0000; font-weight: bold;">+7.92</span> | <span style="color: #002818; font-weight: bold;">-0.78</span> | **92.5** | <span style="color: #004225; font-weight: bold;">6.67</span> | <span style="color: #8B0000; font-weight: bold;">13.99</span> |
+| **2017/09** | **21.06** | <span style="color: #8B0000; font-weight: bold;">+9.9</span> | <span style="color: #8B0000; font-weight: bold;">+1.64</span> | **74.6** | <span style="color: #002818; font-weight: bold;">6.67</span> | <span style="color: #004225; font-weight: bold;">11.18</span> |
+| **2017/08** | **20.44** | <span style="color: #B22222; font-weight: bold;">+10.7</span> | <span style="color: #8B0000; font-weight: bold;">+0.6</span> | **79** | <span style="color: #002818; font-weight: bold;">6.67</span> | <span style="color: #002818; font-weight: bold;">11.9</span> |
+| **2017/07** | **18.93** | <span style="color: #8B0000; font-weight: bold;">+7.92</span> | <span style="color: #002818; font-weight: bold;">-0.78</span> | **92.5** | <span style="color: #002818; font-weight: bold;">6.67</span> | <span style="color: #8B0000; font-weight: bold;">13.99</span> |
 | **2017/06** | **20.18** | <span style="color: #8B0000; font-weight: bold;">+5.7</span> | <span style="color: #002818; font-weight: bold;">-2.1</span> | **93.8** | <span style="color: #004225; font-weight: bold;">6.58</span> | <span style="color: #8B0000; font-weight: bold;">14.26</span> |
 | **2017/05** | **19.33** | <span style="color: #002818; font-weight: bold;">-4.01</span> | <span style="color: #002818; font-weight: bold;">-3.63</span> | **93.2** | <span style="color: #004225; font-weight: bold;">6.58</span> | <span style="color: #8B0000; font-weight: bold;">13.83</span> |
 | **2017/04** | **18.77** | <span style="color: #004225; font-weight: bold;">-15.3</span> | <span style="color: #002818; font-weight: bold;">-3.53</span> | **98.7** | <span style="color: #004225; font-weight: bold;">6.58</span> | <span style="color: #8B0000; font-weight: bold;">14.32</span> |
@@ -199,16 +196,16 @@ description: 月營收表 崇越 (5434) - 自動產生
 | **2016/09** | **19.17** | <span style="color: #B22222; font-weight: bold;">+16.1</span> | <span style="color: #DC143C; font-weight: bold;">+21.3</span> | **84.9** | <span style="color: #002818; font-weight: bold;">6.84</span> | <span style="color: #002818; font-weight: bold;">12.41</span> |
 | **2016/08** | **18.46** | <span style="color: #DC143C; font-weight: bold;">+20</span> | <span style="color: #DC143C; font-weight: bold;">+22</span> | **84** | <span style="color: #002818; font-weight: bold;">6.84</span> | <span style="color: #002818; font-weight: bold;">12.35</span> |
 | **2016/07** | **17.54** | <span style="color: #B22222; font-weight: bold;">+16.5</span> | <span style="color: #DC143C; font-weight: bold;">+22.2</span> | **75.2** | <span style="color: #002818; font-weight: bold;">6.84</span> | <span style="color: #004225; font-weight: bold;">11.12</span> |
-| **2016/06** | **19.09** | <span style="color: #DC143C; font-weight: bold;">+26</span> | <span style="color: #DC143C; font-weight: bold;">+23.2</span> | **66.5** | <span style="color: #004225; font-weight: bold;">6.72</span> | <span style="color: #004225; font-weight: bold;">9.9</span> |
-| **2016/05** | **20.14** | <span style="color: #FF6347; font-weight: bold;">+41.4</span> | <span style="color: #DC143C; font-weight: bold;">+22.6</span> | **64** | <span style="color: #004225; font-weight: bold;">6.72</span> | <span style="color: #006400; font-weight: bold;">9.72</span> |
-| **2016/04** | **22.17** | <span style="color: #FF4500; font-weight: bold;">+39.6</span> | <span style="color: #B22222; font-weight: bold;">+18.5</span> | **58.4** | <span style="color: #004225; font-weight: bold;">6.72</span> | <span style="color: #006400; font-weight: bold;">9.06</span> |
+| **2016/06** | **19.09** | <span style="color: #DC143C; font-weight: bold;">+26</span> | <span style="color: #DC143C; font-weight: bold;">+23.2</span> | **66.5** | <span style="color: #002818; font-weight: bold;">6.72</span> | <span style="color: #004225; font-weight: bold;">9.9</span> |
+| **2016/05** | **20.14** | <span style="color: #FF6347; font-weight: bold;">+41.4</span> | <span style="color: #DC143C; font-weight: bold;">+22.6</span> | **64** | <span style="color: #002818; font-weight: bold;">6.72</span> | <span style="color: #006400; font-weight: bold;">9.72</span> |
+| **2016/04** | **22.17** | <span style="color: #FF4500; font-weight: bold;">+39.6</span> | <span style="color: #B22222; font-weight: bold;">+18.5</span> | **58.4** | <span style="color: #002818; font-weight: bold;">6.72</span> | <span style="color: #006400; font-weight: bold;">9.06</span> |
 | **2016/03** | **18.12** | <span style="color: #8B0000; font-weight: bold;">+7.4</span> | <span style="color: #B22222; font-weight: bold;">+11.7</span> | **59.9** | <span style="color: #004225; font-weight: bold;">6.31</span> | <span style="color: #006400; font-weight: bold;">9.49</span> |
 | **2016/02** | **16.43** | <span style="color: #8B0000; font-weight: bold;">+8.88</span> | <span style="color: #B22222; font-weight: bold;">+14</span> | **58.5** | <span style="color: #004225; font-weight: bold;">6.31</span> | <span style="color: #006400; font-weight: bold;">9.48</span> |
 | **2016/01** | **20.49** | <span style="color: #B22222; font-weight: bold;">+18.4</span> | <span style="color: #B22222; font-weight: bold;">+18.4</span> | **54** | <span style="color: #004225; font-weight: bold;">6.31</span> | <span style="color: #006400; font-weight: bold;">8.96</span> |
 | **2015/12** | **17.25** | <span style="color: #8B0000; font-weight: bold;">+1.83</span> | <span style="color: #8B0000; font-weight: bold;">+5.41</span> | **54.4** | <span style="color: #004225; font-weight: bold;">5.89</span> | <span style="color: #006400; font-weight: bold;">9.24</span> |
 | **2015/11** | **15.98** | <span style="color: #B22222; font-weight: bold;">+18.9</span> | <span style="color: #8B0000; font-weight: bold;">+5.78</span> | **52.2** | <span style="color: #004225; font-weight: bold;">5.89</span> | <span style="color: #006400; font-weight: bold;">8.94</span> |
 | **2015/10** | **16.01** | <span style="color: #8B0000; font-weight: bold;">+2.91</span> | <span style="color: #8B0000; font-weight: bold;">+4.6</span> | **51.6** | <span style="color: #004225; font-weight: bold;">5.89</span> | <span style="color: #006400; font-weight: bold;">8.91</span> |
-| **2015/09** | **16.51** | <span style="color: #8B0000; font-weight: bold;">+4.49</span> | <span style="color: #8B0000; font-weight: bold;">+4.8</span> | **47.25** | <span style="color: #004225; font-weight: bold;">5.74</span> | <span style="color: #228B22; font-weight: bold;">8.23</span> |
+| **2015/09** | **16.51** | <span style="color: #8B0000; font-weight: bold;">+4.49</span> | <span style="color: #8B0000; font-weight: bold;">+4.8</span> | **47.25** | <span style="color: #004225; font-weight: bold;">5.74</span> | <span style="color: #006400; font-weight: bold;">8.23</span> |
 | **2015/08** | **15.38** | <span style="color: #002818; font-weight: bold;">-0.15</span> | <span style="color: #8B0000; font-weight: bold;">+4.84</span> | **46.65** | <span style="color: #004225; font-weight: bold;">5.74</span> | <span style="color: #228B22; font-weight: bold;">8.1</span> |
 | **2015/07** | **15.05** | <span style="color: #002818; font-weight: bold;">-9.26</span> | <span style="color: #8B0000; font-weight: bold;">+5.58</span> | **53.4** | <span style="color: #004225; font-weight: bold;">5.74</span> | <span style="color: #006400; font-weight: bold;">9.24</span> |
 | **2015/06** | **15.15** | <span style="color: #002818; font-weight: bold;">-3.76</span> | <span style="color: #8B0000; font-weight: bold;">+8.41</span> | **58** | <span style="color: #004225; font-weight: bold;">5.8</span> | <span style="color: #004225; font-weight: bold;">10.0</span> |
@@ -221,7 +218,7 @@ description: 月營收表 崇越 (5434) - 自動產生
 | **2014/11** | **13.43** | <span style="color: #B22222; font-weight: bold;">+18.1</span> | <span style="color: #B22222; font-weight: bold;">+15.2</span> | **54.9** | <span style="color: #004225; font-weight: bold;">5.44</span> | <span style="color: #004225; font-weight: bold;">10.26</span> |
 | **2014/10** | **15.56** | <span style="color: #DC143C; font-weight: bold;">+26.6</span> | <span style="color: #B22222; font-weight: bold;">+15</span> | **54.9** | <span style="color: #004225; font-weight: bold;">5.44</span> | <span style="color: #004225; font-weight: bold;">10.42</span> |
 | **2014/09** | **15.8** | <span style="color: #DC143C; font-weight: bold;">+28.2</span> | <span style="color: #B22222; font-weight: bold;">+13.8</span> | **55.9** | <span style="color: #004225; font-weight: bold;">5.18</span> | <span style="color: #004225; font-weight: bold;">10.79</span> |
-| **2014/08** | **15.4** | <span style="color: #B22222; font-weight: bold;">+19.4</span> | <span style="color: #B22222; font-weight: bold;">+12.2</span> | **58.3** | <span style="color: #004225; font-weight: bold;">5.18</span> | <span style="color: #002818; font-weight: bold;">11.39</span> |
+| **2014/08** | **15.4** | <span style="color: #B22222; font-weight: bold;">+19.4</span> | <span style="color: #B22222; font-weight: bold;">+12.2</span> | **58.3** | <span style="color: #004225; font-weight: bold;">5.18</span> | <span style="color: #004225; font-weight: bold;">11.39</span> |
 | **2014/07** | **16.59** | <span style="color: #DC143C; font-weight: bold;">+21.1</span> | <span style="color: #B22222; font-weight: bold;">+11.2</span> | **62** | <span style="color: #004225; font-weight: bold;">5.18</span> | <span style="color: #002818; font-weight: bold;">12.27</span> |
 | **2014/06** | **15.75** | <span style="color: #B22222; font-weight: bold;">+14.8</span> | <span style="color: #8B0000; font-weight: bold;">+9.47</span> | **59.5** | <span style="color: #004225; font-weight: bold;">4.99</span> | <span style="color: #002818; font-weight: bold;">11.92</span> |
 | **2014/05** | **15.71** | <span style="color: #B22222; font-weight: bold;">+13.2</span> | <span style="color: #8B0000; font-weight: bold;">+8.37</span> | **58** | <span style="color: #004225; font-weight: bold;">4.99</span> | <span style="color: #002818; font-weight: bold;">11.57</span> |
@@ -229,7 +226,7 @@ description: 月營收表 崇越 (5434) - 自動產生
 | **2014/03** | **13.8** | <span style="color: #002818; font-weight: bold;">-0.97</span> | <span style="color: #8B0000; font-weight: bold;">+0.94</span> | **59.4** | <span style="color: #004225; font-weight: bold;">5.06</span> | <span style="color: #002818; font-weight: bold;">11.74</span> |
 | **2014/02** | **12.21** | <span style="color: #8B0000; font-weight: bold;">+0.13</span> | <span style="color: #8B0000; font-weight: bold;">+1.98</span> | **59.9** | <span style="color: #004225; font-weight: bold;">5.06</span> | <span style="color: #002818; font-weight: bold;">11.71</span> |
 | **2014/01** | **13.92** | <span style="color: #8B0000; font-weight: bold;">+3.66</span> | <span style="color: #8B0000; font-weight: bold;">+3.66</span> | **56.6** | <span style="color: #004225; font-weight: bold;">5.06</span> | <span style="color: #004225; font-weight: bold;">10.95</span> |
-| **2013/12** | **12.86** | <span style="color: #8B0000; font-weight: bold;">+1.19</span> | <span style="color: #002818; font-weight: bold;">-3.68</span> | **59.5** | <span style="color: #004225; font-weight: bold;">5.22</span> | <span style="color: #002818; font-weight: bold;">11.4</span> |
+| **2013/12** | **12.86** | <span style="color: #8B0000; font-weight: bold;">+1.19</span> | <span style="color: #002818; font-weight: bold;">-3.68</span> | **59.5** | <span style="color: #004225; font-weight: bold;">5.22</span> | <span style="color: #004225; font-weight: bold;">11.4</span> |
 | **2013/11** | **11.38** | <span style="color: #004225; font-weight: bold;">-17.6</span> | <span style="color: #002818; font-weight: bold;">-4.37</span> | **51.7** | <span style="color: #004225; font-weight: bold;">5.22</span> | <span style="color: #004225; font-weight: bold;">9.87</span> |
 | **2013/10** | **12.28** | <span style="color: #002818; font-weight: bold;">-2.7</span> | <span style="color: #002818; font-weight: bold;">-3.02</span> | **51.4** | <span style="color: #004225; font-weight: bold;">5.22</span> | <span style="color: #006400; font-weight: bold;">9.77</span> |
 | **2013/09** | **12.36** | <span style="color: #004225; font-weight: bold;">-11.7</span> | <span style="color: #002818; font-weight: bold;">-3.06</span> | **49.3** | <span style="color: #004225; font-weight: bold;">5.28</span> | <span style="color: #006400; font-weight: bold;">9.34</span> |
@@ -273,7 +270,7 @@ description: 月營收表 崇越 (5434) - 自動產生
 | **2010/07** | **-** | N/A | N/A | **40.65** | <span style="color: #006400; font-weight: bold;">3.73</span> | <span style="color: #002818; font-weight: bold;">12.28</span> |
 | **2010/06** | **-** | N/A | N/A | **35.55** | <span style="color: #006400; font-weight: bold;">3.1</span> | <span style="color: #002818; font-weight: bold;">11.47</span> |
 | **2010/05** | **-** | N/A | N/A | **35.65** | <span style="color: #006400; font-weight: bold;">3.1</span> | <span style="color: #004225; font-weight: bold;">11.35</span> |
-| **2010/04** | **-** | N/A | N/A | **41.3** | <span style="color: #006400; font-weight: bold;">3.1</span> | <span style="color: #8B0000; font-weight: bold;">12.99</span> |
+| **2010/04** | **-** | N/A | N/A | **41.3** | <span style="color: #006400; font-weight: bold;">3.1</span> | <span style="color: #002818; font-weight: bold;">12.99</span> |
 | **2010/03** | **-** | N/A | N/A | **42.6** | <span style="color: #006400; font-weight: bold;">3.22</span> | <span style="color: #8B0000; font-weight: bold;">13.23</span> |
 | **2010/02** | **-** | N/A | N/A | **39.6** | <span style="color: #006400; font-weight: bold;">3.22</span> | <span style="color: #8B0000; font-weight: bold;">13.42</span> |
 | **2010/01** | **-** | N/A | N/A | **42.2** | <span style="color: #006400; font-weight: bold;">3.22</span> | <span style="color: #8B0000; font-weight: bold;">15.75</span> |
@@ -298,9 +295,9 @@ description: 月營收表 崇越 (5434) - 自動產生
 | **2008/06** | **-** | N/A | N/A | **40.2** | <span style="color: #004225; font-weight: bold;">4.96</span> | <span style="color: #228B22; font-weight: bold;">8.1</span> |
 | **2008/05** | **-** | N/A | N/A | **48** | <span style="color: #004225; font-weight: bold;">4.96</span> | <span style="color: #004225; font-weight: bold;">9.86</span> |
 | **2008/04** | **-** | N/A | N/A | **52.2** | <span style="color: #004225; font-weight: bold;">4.96</span> | <span style="color: #004225; font-weight: bold;">10.94</span> |
-| **2008/03** | **-** | N/A | N/A | **50.3** | <span style="color: #006400; font-weight: bold;">4.68</span> | <span style="color: #004225; font-weight: bold;">10.75</span> |
-| **2008/02** | **-** | N/A | N/A | **51.6** | <span style="color: #006400; font-weight: bold;">4.68</span> | <span style="color: #004225; font-weight: bold;">11.09</span> |
-| **2008/01** | **-** | N/A | N/A | **45** | <span style="color: #006400; font-weight: bold;">4.68</span> | <span style="color: #006400; font-weight: bold;">9.73</span> |
+| **2008/03** | **-** | N/A | N/A | **50.3** | <span style="color: #004225; font-weight: bold;">4.68</span> | <span style="color: #004225; font-weight: bold;">10.75</span> |
+| **2008/02** | **-** | N/A | N/A | **51.6** | <span style="color: #004225; font-weight: bold;">4.68</span> | <span style="color: #004225; font-weight: bold;">11.09</span> |
+| **2008/01** | **-** | N/A | N/A | **45** | <span style="color: #004225; font-weight: bold;">4.68</span> | <span style="color: #006400; font-weight: bold;">9.73</span> |
 | **2007/12** | **-** | N/A | N/A | **60.9** | <span style="color: #006400; font-weight: bold;">4.6</span> | <span style="color: #8B0000; font-weight: bold;">13.24</span> |
 | **2007/11** | **-** | N/A | N/A | **63.7** | <span style="color: #006400; font-weight: bold;">4.6</span> | <span style="color: #8B0000; font-weight: bold;">14.44</span> |
 | **2007/10** | **-** | N/A | N/A | **74.8** | <span style="color: #006400; font-weight: bold;">4.6</span> | <span style="color: #8B0000; font-weight: bold;">17.73</span> |
@@ -319,6 +316,9 @@ description: 月營收表 崇越 (5434) - 自動產生
 | **2006/09** | **-** | N/A | N/A | **72.4** | <span style="color: #006400; font-weight: bold;">3.38</span> | <span style="color: #B22222; font-weight: bold;">21.42</span> |
 | **2006/08** | **-** | N/A | N/A | **80.6** | <span style="color: #006400; font-weight: bold;">3.38</span> | <span style="color: #B22222; font-weight: bold;">24.28</span> |
 | **2006/07** | **-** | N/A | N/A | **80.1** | <span style="color: #006400; font-weight: bold;">3.38</span> | <span style="color: #B22222; font-weight: bold;">24.57</span> |
+| **2006/06** | **-** | N/A | N/A | **79.1** | <span style="color: #006400; font-weight: bold;">3.2</span> | <span style="color: #B22222; font-weight: bold;">24.72</span> |
+| **2006/05** | **-** | N/A | N/A | **85.6** | <span style="color: #006400; font-weight: bold;">3.2</span> | <span style="color: #DC143C; font-weight: bold;">26.45</span> |
+| **2006/04** | **-** | N/A | N/A | **96.5** | <span style="color: #006400; font-weight: bold;">3.2</span> | <span style="color: #DC143C; font-weight: bold;">29.48</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 崇越 (5434) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-07-16 15:23:24 CST
+- **產生時間**: 2026-05-17 04:03:13 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-16
+date: 2026-05-17
 categories:
   - 股票
   - 融資餘額
@@ -19,20 +19,22 @@ description: 融資餘額報告 威力德生醫 (7713) - 自動產生
 !!! info "基本資訊"
     **🏗️ 名稱**: 威力德生醫
     **🪪 代號**: 7713
-    **📅 分析期間**: 2026-01-09 ~ 2026-07-14 (共 242 個交易日)
-    **🕒 最新資料**: 2026-07-14
-    **🕒 更新時間**: 2026-07-16 15:33:10 CST
+    **📅 分析期間**: 2025-10-20 ~ 2026-04-22 (共 242 個交易日)
+    **🕒 最新資料**: 2026-04-22
+    **🕒 更新時間**: 2026-05-17 04:02:50 CST
 
 ## 💰 融資餘額現況
 
 | 📊 指標 | 🔢 數值 | 🚦 狀態 |
 |:------------:|:----------:|:-------------------:|
-| **最新融資餘額** | nan 億元 (nan 張) | - |
-| **最新收盤價** | 70.60 元 | - |
-| **市值** | 32 億元 | - |
-| **融資餘額/市值** | nan% | 🔴 過熱 |
-| **日變化 (DoD)** | +nan 億元 (+0.00%) | ➡️ |
-| **週變化 (WoW)** | +nan 億元 (+0.00%) | ➡️ |
+| **最新融資餘額** | 0.0 億元 (10 張) | - |
+| **最新收盤價** | 66.40 元 | - |
+| **市值** | 31 億元 | - |
+| **融資餘額/市值** | 0.02% | 🟢 低風險 |
+| **日變化 (DoD)** | -0.0 億元 (-28.79%) | 📉 |
+| **週變化 (WoW)** | +0.0 億元 (+42.43%) | 📈 |
+| **兩週變化 (2Wo2W)** | -0.0 億元 (-62.50%) | 📉 |
+| **月變化 (MoM)** | -0.0 億元 (-66.67%) | 📉 |
 
 ---
 
@@ -40,11 +42,11 @@ description: 融資餘額報告 威力德生醫 (7713) - 自動產生
 
 | 📊 指標 | 🔢 數值 |
 |:------------:|:----------:|
-| **歷史最高** | nan 億元 |
-| **歷史最低** | nan 億元 |
-| **平均值** | nan 億元 |
-| **標準差** | nan 億元 |
-| **當前相對位置** | nan% |
+| **歷史最高** | 0.2 億元 |
+| **歷史最低** | 0.0 億元 |
+| **平均值** | 0.0 億元 |
+| **標準差** | 0.0 億元 |
+| **當前相對位置** | 3.1% |
 
 ---
 
@@ -74,332 +76,332 @@ description: 融資餘額報告 威力德生醫 (7713) - 自動產生
 </thead>
 <tbody>
 <tr>
-<td>2026-07-14</td>
-<td>70.60</td>
-<td>➖ +0.00</td>
-<td>+0.00%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
+<td>2026-04-22</td>
+<td>66.40</td>
+<td>🔺 +67.50</td>
+<td>+66.40%</td>
+<td>0.0</td>
+<td>10</td>
+<td>📈 +15</td>
+<td>0</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-04-21</td>
+<td>66.60</td>
+<td>🔺 +67.80</td>
+<td>+66.30%</td>
+<td>0.0</td>
+<td>14</td>
+<td>📈 +27</td>
+<td>1</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-04-20</td>
+<td>66.60</td>
+<td>🔺 +67.50</td>
+<td>+66.60%</td>
+<td>0.0</td>
+<td>9</td>
+<td>📈 +11</td>
+<td>-1</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-04-17</td>
+<td>67.00</td>
+<td>🔺 +67.00</td>
+<td>+66.90%</td>
+<td>0.0</td>
+<td>15</td>
+<td>📈 +15</td>
+<td>-4</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-04-16</td>
+<td>67.00</td>
+<td>🔺 +67.00</td>
+<td>+67.00%</td>
+<td>0.0</td>
+<td>3</td>
+<td>📈 +9</td>
+<td>0</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-04-15</td>
+<td>66.60</td>
+<td>🔺 +67.00</td>
+<td>+66.60%</td>
+<td>0.0</td>
+<td>7</td>
+<td>📈 +8</td>
+<td>4</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-04-14</td>
+<td>68.30</td>
+<td>🔺 +68.30</td>
+<td>+67.70%</td>
+<td>0.0</td>
+<td>14</td>
+<td>📈 +4</td>
 <td>nan</td>
 <td>nan%</td>
 </tr>
 <tr>
-<td>2026-07-13</td>
-<td>70.60</td>
-<td>➖ +0.00</td>
-<td>+0.00%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-07-09</td>
-<td>70.60</td>
-<td>🔻 -0.10</td>
-<td>-0.14%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
+<td>2026-04-13</td>
+<td>69.80</td>
+<td>🔺 +69.80</td>
+<td>+68.60%</td>
+<td>0.0</td>
+<td>7</td>
+<td>📈 +7</td>
 <td>nan</td>
 <td>nan%</td>
 </tr>
 <tr>
-<td>2026-07-08</td>
-<td>70.70</td>
-<td>➖ +0.00</td>
-<td>+0.00%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
+<td>2026-04-10</td>
+<td>67.80</td>
+<td>🔺 +68.20</td>
+<td>+66.50%</td>
+<td>0.0</td>
+<td>11</td>
+<td>📈 +14</td>
+<td>-1</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-04-09</td>
+<td>66.10</td>
+<td>🔺 +66.80</td>
+<td>+66.10%</td>
+<td>0.0</td>
+<td>33</td>
+<td>📈 +60</td>
+<td>-1</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-04-08</td>
+<td>66.30</td>
+<td>🔺 +66.30</td>
+<td>+66.00%</td>
+<td>0.0</td>
+<td>17</td>
+<td>📈 +8</td>
+<td>-2</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-04-07</td>
+<td>66.40</td>
+<td>🔺 +67.20</td>
+<td>+66.40%</td>
+<td>0.0</td>
+<td>14</td>
+<td>📈 +19</td>
 <td>nan</td>
 <td>nan%</td>
 </tr>
 <tr>
-<td>2026-07-07</td>
-<td>70.70</td>
-<td>🔺 +0.10</td>
-<td>+0.14%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
+<td>2026-04-02</td>
+<td>67.10</td>
+<td>🔺 +67.70</td>
+<td>+66.20%</td>
+<td>0.0</td>
+<td>13</td>
+<td>📈 +14</td>
+<td>-1</td>
 <td>nan%</td>
 </tr>
 <tr>
-<td>2026-07-06</td>
-<td>70.60</td>
-<td>🔺 +0.30</td>
-<td>+0.43%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
+<td>2026-04-01</td>
+<td>67.10</td>
+<td>🔺 +67.30</td>
+<td>+67.10%</td>
+<td>0.0</td>
+<td>18</td>
+<td>📈 +9</td>
+<td>-2</td>
 <td>nan%</td>
 </tr>
 <tr>
-<td>2026-07-03</td>
-<td>70.30</td>
-<td>➖ +0.00</td>
-<td>+0.00%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
+<td>2026-03-31</td>
+<td>67.10</td>
+<td>🔺 +67.50</td>
+<td>+66.90%</td>
+<td>0.0</td>
+<td>9</td>
+<td>📈 +10</td>
+<td>2</td>
 <td>nan%</td>
 </tr>
 <tr>
-<td>2026-07-02</td>
-<td>70.30</td>
-<td>🔺 +0.20</td>
-<td>+0.29%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
+<td>2026-03-30</td>
+<td>67.60</td>
+<td>🔺 +67.60</td>
+<td>+67.10%</td>
+<td>0.0</td>
+<td>17</td>
+<td>📈 +15</td>
+<td>2</td>
 <td>nan%</td>
 </tr>
 <tr>
-<td>2026-07-01</td>
-<td>70.10</td>
-<td>🔻 -1.10</td>
-<td>-1.54%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
+<td>2026-03-27</td>
+<td>69.50</td>
+<td>🔺 +71.00</td>
+<td>+67.50%</td>
+<td>0.0</td>
+<td>67</td>
+<td>📈 +44</td>
+<td>1</td>
 <td>nan%</td>
 </tr>
 <tr>
-<td>2026-06-30</td>
-<td>71.20</td>
-<td>➖ +0.00</td>
-<td>+0.00%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
+<td>2026-03-26</td>
+<td>73.50</td>
+<td>🔺 +73.90</td>
+<td>+72.90%</td>
+<td>0.0</td>
+<td>31</td>
+<td>📈 +15</td>
+<td>-4</td>
 <td>nan%</td>
 </tr>
 <tr>
-<td>2026-06-29</td>
+<td>2026-03-25</td>
 <td>71.00</td>
-<td>➖ +0.00</td>
-<td>+0.00%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
+<td>🔺 +72.90</td>
+<td>+71.00%</td>
+<td>0.0</td>
+<td>18</td>
+<td>📈 +17</td>
+<td>-3</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-03-24</td>
+<td>73.00</td>
+<td>🔺 +73.00</td>
+<td>+73.00%</td>
+<td>0.0</td>
+<td>14</td>
+<td>📈 +6</td>
+<td>-1</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-03-23</td>
+<td>72.30</td>
+<td>🔺 +73.00</td>
+<td>+71.50%</td>
+<td>0.0</td>
+<td>7</td>
+<td>📈 +9</td>
 <td>nan</td>
 <td>nan%</td>
 </tr>
 <tr>
-<td>2026-06-26</td>
-<td>71.00</td>
-<td>🔻 -0.20</td>
-<td>-0.28%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-25</td>
-<td>71.20</td>
-<td>🔻 -0.10</td>
-<td>-0.14%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
+<td>2026-03-20</td>
+<td>72.50</td>
+<td>🔺 +72.50</td>
+<td>+72.50%</td>
+<td>0.0</td>
+<td>7</td>
+<td>➡️ +0</td>
 <td>nan</td>
 <td>nan%</td>
 </tr>
 <tr>
-<td>2026-06-24</td>
-<td>71.30</td>
-<td>🔻 -0.50</td>
-<td>-0.70%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
+<td>2026-03-19</td>
+<td>72.30</td>
+<td>🔺 +72.50</td>
+<td>+72.30%</td>
+<td>0.0</td>
+<td>16</td>
+<td>📈 +9</td>
+<td>0</td>
 <td>nan%</td>
 </tr>
 <tr>
-<td>2026-06-23</td>
-<td>71.80</td>
-<td>🔺 +0.30</td>
-<td>+0.42%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
+<td>2026-03-18</td>
+<td>72.50</td>
+<td>🔺 +72.60</td>
+<td>+71.70%</td>
+<td>0.0</td>
+<td>40</td>
+<td>📈 +39</td>
+<td>12</td>
 <td>nan%</td>
 </tr>
 <tr>
-<td>2026-06-22</td>
-<td>71.50</td>
-<td>🔺 +0.50</td>
-<td>+0.70%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-18</td>
-<td>71.00</td>
-<td>🔻 -1.00</td>
-<td>-1.39%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-17</td>
-<td>72.00</td>
-<td>🔺 +1.00</td>
-<td>+1.41%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-16</td>
-<td>71.00</td>
-<td>🔺 +0.60</td>
-<td>+0.85%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-15</td>
-<td>70.40</td>
-<td>🔻 -0.10</td>
-<td>-0.14%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-12</td>
-<td>70.50</td>
-<td>🔺 +0.10</td>
-<td>+0.14%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-11</td>
-<td>70.40</td>
-<td>🔻 -0.60</td>
-<td>-0.85%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-10</td>
-<td>71.00</td>
-<td>🔻 -0.10</td>
-<td>-0.14%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-09</td>
-<td>71.10</td>
-<td>🔺 +0.40</td>
-<td>+0.57%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-08</td>
-<td>70.70</td>
-<td>🔻 -1.20</td>
-<td>-1.67%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-05</td>
-<td>71.90</td>
-<td>🔺 +1.10</td>
-<td>+1.55%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-04</td>
-<td>70.80</td>
-<td>🔻 -1.60</td>
-<td>-2.21%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-03</td>
+<td>2026-03-17</td>
 <td>72.40</td>
-<td>🔻 -0.50</td>
-<td>-0.69%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
+<td>🔺 +72.50</td>
+<td>+72.30%</td>
+<td>0.0</td>
+<td>34</td>
+<td>📈 +30</td>
+<td>2</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-03-16</td>
+<td>73.00</td>
+<td>🔺 +73.00</td>
+<td>+72.50%</td>
+<td>0.0</td>
+<td>9</td>
+<td>📈 +2</td>
 <td>nan</td>
 <td>nan%</td>
 </tr>
 <tr>
-<td>2026-06-02</td>
-<td>72.90</td>
-<td>🔻 -1.00</td>
-<td>-1.35%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
+<td>2026-03-13</td>
+<td>71.60</td>
+<td>🔺 +71.80</td>
+<td>+71.10%</td>
+<td>0.0</td>
+<td>16</td>
+<td>📈 +13</td>
+<td>2</td>
 <td>nan%</td>
 </tr>
 <tr>
-<td>2026-06-01</td>
-<td>73.90</td>
-<td>🔺 +6.70</td>
-<td>+9.97%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
+<td>2026-03-12</td>
+<td>70.10</td>
+<td>🔺 +71.80</td>
+<td>+70.10%</td>
+<td>0.0</td>
+<td>14</td>
+<td>📈 +13</td>
+<td>0</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-03-11</td>
+<td>71.50</td>
+<td>🔺 +71.50</td>
+<td>+71.00%</td>
+<td>0.0</td>
+<td>13</td>
+<td>📈 +10</td>
+<td>-1</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-03-10</td>
+<td>70.00</td>
+<td>🔺 +70.50</td>
+<td>+69.80%</td>
+<td>0.0</td>
+<td>18</td>
+<td>📈 +15</td>
 <td>nan</td>
 <td>nan%</td>
 </tr>

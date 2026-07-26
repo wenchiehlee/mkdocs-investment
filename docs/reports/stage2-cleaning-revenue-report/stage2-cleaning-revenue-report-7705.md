@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-16
+date: 2026-05-17
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 三商餐飲 (7705) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 三商餐飲  
     **:identification_card: 股票代號**: 7705  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-07-16 15:23:24 CST
+    **:calendar: 最新資料**: 2026/03  
+    **:clock3: 更新時間**: 2026-05-17 04:03:13 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+2.94</span> | <span style="color: #8B0000; font-weight: bold;">+3.88</span> | **34** 個月 | 2023/09 至 2026/06 |
+| <span style="color: #8B0000; font-weight: bold;">+8.6</span> | <span style="color: #8B0000; font-weight: bold;">+6.19</span> | **31** 個月 | 2023/09 至 2026/03 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -49,9 +49,9 @@ description: 月營收表 三商餐飲 (7705) - 自動產生
 | **9月** | -- | 556<br/><span style="color: #8B0000;">(+0.13%)</span> | 555<br/><span style="color: #B22222;">(+12.40%)</span> | 494<br/><span style="color: #B22222;">(+10.10%)</span> |
 | **8月** | -- | 581<br/><span style="color: #8B0000;">(+7.11%)</span> | 543<br/><span style="color: #8B0000;">(+9.09%)</span> | -- |
 | **7月** | -- | 582<br/><span style="color: #8B0000;">(+3.53%)</span> | 562<br/><span style="color: #B22222;">(+10.20%)</span> | -- |
-| **6月** | 569<br/><span style="color: #8B0000;">(+2.94%)</span> | 553<br/><span style="color: #8B0000;">(+1.78%)</span> | 543<br/><span style="color: #B22222;">(+15.10%)</span> | -- |
-| **5月** | 606<br/><span style="color: #8B0000;">(+0.54%)</span> | 603<br/><span style="color: #8B0000;">(+3.48%)</span> | 582<br/><span style="color: #B22222;">(+16.60%)</span> | -- |
-| **4月** | 488<br/><span style="color: #8B0000;">(+1.86%)</span> | 479<br/><span style="color: #8B0000;">(+1.52%)</span> | 472<br/><span style="color: #8B0000;">(+4.35%)</span> | -- |
+| **6月** | -- | 553<br/><span style="color: #8B0000;">(+1.78%)</span> | 543<br/><span style="color: #B22222;">(+15.10%)</span> | -- |
+| **5月** | -- | 603<br/><span style="color: #8B0000;">(+3.48%)</span> | 582<br/><span style="color: #B22222;">(+16.60%)</span> | -- |
+| **4月** | -- | 479<br/><span style="color: #8B0000;">(+1.52%)</span> | 472<br/><span style="color: #8B0000;">(+4.35%)</span> | -- |
 | **3月** | 529<br/><span style="color: #8B0000;">(+8.60%)</span> | 487<br/><span style="color: #002818;">(-8.12%)</span> | 531<br/><span style="color: #B22222;">(+17.10%)</span> | -- |
 | **2月** | 562<br/><span style="color: #DC143C;">(+24.00%)</span> | 454<br/><span style="color: #004225;">(-16.20%)</span> | 542<br/><span style="color: #FF4500;">(+36.40%)</span> | -- |
 | **1月** | 513<br/><span style="color: #004225;">(-10.00%)</span> | 570<br/><span style="color: #DC143C;">(+25.60%)</span> | 453<br/><span style="color: #006400;">(-21.00%)</span> | -- |
@@ -62,15 +62,15 @@ description: 月營收表 三商餐飲 (7705) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **1.47** | **2.21** | **3.11** |
-| **P/E倍數** | **17.18** | **22.78** | **31.68** |
+| **EPS(元)** | **1.57** | **2.14** | **3.54** |
+| **P/E倍數** | **19.34** | **24.20** | **32.47** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 三商餐飲 歷史平均獲利能力 (σup=0.90, σlo=0.74)
-    - **P/Ebase**: 三商餐飲 歷史平均估值水準 (σup=8.90, σlo=5.60)
+    - **EPSbase**: 三商餐飲 歷史平均獲利能力 (σup=1.40, σlo=0.58)
+    - **P/Ebase**: 三商餐飲 歷史平均估值水準 (σup=8.27, σlo=4.86)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,26 +79,23 @@ description: 月營收表 三商餐飲 (7705) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/06** | **5.69** | <span style="color: #8B0000; font-weight: bold;">+2.94</span> | <span style="color: #8B0000; font-weight: bold;">+3.88</span> | **31.7** | <span style="color: #8B0000; font-weight: bold;">2.21</span> | <span style="color: #228B22; font-weight: bold;">14.34</span> |
-| **2026/05** | **6.06** | <span style="color: #8B0000; font-weight: bold;">+0.54</span> | <span style="color: #8B0000; font-weight: bold;">+4.08</span> | **30.9** | <span style="color: #8B0000; font-weight: bold;">2.21</span> | <span style="color: #228B22; font-weight: bold;">13.98</span> |
-| **2026/04** | **4.88** | <span style="color: #8B0000; font-weight: bold;">+1.86</span> | <span style="color: #8B0000; font-weight: bold;">+5.15</span> | **32.9** | <span style="color: #8B0000; font-weight: bold;">2.21</span> | <span style="color: #006400; font-weight: bold;">14.89</span> |
-| **2026/03** | **5.29** | <span style="color: #8B0000; font-weight: bold;">+8.6</span> | <span style="color: #8B0000; font-weight: bold;">+6.19</span> | **34.6** | <span style="color: #8B0000; font-weight: bold;">2.21</span> | <span style="color: #006400; font-weight: bold;">15.66</span> |
-| **2026/02** | **5.62** | <span style="color: #DC143C; font-weight: bold;">+24</span> | <span style="color: #8B0000; font-weight: bold;">+5.04</span> | **38.8** | <span style="color: #8B0000; font-weight: bold;">2.21</span> | <span style="color: #004225; font-weight: bold;">18.36</span> |
-| **2026/01** | **5.13** | <span style="color: #002818; font-weight: bold;">-10</span> | <span style="color: #002818; font-weight: bold;">-10</span> | **40** | <span style="color: #8B0000; font-weight: bold;">2.21</span> | <span style="color: #004225; font-weight: bold;">19.83</span> |
-| **2025/12** | **5.91** | <span style="color: #8B0000; font-weight: bold;">+7.68</span> | <span style="color: #8B0000; font-weight: bold;">+3.3</span> | **40** | <span style="color: #002818; font-weight: bold;">1.92</span> | <span style="color: #002818; font-weight: bold;">20.83</span> |
-| **2025/11** | **5.73** | <span style="color: #B22222; font-weight: bold;">+17.3</span> | <span style="color: #8B0000; font-weight: bold;">+2.89</span> | **40.25** | <span style="color: #002818; font-weight: bold;">1.92</span> | <span style="color: #8B0000; font-weight: bold;">23.45</span> |
+| **2026/03** | **5.29** | <span style="color: #8B0000; font-weight: bold;">+8.6</span> | <span style="color: #8B0000; font-weight: bold;">+6.19</span> | **34.6** | <span style="color: #002818; font-weight: bold;">1.92</span> | <span style="color: #006400; font-weight: bold;">18.02</span> |
+| **2026/02** | **5.62** | <span style="color: #DC143C; font-weight: bold;">+24</span> | <span style="color: #8B0000; font-weight: bold;">+5.04</span> | **38.8** | <span style="color: #002818; font-weight: bold;">1.92</span> | <span style="color: #004225; font-weight: bold;">20.21</span> |
+| **2026/01** | **5.13** | <span style="color: #002818; font-weight: bold;">-10</span> | <span style="color: #002818; font-weight: bold;">-10</span> | **40** | <span style="color: #002818; font-weight: bold;">1.92</span> | <span style="color: #004225; font-weight: bold;">20.83</span> |
+| **2025/12** | **5.91** | <span style="color: #8B0000; font-weight: bold;">+7.68</span> | <span style="color: #8B0000; font-weight: bold;">+3.3</span> | **40** | <span style="color: #002818; font-weight: bold;">1.92</span> | <span style="color: #004225; font-weight: bold;">20.83</span> |
+| **2025/11** | **5.73** | <span style="color: #B22222; font-weight: bold;">+17.3</span> | <span style="color: #8B0000; font-weight: bold;">+2.89</span> | **40.25** | <span style="color: #002818; font-weight: bold;">1.92</span> | <span style="color: #002818; font-weight: bold;">23.45</span> |
 | **2025/10** | **5.05** | <span style="color: #8B0000; font-weight: bold;">+0.2</span> | <span style="color: #8B0000; font-weight: bold;">+1.56</span> | **40.7** | <span style="color: #002818; font-weight: bold;">1.92</span> | <span style="color: #8B0000; font-weight: bold;">26.89</span> |
-| **2025/09** | **5.56** | <span style="color: #8B0000; font-weight: bold;">+0.13</span> | <span style="color: #8B0000; font-weight: bold;">+1.7</span> | **41.9** | <span style="color: #006400; font-weight: bold;">1.31</span> | <span style="color: #DC143C; font-weight: bold;">31.98</span> |
+| **2025/09** | **5.56** | <span style="color: #8B0000; font-weight: bold;">+0.13</span> | <span style="color: #8B0000; font-weight: bold;">+1.7</span> | **41.9** | <span style="color: #006400; font-weight: bold;">1.31</span> | <span style="color: #B22222; font-weight: bold;">31.98</span> |
 | **2025/08** | **5.81** | <span style="color: #8B0000; font-weight: bold;">+7.11</span> | <span style="color: #8B0000; font-weight: bold;">+1.91</span> | **43.5** | <span style="color: #006400; font-weight: bold;">1.31</span> | <span style="color: #DC143C; font-weight: bold;">32.87</span> |
 | **2025/07** | **5.82** | <span style="color: #8B0000; font-weight: bold;">+3.53</span> | <span style="color: #8B0000; font-weight: bold;">+1.14</span> | **47.1** | <span style="color: #006400; font-weight: bold;">1.31</span> | <span style="color: #DC143C; font-weight: bold;">35.24</span> |
 | **2025/06** | **5.53** | <span style="color: #8B0000; font-weight: bold;">+1.78</span> | <span style="color: #8B0000; font-weight: bold;">+0.71</span> | **51.5** | <span style="color: #006400; font-weight: bold;">1.35</span> | <span style="color: #FF4500; font-weight: bold;">38.15</span> |
 | **2025/05** | **6.03** | <span style="color: #8B0000; font-weight: bold;">+3.48</span> | <span style="color: #8B0000; font-weight: bold;">+0.49</span> | **54.1** | <span style="color: #006400; font-weight: bold;">1.35</span> | <span style="color: #B22222; font-weight: bold;">28.52</span> |
 | **2025/04** | **4.79** | <span style="color: #8B0000; font-weight: bold;">+1.52</span> | <span style="color: #002818; font-weight: bold;">-0.38</span> | **61.6** | <span style="color: #006400; font-weight: bold;">1.35</span> | <span style="color: #8B0000; font-weight: bold;">25.21</span> |
-| **2025/03** | **4.87** | <span style="color: #002818; font-weight: bold;">-8.12</span> | <span style="color: #002818; font-weight: bold;">-0.97</span> | **63.7** | <span style="color: #B22222; font-weight: bold;">2.99</span> | <span style="color: #002818; font-weight: bold;">21.3</span> |
-| **2025/02** | **4.54** | <span style="color: #004225; font-weight: bold;">-16.2</span> | <span style="color: #8B0000; font-weight: bold;">+2.84</span> | **69.8** | <span style="color: #B22222; font-weight: bold;">2.99</span> | <span style="color: #002818; font-weight: bold;">20.77</span> |
-| **2025/01** | **5.7** | <span style="color: #DC143C; font-weight: bold;">+25.6</span> | <span style="color: #DC143C; font-weight: bold;">+25.6</span> | **69.3** | <span style="color: #B22222; font-weight: bold;">2.99</span> | <span style="color: #004225; font-weight: bold;">18.58</span> |
-| **2024/12** | **5.49** | <span style="color: #8B0000; font-weight: bold;">+1.32</span> | <span style="color: #8B0000; font-weight: bold;">+9.57</span> | **70.7** | <span style="color: #FF6347; font-weight: bold;">4.1</span> | <span style="color: #004225; font-weight: bold;">17.24</span> |
-| **2024/11** | **4.89** | <span style="color: #DC143C; font-weight: bold;">+20</span> | <span style="color: #B22222; font-weight: bold;">+10.4</span> | **71.9** | <span style="color: #FF6347; font-weight: bold;">4.1</span> | <span style="color: #004225; font-weight: bold;">17.54</span> |
+| **2025/03** | **4.87** | <span style="color: #002818; font-weight: bold;">-8.12</span> | <span style="color: #002818; font-weight: bold;">-0.97</span> | **63.7** | <span style="color: #B22222; font-weight: bold;">2.99</span> | <span style="color: #004225; font-weight: bold;">21.3</span> |
+| **2025/02** | **4.54** | <span style="color: #004225; font-weight: bold;">-16.2</span> | <span style="color: #8B0000; font-weight: bold;">+2.84</span> | **69.8** | <span style="color: #B22222; font-weight: bold;">2.99</span> | <span style="color: #004225; font-weight: bold;">20.77</span> |
+| **2025/01** | **5.7** | <span style="color: #DC143C; font-weight: bold;">+25.6</span> | <span style="color: #DC143C; font-weight: bold;">+25.6</span> | **69.3** | <span style="color: #B22222; font-weight: bold;">2.99</span> | <span style="color: #006400; font-weight: bold;">18.58</span> |
+| **2024/12** | **5.49** | <span style="color: #8B0000; font-weight: bold;">+1.32</span> | <span style="color: #8B0000; font-weight: bold;">+9.57</span> | **70.7** | <span style="color: #DC143C; font-weight: bold;">4.1</span> | <span style="color: #006400; font-weight: bold;">17.24</span> |
+| **2024/11** | **4.89** | <span style="color: #DC143C; font-weight: bold;">+20</span> | <span style="color: #B22222; font-weight: bold;">+10.4</span> | **71.9** | <span style="color: #DC143C; font-weight: bold;">4.1</span> | <span style="color: #006400; font-weight: bold;">17.54</span> |
 | **2024/10** | **5.04** | <span style="color: #8B0000; font-weight: bold;">+6.43</span> | <span style="color: #8B0000; font-weight: bold;">+9.61</span> | **-** | N/A | N/A |
 | **2024/09** | **5.55** | <span style="color: #B22222; font-weight: bold;">+12.4</span> | <span style="color: #8B0000; font-weight: bold;">+9.96</span> | **-** | N/A | N/A |
 | **2024/08** | **5.43** | <span style="color: #8B0000; font-weight: bold;">+9.09</span> | <span style="color: #8B0000; font-weight: bold;">+9.65</span> | **-** | N/A | N/A |
@@ -208,7 +205,7 @@ description: 月營收表 三商餐飲 (7705) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-07-16 15:23:24 CST
+- **產生時間**: 2026-05-17 04:03:13 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
