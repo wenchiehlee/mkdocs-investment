@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-05-17
+date: 2026-07-28
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 芯鼎 (6695) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 芯鼎  
     **:identification_card: 股票代號**: 6695  
-    **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-05-17 04:03:13 CST
+    **:calendar: 最新資料**: 2026/06  
+    **:clock3: 更新時間**: 2026-07-28 13:47:50 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #002818; font-weight: bold;">-4.74</span> | <span style="color: #8B0000; font-weight: bold;">+4.45</span> | **93** 個月 | 2018/07 至 2026/03 |
+| <span style="color: #004225; font-weight: bold;">-17.8</span> | <span style="color: #004225; font-weight: bold;">-11</span> | **96** 個月 | 2018/07 至 2026/06 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -49,9 +49,9 @@ description: 月營收表 芯鼎 (6695) - 自動產生
 | **9月** | -- | 91<br/><span style="color: #002818;">(-2.56%)</span> | 93<br/><span style="color: #004225;">(-15.20%)</span> | 110<br/><span style="color: #DC143C;">(+29.40%)</span> | 85<br/><span style="color: #006400;">(-23.40%)</span> |
 | **8月** | -- | 90<br/><span style="color: #002818;">(-1.69%)</span> | 92<br/><span style="color: #002818;">(-8.26%)</span> | 101<br/><span style="color: #DC143C;">(+25.50%)</span> | 80<br/><span style="color: #228B22;">(-34.50%)</span> |
 | **7月** | -- | 91<br/><span style="color: #8B0000;">(+0.83%)</span> | 90<br/><span style="color: #002818;">(-2.61%)</span> | 93<br/><span style="color: #002818;">(-7.14%)</span> | 101<br/><span style="color: #004225;">(-13.50%)</span> |
-| **6月** | -- | 123<br/><span style="color: #FF7F7F;">(+69.50%)</span> | 72<br/><span style="color: #002818;">(-9.74%)</span> | 80<br/><span style="color: #228B22;">(-31.70%)</span> | 118<br/><span style="color: #8B0000;">(+2.04%)</span> |
-| **5月** | -- | 103<br/><span style="color: #FF6347;">(+42.50%)</span> | 72<br/><span style="color: #006400;">(-24.40%)</span> | 95<br/><span style="color: #006400;">(-23.60%)</span> | 125<br/><span style="color: #B22222;">(+11.10%)</span> |
-| **4月** | -- | 102<br/><span style="color: #FF6347;">(+40.40%)</span> | 72<br/><span style="color: #228B22;">(-34.20%)</span> | 110<br/><span style="color: #002818;">(-1.11%)</span> | 111<br/><span style="color: #B22222;">(+10.70%)</span> |
+| **6月** | 101<br/><span style="color: #004225;">(-17.80%)</span> | 123<br/><span style="color: #FF7F7F;">(+69.50%)</span> | 72<br/><span style="color: #002818;">(-9.74%)</span> | 80<br/><span style="color: #228B22;">(-31.70%)</span> | 118<br/><span style="color: #8B0000;">(+2.04%)</span> |
+| **5月** | 76<br/><span style="color: #006400;">(-25.50%)</span> | 103<br/><span style="color: #FF6347;">(+42.50%)</span> | 72<br/><span style="color: #006400;">(-24.40%)</span> | 95<br/><span style="color: #006400;">(-23.60%)</span> | 125<br/><span style="color: #B22222;">(+11.10%)</span> |
+| **4月** | 76<br/><span style="color: #006400;">(-25.00%)</span> | 102<br/><span style="color: #FF6347;">(+40.40%)</span> | 72<br/><span style="color: #228B22;">(-34.20%)</span> | 110<br/><span style="color: #002818;">(-1.11%)</span> | 111<br/><span style="color: #B22222;">(+10.70%)</span> |
 | **3月** | 87<br/><span style="color: #002818;">(-4.74%)</span> | 91<br/><span style="color: #DC143C;">(+26.30%)</span> | 72<br/><span style="color: #006400;">(-28.60%)</span> | 102<br/><span style="color: #002818;">(-2.48%)</span> | 104<br/><span style="color: #DC143C;">(+25.00%)</span> |
 | **2月** | 75<br/><span style="color: #002818;">(-6.26%)</span> | 80<br/><span style="color: #FF4500;">(+32.20%)</span> | 60<br/><span style="color: #006400;">(-20.40%)</span> | 76<br/><span style="color: #002818;">(-5.00%)</span> | 80<br/><span style="color: #DC143C;">(+22.00%)</span> |
 | **1月** | 90<br/><span style="color: #DC143C;">(+28.80%)</span> | 70<br/><span style="color: #004225;">(-14.40%)</span> | 81<br/><span style="color: #DC143C;">(+25.00%)</span> | 65<br/><span style="color: #004225;">(-16.30%)</span> | 78<br/><span style="color: #B22222;">(+10.90%)</span> |
@@ -62,14 +62,14 @@ description: 月營收表 芯鼎 (6695) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **-1.50** | **-0.83** | **-0.06** |
+| **EPS(元)** | **-1.60** | **-0.89** | **-0.12** |
 | **P/E倍數** | **69.19** | **173.27** | **444.25** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 芯鼎 歷史平均獲利能力 (σup=0.77, σlo=0.68)
+    - **EPSbase**: 芯鼎 歷史平均獲利能力 (σup=0.77, σlo=0.71)
     - **P/Ebase**: 芯鼎 歷史平均估值水準 (σup=270.99, σlo=104.08)
 
 
@@ -79,9 +79,12 @@ description: 月營收表 芯鼎 (6695) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/03** | **0.873** | <span style="color: #002818; font-weight: bold;">-4.74</span> | <span style="color: #8B0000; font-weight: bold;">+4.45</span> | **37.8** | <span style="color: #006400; font-weight: bold;">-1.83</span> | <span style="color: #000000;">-</span> |
-| **2026/02** | **0.753** | <span style="color: #002818; font-weight: bold;">-6.26</span> | <span style="color: #B22222; font-weight: bold;">+10.1</span> | **43.15** | <span style="color: #006400; font-weight: bold;">-1.83</span> | <span style="color: #000000;">-</span> |
-| **2026/01** | **0.902** | <span style="color: #DC143C; font-weight: bold;">+28.8</span> | <span style="color: #DC143C; font-weight: bold;">+28.8</span> | **42.75** | <span style="color: #006400; font-weight: bold;">-1.83</span> | <span style="color: #000000;">-</span> |
+| **2026/06** | **1.01** | <span style="color: #004225; font-weight: bold;">-17.8</span> | <span style="color: #004225; font-weight: bold;">-11</span> | **59.6** | <span style="color: #006400; font-weight: bold;">-1.81</span> | <span style="color: #000000;">-</span> |
+| **2026/05** | **0.768** | <span style="color: #006400; font-weight: bold;">-25.5</span> | <span style="color: #002818; font-weight: bold;">-9.14</span> | **58.2** | <span style="color: #006400; font-weight: bold;">-1.81</span> | <span style="color: #000000;">-</span> |
+| **2026/04** | **0.763** | <span style="color: #006400; font-weight: bold;">-25</span> | <span style="color: #002818; font-weight: bold;">-4.24</span> | **46.5** | <span style="color: #006400; font-weight: bold;">-1.81</span> | <span style="color: #000000;">-</span> |
+| **2026/03** | **0.873** | <span style="color: #002818; font-weight: bold;">-4.74</span> | <span style="color: #8B0000; font-weight: bold;">+4.45</span> | **37.8** | <span style="color: #006400; font-weight: bold;">-1.81</span> | <span style="color: #000000;">-</span> |
+| **2026/02** | **0.753** | <span style="color: #002818; font-weight: bold;">-6.26</span> | <span style="color: #B22222; font-weight: bold;">+10.1</span> | **43.15** | <span style="color: #006400; font-weight: bold;">-1.81</span> | <span style="color: #000000;">-</span> |
+| **2026/01** | **0.902** | <span style="color: #DC143C; font-weight: bold;">+28.8</span> | <span style="color: #DC143C; font-weight: bold;">+28.8</span> | **42.75** | <span style="color: #006400; font-weight: bold;">-1.81</span> | <span style="color: #000000;">-</span> |
 | **2025/12** | **0.932** | <span style="color: #006400; font-weight: bold;">-22.1</span> | <span style="color: #B22222; font-weight: bold;">+10.5</span> | **45.4** | <span style="color: #006400; font-weight: bold;">-1.83</span> | <span style="color: #000000;">-</span> |
 | **2025/11** | **1.09** | <span style="color: #B22222; font-weight: bold;">+12.9</span> | <span style="color: #B22222; font-weight: bold;">+14.8</span> | **44.35** | <span style="color: #006400; font-weight: bold;">-1.83</span> | <span style="color: #000000;">-</span> |
 | **2025/10** | **0.801** | <span style="color: #004225; font-weight: bold;">-14.2</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **49.85** | <span style="color: #006400; font-weight: bold;">-1.83</span> | <span style="color: #000000;">-</span> |
@@ -91,15 +94,15 @@ description: 月營收表 芯鼎 (6695) - 自動產生
 | **2025/06** | **1.23** | <span style="color: #FF7F7F; font-weight: bold;">+69.5</span> | <span style="color: #FF4500; font-weight: bold;">+31.8</span> | **42.75** | <span style="color: #004225; font-weight: bold;">-1.27</span> | <span style="color: #000000;">-</span> |
 | **2025/05** | **1.03** | <span style="color: #FF6347; font-weight: bold;">+42.5</span> | <span style="color: #DC143C; font-weight: bold;">+24.1</span> | **41.8** | <span style="color: #004225; font-weight: bold;">-1.27</span> | <span style="color: #000000;">-</span> |
 | **2025/04** | **1.02** | <span style="color: #FF6347; font-weight: bold;">+40.4</span> | <span style="color: #B22222; font-weight: bold;">+19.5</span> | **43.55** | <span style="color: #004225; font-weight: bold;">-1.27</span> | <span style="color: #000000;">-</span> |
-| **2025/03** | **0.916** | <span style="color: #DC143C; font-weight: bold;">+26.3</span> | <span style="color: #B22222; font-weight: bold;">+12.5</span> | **46.35** | <span style="color: #002818; font-weight: bold;">-0.89</span> | <span style="color: #000000;">-</span> |
-| **2025/02** | **0.803** | <span style="color: #FF4500; font-weight: bold;">+32.2</span> | <span style="color: #8B0000; font-weight: bold;">+5.44</span> | **61** | <span style="color: #002818; font-weight: bold;">-0.89</span> | <span style="color: #000000;">-</span> |
-| **2025/01** | **0.7** | <span style="color: #004225; font-weight: bold;">-14.4</span> | <span style="color: #004225; font-weight: bold;">-14.4</span> | **59.3** | <span style="color: #002818; font-weight: bold;">-0.89</span> | <span style="color: #000000;">-</span> |
+| **2025/03** | **0.916** | <span style="color: #DC143C; font-weight: bold;">+26.3</span> | <span style="color: #B22222; font-weight: bold;">+12.5</span> | **46.35** | <span style="color: #8B0000; font-weight: bold;">-0.89</span> | <span style="color: #000000;">-</span> |
+| **2025/02** | **0.803** | <span style="color: #FF4500; font-weight: bold;">+32.2</span> | <span style="color: #8B0000; font-weight: bold;">+5.44</span> | **61** | <span style="color: #8B0000; font-weight: bold;">-0.89</span> | <span style="color: #000000;">-</span> |
+| **2025/01** | **0.7** | <span style="color: #004225; font-weight: bold;">-14.4</span> | <span style="color: #004225; font-weight: bold;">-14.4</span> | **59.3** | <span style="color: #8B0000; font-weight: bold;">-0.89</span> | <span style="color: #000000;">-</span> |
 | **2024/12** | **1.2** | <span style="color: #FF6347; font-weight: bold;">+40.1</span> | <span style="color: #002818; font-weight: bold;">-7.44</span> | **66.1** | <span style="color: #B22222; font-weight: bold;">-0.41</span> | <span style="color: #000000;">-</span> |
 | **2024/11** | **0.963** | <span style="color: #8B0000; font-weight: bold;">+5.77</span> | <span style="color: #004225; font-weight: bold;">-11.4</span> | **53.4** | <span style="color: #B22222; font-weight: bold;">-0.41</span> | <span style="color: #000000;">-</span> |
 | **2024/10** | **0.934** | <span style="color: #8B0000; font-weight: bold;">+3.58</span> | <span style="color: #004225; font-weight: bold;">-13.1</span> | **57.7** | <span style="color: #B22222; font-weight: bold;">-0.41</span> | <span style="color: #000000;">-</span> |
-| **2024/09** | **0.935** | <span style="color: #004225; font-weight: bold;">-15.2</span> | <span style="color: #004225; font-weight: bold;">-14.9</span> | **58.5** | <span style="color: #006400; font-weight: bold;">-1.55</span> | <span style="color: #000000;">-</span> |
-| **2024/08** | **0.924** | <span style="color: #002818; font-weight: bold;">-8.26</span> | <span style="color: #004225; font-weight: bold;">-14.9</span> | **59.4** | <span style="color: #006400; font-weight: bold;">-1.55</span> | <span style="color: #000000;">-</span> |
-| **2024/07** | **0.909** | <span style="color: #002818; font-weight: bold;">-2.61</span> | <span style="color: #004225; font-weight: bold;">-16</span> | **65.4** | <span style="color: #006400; font-weight: bold;">-1.55</span> | <span style="color: #000000;">-</span> |
+| **2024/09** | **0.935** | <span style="color: #004225; font-weight: bold;">-15.2</span> | <span style="color: #004225; font-weight: bold;">-14.9</span> | **58.5** | <span style="color: #004225; font-weight: bold;">-1.55</span> | <span style="color: #000000;">-</span> |
+| **2024/08** | **0.924** | <span style="color: #002818; font-weight: bold;">-8.26</span> | <span style="color: #004225; font-weight: bold;">-14.9</span> | **59.4** | <span style="color: #004225; font-weight: bold;">-1.55</span> | <span style="color: #000000;">-</span> |
+| **2024/07** | **0.909** | <span style="color: #002818; font-weight: bold;">-2.61</span> | <span style="color: #004225; font-weight: bold;">-16</span> | **65.4** | <span style="color: #004225; font-weight: bold;">-1.55</span> | <span style="color: #000000;">-</span> |
 | **2024/06** | **0.728** | <span style="color: #002818; font-weight: bold;">-9.74</span> | <span style="color: #004225; font-weight: bold;">-18.3</span> | **75.4** | <span style="color: #002818; font-weight: bold;">-0.98</span> | <span style="color: #000000;">-</span> |
 | **2024/05** | **0.723** | <span style="color: #006400; font-weight: bold;">-24.4</span> | <span style="color: #004225; font-weight: bold;">-19.9</span> | **73** | <span style="color: #002818; font-weight: bold;">-0.98</span> | <span style="color: #000000;">-</span> |
 | **2024/04** | **0.724** | <span style="color: #228B22; font-weight: bold;">-34.2</span> | <span style="color: #004225; font-weight: bold;">-18.6</span> | **54.5** | <span style="color: #002818; font-weight: bold;">-0.98</span> | <span style="color: #000000;">-</span> |
@@ -267,7 +270,7 @@ description: 月營收表 芯鼎 (6695) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-05-17 04:03:13 CST
+- **產生時間**: 2026-07-28 13:47:50 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

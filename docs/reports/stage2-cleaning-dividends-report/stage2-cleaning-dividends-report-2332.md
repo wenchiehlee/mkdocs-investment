@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-05-17
+date: 2026-07-28
 categories:
   - 股票
   - 股利分配
@@ -27,7 +27,7 @@ description: 股利分配報告 友訊 (2332) - 自動產生
     **:identification_card: 股票代號**: 2332  
     **:calendar: 分析年度**: 1993-2026 (共 34 年)  
     **:clock3: 最新資料**: 2026  
-    **🕒 更新時間**: 2026-05-17 04:04:30 CST
+    **🕒 更新時間**: 2026-07-28 13:49:19 CST
 
 ## :chart_with_upwards_trend: 快速摘要指標
 
@@ -45,7 +45,7 @@ description: 股利分配報告 友訊 (2332) - 自動產生
 
 | :chart: 指標 | :new: 最新 | :two: 2年均 | :three: 3年均 | :five: 5年均 | :keycap_ten: 10年均 | :factory: 產業均 | :left_right_arrow: 相對產業 |
 |:--------:|:------:|:------:|:------:|:------:|:--------:|:----------:|:-----------:|
-| **現金殖利率(%)** | 0.00 | 0.28 | 1.12 | 1.28 | 1.21 | 3.59 | - |
+| **現金殖利率(%)** | 0.00 | 0.28 | 1.12 | 1.28 | 1.21 | 3.24 | - |
 | **總殖利率(%)** | - | 0.28 | 1.12 | 1.28 | 1.21 | - | - |
 | **配息率(%)** | - | 166.7 | 111.8 | 106.9 | 94.7 | - | - |
 | **填息天數(現金)** | - | 1 | 13 | 7 | 9 | - | - |
@@ -527,8 +527,8 @@ description: 股利分配報告 友訊 (2332) - 自動產生
 <td>1.3%</td>
 <td>0.7%</td>
 <td>3.4%</td>
-<td>-</td>
-<td>-</td>
+<td>532%</td>
+<td>0.47 (1999)</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -542,8 +542,8 @@ description: 股利分配報告 友訊 (2332) - 自動產生
 <td>1.6%</td>
 <td>1.2%</td>
 <td>2.2%</td>
-<td>-</td>
-<td>-</td>
+<td>10000%</td>
+<td>0.02 (1998)</td>
 <td>4</td>
 <td>4</td>
 <td>✅</td>
@@ -557,8 +557,8 @@ description: 股利分配報告 友訊 (2332) - 自動產生
 <td>0.0%</td>
 <td>0.0%</td>
 <td>0.0%</td>
-<td>-</td>
-<td>-</td>
+<td>261%</td>
+<td>1.15 (1997)</td>
 <td>-</td>
 <td>460</td>
 <td>-</td>
@@ -572,8 +572,8 @@ description: 股利分配報告 友訊 (2332) - 自動產生
 <td>0.7%</td>
 <td>0.5%</td>
 <td>1.0%</td>
-<td>-</td>
-<td>-</td>
+<td>323%</td>
+<td>0.93 (1996)</td>
 <td>14</td>
 <td>14</td>
 <td>✅</td>
@@ -587,8 +587,8 @@ description: 股利分配報告 友訊 (2332) - 自動產生
 <td>1.1%</td>
 <td>0.7%</td>
 <td>1.6%</td>
-<td>-</td>
-<td>-</td>
+<td>361%</td>
+<td>0.83 (1995)</td>
 <td>54</td>
 <td>54</td>
 <td>✅</td>
@@ -602,8 +602,8 @@ description: 股利分配報告 友訊 (2332) - 自動產生
 <td>0.0%</td>
 <td>0.0%</td>
 <td>0.0%</td>
-<td>-</td>
-<td>-</td>
+<td>70%</td>
+<td>4.27 (1994)</td>
 <td>-</td>
 <td>461</td>
 <td>-</td>
@@ -648,15 +648,14 @@ description: 股利分配報告 友訊 (2332) - 自動產生
 ## :information_source: 資料來源與方法
 
 !!! note "資料來源說明"
-    - **主要來源**：`cleaned_dividends.csv` (Type 1: DividendDetail)
-    - **EPS資料**：交叉比對 `cleaned_performance1.csv` (Type 7: Quarterly Performance)
+    - **主要來源**：`raw_dividends.csv` (Type 1: DividendDetail)
+    - **EPS資料**：交叉比對 `raw_performance1.csv` (Type 7: Quarterly Performance)
     - **FactSet預測**：`factset_detailed_report_latest.csv` (Type 51: FactSet Analyst Consensus Summary)
     - **預測演化**：FactSet 詳細報告時間序列 (同上 CSV)
-    - **產業基準**：3.59%
+    - **產業基準**：3.24%
 
 !!! info "報告元資訊"
-    - **報告產生時間**：2026-05-17 04:04:30
-    - **資料品質評分**：9.8/10
+    - **報告產生時間**：2026-07-28 13:49:19
     - **分析期間**：1993 - 2026 (共 34 年)
     - **資料來源**：Stage 2 資料清理股利報告系統
 

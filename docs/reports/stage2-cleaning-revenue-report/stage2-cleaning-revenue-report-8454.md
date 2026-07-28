@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-05-17
+date: 2026-07-28
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 富邦媒 (8454) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 富邦媒  
     **:identification_card: 股票代號**: 8454  
-    **:calendar: 最新資料**: 2026/03  
-    **:clock3: 更新時間**: 2026-05-17 04:03:13 CST
+    **:calendar: 最新資料**: 2026/06  
+    **:clock3: 更新時間**: 2026-07-28 13:47:50 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+2.07</span> | <span style="color: #8B0000; font-weight: bold;">+0.71</span> | **148** 個月 | 2013/12 至 2026/03 |
+| <span style="color: #8B0000; font-weight: bold;">+6.49</span> | <span style="color: #8B0000; font-weight: bold;">+2.38</span> | **151** 個月 | 2013/12 至 2026/06 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -49,9 +49,9 @@ description: 月營收表 富邦媒 (8454) - 自動產生
 | **9月** | -- | 7,938<br/><span style="color: #002818;">(-3.72%)</span> | 8,245<br/><span style="color: #8B0000;">(+3.10%)</span> | 7,997<br/><span style="color: #8B0000;">(+6.57%)</span> | 7,503<br/><span style="color: #B22222;">(+15.30%)</span> |
 | **8月** | -- | 8,488<br/><span style="color: #002818;">(-3.12%)</span> | 8,762<br/><span style="color: #8B0000;">(+1.65%)</span> | 8,619<br/><span style="color: #8B0000;">(+6.18%)</span> | 8,117<br/><span style="color: #B22222;">(+12.40%)</span> |
 | **7月** | -- | 8,130<br/><span style="color: #002818;">(-4.86%)</span> | 8,546<br/><span style="color: #8B0000;">(+1.02%)</span> | 8,459<br/><span style="color: #8B0000;">(+6.56%)</span> | 7,937<br/><span style="color: #B22222;">(+10.60%)</span> |
-| **6月** | -- | 9,225<br/><span style="color: #002818;">(-3.49%)</span> | 9,559<br/><span style="color: #8B0000;">(+3.05%)</span> | 9,276<br/><span style="color: #8B0000;">(+4.64%)</span> | 8,864<br/><span style="color: #8B0000;">(+6.46%)</span> |
-| **5月** | -- | 8,633<br/><span style="color: #002818;">(-3.83%)</span> | 8,978<br/><span style="color: #8B0000;">(+0.01%)</span> | 8,976<br/><span style="color: #8B0000;">(+4.06%)</span> | 8,626<br/><span style="color: #8B0000;">(+6.11%)</span> |
-| **4月** | -- | 8,173<br/><span style="color: #8B0000;">(+0.65%)</span> | 8,120<br/><span style="color: #8B0000;">(+2.00%)</span> | 7,959<br/><span style="color: #8B0000;">(+4.07%)</span> | 7,648<br/><span style="color: #FF4500;">(+31.80%)</span> |
+| **6月** | 9,825<br/><span style="color: #8B0000;">(+6.49%)</span> | 9,225<br/><span style="color: #002818;">(-3.49%)</span> | 9,559<br/><span style="color: #8B0000;">(+3.05%)</span> | 9,276<br/><span style="color: #8B0000;">(+4.64%)</span> | 8,864<br/><span style="color: #8B0000;">(+6.46%)</span> |
+| **5月** | 8,987<br/><span style="color: #8B0000;">(+4.10%)</span> | 8,633<br/><span style="color: #002818;">(-3.83%)</span> | 8,978<br/><span style="color: #8B0000;">(+0.01%)</span> | 8,976<br/><span style="color: #8B0000;">(+4.06%)</span> | 8,626<br/><span style="color: #8B0000;">(+6.11%)</span> |
+| **4月** | 8,281<br/><span style="color: #8B0000;">(+1.32%)</span> | 8,173<br/><span style="color: #8B0000;">(+0.65%)</span> | 8,120<br/><span style="color: #8B0000;">(+2.00%)</span> | 7,959<br/><span style="color: #8B0000;">(+4.07%)</span> | 7,648<br/><span style="color: #FF4500;">(+31.80%)</span> |
 | **3月** | 9,142<br/><span style="color: #8B0000;">(+2.07%)</span> | 8,956<br/><span style="color: #002818;">(-0.75%)</span> | 9,024<br/><span style="color: #8B0000;">(+6.55%)</span> | 8,469<br/><span style="color: #B22222;">(+12.50%)</span> | 7,530<br/><span style="color: #DC143C;">(+23.30%)</span> |
 | **2月** | 8,129<br/><span style="color: #002818;">(-2.06%)</span> | 8,301<br/><span style="color: #8B0000;">(+1.36%)</span> | 8,189<br/><span style="color: #8B0000;">(+3.66%)</span> | 7,898<br/><span style="color: #B22222;">(+13.00%)</span> | 6,990<br/><span style="color: #DC143C;">(+27.00%)</span> |
 | **1月** | 9,323<br/><span style="color: #8B0000;">(+1.90%)</span> | 9,148<br/><span style="color: #002818;">(-5.34%)</span> | 9,665<br/><span style="color: #B22222;">(+10.40%)</span> | 8,752<br/><span style="color: #8B0000;">(+3.97%)</span> | 8,417<br/><span style="color: #DC143C;">(+24.70%)</span> |
@@ -62,15 +62,15 @@ description: 月營收表 富邦媒 (8454) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **9.13** | **11.94** | **15.33** |
-| **P/E倍數** | **24.90** | **36.15** | **69.07** |
+| **EPS(元)** | **9.15** | **11.88** | **15.33** |
+| **P/E倍數** | **24.91** | **35.92** | **69.01** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 富邦媒 歷史平均獲利能力 (σup=3.39, σlo=2.81)
-    - **P/Ebase**: 富邦媒 歷史平均估值水準 (σup=32.92, σlo=11.25)
+    - **EPSbase**: 富邦媒 歷史平均獲利能力 (σup=3.44, σlo=2.74)
+    - **P/Ebase**: 富邦媒 歷史平均估值水準 (σup=33.08, σlo=11.01)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,9 +79,12 @@ description: 月營收表 富邦媒 (8454) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/03** | **91.42** | <span style="color: #8B0000; font-weight: bold;">+2.07</span> | <span style="color: #8B0000; font-weight: bold;">+0.71</span> | **177** | <span style="color: #002818; font-weight: bold;">11.29</span> | <span style="color: #228B22; font-weight: bold;">15.68</span> |
-| **2026/02** | **81.29** | <span style="color: #002818; font-weight: bold;">-2.06</span> | <span style="color: #8B0000; font-weight: bold;">+0.01</span> | **192.5** | <span style="color: #002818; font-weight: bold;">11.29</span> | <span style="color: #228B22; font-weight: bold;">17.05</span> |
-| **2026/01** | **93.23** | <span style="color: #8B0000; font-weight: bold;">+1.9</span> | <span style="color: #8B0000; font-weight: bold;">+1.9</span> | **188.5** | <span style="color: #002818; font-weight: bold;">11.29</span> | <span style="color: #228B22; font-weight: bold;">16.7</span> |
+| **2026/06** | **98.25** | <span style="color: #8B0000; font-weight: bold;">+6.49</span> | <span style="color: #8B0000; font-weight: bold;">+2.38</span> | **297.5** | <span style="color: #004225; font-weight: bold;">10.48</span> | <span style="color: #004225; font-weight: bold;">28.39</span> |
+| **2026/05** | **89.87** | <span style="color: #8B0000; font-weight: bold;">+4.1</span> | <span style="color: #8B0000; font-weight: bold;">+1.5</span> | **231** | <span style="color: #004225; font-weight: bold;">10.48</span> | <span style="color: #006400; font-weight: bold;">22.04</span> |
+| **2026/04** | **82.81** | <span style="color: #8B0000; font-weight: bold;">+1.32</span> | <span style="color: #8B0000; font-weight: bold;">+0.85</span> | **170.5** | <span style="color: #004225; font-weight: bold;">10.48</span> | <span style="color: #228B22; font-weight: bold;">16.27</span> |
+| **2026/03** | **91.42** | <span style="color: #8B0000; font-weight: bold;">+2.07</span> | <span style="color: #8B0000; font-weight: bold;">+0.71</span> | **177** | <span style="color: #004225; font-weight: bold;">10.48</span> | <span style="color: #228B22; font-weight: bold;">16.89</span> |
+| **2026/02** | **81.29** | <span style="color: #002818; font-weight: bold;">-2.06</span> | <span style="color: #8B0000; font-weight: bold;">+0.01</span> | **192.5** | <span style="color: #004225; font-weight: bold;">10.48</span> | <span style="color: #228B22; font-weight: bold;">17.91</span> |
+| **2026/01** | **93.23** | <span style="color: #8B0000; font-weight: bold;">+1.9</span> | <span style="color: #8B0000; font-weight: bold;">+1.9</span> | **188.5** | <span style="color: #004225; font-weight: bold;">10.48</span> | <span style="color: #228B22; font-weight: bold;">17.11</span> |
 | **2025/12** | **91.96** | <span style="color: #002818; font-weight: bold;">-5.65</span> | <span style="color: #002818; font-weight: bold;">-3.46</span> | **207.5** | <span style="color: #002818; font-weight: bold;">11.29</span> | <span style="color: #228B22; font-weight: bold;">18.38</span> |
 | **2025/11** | **146.8** | <span style="color: #002818; font-weight: bold;">-5.73</span> | <span style="color: #002818; font-weight: bold;">-3.25</span> | **227** | <span style="color: #002818; font-weight: bold;">11.29</span> | <span style="color: #006400; font-weight: bold;">19.69</span> |
 | **2025/10** | **77.99** | <span style="color: #002818; font-weight: bold;">-4.37</span> | <span style="color: #002818; font-weight: bold;">-2.81</span> | **233.5** | <span style="color: #002818; font-weight: bold;">11.29</span> | <span style="color: #006400; font-weight: bold;">19.85</span> |
@@ -322,7 +325,7 @@ description: 月營收表 富邦媒 (8454) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-05-17 04:03:13 CST
+- **產生時間**: 2026-07-28 13:47:50 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -3,7 +3,7 @@
     "stock_code": "2337",
     "company_name": "旺宏",
     "industry": "半導體業",
-    "generated_at": "2026-07-16T15:30:26.614660",
+    "generated_at": "2026-07-28T13:55:20.372520",
     "horizons": [
       "10y"
     ],
@@ -633,7 +633,7 @@
     "10y": {
       "horizon_label": "10年",
       "avg_pe": 17.28,
-      "avg_return": 11.16,
+      "avg_return": 11.58,
       "r_squared": 0.0116,
       "slope": -0.0205,
       "intercept": 6.9965,

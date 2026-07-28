@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-16
+date: 2026-07-28
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 華邦電 (2344) - 自動產生
     **:building_construction: 公司名稱**: 華邦電  
     **:identification_card: 股票代號**: 2344  
     **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-07-16 15:23:24 CST
+    **:clock3: 更新時間**: 2026-07-28 13:47:50 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 華邦電 (2344) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **-1.10** | **0.46** | **2.04** |
-| **P/E倍數** | **13.71** | **40.68** | **160.64** |
+| **EPS(元)** | **-1.10** | **0.48** | **2.06** |
+| **P/E倍數** | **13.71** | **40.73** | **159.38** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 華邦電 歷史平均獲利能力 (σup=1.58, σlo=1.56)
-    - **P/Ebase**: 華邦電 歷史平均估值水準 (σup=119.95, σlo=26.97)
+    - **EPSbase**: 華邦電 歷史平均獲利能力 (σup=1.58, σlo=1.58)
+    - **P/Ebase**: 華邦電 歷史平均估值水準 (σup=118.66, σlo=27.01)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,7 +79,7 @@ description: 月營收表 華邦電 (2344) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/06** | **206** | <span style="color: #FF7F7F; font-weight: bold;">+189.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+139.2</span> | **207.5** | <span style="color: #FF4500; font-weight: bold;">3.37</span> | <span style="color: #8B0000; font-weight: bold;">59.05</span> |
+| **2026/06** | **206** | <span style="color: #FF7F7F; font-weight: bold;">+189.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+139.2</span> | **207.5** | <span style="color: #FF4500; font-weight: bold;">3.37</span> | <span style="color: #8B0000; font-weight: bold;">61.57</span> |
 | **2026/05** | **200** | <span style="color: #FF7F7F; font-weight: bold;">+182</span> | <span style="color: #FF7F7F; font-weight: bold;">+128.6</span> | **158** | <span style="color: #FF4500; font-weight: bold;">3.37</span> | <span style="color: #8B0000; font-weight: bold;">46.88</span> |
 | **2026/04** | **192.5** | <span style="color: #FF7F7F; font-weight: bold;">+182.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+114.4</span> | **89.8** | <span style="color: #FF4500; font-weight: bold;">3.37</span> | <span style="color: #004225; font-weight: bold;">26.65</span> |
 | **2026/03** | **145** | <span style="color: #FF7F7F; font-weight: bold;">+91.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+91.3</span> | **90.2** | <span style="color: #FF4500; font-weight: bold;">3.37</span> | <span style="color: #004225; font-weight: bold;">26.77</span> |
@@ -96,9 +96,9 @@ description: 月營收表 華邦電 (2344) - 自動產生
 | **2025/04** | **68.19** | <span style="color: #002818; font-weight: bold;">-2.32</span> | <span style="color: #002818; font-weight: bold;">-1.07</span> | **15.75** | <span style="color: #004225; font-weight: bold;">-0.68</span> | <span style="color: #000000;">-</span> |
 | **2025/03** | **75.73** | <span style="color: #8B0000; font-weight: bold;">+0.81</span> | <span style="color: #002818; font-weight: bold;">-0.63</span> | **17.55** | <span style="color: #002818; font-weight: bold;">-0.01</span> | <span style="color: #000000;">-</span> |
 | **2025/02** | **63.54** | <span style="color: #8B0000; font-weight: bold;">+2.35</span> | <span style="color: #002818; font-weight: bold;">-1.5</span> | **18.7** | <span style="color: #002818; font-weight: bold;">-0.01</span> | <span style="color: #FF7F7F; font-weight: bold;">467.5</span> |
-| **2025/01** | **60.66** | <span style="color: #002818; font-weight: bold;">-5.25</span> | <span style="color: #002818; font-weight: bold;">-5.25</span> | **14.35** | <span style="color: #002818; font-weight: bold;">-0.01</span> | <span style="color: #B22222; font-weight: bold;">159.4</span> |
+| **2025/01** | **60.66** | <span style="color: #002818; font-weight: bold;">-5.25</span> | <span style="color: #002818; font-weight: bold;">-5.25</span> | **14.35** | <span style="color: #002818; font-weight: bold;">-0.01</span> | <span style="color: #DC143C; font-weight: bold;">159.4</span> |
 | **2024/12** | **63.72** | <span style="color: #002818; font-weight: bold;">-2.07</span> | <span style="color: #8B0000; font-weight: bold;">+8.8</span> | **14.8** | <span style="color: #002818; font-weight: bold;">0.14</span> | <span style="color: #B22222; font-weight: bold;">105.7</span> |
-| **2024/11** | **62.22** | <span style="color: #002818; font-weight: bold;">-2.3</span> | <span style="color: #8B0000; font-weight: bold;">+9.83</span> | **16.05** | <span style="color: #002818; font-weight: bold;">0.14</span> | <span style="color: #8B0000; font-weight: bold;">100.3</span> |
+| **2024/11** | **62.22** | <span style="color: #002818; font-weight: bold;">-2.3</span> | <span style="color: #8B0000; font-weight: bold;">+9.83</span> | **16.05** | <span style="color: #002818; font-weight: bold;">0.14</span> | <span style="color: #B22222; font-weight: bold;">100.3</span> |
 | **2024/10** | **60.98** | <span style="color: #002818; font-weight: bold;">-3.17</span> | <span style="color: #B22222; font-weight: bold;">+11.1</span> | **19.25** | <span style="color: #002818; font-weight: bold;">0.14</span> | <span style="color: #B22222; font-weight: bold;">106.9</span> |
 | **2024/09** | **72.31** | <span style="color: #8B0000; font-weight: bold;">+6.87</span> | <span style="color: #B22222; font-weight: bold;">+12.7</span> | **21.35** | <span style="color: #002818; font-weight: bold;">0.2</span> | <span style="color: #B22222; font-weight: bold;">106.8</span> |
 | **2024/08** | **69.98** | <span style="color: #8B0000; font-weight: bold;">+8.91</span> | <span style="color: #B22222; font-weight: bold;">+13.5</span> | **24.05** | <span style="color: #002818; font-weight: bold;">0.2</span> | <span style="color: #B22222; font-weight: bold;">124.4</span> |
@@ -414,7 +414,7 @@ description: 月營收表 華邦電 (2344) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-07-16 15:23:24 CST
+- **產生時間**: 2026-07-28 13:47:50 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
