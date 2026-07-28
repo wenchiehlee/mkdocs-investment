@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "stock_code": "50",
+    "company_name": "元大台灣50",
+    "industry": "未分類",
+    "generated_at": "2026-07-28T13:55:14.028259",
+    "horizons": [
+      "10y"
+    ]
+  },
+  "data": [],
+  "statistics": {
+    "10y": {
+      "horizon_label": "10年",
+      "avg_pe": null,
+      "avg_return": 6.27,
+      "r_squared": 0.0,
+      "slope": 0.0,
+      "intercept": 0.0,
+      "data_points": 121,
+      "best_buy": {
+        "date": "2015-01",
+        "pe": null,
+        "return": 11.46
+      },
+      "worst_buy": {
+        "date": "2015-06",
+        "pe": null,
+        "return": -3.55
+      }
+    }
+  },
+  "pe_river": [],
+  "revenue_yoy": []
+}
