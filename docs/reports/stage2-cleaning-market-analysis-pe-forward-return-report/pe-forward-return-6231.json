@@ -3,7 +3,7 @@
     "stock_code": "6231",
     "company_name": "系微",
     "industry": "資訊服務業",
-    "generated_at": "2026-07-28T13:56:04.353405",
+    "generated_at": "2026-08-10T00:34:37.666580",
     "horizons": [
       "10y"
     ],
@@ -4270,6 +4270,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 16.8
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": -6.76
     }
   ]
 }

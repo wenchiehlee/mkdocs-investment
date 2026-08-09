@@ -3,7 +3,7 @@
     "stock_code": "2353",
     "company_name": "宏碁",
     "industry": "電腦及週邊設備業",
-    "generated_at": "2026-07-28T13:55:22.740735",
+    "generated_at": "2026-08-10T00:33:22.786480",
     "horizons": [
       "10y"
     ],
@@ -2708,10 +2708,6 @@
   ],
   "revenue_yoy": [
     {
-      "date": "2006-07-16",
-      "revenue_yoy": 10.8
-    },
-    {
       "date": "2006-08-16",
       "revenue_yoy": 10.7
     },
@@ -3378,6 +3374,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": -3.02
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 21.9
     }
   ]
 }

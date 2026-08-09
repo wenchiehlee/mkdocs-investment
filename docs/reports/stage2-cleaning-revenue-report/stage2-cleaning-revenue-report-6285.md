@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-28
+date: 2026-08-10
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 啟碁 (6285) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 啟碁  
     **:identification_card: 股票代號**: 6285  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-07-28 13:47:50 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-10 00:23:08 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+84.4</span> | <span style="color: #DC143C; font-weight: bold;">+22.8</span> | **240** 個月 | 2006/07 至 2026/06 |
+| <span style="color: #FF7F7F; font-weight: bold;">+89.8</span> | <span style="color: #FF4500; font-weight: bold;">+32</span> | **240** 個月 | 2006/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 啟碁 (6285) - 自動產生
 | **10月** | -- | 9,483<br/><span style="color: #8B0000;">(+3.51%)</span> | 9,161<br/><span style="color: #002818;">(-6.68%)</span> | 9,818<br/><span style="color: #002818;">(-4.66%)</span> | 10,300<br/><span style="color: #FF7F7F;">(+78.20%)</span> |
 | **9月** | -- | 9,802<br/><span style="color: #B22222;">(+17.10%)</span> | 8,372<br/><span style="color: #002818;">(-9.76%)</span> | 9,278<br/><span style="color: #002818;">(-4.82%)</span> | 9,748<br/><span style="color: #FF7F7F;">(+68.80%)</span> |
 | **8月** | -- | 8,666<br/><span style="color: #002818;">(-2.49%)</span> | 8,888<br/><span style="color: #004225;">(-15.50%)</span> | 10,520<br/><span style="color: #DC143C;">(+23.10%)</span> | 8,539<br/><span style="color: #FF6347;">(+46.90%)</span> |
-| **7月** | -- | 8,910<br/><span style="color: #8B0000;">(+2.32%)</span> | 8,707<br/><span style="color: #002818;">(-7.53%)</span> | 9,417<br/><span style="color: #B22222;">(+14.20%)</span> | 8,244<br/><span style="color: #FF6347;">(+43.60%)</span> |
+| **7月** | 16,910<br/><span style="color: #FF7F7F;">(+89.80%)</span> | 8,910<br/><span style="color: #8B0000;">(+2.32%)</span> | 8,707<br/><span style="color: #002818;">(-7.53%)</span> | 9,417<br/><span style="color: #B22222;">(+14.20%)</span> | 8,244<br/><span style="color: #FF6347;">(+43.60%)</span> |
 | **6月** | 15,869<br/><span style="color: #FF7F7F;">(+84.40%)</span> | 8,607<br/><span style="color: #004225;">(-17.00%)</span> | 10,380<br/><span style="color: #8B0000;">(+7.27%)</span> | 9,673<br/><span style="color: #B22222;">(+18.20%)</span> | 8,181<br/><span style="color: #FF7F7F;">(+60.90%)</span> |
 | **5月** | 12,170<br/><span style="color: #FF4500;">(+34.80%)</span> | 9,025<br/><span style="color: #004225;">(-12.60%)</span> | 10,330<br/><span style="color: #B22222;">(+12.00%)</span> | 9,224<br/><span style="color: #FF4500;">(+32.50%)</span> | 6,963<br/><span style="color: #FF4500;">(+31.90%)</span> |
 | **4月** | 11,400<br/><span style="color: #B22222;">(+15.60%)</span> | 9,859<br/><span style="color: #002818;">(-1.44%)</span> | 10,000<br/><span style="color: #DC143C;">(+29.40%)</span> | 7,730<br/><span style="color: #FF7F7F;">(+53.60%)</span> | 5,032<br/><span style="color: #002818;">(-2.04%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 啟碁 (6285) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **169.1** | <span style="color: #FF7F7F; font-weight: bold;">+89.8</span> | <span style="color: #FF4500; font-weight: bold;">+32</span> | **222** | <span style="color: #B22222; font-weight: bold;">6.83</span> | <span style="color: #FF7F7F; font-weight: bold;">36.53</span> |
 | **2026/06** | **158.7** | <span style="color: #FF7F7F; font-weight: bold;">+84.4</span> | <span style="color: #DC143C; font-weight: bold;">+22.8</span> | **259.5** | <span style="color: #B22222; font-weight: bold;">6.83</span> | <span style="color: #FF7F7F; font-weight: bold;">37.99</span> |
 | **2026/05** | **121.7** | <span style="color: #FF4500; font-weight: bold;">+34.8</span> | <span style="color: #B22222; font-weight: bold;">+11.6</span> | **319** | <span style="color: #B22222; font-weight: bold;">6.83</span> | <span style="color: #FF7F7F; font-weight: bold;">46.71</span> |
 | **2026/04** | **114** | <span style="color: #B22222; font-weight: bold;">+15.6</span> | <span style="color: #8B0000; font-weight: bold;">+6.1</span> | **216** | <span style="color: #B22222; font-weight: bold;">6.83</span> | <span style="color: #FF6347; font-weight: bold;">31.63</span> |
@@ -318,7 +319,6 @@ description: 月營收表 啟碁 (6285) - 自動產生
 | **2006/10** | **-** | N/A | N/A | **89.9** | <span style="color: #DC143C; font-weight: bold;">7.36</span> | <span style="color: #002818; font-weight: bold;">14.15</span> |
 | **2006/09** | **-** | N/A | N/A | **83.5** | <span style="color: #8B0000; font-weight: bold;">5.85</span> | <span style="color: #002818; font-weight: bold;">14.27</span> |
 | **2006/08** | **-** | N/A | N/A | **87.2** | <span style="color: #8B0000; font-weight: bold;">5.85</span> | <span style="color: #002818; font-weight: bold;">14.82</span> |
-| **2006/07** | **-** | N/A | N/A | **80.4** | <span style="color: #8B0000; font-weight: bold;">5.85</span> | <span style="color: #004225; font-weight: bold;">13.59</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 啟碁 (6285) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-07-28 13:47:50 CST
+- **產生時間**: 2026-08-10 00:23:08 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-28
+date: 2026-08-10
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 宏碁 (2353) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 宏碁  
     **:identification_card: 股票代號**: 2353  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-07-28 13:47:50 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-10 00:23:08 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #002818; font-weight: bold;">-3.02</span> | <span style="color: #DC143C; font-weight: bold;">+23.3</span> | **240** 個月 | 2006/07 至 2026/06 |
+| <span style="color: #DC143C; font-weight: bold;">+21.9</span> | <span style="color: #DC143C; font-weight: bold;">+23.1</span> | **240** 個月 | 2006/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 宏碁 (2353) - 自動產生
 | **10月** | -- | 21,230<br/><span style="color: #B22222;">(+12.80%)</span> | 18,820<br/><span style="color: #002818;">(-2.75%)</span> | 19,350<br/><span style="color: #8B0000;">(+7.21%)</span> | 18,050<br/><span style="color: #228B22;">(-35.60%)</span> |
 | **9月** | -- | 29,530<br/><span style="color: #B22222;">(+12.20%)</span> | 26,310<br/><span style="color: #002818;">(-6.25%)</span> | 28,060<br/><span style="color: #8B0000;">(+3.32%)</span> | 27,160<br/><span style="color: #002818;">(-2.74%)</span> |
 | **8月** | -- | 21,800<br/><span style="color: #002818;">(-4.46%)</span> | 22,820<br/><span style="color: #8B0000;">(+5.23%)</span> | 21,690<br/><span style="color: #8B0000;">(+7.14%)</span> | 20,240<br/><span style="color: #006400;">(-25.30%)</span> |
-| **7月** | -- | 22,060<br/><span style="color: #002818;">(-5.91%)</span> | 23,450<br/><span style="color: #FF4500;">(+32.30%)</span> | 17,720<br/><span style="color: #8B0000;">(+1.51%)</span> | 17,460<br/><span style="color: #228B22;">(-33.10%)</span> |
+| **7月** | 26,900<br/><span style="color: #DC143C;">(+21.90%)</span> | 22,060<br/><span style="color: #002818;">(-5.91%)</span> | 23,450<br/><span style="color: #FF4500;">(+32.30%)</span> | 17,720<br/><span style="color: #8B0000;">(+1.51%)</span> | 17,460<br/><span style="color: #228B22;">(-33.10%)</span> |
 | **6月** | 27,820<br/><span style="color: #002818;">(-3.02%)</span> | 28,689<br/><span style="color: #8B0000;">(+1.74%)</span> | 28,189<br/><span style="color: #8B0000;">(+7.12%)</span> | 26,320<br/><span style="color: #004225;">(-15.00%)</span> | 30,939<br/><span style="color: #8B0000;">(+3.08%)</span> |
 | **5月** | 26,170<br/><span style="color: #FF4500;">(+36.50%)</span> | 19,170<br/><span style="color: #002818;">(-9.28%)</span> | 21,130<br/><span style="color: #B22222;">(+16.80%)</span> | 18,080<br/><span style="color: #004225;">(-18.40%)</span> | 22,180<br/><span style="color: #004225;">(-10.60%)</span> |
 | **4月** | 31,310<br/><span style="color: #FF7F7F;">(+68.40%)</span> | 18,590<br/><span style="color: #8B0000;">(+4.16%)</span> | 17,850<br/><span style="color: #DC143C;">(+29.10%)</span> | 13,830<br/><span style="color: #006400;">(-28.10%)</span> | 19,230<br/><span style="color: #006400;">(-22.90%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 宏碁 (2353) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **269** | <span style="color: #DC143C; font-weight: bold;">+21.9</span> | <span style="color: #DC143C; font-weight: bold;">+23.1</span> | **28.85** | <span style="color: #002818; font-weight: bold;">1.3</span> | <span style="color: #002818; font-weight: bold;">23.12</span> |
 | **2026/06** | **278.2** | <span style="color: #002818; font-weight: bold;">-3.02</span> | <span style="color: #DC143C; font-weight: bold;">+23.3</span> | **33.1** | <span style="color: #002818; font-weight: bold;">1.3</span> | <span style="color: #8B0000; font-weight: bold;">25.46</span> |
 | **2026/05** | **261.7** | <span style="color: #FF4500; font-weight: bold;">+36.5</span> | <span style="color: #FF4500; font-weight: bold;">+31</span> | **35.2** | <span style="color: #002818; font-weight: bold;">1.3</span> | <span style="color: #8B0000; font-weight: bold;">27.08</span> |
 | **2026/04** | **313.1** | <span style="color: #FF7F7F; font-weight: bold;">+68.4</span> | <span style="color: #DC143C; font-weight: bold;">+29.6</span> | **27.6** | <span style="color: #002818; font-weight: bold;">1.3</span> | <span style="color: #002818; font-weight: bold;">21.23</span> |
@@ -318,7 +319,6 @@ description: 月營收表 宏碁 (2353) - 自動產生
 | **2006/10** | **425.9** | <span style="color: #B22222; font-weight: bold;">+11.8</span> | <span style="color: #B22222; font-weight: bold;">+16.5</span> | **60.3** | <span style="color: #DC143C; font-weight: bold;">4.45</span> | <span style="color: #006400; font-weight: bold;">12.84</span> |
 | **2006/09** | **402** | <span style="color: #DC143C; font-weight: bold;">+21.6</span> | <span style="color: #B22222; font-weight: bold;">+17.3</span> | **56.1** | <span style="color: #DC143C; font-weight: bold;">4.82</span> | <span style="color: #006400; font-weight: bold;">11.64</span> |
 | **2006/08** | **299.9** | <span style="color: #B22222; font-weight: bold;">+10.7</span> | <span style="color: #B22222; font-weight: bold;">+16.6</span> | **50.8** | <span style="color: #DC143C; font-weight: bold;">4.82</span> | <span style="color: #006400; font-weight: bold;">10.51</span> |
-| **2006/07** | **247.9** | <span style="color: #B22222; font-weight: bold;">+10.8</span> | <span style="color: #B22222; font-weight: bold;">+17.6</span> | **45.75** | <span style="color: #DC143C; font-weight: bold;">4.82</span> | <span style="color: #228B22; font-weight: bold;">9.44</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 宏碁 (2353) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-07-28 13:47:50 CST
+- **產生時間**: 2026-08-10 00:23:08 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

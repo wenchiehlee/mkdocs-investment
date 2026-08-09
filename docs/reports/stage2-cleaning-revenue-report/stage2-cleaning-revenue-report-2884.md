@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-28
+date: 2026-08-10
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 玉山金 (2884) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 玉山金  
     **:identification_card: 股票代號**: 2884  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-07-28 13:47:50 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-10 00:23:08 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+25.3</span> | <span style="color: #DC143C; font-weight: bold;">+24.8</span> | **240** 個月 | 2006/07 至 2026/06 |
+| <span style="color: #8B0000; font-weight: bold;">+4.74</span> | <span style="color: #DC143C; font-weight: bold;">+21.6</span> | **240** 個月 | 2006/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 玉山金 (2884) - 自動產生
 | **10月** | -- | 8,154<br/><span style="color: #FF7F7F;">(+55.10%)</span> | 5,257<br/><span style="color: #004225;">(-14.20%)</span> | 6,127<br/><span style="color: #FF4500;">(+38.70%)</span> | 4,416<br/><span style="color: #8B0000;">(+6.96%)</span> |
 | **9月** | -- | 8,015<br/><span style="color: #B22222;">(+16.80%)</span> | 6,864<br/><span style="color: #DC143C;">(+25.80%)</span> | 5,456<br/><span style="color: #FF7F7F;">(+56.90%)</span> | 3,477<br/><span style="color: #006400;">(-23.60%)</span> |
 | **8月** | -- | 8,248<br/><span style="color: #8B0000;">(+6.82%)</span> | 7,722<br/><span style="color: #FF4500;">(+32.60%)</span> | 5,824<br/><span style="color: #DC143C;">(+21.50%)</span> | 4,793<br/><span style="color: #002818;">(-5.73%)</span> |
-| **7月** | -- | 8,364<br/><span style="color: #8B0000;">(+6.19%)</span> | 7,876<br/><span style="color: #FF6347;">(+40.70%)</span> | 5,598<br/><span style="color: #002818;">(-8.02%)</span> | 6,086<br/><span style="color: #8B0000;">(+8.91%)</span> |
+| **7月** | 8,761<br/><span style="color: #8B0000;">(+4.74%)</span> | 8,364<br/><span style="color: #8B0000;">(+6.19%)</span> | 7,876<br/><span style="color: #FF6347;">(+40.70%)</span> | 5,598<br/><span style="color: #002818;">(-8.02%)</span> | 6,086<br/><span style="color: #8B0000;">(+8.91%)</span> |
 | **6月** | 9,363<br/><span style="color: #DC143C;">(+25.30%)</span> | 7,472<br/><span style="color: #DC143C;">(+23.40%)</span> | 6,054<br/><span style="color: #B22222;">(+16.10%)</span> | 5,216<br/><span style="color: #FF7F7F;">(+64.10%)</span> | 3,178<br/><span style="color: #228B22;">(-32.80%)</span> |
 | **5月** | 9,259<br/><span style="color: #DC143C;">(+24.80%)</span> | 7,422<br/><span style="color: #8B0000;">(+8.02%)</span> | 6,870<br/><span style="color: #FF6347;">(+41.70%)</span> | 4,848<br/><span style="color: #002818;">(-2.84%)</span> | 4,990<br/><span style="color: #8B0000;">(+9.40%)</span> |
 | **4月** | 10,050<br/><span style="color: #FF6347;">(+47.80%)</span> | 6,797<br/><span style="color: #B22222;">(+18.80%)</span> | 5,721<br/><span style="color: #8B0000;">(+5.10%)</span> | 5,443<br/><span style="color: #FF4500;">(+37.50%)</span> | 3,959<br/><span style="color: #006400;">(-21.50%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 玉山金 (2884) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **87.61** | <span style="color: #8B0000; font-weight: bold;">+4.74</span> | <span style="color: #DC143C; font-weight: bold;">+21.6</span> | **38.65** | <span style="color: #FF6347; font-weight: bold;">2.19</span> | <span style="color: #004225; font-weight: bold;">16.42</span> |
 | **2026/06** | **93.63** | <span style="color: #DC143C; font-weight: bold;">+25.3</span> | <span style="color: #DC143C; font-weight: bold;">+24.8</span> | **34.45** | <span style="color: #FF6347; font-weight: bold;">2.19</span> | <span style="color: #004225; font-weight: bold;">15.73</span> |
 | **2026/05** | **92.59** | <span style="color: #DC143C; font-weight: bold;">+24.8</span> | <span style="color: #DC143C; font-weight: bold;">+24.7</span> | **30.95** | <span style="color: #FF6347; font-weight: bold;">2.19</span> | <span style="color: #006400; font-weight: bold;">14.13</span> |
 | **2026/04** | **100.5** | <span style="color: #FF6347; font-weight: bold;">+47.8</span> | <span style="color: #DC143C; font-weight: bold;">+24.7</span> | **31.85** | <span style="color: #FF6347; font-weight: bold;">2.19</span> | <span style="color: #006400; font-weight: bold;">14.54</span> |
@@ -318,7 +319,6 @@ description: 月營收表 玉山金 (2884) - 自動產生
 | **2006/10** | **-** | N/A | N/A | **20.95** | <span style="color: #228B22; font-weight: bold;">0.13</span> | <span style="color: #FF4500; font-weight: bold;">118.6</span> |
 | **2006/09** | **-** | N/A | N/A | **19.85** | <span style="color: #228B22; font-weight: bold;">0.2</span> | <span style="color: #DC143C; font-weight: bold;">99.25</span> |
 | **2006/08** | **-** | N/A | N/A | **19.6** | <span style="color: #228B22; font-weight: bold;">0.2</span> | <span style="color: #DC143C; font-weight: bold;">89.09</span> |
-| **2006/07** | **-** | N/A | N/A | **19.8** | <span style="color: #228B22; font-weight: bold;">0.2</span> | <span style="color: #B22222; font-weight: bold;">82.5</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 玉山金 (2884) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-07-28 13:47:50 CST
+- **產生時間**: 2026-08-10 00:23:08 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

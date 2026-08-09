@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-28
+date: 2026-08-10
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 信驊 (5274) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 信驊  
     **:identification_card: 股票代號**: 5274  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-07-28 13:47:50 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-10 00:23:08 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+67.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+62.8</span> | **174** 個月 | 2012/01 至 2026/06 |
+| <span style="color: #FF7F7F; font-weight: bold;">+97.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+68</span> | **175** 個月 | 2012/01 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 信驊 (5274) - 自動產生
 | **10月** | -- | 731<br/><span style="color: #8B0000;">(+6.53%)</span> | 686<br/><span style="color: #FF7F7F;">(+111.90%)</span> | 324<br/><span style="color: #228B22;">(-37.30%)</span> | 517<br/><span style="color: #FF6347;">(+45.10%)</span> |
 | **9月** | -- | 814<br/><span style="color: #B22222;">(+15.00%)</span> | 708<br/><span style="color: #FF7F7F;">(+120.20%)</span> | 322<br/><span style="color: #228B22;">(-32.50%)</span> | 476<br/><span style="color: #FF7F7F;">(+55.60%)</span> |
 | **8月** | -- | 744<br/><span style="color: #8B0000;">(+9.94%)</span> | 677<br/><span style="color: #FF7F7F;">(+178.10%)</span> | 243<br/><span style="color: #228B22;">(-39.50%)</span> | 403<br/><span style="color: #FF4500;">(+32.60%)</span> |
-| **7月** | -- | 771<br/><span style="color: #DC143C;">(+28.30%)</span> | 601<br/><span style="color: #FF7F7F;">(+159.40%)</span> | 231<br/><span style="color: #32CD32;">(-45.80%)</span> | 426<br/><span style="color: #DC143C;">(+29.70%)</span> |
+| **7月** | 1,524<br/><span style="color: #FF7F7F;">(+97.60%)</span> | 771<br/><span style="color: #DC143C;">(+28.30%)</span> | 601<br/><span style="color: #FF7F7F;">(+159.40%)</span> | 231<br/><span style="color: #32CD32;">(-45.80%)</span> | 426<br/><span style="color: #DC143C;">(+29.70%)</span> |
 | **6月** | 1,310<br/><span style="color: #FF7F7F;">(+67.50%)</span> | 782<br/><span style="color: #FF7F7F;">(+55.00%)</span> | 505<br/><span style="color: #FF7F7F;">(+123.00%)</span> | 225<br/><span style="color: #90EE90;">(-55.20%)</span> | 505<br/><span style="color: #FF7F7F;">(+53.70%)</span> |
 | **5月** | 1,282<br/><span style="color: #FF7F7F;">(+68.70%)</span> | 760<br/><span style="color: #FF7F7F;">(+74.50%)</span> | 434<br/><span style="color: #FF7F7F;">(+92.90%)</span> | 225<br/><span style="color: #90EE90;">(-51.50%)</span> | 466<br/><span style="color: #FF7F7F;">(+52.70%)</span> |
 | **4月** | 1,279<br/><span style="color: #FF7F7F;">(+81.60%)</span> | 704<br/><span style="color: #FF7F7F;">(+69.40%)</span> | 416<br/><span style="color: #FF7F7F;">(+82.40%)</span> | 227<br/><span style="color: #32CD32;">(-49.80%)</span> | 454<br/><span style="color: #FF7F7F;">(+60.70%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 信驊 (5274) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **15.24** | <span style="color: #FF7F7F; font-weight: bold;">+97.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+68</span> | **14525** | <span style="color: #FF4500; font-weight: bold;">117.8</span> | <span style="color: #FF4500; font-weight: bold;">125.0</span> |
 | **2026/06** | **13.1** | <span style="color: #FF7F7F; font-weight: bold;">+67.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+62.8</span> | **16495** | <span style="color: #FF4500; font-weight: bold;">117.8</span> | <span style="color: #FF4500; font-weight: bold;">140.0</span> |
 | **2026/05** | **12.82** | <span style="color: #FF7F7F; font-weight: bold;">+68.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+61.7</span> | **18950** | <span style="color: #FF4500; font-weight: bold;">117.8</span> | <span style="color: #FF6347; font-weight: bold;">160.8</span> |
 | **2026/04** | **12.79** | <span style="color: #FF7F7F; font-weight: bold;">+81.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+59.8</span> | **16475** | <span style="color: #FF4500; font-weight: bold;">117.8</span> | <span style="color: #FF4500; font-weight: bold;">139.8</span> |
@@ -348,7 +349,7 @@ description: 月營收表 信驊 (5274) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-07-28 13:47:50 CST
+- **產生時間**: 2026-08-10 00:23:08 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

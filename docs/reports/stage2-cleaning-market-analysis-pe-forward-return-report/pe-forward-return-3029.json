@@ -3,7 +3,7 @@
     "stock_code": "3029",
     "company_name": "零壹",
     "industry": "資訊服務業",
-    "generated_at": "2026-07-28T13:55:42.882639",
+    "generated_at": "2026-08-10T00:34:01.299014",
     "horizons": [
       "10y"
     ],
@@ -4149,6 +4149,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 13.6
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 59.2
     }
   ]
 }

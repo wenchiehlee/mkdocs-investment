@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-28
+date: 2026-08-10
 categories:
   - 股票
   - 月營收
@@ -25,13 +25,13 @@ description: 月營收表 台達電 (2308) - 自動產生
     **:building_construction: 公司名稱**: 台達電  
     **:identification_card: 股票代號**: 2308  
     **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-07-28 13:47:50 CST
+    **:clock3: 更新時間**: 2026-08-10 00:23:08 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+55.4</span> | <span style="color: #FF6347; font-weight: bold;">+41</span> | **240** 個月 | 2006/07 至 2026/06 |
+| <span style="color: #FF7F7F; font-weight: bold;">+55.4</span> | <span style="color: #FF6347; font-weight: bold;">+41</span> | **239** 個月 | 2006/08 至 2026/06 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -318,7 +318,6 @@ description: 月營收表 台達電 (2308) - 自動產生
 | **2006/10** | **100** | <span style="color: #B22222; font-weight: bold;">+14.6</span> | <span style="color: #FF4500; font-weight: bold;">+36</span> | **94** | <span style="color: #006400; font-weight: bold;">5.76</span> | <span style="color: #006400; font-weight: bold;">15.99</span> |
 | **2006/09** | **103.9** | <span style="color: #DC143C; font-weight: bold;">+22.6</span> | <span style="color: #FF4500; font-weight: bold;">+39.4</span> | **95** | <span style="color: #006400; font-weight: bold;">5.94</span> | <span style="color: #006400; font-weight: bold;">15.99</span> |
 | **2006/08** | **97.89** | <span style="color: #FF4500; font-weight: bold;">+32.2</span> | <span style="color: #FF6347; font-weight: bold;">+42.5</span> | **91.5** | <span style="color: #006400; font-weight: bold;">5.94</span> | <span style="color: #006400; font-weight: bold;">16.03</span> |
-| **2006/07** | **87.42** | <span style="color: #FF4500; font-weight: bold;">+38.5</span> | <span style="color: #FF6347; font-weight: bold;">+44.4</span> | **88.3** | <span style="color: #006400; font-weight: bold;">5.94</span> | <span style="color: #006400; font-weight: bold;">16.13</span> |
 
 </div>
 
@@ -414,7 +413,7 @@ description: 月營收表 台達電 (2308) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-07-28 13:47:50 CST
+- **產生時間**: 2026-08-10 00:23:08 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

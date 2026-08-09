@@ -3,7 +3,7 @@
     "stock_code": "3558",
     "company_name": "神準",
     "industry": "通信網路業",
-    "generated_at": "2026-07-28T13:55:50.794238",
+    "generated_at": "2026-08-10T00:34:16.018899",
     "horizons": [
       "10y"
     ],
@@ -2496,6 +2496,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 5.73
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 3.16
     }
   ]
 }

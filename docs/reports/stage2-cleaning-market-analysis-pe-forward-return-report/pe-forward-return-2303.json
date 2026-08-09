@@ -3,7 +3,7 @@
     "stock_code": "2303",
     "company_name": "聯電",
     "industry": "半導體業",
-    "generated_at": "2026-07-28T13:55:15.968346",
+    "generated_at": "2026-08-10T00:33:10.487236",
     "horizons": [
       "10y"
     ],
@@ -3921,6 +3921,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 22.8
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 19.0
     }
   ]
 }

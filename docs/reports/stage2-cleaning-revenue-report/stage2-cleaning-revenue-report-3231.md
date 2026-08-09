@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-28
+date: 2026-08-10
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 緯創 (3231) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 緯創  
     **:identification_card: 股票代號**: 3231  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-07-28 13:47:50 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-10 00:23:08 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+53.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+94</span> | **240** 個月 | 2006/07 至 2026/06 |
+| <span style="color: #FF7F7F; font-weight: bold;">+60.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+88.2</span> | **240** 個月 | 2006/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 緯創 (3231) - 自動產生
 | **10月** | -- | 185,100<br/><span style="color: #FF7F7F;">(+92.20%)</span> | 96,280<br/><span style="color: #DC143C;">(+22.80%)</span> | 78,400<br/><span style="color: #002818;">(-0.25%)</span> | 78,600<br/><span style="color: #002818;">(-2.04%)</span> |
 | **9月** | -- | 203,400<br/><span style="color: #FF7F7F;">(+109.90%)</span> | 96,900<br/><span style="color: #DC143C;">(+24.40%)</span> | 77,880<br/><span style="color: #004225;">(-16.70%)</span> | 93,540<br/><span style="color: #B22222;">(+13.20%)</span> |
 | **8月** | -- | 172,600<br/><span style="color: #FF7F7F;">(+92.20%)</span> | 89,820<br/><span style="color: #DC143C;">(+23.20%)</span> | 72,890<br/><span style="color: #002818;">(-5.18%)</span> | 76,880<br/><span style="color: #8B0000;">(+9.38%)</span> |
-| **7月** | -- | 191,700<br/><span style="color: #FF7F7F;">(+122.40%)</span> | 86,190<br/><span style="color: #DC143C;">(+27.30%)</span> | 67,720<br/><span style="color: #004225;">(-15.00%)</span> | 79,680<br/><span style="color: #B22222;">(+18.00%)</span> |
+| **7月** | 308,200<br/><span style="color: #FF7F7F;">(+60.80%)</span> | 191,700<br/><span style="color: #FF7F7F;">(+122.40%)</span> | 86,190<br/><span style="color: #DC143C;">(+27.30%)</span> | 67,720<br/><span style="color: #004225;">(-15.00%)</span> | 79,680<br/><span style="color: #B22222;">(+18.00%)</span> |
 | **6月** | 321,800<br/><span style="color: #FF7F7F;">(+53.80%)</span> | 209,200<br/><span style="color: #FF7F7F;">(+135.60%)</span> | 88,790<br/><span style="color: #8B0000;">(+9.48%)</span> | 81,100<br/><span style="color: #006400;">(-20.10%)</span> | 101,500<br/><span style="color: #FF6347;">(+41.20%)</span> |
 | **5月** | 290,200<br/><span style="color: #FF4500;">(+39.20%)</span> | 208,400<br/><span style="color: #FF7F7F;">(+162.10%)</span> | 79,500<br/><span style="color: #DC143C;">(+25.50%)</span> | 63,329<br/><span style="color: #004225;">(-14.80%)</span> | 74,340<br/><span style="color: #DC143C;">(+21.90%)</span> |
 | **4月** | 283,400<br/><span style="color: #FF7F7F;">(+112.00%)</span> | 133,700<br/><span style="color: #FF7F7F;">(+84.00%)</span> | 72,640<br/><span style="color: #B22222;">(+16.90%)</span> | 62,129<br/><span style="color: #002818;">(-9.10%)</span> | 68,350<br/><span style="color: #8B0000;">(+0.19%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 緯創 (3231) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **3082** | <span style="color: #FF7F7F; font-weight: bold;">+60.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+88.2</span> | **176** | <span style="color: #FF6347; font-weight: bold;">10.07</span> | <span style="color: #8B0000; font-weight: bold;">17.78</span> |
 | **2026/06** | **3218** | <span style="color: #FF7F7F; font-weight: bold;">+53.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+94</span> | **158.5** | <span style="color: #FF6347; font-weight: bold;">10.07</span> | <span style="color: #8B0000; font-weight: bold;">15.74</span> |
 | **2026/05** | **2902** | <span style="color: #FF4500; font-weight: bold;">+39.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+106.2</span> | **158.5** | <span style="color: #FF6347; font-weight: bold;">10.07</span> | <span style="color: #8B0000; font-weight: bold;">15.74</span> |
 | **2026/04** | **2834** | <span style="color: #FF7F7F; font-weight: bold;">+112</span> | <span style="color: #FF7F7F; font-weight: bold;">+135.3</span> | **137** | <span style="color: #FF6347; font-weight: bold;">10.07</span> | <span style="color: #002818; font-weight: bold;">13.6</span> |
@@ -318,7 +319,6 @@ description: 月營收表 緯創 (3231) - 自動產生
 | **2006/10** | **-** | N/A | N/A | **38.5** | <span style="color: #8B0000; font-weight: bold;">4.32</span> | <span style="color: #006400; font-weight: bold;">8.72</span> |
 | **2006/09** | **-** | N/A | N/A | **37.55** | <span style="color: #8B0000; font-weight: bold;">4.46</span> | <span style="color: #006400; font-weight: bold;">8.42</span> |
 | **2006/08** | **-** | N/A | N/A | **36.55** | <span style="color: #8B0000; font-weight: bold;">4.46</span> | <span style="color: #006400; font-weight: bold;">8.23</span> |
-| **2006/07** | **-** | N/A | N/A | **34.3** | <span style="color: #8B0000; font-weight: bold;">4.46</span> | <span style="color: #006400; font-weight: bold;">7.75</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 緯創 (3231) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-07-28 13:47:50 CST
+- **產生時間**: 2026-08-10 00:23:08 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

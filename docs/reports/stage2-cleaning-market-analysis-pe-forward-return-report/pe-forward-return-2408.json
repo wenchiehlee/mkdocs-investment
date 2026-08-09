@@ -3,7 +3,7 @@
     "stock_code": "2408",
     "company_name": "南亞科",
     "industry": "半導體業",
-    "generated_at": "2026-07-28T13:55:31.268074",
+    "generated_at": "2026-08-10T00:33:38.680470",
     "horizons": [
       "10y"
     ],
@@ -2510,6 +2510,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 621.3
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 719.6
     }
   ]
 }

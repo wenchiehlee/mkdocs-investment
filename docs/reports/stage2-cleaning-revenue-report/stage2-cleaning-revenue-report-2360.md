@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-28
+date: 2026-08-10
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 致茂 (2360) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 致茂  
     **:identification_card: 股票代號**: 2360  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-07-28 13:47:50 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-10 00:23:08 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+73</span> | <span style="color: #FF7F7F; font-weight: bold;">+90.6</span> | **240** 個月 | 2006/07 至 2026/06 |
+| <span style="color: #FF7F7F; font-weight: bold;">+175.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+101.5</span> | **240** 個月 | 2006/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 致茂 (2360) - 自動產生
 | **10月** | -- | 2,376<br/><span style="color: #FF4500;">(+31.90%)</span> | 1,801<br/><span style="color: #8B0000;">(+0.26%)</span> | 1,797<br/><span style="color: #228B22;">(-34.20%)</span> | 2,732<br/><span style="color: #FF7F7F;">(+87.80%)</span> |
 | **9月** | -- | 2,238<br/><span style="color: #DC143C;">(+26.50%)</span> | 1,769<br/><span style="color: #8B0000;">(+6.74%)</span> | 1,657<br/><span style="color: #006400;">(-27.70%)</span> | 2,293<br/><span style="color: #FF7F7F;">(+58.40%)</span> |
 | **8月** | -- | 2,198<br/><span style="color: #8B0000;">(+6.02%)</span> | 2,073<br/><span style="color: #B22222;">(+10.50%)</span> | 1,875<br/><span style="color: #004225;">(-18.90%)</span> | 2,312<br/><span style="color: #FF7F7F;">(+63.00%)</span> |
-| **7月** | -- | 1,973<br/><span style="color: #B22222;">(+10.30%)</span> | 1,789<br/><span style="color: #FF4500;">(+36.20%)</span> | 1,315<br/><span style="color: #228B22;">(-36.10%)</span> | 2,056<br/><span style="color: #FF6347;">(+45.80%)</span> |
+| **7月** | 5,434<br/><span style="color: #FF7F7F;">(+175.20%)</span> | 1,973<br/><span style="color: #B22222;">(+10.30%)</span> | 1,789<br/><span style="color: #FF4500;">(+36.20%)</span> | 1,315<br/><span style="color: #228B22;">(-36.10%)</span> | 2,056<br/><span style="color: #FF6347;">(+45.80%)</span> |
 | **6月** | 4,114<br/><span style="color: #FF7F7F;">(+73.00%)</span> | 2,378<br/><span style="color: #FF4500;">(+34.70%)</span> | 1,764<br/><span style="color: #8B0000;">(+8.38%)</span> | 1,629<br/><span style="color: #004225;">(-14.90%)</span> | 1,914<br/><span style="color: #B22222;">(+19.40%)</span> |
 | **5月** | 4,550<br/><span style="color: #FF7F7F;">(+133.10%)</span> | 1,952<br/><span style="color: #002818;">(-8.84%)</span> | 2,141<br/><span style="color: #FF4500;">(+37.70%)</span> | 1,555<br/><span style="color: #002818;">(-8.36%)</span> | 1,697<br/><span style="color: #DC143C;">(+22.80%)</span> |
 | **4月** | 4,866<br/><span style="color: #FF7F7F;">(+128.90%)</span> | 2,126<br/><span style="color: #FF4500;">(+32.20%)</span> | 1,607<br/><span style="color: #FF4500;">(+30.50%)</span> | 1,232<br/><span style="color: #002818;">(-6.98%)</span> | 1,325<br/><span style="color: #002818;">(-9.34%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 致茂 (2360) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **54.34** | <span style="color: #FF7F7F; font-weight: bold;">+175.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+101.5</span> | **2100** | <span style="color: #FF6347; font-weight: bold;">31.71</span> | <span style="color: #FF7F7F; font-weight: bold;">65.59</span> |
 | **2026/06** | **41.14** | <span style="color: #FF7F7F; font-weight: bold;">+73</span> | <span style="color: #FF7F7F; font-weight: bold;">+90.6</span> | **2160** | <span style="color: #FF6347; font-weight: bold;">31.71</span> | <span style="color: #FF7F7F; font-weight: bold;">68.12</span> |
 | **2026/05** | **45.5** | <span style="color: #FF7F7F; font-weight: bold;">+133.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+94.4</span> | **2520** | <span style="color: #FF6347; font-weight: bold;">31.71</span> | <span style="color: #FF7F7F; font-weight: bold;">79.47</span> |
 | **2026/04** | **48.66** | <span style="color: #FF7F7F; font-weight: bold;">+128.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+86</span> | **2120** | <span style="color: #FF6347; font-weight: bold;">31.71</span> | <span style="color: #FF7F7F; font-weight: bold;">66.86</span> |
@@ -318,7 +319,6 @@ description: 月營收表 致茂 (2360) - 自動產生
 | **2006/10** | **-** | N/A | N/A | **36.55** | <span style="color: #006400; font-weight: bold;">3.64</span> | <span style="color: #228B22; font-weight: bold;">10.12</span> |
 | **2006/09** | **-** | N/A | N/A | **39.3** | <span style="color: #006400; font-weight: bold;">3.6</span> | <span style="color: #228B22; font-weight: bold;">10.92</span> |
 | **2006/08** | **-** | N/A | N/A | **34** | <span style="color: #006400; font-weight: bold;">3.6</span> | <span style="color: #228B22; font-weight: bold;">9.72</span> |
-| **2006/07** | **-** | N/A | N/A | **33.6** | <span style="color: #006400; font-weight: bold;">3.6</span> | <span style="color: #228B22; font-weight: bold;">9.9</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 致茂 (2360) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-07-28 13:47:50 CST
+- **產生時間**: 2026-08-10 00:23:08 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

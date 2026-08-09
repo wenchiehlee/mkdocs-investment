@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-28
+date: 2026-08-10
 categories:
   - 股票
   - 月營收
@@ -25,13 +25,13 @@ description: 月營收表 奇偶 (3356) - 自動產生
     **:building_construction: 公司名稱**: 奇偶  
     **:identification_card: 股票代號**: 3356  
     **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-07-28 13:47:50 CST
+    **:clock3: 更新時間**: 2026-08-10 00:23:08 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+24.1</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **240** 個月 | 2006/07 至 2026/06 |
+| <span style="color: #DC143C; font-weight: bold;">+24.1</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **239** 個月 | 2006/08 至 2026/06 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -318,7 +318,6 @@ description: 月營收表 奇偶 (3356) - 自動產生
 | **2006/10** | **1.12** | <span style="color: #DC143C; font-weight: bold;">+25.1</span> | <span style="color: #B22222; font-weight: bold;">+15.9</span> | **128** | <span style="color: #DC143C; font-weight: bold;">11.16</span> | <span style="color: #006400; font-weight: bold;">11.96</span> |
 | **2006/09** | **0.977** | <span style="color: #002818; font-weight: bold;">-5.97</span> | <span style="color: #B22222; font-weight: bold;">+14.8</span> | **123.5** | <span style="color: #DC143C; font-weight: bold;">10.47</span> | <span style="color: #006400; font-weight: bold;">11.8</span> |
 | **2006/08** | **0.995** | <span style="color: #B22222; font-weight: bold;">+17.7</span> | <span style="color: #B22222; font-weight: bold;">+18.1</span> | **118** | <span style="color: #DC143C; font-weight: bold;">10.47</span> | <span style="color: #006400; font-weight: bold;">11.45</span> |
-| **2006/07** | **0.936** | <span style="color: #8B0000; font-weight: bold;">+3.22</span> | <span style="color: #B22222; font-weight: bold;">+18.2</span> | **114** | <span style="color: #DC143C; font-weight: bold;">10.47</span> | <span style="color: #006400; font-weight: bold;">11.23</span> |
 
 </div>
 
@@ -414,7 +413,7 @@ description: 月營收表 奇偶 (3356) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-07-28 13:47:50 CST
+- **產生時間**: 2026-08-10 00:23:08 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

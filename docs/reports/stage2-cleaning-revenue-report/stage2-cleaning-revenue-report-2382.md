@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-28
+date: 2026-08-10
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 廣達 (2382) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 廣達  
     **:identification_card: 股票代號**: 2382  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-07-28 13:47:50 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-10 00:23:08 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+102.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+86.5</span> | **240** 個月 | 2006/07 至 2026/06 |
+| <span style="color: #FF7F7F; font-weight: bold;">+131.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+92.7</span> | **240** 個月 | 2006/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 廣達 (2382) - 自動產生
 | **10月** | -- | 173,200<br/><span style="color: #DC143C;">(+27.40%)</span> | 135,900<br/><span style="color: #FF6347;">(+48.70%)</span> | 91,390<br/><span style="color: #004225;">(-16.00%)</span> | 108,800<br/><span style="color: #8B0000;">(+8.09%)</span> |
 | **9月** | -- | 184,100<br/><span style="color: #B22222;">(+18.70%)</span> | 155,100<br/><span style="color: #FF7F7F;">(+57.80%)</span> | 98,260<br/><span style="color: #004225;">(-18.60%)</span> | 120,700<br/><span style="color: #FF6347;">(+47.00%)</span> |
 | **8月** | -- | 152,800<br/><span style="color: #8B0000;">(+5.25%)</span> | 145,200<br/><span style="color: #FF6347;">(+43.20%)</span> | 101,400<br/><span style="color: #006400;">(-23.10%)</span> | 131,900<br/><span style="color: #FF7F7F;">(+55.60%)</span> |
-| **7月** | -- | 158,300<br/><span style="color: #DC143C;">(+27.40%)</span> | 124,300<br/><span style="color: #FF6347;">(+43.00%)</span> | 86,890<br/><span style="color: #228B22;">(-32.90%)</span> | 129,500<br/><span style="color: #FF4500;">(+36.60%)</span> |
+| **7月** | 366,300<br/><span style="color: #FF7F7F;">(+131.30%)</span> | 158,300<br/><span style="color: #DC143C;">(+27.40%)</span> | 124,300<br/><span style="color: #FF6347;">(+43.00%)</span> | 86,890<br/><span style="color: #228B22;">(-32.90%)</span> | 129,500<br/><span style="color: #FF4500;">(+36.60%)</span> |
 | **6月** | 385,200<br/><span style="color: #FF7F7F;">(+102.90%)</span> | 189,900<br/><span style="color: #FF7F7F;">(+70.60%)</span> | 111,300<br/><span style="color: #DC143C;">(+23.40%)</span> | 90,180<br/><span style="color: #006400;">(-27.10%)</span> | 123,800<br/><span style="color: #FF4500;">(+36.90%)</span> |
 | **5月** | 311,500<br/><span style="color: #FF7F7F;">(+94.40%)</span> | 160,200<br/><span style="color: #FF7F7F;">(+58.20%)</span> | 101,300<br/><span style="color: #FF4500;">(+31.50%)</span> | 77,010<br/><span style="color: #002818;">(-3.68%)</span> | 79,960<br/><span style="color: #002818;">(-5.99%)</span> |
 | **4月** | 339,900<br/><span style="color: #FF7F7F;">(+120.70%)</span> | 154,000<br/><span style="color: #FF7F7F;">(+58.20%)</span> | 97,340<br/><span style="color: #DC143C;">(+25.00%)</span> | 77,840<br/><span style="color: #B22222;">(+16.60%)</span> | 66,730<br/><span style="color: #006400;">(-21.30%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 廣達 (2382) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **3663** | <span style="color: #FF7F7F; font-weight: bold;">+131.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+92.7</span> | **291.5** | <span style="color: #FF4500; font-weight: bold;">19.9</span> | <span style="color: #B22222; font-weight: bold;">16.48</span> |
 | **2026/06** | **3852** | <span style="color: #FF7F7F; font-weight: bold;">+102.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+86.5</span> | **368** | <span style="color: #FF4500; font-weight: bold;">19.9</span> | <span style="color: #DC143C; font-weight: bold;">18.49</span> |
 | **2026/05** | **3115** | <span style="color: #FF7F7F; font-weight: bold;">+94.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+82.6</span> | **339** | <span style="color: #FF4500; font-weight: bold;">19.9</span> | <span style="color: #B22222; font-weight: bold;">17.04</span> |
 | **2026/04** | **3399** | <span style="color: #FF7F7F; font-weight: bold;">+120.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+79.6</span> | **312.5** | <span style="color: #FF4500; font-weight: bold;">19.9</span> | <span style="color: #B22222; font-weight: bold;">15.7</span> |
@@ -318,7 +319,6 @@ description: 月營收表 廣達 (2382) - 自動產生
 | **2006/10** | **-** | N/A | N/A | **49.3** | <span style="color: #006400; font-weight: bold;">3.86</span> | <span style="color: #002818; font-weight: bold;">13.4</span> |
 | **2006/09** | **-** | N/A | N/A | **47.4** | <span style="color: #228B22; font-weight: bold;">3.59</span> | <span style="color: #002818; font-weight: bold;">13.2</span> |
 | **2006/08** | **-** | N/A | N/A | **47.2** | <span style="color: #228B22; font-weight: bold;">3.59</span> | <span style="color: #002818; font-weight: bold;">13.15</span> |
-| **2006/07** | **-** | N/A | N/A | **46.75** | <span style="color: #228B22; font-weight: bold;">3.59</span> | <span style="color: #002818; font-weight: bold;">13.02</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 廣達 (2382) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-07-28 13:47:50 CST
+- **產生時間**: 2026-08-10 00:23:08 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -3,7 +3,7 @@
     "stock_code": "3260",
     "company_name": "威剛",
     "industry": "半導體業",
-    "generated_at": "2026-07-28T13:55:47.634022",
+    "generated_at": "2026-08-10T00:34:10.283912",
     "horizons": [
       "10y"
     ],
@@ -3366,6 +3366,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 212.0
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 331.3
     }
   ]
 }

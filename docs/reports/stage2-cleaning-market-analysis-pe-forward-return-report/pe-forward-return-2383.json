@@ -3,7 +3,7 @@
     "stock_code": "2383",
     "company_name": "台光電",
     "industry": "電子零組件業",
-    "generated_at": "2026-07-28T13:55:29.355983",
+    "generated_at": "2026-08-10T00:33:35.022566",
     "horizons": [
       "10y"
     ],
@@ -3541,10 +3541,6 @@
   ],
   "revenue_yoy": [
     {
-      "date": "2006-07-16",
-      "revenue_yoy": 77.6
-    },
-    {
       "date": "2006-08-16",
       "revenue_yoy": 83.0
     },
@@ -4499,6 +4495,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 120.7
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 129.4
     }
   ]
 }

@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-28
+date: 2026-08-10
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 技嘉 (2376) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 技嘉  
     **:identification_card: 股票代號**: 2376  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-07-28 13:47:50 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-10 00:23:08 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+68.6</span> | <span style="color: #FF6347; font-weight: bold;">+48.4</span> | **240** 個月 | 2006/07 至 2026/06 |
+| <span style="color: #FF7F7F; font-weight: bold;">+59.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+50</span> | **240** 個月 | 2006/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 技嘉 (2376) - 自動產生
 | **10月** | -- | 28,320<br/><span style="color: #8B0000;">(+9.88%)</span> | 25,770<br/><span style="color: #FF7F7F;">(+53.70%)</span> | 16,760<br/><span style="color: #FF7F7F;">(+104.10%)</span> | 8,215<br/><span style="color: #006400;">(-24.80%)</span> |
 | **9月** | -- | 27,989<br/><span style="color: #8B0000;">(+4.68%)</span> | 26,739<br/><span style="color: #FF7F7F;">(+64.30%)</span> | 16,269<br/><span style="color: #FF7F7F;">(+85.60%)</span> | 8,768<br/><span style="color: #228B22;">(-31.20%)</span> |
 | **8月** | -- | 23,890<br/><span style="color: #002818;">(-3.14%)</span> | 24,660<br/><span style="color: #FF7F7F;">(+106.60%)</span> | 11,940<br/><span style="color: #FF7F7F;">(+51.20%)</span> | 7,897<br/><span style="color: #006400;">(-23.60%)</span> |
-| **7月** | -- | 27,689<br/><span style="color: #FF6347;">(+45.50%)</span> | 19,040<br/><span style="color: #FF7F7F;">(+119.00%)</span> | 8,692<br/><span style="color: #B22222;">(+16.90%)</span> | 7,434<br/><span style="color: #002818;">(-9.52%)</span> |
+| **7月** | 44,210<br/><span style="color: #FF7F7F;">(+59.70%)</span> | 27,689<br/><span style="color: #FF6347;">(+45.50%)</span> | 19,040<br/><span style="color: #FF7F7F;">(+119.00%)</span> | 8,692<br/><span style="color: #B22222;">(+16.90%)</span> | 7,434<br/><span style="color: #002818;">(-9.52%)</span> |
 | **6月** | 42,890<br/><span style="color: #FF7F7F;">(+68.60%)</span> | 25,450<br/><span style="color: #B22222;">(+11.00%)</span> | 22,930<br/><span style="color: #FF7F7F;">(+137.80%)</span> | 9,645<br/><span style="color: #B22222;">(+17.60%)</span> | 8,203<br/><span style="color: #004225;">(-10.30%)</span> |
 | **5月** | 49,050<br/><span style="color: #8B0000;">(+4.97%)</span> | 46,730<br/><span style="color: #FF7F7F;">(+107.90%)</span> | 22,480<br/><span style="color: #FF7F7F;">(+137.20%)</span> | 9,478<br/><span style="color: #FF4500;">(+38.50%)</span> | 6,841<br/><span style="color: #32CD32;">(-41.00%)</span> |
 | **4月** | 52,270<br/><span style="color: #FF7F7F;">(+73.60%)</span> | 30,100<br/><span style="color: #8B0000;">(+5.51%)</span> | 28,520<br/><span style="color: #FF7F7F;">(+290.50%)</span> | 7,304<br/><span style="color: #002818;">(-4.23%)</span> | 7,626<br/><span style="color: #228B22;">(-31.00%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 技嘉 (2376) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **442.1** | <span style="color: #FF7F7F; font-weight: bold;">+59.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+50</span> | **336.5** | <span style="color: #FF4500; font-weight: bold;">21.4</span> | <span style="color: #8B0000; font-weight: bold;">16.57</span> |
 | **2026/06** | **428.9** | <span style="color: #FF7F7F; font-weight: bold;">+68.6</span> | <span style="color: #FF6347; font-weight: bold;">+48.4</span> | **344** | <span style="color: #FF4500; font-weight: bold;">21.4</span> | <span style="color: #8B0000; font-weight: bold;">16.07</span> |
 | **2026/05** | **490.5** | <span style="color: #8B0000; font-weight: bold;">+4.97</span> | <span style="color: #FF6347; font-weight: bold;">+44.8</span> | **370** | <span style="color: #FF4500; font-weight: bold;">21.4</span> | <span style="color: #8B0000; font-weight: bold;">17.29</span> |
 | **2026/04** | **522.7** | <span style="color: #FF7F7F; font-weight: bold;">+73.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+64.2</span> | **273** | <span style="color: #FF4500; font-weight: bold;">21.4</span> | <span style="color: #002818; font-weight: bold;">12.76</span> |
@@ -318,7 +319,6 @@ description: 月營收表 技嘉 (2376) - 自動產生
 | **2006/10** | **-** | N/A | N/A | **24.1** | <span style="color: #228B22; font-weight: bold;">0.29</span> | <span style="color: #8B0000; font-weight: bold;">21.84</span> |
 | **2006/09** | **-** | N/A | N/A | **26.5** | <span style="color: #006400; font-weight: bold;">1.51</span> | <span style="color: #8B0000; font-weight: bold;">17.55</span> |
 | **2006/08** | **-** | N/A | N/A | **20.5** | <span style="color: #006400; font-weight: bold;">1.51</span> | <span style="color: #002818; font-weight: bold;">13.95</span> |
-| **2006/07** | **-** | N/A | N/A | **19.7** | <span style="color: #006400; font-weight: bold;">1.51</span> | <span style="color: #002818; font-weight: bold;">13.78</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 技嘉 (2376) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-07-28 13:47:50 CST
+- **產生時間**: 2026-08-10 00:23:08 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

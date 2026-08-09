@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-28
+date: 2026-08-10
 categories:
   - 股票
   - 融資餘額
@@ -19,9 +19,9 @@ description: 融資餘額報告 昕奇雲端 (7747) - 自動產生
 !!! info "基本資訊"
     **🏗️ 名稱**: 昕奇雲端
     **🪪 代號**: 7747
-    **📅 分析期間**: 2026-01-21 ~ 2026-07-24 (共 241 個交易日)
-    **🕒 最新資料**: 2026-07-24
-    **🕒 更新時間**: 2026-07-28 13:57:37 CST
+    **📅 分析期間**: 2026-02-04 ~ 2026-08-07 (共 241 個交易日)
+    **🕒 最新資料**: 2026-08-07
+    **🕒 更新時間**: 2026-08-10 00:36:14 CST
 
 ## 💰 融資餘額現況
 
@@ -73,6 +73,116 @@ description: 融資餘額報告 昕奇雲端 (7747) - 自動產生
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>2026-08-07</td>
+<td>116.00</td>
+<td>➖ +0.00</td>
+<td>+0.00%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-08-06</td>
+<td>116.00</td>
+<td>➖ +0.00</td>
+<td>+0.00%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-08-05</td>
+<td>116.00</td>
+<td>🔺 +1.00</td>
+<td>+0.87%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-08-04</td>
+<td>115.00</td>
+<td>➖ +0.00</td>
+<td>+0.00%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-08-03</td>
+<td>115.00</td>
+<td>🔻 -1.00</td>
+<td>-0.86%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-07-31</td>
+<td>116.00</td>
+<td>➖ +0.00</td>
+<td>+0.00%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-07-30</td>
+<td>116.00</td>
+<td>🔺 +0.50</td>
+<td>+0.43%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-07-29</td>
+<td>115.50</td>
+<td>➖ +0.00</td>
+<td>+0.00%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-07-28</td>
+<td>115.50</td>
+<td>🔻 -1.50</td>
+<td>-1.28%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-07-27</td>
+<td>117.00</td>
+<td>🔺 +1.00</td>
+<td>+0.86%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
 <tr>
 <td>2026-07-24</td>
 <td>116.00</td>
@@ -287,116 +397,6 @@ description: 融資餘額報告 昕奇雲端 (7747) - 自動產生
 <td>125.00</td>
 <td>🔻 -1.50</td>
 <td>-1.19%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-25</td>
-<td>126.50</td>
-<td>🔺 +0.50</td>
-<td>+0.40%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-24</td>
-<td>126.00</td>
-<td>➖ +0.00</td>
-<td>+0.00%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-23</td>
-<td>126.00</td>
-<td>➖ +0.00</td>
-<td>+0.00%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-22</td>
-<td>126.00</td>
-<td>🔻 -1.50</td>
-<td>-1.18%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-18</td>
-<td>127.50</td>
-<td>➖ +0.00</td>
-<td>+0.00%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-17</td>
-<td>127.50</td>
-<td>🔻 -0.50</td>
-<td>-0.39%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-16</td>
-<td>128.00</td>
-<td>🔺 +1.00</td>
-<td>+0.79%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-15</td>
-<td>127.00</td>
-<td>➖ +0.00</td>
-<td>+0.00%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-12</td>
-<td>127.00</td>
-<td>🔻 -1.00</td>
-<td>-0.78%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-11</td>
-<td>128.00</td>
-<td>🔻 -0.50</td>
-<td>-0.39%</td>
 <td>nan</td>
 <td>nan</td>
 <td>➡️ +nan</td>

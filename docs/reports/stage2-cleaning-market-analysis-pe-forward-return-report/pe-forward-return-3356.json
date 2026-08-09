@@ -3,7 +3,7 @@
     "stock_code": "3356",
     "company_name": "奇偶",
     "industry": "光電業",
-    "generated_at": "2026-07-28T13:55:48.808567",
+    "generated_at": "2026-08-10T00:34:12.757674",
     "horizons": [
       "10y"
     ],
@@ -3360,10 +3360,6 @@
     }
   ],
   "revenue_yoy": [
-    {
-      "date": "2006-07-16",
-      "revenue_yoy": 3.22
-    },
     {
       "date": "2006-08-16",
       "revenue_yoy": 17.7

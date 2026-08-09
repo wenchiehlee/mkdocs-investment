@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-28
+date: 2026-08-10
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 全景軟體 (8272) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 全景軟體  
     **:identification_card: 股票代號**: 8272  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-07-28 13:47:50 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-10 00:23:08 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #004225; font-weight: bold;">-11.4</span> | <span style="color: #8B0000; font-weight: bold;">+1.17</span> | **57** 個月 | 2006/07 至 2026/06 |
+| <span style="color: #004225; font-weight: bold;">-13.2</span> | <span style="color: #002818; font-weight: bold;">-0.8</span> | **57** 個月 | 2006/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 全景軟體 (8272) - 自動產生
 | **10月** | -- | 35<br/><span style="color: #8B0000;">(+0.12%)</span> | 35<br/><span style="color: #002818;">(-2.21%)</span> | 35<br/><span style="color: #002818;">(-1.10%)</span> | -- |
 | **9月** | -- | 50<br/><span style="color: #DC143C;">(+29.50%)</span> | 38<br/><span style="color: #FF6347;">(+43.00%)</span> | 27<br/><span style="color: #8B0000;">(+9.31%)</span> | -- |
 | **8月** | -- | 37<br/><span style="color: #B22222;">(+13.40%)</span> | 32<br/><span style="color: #228B22;">(-32.40%)</span> | 48<br/><span style="color: #FF7F7F;">(+52.30%)</span> | -- |
-| **7月** | -- | 31<br/><span style="color: #FF4500;">(+36.60%)</span> | 23<br/><span style="color: #002818;">(-7.62%)</span> | 25<br/><span style="color: #228B22;">(-37.50%)</span> | -- |
+| **7月** | 27<br/><span style="color: #004225;">(-13.20%)</span> | 31<br/><span style="color: #FF4500;">(+36.60%)</span> | 23<br/><span style="color: #002818;">(-7.62%)</span> | 25<br/><span style="color: #228B22;">(-37.50%)</span> | -- |
 | **6月** | 52<br/><span style="color: #004225;">(-11.40%)</span> | 59<br/><span style="color: #FF4500;">(+33.90%)</span> | 44<br/><span style="color: #DC143C;">(+22.40%)</span> | -- | -- |
 | **5月** | 34<br/><span style="color: #002818;">(-1.64%)</span> | 35<br/><span style="color: #FF7F7F;">(+56.70%)</span> | 22<br/><span style="color: #006400;">(-22.60%)</span> | -- | -- |
 | **4月** | 33<br/><span style="color: #DC143C;">(+23.70%)</span> | 26<br/><span style="color: #002818;">(-5.20%)</span> | 28<br/><span style="color: #FF7F7F;">(+69.00%)</span> | -- | -- |
@@ -79,6 +79,7 @@ description: 月營收表 全景軟體 (8272) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **0.274** | <span style="color: #004225; font-weight: bold;">-13.2</span> | <span style="color: #002818; font-weight: bold;">-0.8</span> | **65** | <span style="color: #DC143C; font-weight: bold;">4.77</span> | <span style="color: #228B22; font-weight: bold;">14.21</span> |
 | **2026/06** | **0.526** | <span style="color: #004225; font-weight: bold;">-11.4</span> | <span style="color: #8B0000; font-weight: bold;">+1.17</span> | **67.6** | <span style="color: #DC143C; font-weight: bold;">4.77</span> | <span style="color: #228B22; font-weight: bold;">14.17</span> |
 | **2026/05** | **0.346** | <span style="color: #002818; font-weight: bold;">-1.64</span> | <span style="color: #8B0000; font-weight: bold;">+6.53</span> | **69.5** | <span style="color: #DC143C; font-weight: bold;">4.77</span> | <span style="color: #006400; font-weight: bold;">14.57</span> |
 | **2026/04** | **0.331** | <span style="color: #DC143C; font-weight: bold;">+23.7</span> | <span style="color: #8B0000; font-weight: bold;">+9.32</span> | **70** | <span style="color: #DC143C; font-weight: bold;">4.77</span> | <span style="color: #006400; font-weight: bold;">14.68</span> |
@@ -135,7 +136,6 @@ description: 月營收表 全景軟體 (8272) - 自動產生
 | **2006/10** | **-** | N/A | N/A | **-** | N/A | N/A |
 | **2006/09** | **-** | N/A | N/A | **-** | N/A | N/A |
 | **2006/08** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/07** | **-** | N/A | N/A | **-** | N/A | N/A |
 
 </div>
 
@@ -231,7 +231,7 @@ description: 月營收表 全景軟體 (8272) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-07-28 13:47:50 CST
+- **產生時間**: 2026-08-10 00:23:08 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

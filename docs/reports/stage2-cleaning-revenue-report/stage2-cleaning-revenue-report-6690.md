@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-28
+date: 2026-08-10
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 安碁資訊 (6690) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 安碁資訊  
     **:identification_card: 股票代號**: 6690  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-07-28 13:47:50 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-10 00:23:08 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+7.24</span> | <span style="color: #B22222; font-weight: bold;">+15.3</span> | **97** 個月 | 2018/06 至 2026/06 |
+| <span style="color: #8B0000; font-weight: bold;">+8.89</span> | <span style="color: #B22222; font-weight: bold;">+14.3</span> | **98** 個月 | 2018/06 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 安碁資訊 (6690) - 自動產生
 | **10月** | -- | 194<br/><span style="color: #B22222;">(+17.90%)</span> | 164<br/><span style="color: #B22222;">(+16.10%)</span> | 142<br/><span style="color: #8B0000;">(+9.61%)</span> | 129<br/><span style="color: #FF7F7F;">(+106.80%)</span> |
 | **9月** | -- | 229<br/><span style="color: #B22222;">(+14.50%)</span> | 200<br/><span style="color: #B22222;">(+10.30%)</span> | 182<br/><span style="color: #DC143C;">(+20.80%)</span> | 150<br/><span style="color: #FF7F7F;">(+72.50%)</span> |
 | **8月** | -- | 202<br/><span style="color: #B22222;">(+11.00%)</span> | 183<br/><span style="color: #DC143C;">(+21.50%)</span> | 151<br/><span style="color: #B22222;">(+16.70%)</span> | 129<br/><span style="color: #FF7F7F;">(+108.50%)</span> |
-| **7月** | -- | 194<br/><span style="color: #8B0000;">(+8.76%)</span> | 178<br/><span style="color: #DC143C;">(+25.20%)</span> | 142<br/><span style="color: #B22222;">(+16.10%)</span> | 122<br/><span style="color: #FF7F7F;">(+107.30%)</span> |
+| **7月** | 211<br/><span style="color: #8B0000;">(+8.89%)</span> | 194<br/><span style="color: #8B0000;">(+8.76%)</span> | 178<br/><span style="color: #DC143C;">(+25.20%)</span> | 142<br/><span style="color: #B22222;">(+16.10%)</span> | 122<br/><span style="color: #FF7F7F;">(+107.30%)</span> |
 | **6月** | 239<br/><span style="color: #8B0000;">(+7.24%)</span> | 223<br/><span style="color: #8B0000;">(+9.37%)</span> | 204<br/><span style="color: #B22222;">(+19.60%)</span> | 171<br/><span style="color: #B22222;">(+17.50%)</span> | 145<br/><span style="color: #FF7F7F;">(+59.20%)</span> |
 | **5月** | 208<br/><span style="color: #B22222;">(+10.00%)</span> | 189<br/><span style="color: #B22222;">(+10.90%)</span> | 171<br/><span style="color: #DC143C;">(+22.70%)</span> | 139<br/><span style="color: #8B0000;">(+9.90%)</span> | 127<br/><span style="color: #FF7F7F;">(+113.80%)</span> |
 | **4月** | 212<br/><span style="color: #B22222;">(+14.40%)</span> | 185<br/><span style="color: #B22222;">(+19.50%)</span> | 155<br/><span style="color: #B22222;">(+12.80%)</span> | 137<br/><span style="color: #B22222;">(+15.00%)</span> | 119<br/><span style="color: #FF7F7F;">(+119.40%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 安碁資訊 (6690) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **2.11** | <span style="color: #8B0000; font-weight: bold;">+8.89</span> | <span style="color: #B22222; font-weight: bold;">+14.3</span> | **161** | <span style="color: #FF4500; font-weight: bold;">10.63</span> | <span style="color: #228B22; font-weight: bold;">15.29</span> |
 | **2026/06** | **2.39** | <span style="color: #8B0000; font-weight: bold;">+7.24</span> | <span style="color: #B22222; font-weight: bold;">+15.3</span> | **162** | <span style="color: #FF4500; font-weight: bold;">10.63</span> | <span style="color: #228B22; font-weight: bold;">15.24</span> |
 | **2026/05** | **2.08** | <span style="color: #B22222; font-weight: bold;">+10</span> | <span style="color: #B22222; font-weight: bold;">+17.3</span> | **170.5** | <span style="color: #FF4500; font-weight: bold;">10.63</span> | <span style="color: #006400; font-weight: bold;">16.04</span> |
 | **2026/04** | **2.12** | <span style="color: #B22222; font-weight: bold;">+14.4</span> | <span style="color: #B22222; font-weight: bold;">+19.2</span> | **166.5** | <span style="color: #FF4500; font-weight: bold;">10.63</span> | <span style="color: #228B22; font-weight: bold;">15.66</span> |
@@ -271,7 +272,7 @@ description: 月營收表 安碁資訊 (6690) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-07-28 13:47:50 CST
+- **產生時間**: 2026-08-10 00:23:08 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

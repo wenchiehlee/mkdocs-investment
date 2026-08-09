@@ -3,7 +3,7 @@
     "stock_code": "2382",
     "company_name": "廣達",
     "industry": "電腦及週邊設備業",
-    "generated_at": "2026-07-28T13:55:28.743982",
+    "generated_at": "2026-08-10T00:33:33.794022",
     "horizons": [
       "10y"
     ],
@@ -4427,6 +4427,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 102.9
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 131.3
     }
   ]
 }

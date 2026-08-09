@@ -3,7 +3,7 @@
     "stock_code": "5203",
     "company_name": "訊連",
     "industry": "資訊服務業",
-    "generated_at": "2026-07-28T13:55:56.489939",
+    "generated_at": "2026-08-10T00:34:25.235684",
     "horizons": [
       "10y"
     ],
@@ -3401,10 +3401,6 @@
   ],
   "revenue_yoy": [
     {
-      "date": "2006-07-16",
-      "revenue_yoy": 33.8
-    },
-    {
       "date": "2006-08-16",
       "revenue_yoy": 23.8
     },
@@ -4227,6 +4223,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": -9.76
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": -16.2
     }
   ]
 }

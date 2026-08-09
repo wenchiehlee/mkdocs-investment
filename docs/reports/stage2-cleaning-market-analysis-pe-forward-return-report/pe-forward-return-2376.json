@@ -3,7 +3,7 @@
     "stock_code": "2376",
     "company_name": "技嘉",
     "industry": "電腦及週邊設備業",
-    "generated_at": "2026-07-28T13:55:26.714581",
+    "generated_at": "2026-08-10T00:33:30.094749",
     "horizons": [
       "10y"
     ],
@@ -4187,6 +4187,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 68.6
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 59.7
     }
   ]
 }

@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-28
+date: 2026-08-10
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 矽創 (8016) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 矽創  
     **:identification_card: 股票代號**: 8016  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-07-28 13:47:50 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-10 00:23:08 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+26.6</span> | <span style="color: #DC143C; font-weight: bold;">+29</span> | **240** 個月 | 2006/07 至 2026/06 |
+| <span style="color: #FF4500; font-weight: bold;">+34.5</span> | <span style="color: #DC143C; font-weight: bold;">+29.7</span> | **240** 個月 | 2006/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 矽創 (8016) - 自動產生
 | **10月** | -- | 1,620<br/><span style="color: #8B0000;">(+6.05%)</span> | 1,528<br/><span style="color: #8B0000;">(+0.37%)</span> | 1,522<br/><span style="color: #8B0000;">(+8.53%)</span> | 1,402<br/><span style="color: #228B22;">(-34.20%)</span> |
 | **9月** | -- | 1,657<br/><span style="color: #8B0000;">(+4.29%)</span> | 1,589<br/><span style="color: #B22222;">(+11.00%)</span> | 1,432<br/><span style="color: #8B0000;">(+4.83%)</span> | 1,366<br/><span style="color: #228B22;">(-36.50%)</span> |
 | **8月** | -- | 1,543<br/><span style="color: #002818;">(-3.38%)</span> | 1,597<br/><span style="color: #B22222;">(+14.80%)</span> | 1,391<br/><span style="color: #8B0000;">(+2.40%)</span> | 1,358<br/><span style="color: #228B22;">(-38.40%)</span> |
-| **7月** | -- | 1,514<br/><span style="color: #8B0000;">(+1.09%)</span> | 1,497<br/><span style="color: #8B0000;">(+8.61%)</span> | 1,379<br/><span style="color: #8B0000;">(+2.78%)</span> | 1,341<br/><span style="color: #228B22;">(-39.80%)</span> |
+| **7月** | 2,036<br/><span style="color: #FF4500;">(+34.50%)</span> | 1,514<br/><span style="color: #8B0000;">(+1.09%)</span> | 1,497<br/><span style="color: #8B0000;">(+8.61%)</span> | 1,379<br/><span style="color: #8B0000;">(+2.78%)</span> | 1,341<br/><span style="color: #228B22;">(-39.80%)</span> |
 | **6月** | 1,997<br/><span style="color: #DC143C;">(+26.60%)</span> | 1,577<br/><span style="color: #B22222;">(+15.10%)</span> | 1,370<br/><span style="color: #8B0000;">(+2.26%)</span> | 1,340<br/><span style="color: #B22222;">(+12.00%)</span> | 1,196<br/><span style="color: #228B22;">(-35.90%)</span> |
 | **5月** | 2,147<br/><span style="color: #FF4500;">(+39.80%)</span> | 1,535<br/><span style="color: #002818;">(-2.12%)</span> | 1,569<br/><span style="color: #8B0000;">(+2.03%)</span> | 1,537<br/><span style="color: #002818;">(-3.76%)</span> | 1,597<br/><span style="color: #004225;">(-16.00%)</span> |
 | **4月** | 2,108<br/><span style="color: #FF4500;">(+37.20%)</span> | 1,535<br/><span style="color: #8B0000;">(+6.74%)</span> | 1,438<br/><span style="color: #002818;">(-6.14%)</span> | 1,533<br/><span style="color: #004225;">(-12.10%)</span> | 1,744<br/><span style="color: #002818;">(-1.21%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 矽創 (8016) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **20.36** | <span style="color: #FF4500; font-weight: bold;">+34.5</span> | <span style="color: #DC143C; font-weight: bold;">+29.7</span> | **266.5** | <span style="color: #8B0000; font-weight: bold;">15.91</span> | <span style="color: #FF4500; font-weight: bold;">18.48</span> |
 | **2026/06** | **19.97** | <span style="color: #DC143C; font-weight: bold;">+26.6</span> | <span style="color: #DC143C; font-weight: bold;">+29</span> | **332** | <span style="color: #8B0000; font-weight: bold;">15.91</span> | <span style="color: #FF6347; font-weight: bold;">20.87</span> |
 | **2026/05** | **21.47** | <span style="color: #FF4500; font-weight: bold;">+39.8</span> | <span style="color: #DC143C; font-weight: bold;">+29.4</span> | **306** | <span style="color: #8B0000; font-weight: bold;">15.91</span> | <span style="color: #FF6347; font-weight: bold;">19.23</span> |
 | **2026/04** | **21.08** | <span style="color: #FF4500; font-weight: bold;">+37.2</span> | <span style="color: #DC143C; font-weight: bold;">+26.7</span> | **230** | <span style="color: #8B0000; font-weight: bold;">15.91</span> | <span style="color: #8B0000; font-weight: bold;">14.46</span> |
@@ -318,7 +319,6 @@ description: 月營收表 矽創 (8016) - 自動產生
 | **2006/10** | **-** | N/A | N/A | **92.8** | <span style="color: #004225; font-weight: bold;">8.04</span> | <span style="color: #002818; font-weight: bold;">11.46</span> |
 | **2006/09** | **-** | N/A | N/A | **96** | <span style="color: #004225; font-weight: bold;">8.13</span> | <span style="color: #002818; font-weight: bold;">11.81</span> |
 | **2006/08** | **-** | N/A | N/A | **97.3** | <span style="color: #004225; font-weight: bold;">8.13</span> | <span style="color: #002818; font-weight: bold;">11.75</span> |
-| **2006/07** | **-** | N/A | N/A | **112.5** | <span style="color: #004225; font-weight: bold;">8.13</span> | <span style="color: #8B0000; font-weight: bold;">13.35</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 矽創 (8016) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-07-28 13:47:50 CST
+- **產生時間**: 2026-08-10 00:23:08 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

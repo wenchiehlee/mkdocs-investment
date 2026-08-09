@@ -3,7 +3,7 @@
     "stock_code": "2474",
     "company_name": "可成",
     "industry": "其他電子業",
-    "generated_at": "2026-07-28T13:55:35.551016",
+    "generated_at": "2026-08-10T00:33:47.190256",
     "horizons": [
       "10y"
     ],
@@ -4251,6 +4251,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": -55.1
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": -34.3
     }
   ]
 }

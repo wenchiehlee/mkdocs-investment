@@ -3,7 +3,7 @@
     "stock_code": "4953",
     "company_name": "緯軟",
     "industry": "資訊服務業",
-    "generated_at": "2026-07-28T13:55:55.849962",
+    "generated_at": "2026-08-10T00:34:24.046782",
     "horizons": [
       "10y"
     ],
@@ -2497,6 +2497,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 37.1
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 33.4
     }
   ]
 }

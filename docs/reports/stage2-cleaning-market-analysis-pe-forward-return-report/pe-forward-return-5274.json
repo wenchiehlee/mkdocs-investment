@@ -3,7 +3,7 @@
     "stock_code": "5274",
     "company_name": "信驊",
     "industry": "半導體業",
-    "generated_at": "2026-07-28T13:55:57.726675",
+    "generated_at": "2026-08-10T00:34:27.320680",
     "horizons": [
       "10y"
     ],
@@ -2648,6 +2648,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 67.5
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 97.6
     }
   ]
 }

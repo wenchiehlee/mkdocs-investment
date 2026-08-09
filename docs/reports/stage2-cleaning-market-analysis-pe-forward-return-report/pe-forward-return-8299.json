@@ -3,7 +3,7 @@
     "stock_code": "8299",
     "company_name": "群聯",
     "industry": "半導體業",
-    "generated_at": "2026-07-28T13:56:44.286584",
+    "generated_at": "2026-08-10T00:35:17.127672",
     "horizons": [
       "10y"
     ],
@@ -4187,6 +4187,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 301.0
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 377.6
     }
   ]
 }

@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-28
+date: 2026-08-10
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 力領科技 (6996) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 力領科技  
     **:identification_card: 股票代號**: 6996  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-07-28 13:47:50 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-10 00:23:08 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+50</span> | <span style="color: #DC143C; font-weight: bold;">+27.4</span> | **35** 個月 | 2023/08 至 2026/06 |
+| <span style="color: #FF4500; font-weight: bold;">+33.3</span> | <span style="color: #DC143C; font-weight: bold;">+28.2</span> | **36** 個月 | 2023/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 力領科技 (6996) - 自動產生
 | **10月** | -- | 267<br/><span style="color: #B22222;">(+15.10%)</span> | 231<br/><span style="color: #006400;">(-20.90%)</span> | 293<br/><span style="color: #DC143C;">(+25.30%)</span> |
 | **9月** | -- | 244<br/><span style="color: #002818;">(-3.89%)</span> | 254<br/><span style="color: #8B0000;">(+4.80%)</span> | 242<br/><span style="color: #002818;">(-1.74%)</span> |
 | **8月** | -- | 223<br/><span style="color: #004225;">(-16.80%)</span> | 268<br/><span style="color: #B22222;">(+12.10%)</span> | 239<br/><span style="color: #8B0000;">(+3.13%)</span> |
-| **7月** | -- | 192<br/><span style="color: #006400;">(-27.00%)</span> | 262<br/><span style="color: #DC143C;">(+22.50%)</span> | -- |
+| **7月** | 254<br/><span style="color: #FF4500;">(+33.30%)</span> | 192<br/><span style="color: #006400;">(-27.00%)</span> | 262<br/><span style="color: #DC143C;">(+22.50%)</span> | -- |
 | **6月** | 276<br/><span style="color: #FF7F7F;">(+50.00%)</span> | 184<br/><span style="color: #004225;">(-18.60%)</span> | 225<br/><span style="color: #B22222;">(+16.00%)</span> | -- |
 | **5月** | 300<br/><span style="color: #FF7F7F;">(+66.10%)</span> | 180<br/><span style="color: #228B22;">(-36.10%)</span> | 282<br/><span style="color: #FF4500;">(+34.10%)</span> | -- |
 | **4月** | 286<br/><span style="color: #B22222;">(+13.30%)</span> | 252<br/><span style="color: #002818;">(-6.68%)</span> | 270<br/><span style="color: #B22222;">(+13.40%)</span> | -- |
@@ -79,6 +79,7 @@ description: 月營收表 力領科技 (6996) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **2.55** | <span style="color: #FF4500; font-weight: bold;">+33.3</span> | <span style="color: #DC143C; font-weight: bold;">+28.2</span> | **173** | <span style="color: #B22222; font-weight: bold;">13.02</span> | <span style="color: #002818; font-weight: bold;">13.52</span> |
 | **2026/06** | **2.76** | <span style="color: #FF7F7F; font-weight: bold;">+50</span> | <span style="color: #DC143C; font-weight: bold;">+27.4</span> | **195** | <span style="color: #B22222; font-weight: bold;">13.02</span> | <span style="color: #DC143C; font-weight: bold;">14.98</span> |
 | **2026/05** | **3** | <span style="color: #FF7F7F; font-weight: bold;">+66.1</span> | <span style="color: #DC143C; font-weight: bold;">+23.5</span> | **191.5** | <span style="color: #B22222; font-weight: bold;">13.02</span> | <span style="color: #B22222; font-weight: bold;">14.71</span> |
 | **2026/04** | **2.86** | <span style="color: #B22222; font-weight: bold;">+13.3</span> | <span style="color: #B22222; font-weight: bold;">+14.8</span> | **173.5** | <span style="color: #B22222; font-weight: bold;">13.02</span> | <span style="color: #002818; font-weight: bold;">13.33</span> |
@@ -209,7 +210,7 @@ description: 月營收表 力領科技 (6996) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-07-28 13:47:50 CST
+- **產生時間**: 2026-08-10 00:23:08 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

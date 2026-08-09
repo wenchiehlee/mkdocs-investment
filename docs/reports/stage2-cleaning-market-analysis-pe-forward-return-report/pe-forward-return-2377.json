@@ -3,7 +3,7 @@
     "stock_code": "2377",
     "company_name": "微星",
     "industry": "電腦及週邊設備業",
-    "generated_at": "2026-07-28T13:55:27.420589",
+    "generated_at": "2026-08-10T00:33:31.314507",
     "horizons": [
       "10y"
     ],
@@ -4111,6 +4111,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": -9.22
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": -0.01
     }
   ]
 }

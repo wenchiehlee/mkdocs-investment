@@ -3,7 +3,7 @@
     "stock_code": "3034",
     "company_name": "聯詠",
     "industry": "半導體業",
-    "generated_at": "2026-07-28T13:55:43.503302",
+    "generated_at": "2026-08-10T00:34:02.538737",
     "horizons": [
       "10y"
     ],
@@ -4187,6 +4187,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 19.0
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 26.8
     }
   ]
 }

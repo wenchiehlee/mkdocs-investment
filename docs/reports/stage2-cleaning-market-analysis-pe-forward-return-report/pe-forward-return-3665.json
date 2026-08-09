@@ -3,7 +3,7 @@
     "stock_code": "3665",
     "company_name": "貿聯-KY",
     "industry": "其他電子業",
-    "generated_at": "2026-07-28T13:55:52.782535",
+    "generated_at": "2026-08-10T00:34:19.176162",
     "horizons": [
       "10y"
     ],
@@ -2793,6 +2793,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 63.8
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 59.6
     }
   ]
 }

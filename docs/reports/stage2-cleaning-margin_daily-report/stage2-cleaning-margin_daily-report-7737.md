@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-28
+date: 2026-08-10
 categories:
   - 股票
   - 融資餘額
@@ -19,17 +19,17 @@ description: 融資餘額報告 凱鈿 (7737) - 自動產生
 !!! info "基本資訊"
     **🏗️ 名稱**: 凱鈿
     **🪪 代號**: 7737
-    **📅 分析期間**: 2026-01-21 ~ 2026-07-24 (共 241 個交易日)
-    **🕒 最新資料**: 2026-07-24
-    **🕒 更新時間**: 2026-07-28 13:57:37 CST
+    **📅 分析期間**: 2026-02-04 ~ 2026-08-07 (共 241 個交易日)
+    **🕒 最新資料**: 2026-08-07
+    **🕒 更新時間**: 2026-08-10 00:36:14 CST
 
 ## 💰 融資餘額現況
 
 | 📊 指標 | 🔢 數值 | 🚦 狀態 |
 |:------------:|:----------:|:-------------------:|
 | **最新融資餘額** | nan 億元 (nan 張) | - |
-| **最新收盤價** | 42.00 元 | - |
-| **市值** | 13 億元 | - |
+| **最新收盤價** | 38.90 元 | - |
+| **市值** | 12 億元 | - |
 | **融資餘額/市值** | nan% | 🔴 過熱 |
 | **日變化 (DoD)** | +nan 億元 (+0.00%) | ➡️ |
 | **週變化 (WoW)** | +nan 億元 (+0.00%) | ➡️ |
@@ -73,6 +73,116 @@ description: 融資餘額報告 凱鈿 (7737) - 自動產生
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>2026-08-07</td>
+<td>38.90</td>
+<td>🔺 +0.30</td>
+<td>+0.78%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-08-06</td>
+<td>38.60</td>
+<td>🔻 -0.30</td>
+<td>-0.77%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-08-05</td>
+<td>38.90</td>
+<td>➖ +0.00</td>
+<td>+0.00%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-08-04</td>
+<td>38.90</td>
+<td>➖ +0.00</td>
+<td>+0.00%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-08-03</td>
+<td>38.90</td>
+<td>🔺 +1.05</td>
+<td>+2.77%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-07-31</td>
+<td>37.85</td>
+<td>🔺 +1.55</td>
+<td>+4.27%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-07-30</td>
+<td>36.30</td>
+<td>🔻 -0.50</td>
+<td>-1.36%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-07-29</td>
+<td>36.80</td>
+<td>🔻 -1.20</td>
+<td>-3.16%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-07-28</td>
+<td>38.00</td>
+<td>🔻 -2.00</td>
+<td>-5.00%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-07-27</td>
+<td>40.00</td>
+<td>🔻 -2.00</td>
+<td>-4.76%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
 <tr>
 <td>2026-07-24</td>
 <td>42.00</td>
@@ -287,116 +397,6 @@ description: 融資餘額報告 凱鈿 (7737) - 自動產生
 <td>43.00</td>
 <td>🔻 -0.30</td>
 <td>-0.69%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-25</td>
-<td>43.30</td>
-<td>🔻 -0.50</td>
-<td>-1.14%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-24</td>
-<td>43.80</td>
-<td>🔻 -0.35</td>
-<td>-0.79%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-23</td>
-<td>44.15</td>
-<td>🔺 +1.65</td>
-<td>+3.88%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-22</td>
-<td>42.50</td>
-<td>🔺 +0.50</td>
-<td>+1.19%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-18</td>
-<td>42.00</td>
-<td>🔻 -1.15</td>
-<td>-2.67%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-17</td>
-<td>43.15</td>
-<td>➖ +0.00</td>
-<td>+0.00%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-16</td>
-<td>43.15</td>
-<td>🔺 +0.15</td>
-<td>+0.35%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-15</td>
-<td>43.00</td>
-<td>🔻 -0.15</td>
-<td>-0.35%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-12</td>
-<td>43.15</td>
-<td>🔺 +0.15</td>
-<td>+0.35%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-11</td>
-<td>43.00</td>
-<td>🔻 -0.55</td>
-<td>-1.26%</td>
 <td>nan</td>
 <td>nan</td>
 <td>➡️ +nan</td>

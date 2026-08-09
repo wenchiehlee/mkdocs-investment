@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-28
+date: 2026-08-10
 categories:
   - 股票
   - 融資餘額
@@ -19,9 +19,9 @@ description: 融資餘額報告 宏碁智新 (7794) - 自動產生
 !!! info "基本資訊"
     **🏗️ 名稱**: 宏碁智新
     **🪪 代號**: 7794
-    **📅 分析期間**: 2026-04-20 ~ 2026-07-24 (共 67 個交易日)
-    **🕒 最新資料**: 2026-07-24
-    **🕒 更新時間**: 2026-07-28 13:57:38 CST
+    **📅 分析期間**: 2026-04-20 ~ 2026-08-07 (共 77 個交易日)
+    **🕒 最新資料**: 2026-08-07
+    **🕒 更新時間**: 2026-08-10 00:36:14 CST
 
 ## 💰 融資餘額現況
 
@@ -73,6 +73,116 @@ description: 融資餘額報告 宏碁智新 (7794) - 自動產生
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>2026-08-07</td>
+<td>29.30</td>
+<td>🔺 +0.25</td>
+<td>+0.86%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-08-06</td>
+<td>29.05</td>
+<td>🔺 +0.55</td>
+<td>+1.93%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-08-05</td>
+<td>28.50</td>
+<td>🔻 -0.30</td>
+<td>-1.04%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-08-04</td>
+<td>28.80</td>
+<td>➖ +0.00</td>
+<td>+0.00%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-08-03</td>
+<td>28.80</td>
+<td>🔺 +0.55</td>
+<td>+1.95%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-07-31</td>
+<td>28.25</td>
+<td>🔺 +1.05</td>
+<td>+3.86%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-07-30</td>
+<td>27.20</td>
+<td>🔻 -0.05</td>
+<td>-0.18%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-07-29</td>
+<td>27.25</td>
+<td>🔻 -0.85</td>
+<td>-3.02%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-07-28</td>
+<td>28.10</td>
+<td>🔻 -0.95</td>
+<td>-3.27%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-07-27</td>
+<td>29.05</td>
+<td>🔻 -0.25</td>
+<td>-0.85%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
 <tr>
 <td>2026-07-24</td>
 <td>29.30</td>
@@ -287,116 +397,6 @@ description: 融資餘額報告 宏碁智新 (7794) - 自動產生
 <td>30.25</td>
 <td>🔻 -0.45</td>
 <td>-1.47%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-25</td>
-<td>30.70</td>
-<td>🔻 -0.70</td>
-<td>-2.23%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-24</td>
-<td>31.40</td>
-<td>🔻 -0.05</td>
-<td>-0.16%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-23</td>
-<td>31.45</td>
-<td>🔺 +0.05</td>
-<td>+0.16%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-22</td>
-<td>31.40</td>
-<td>🔺 +0.05</td>
-<td>+0.16%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-18</td>
-<td>31.35</td>
-<td>🔻 -0.25</td>
-<td>-0.79%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-17</td>
-<td>31.60</td>
-<td>🔺 +0.40</td>
-<td>+1.28%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-16</td>
-<td>31.20</td>
-<td>🔻 -0.80</td>
-<td>-2.50%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-15</td>
-<td>32.00</td>
-<td>➖ +0.00</td>
-<td>+0.00%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-12</td>
-<td>32.00</td>
-<td>🔺 +0.25</td>
-<td>+0.79%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-06-11</td>
-<td>31.75</td>
-<td>🔻 -0.70</td>
-<td>-2.16%</td>
 <td>nan</td>
 <td>nan</td>
 <td>➡️ +nan</td>

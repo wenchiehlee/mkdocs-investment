@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-28
+date: 2026-08-10
 categories:
   - 股票
   - 月營收
@@ -25,13 +25,13 @@ description: 月營收表 富邦金 (2881) - 自動產生
     **:building_construction: 公司名稱**: 富邦金  
     **:identification_card: 股票代號**: 2881  
     **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-07-28 13:47:50 CST
+    **:clock3: 更新時間**: 2026-08-10 00:23:08 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #90EE90; font-weight: bold;">-53.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+466.4</span> | **240** 個月 | 2006/07 至 2026/06 |
+| <span style="color: #90EE90; font-weight: bold;">-53.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+466.4</span> | **239** 個月 | 2006/08 至 2026/06 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -318,7 +318,6 @@ description: 月營收表 富邦金 (2881) - 自動產生
 | **2006/10** | **-** | N/A | N/A | **27.1** | <span style="color: #228B22; font-weight: bold;">1.09</span> | <span style="color: #FF4500; font-weight: bold;">40.85</span> |
 | **2006/09** | **-** | N/A | N/A | **27.45** | <span style="color: #228B22; font-weight: bold;">0.45</span> | <span style="color: #FF7F7F; font-weight: bold;">61.0</span> |
 | **2006/08** | **-** | N/A | N/A | **24.5** | <span style="color: #228B22; font-weight: bold;">0.45</span> | <span style="color: #FF4500; font-weight: bold;">39.95</span> |
-| **2006/07** | **-** | N/A | N/A | **25.9** | <span style="color: #228B22; font-weight: bold;">0.45</span> | <span style="color: #DC143C; font-weight: bold;">33.35</span> |
 
 </div>
 
@@ -414,7 +413,7 @@ description: 月營收表 富邦金 (2881) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-07-28 13:47:50 CST
+- **產生時間**: 2026-08-10 00:23:08 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

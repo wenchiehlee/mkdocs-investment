@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-28
+date: 2026-08-10
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 瑞昱  
     **:identification_card: 股票代號**: 2379  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-07-28 13:47:50 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-10 00:23:08 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+20.6</span> | <span style="color: #B22222; font-weight: bold;">+10.5</span> | **240** 個月 | 2006/07 至 2026/06 |
+| <span style="color: #FF4500; font-weight: bold;">+32.5</span> | <span style="color: #B22222; font-weight: bold;">+13.3</span> | **240** 個月 | 2006/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 | **10月** | -- | 9,063<br/><span style="color: #8B0000;">(+1.29%)</span> | 8,947<br/><span style="color: #B22222;">(+13.80%)</span> | 7,866<br/><span style="color: #002818;">(-2.76%)</span> | 8,089<br/><span style="color: #004225;">(-10.20%)</span> |
 | **9月** | -- | 10,030<br/><span style="color: #8B0000;">(+2.08%)</span> | 9,830<br/><span style="color: #B22222;">(+11.00%)</span> | 8,859<br/><span style="color: #002818;">(-7.56%)</span> | 9,584<br/><span style="color: #002818;">(-1.85%)</span> |
 | **8月** | -- | 9,727<br/><span style="color: #002818;">(-4.75%)</span> | 10,210<br/><span style="color: #B22222;">(+15.30%)</span> | 8,855<br/><span style="color: #004225;">(-14.80%)</span> | 10,400<br/><span style="color: #8B0000;">(+8.01%)</span> |
-| **7月** | -- | 9,730<br/><span style="color: #002818;">(-9.15%)</span> | 10,710<br/><span style="color: #B22222;">(+19.50%)</span> | 8,965<br/><span style="color: #002818;">(-8.43%)</span> | 9,790<br/><span style="color: #8B0000;">(+2.37%)</span> |
+| **7月** | 12,900<br/><span style="color: #FF4500;">(+32.50%)</span> | 9,730<br/><span style="color: #002818;">(-9.15%)</span> | 10,710<br/><span style="color: #B22222;">(+19.50%)</span> | 8,965<br/><span style="color: #002818;">(-8.43%)</span> | 9,790<br/><span style="color: #8B0000;">(+2.37%)</span> |
 | **6月** | 12,310<br/><span style="color: #DC143C;">(+20.60%)</span> | 10,210<br/><span style="color: #002818;">(-0.15%)</span> | 10,220<br/><span style="color: #B22222;">(+13.50%)</span> | 9,008<br/><span style="color: #002818;">(-6.56%)</span> | 9,642<br/><span style="color: #8B0000;">(+2.02%)</span> |
 | **5月** | 12,520<br/><span style="color: #DC143C;">(+21.90%)</span> | 10,280<br/><span style="color: #002818;">(-1.02%)</span> | 10,380<br/><span style="color: #B22222;">(+15.10%)</span> | 9,019<br/><span style="color: #004225;">(-13.70%)</span> | 10,450<br/><span style="color: #DC143C;">(+21.80%)</span> |
 | **4月** | 12,720<br/><span style="color: #B22222;">(+11.30%)</span> | 11,430<br/><span style="color: #B22222;">(+13.50%)</span> | 10,070<br/><span style="color: #DC143C;">(+21.80%)</span> | 8,263<br/><span style="color: #006400;">(-20.60%)</span> | 10,410<br/><span style="color: #FF4500;">(+33.20%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **129** | <span style="color: #FF4500; font-weight: bold;">+32.5</span> | <span style="color: #B22222; font-weight: bold;">+13.3</span> | **683** | <span style="color: #DC143C; font-weight: bold;">27.92</span> | <span style="color: #8B0000; font-weight: bold;">26.65</span> |
 | **2026/06** | **123.1** | <span style="color: #DC143C; font-weight: bold;">+20.6</span> | <span style="color: #B22222; font-weight: bold;">+10.5</span> | **806** | <span style="color: #DC143C; font-weight: bold;">27.92</span> | <span style="color: #8B0000; font-weight: bold;">28.87</span> |
 | **2026/05** | **125.2** | <span style="color: #DC143C; font-weight: bold;">+21.9</span> | <span style="color: #8B0000; font-weight: bold;">+8.7</span> | **580** | <span style="color: #DC143C; font-weight: bold;">27.92</span> | <span style="color: #002818; font-weight: bold;">20.77</span> |
 | **2026/04** | **127.2** | <span style="color: #B22222; font-weight: bold;">+11.3</span> | <span style="color: #8B0000; font-weight: bold;">+5.78</span> | **537** | <span style="color: #DC143C; font-weight: bold;">27.92</span> | <span style="color: #004225; font-weight: bold;">19.23</span> |
@@ -318,7 +319,6 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 | **2006/10** | **-** | N/A | N/A | **44.2** | <span style="color: #006400; font-weight: bold;">3.25</span> | <span style="color: #006400; font-weight: bold;">13.71</span> |
 | **2006/09** | **-** | N/A | N/A | **40.7** | <span style="color: #006400; font-weight: bold;">3.21</span> | <span style="color: #006400; font-weight: bold;">12.68</span> |
 | **2006/08** | **-** | N/A | N/A | **41.6** | <span style="color: #006400; font-weight: bold;">3.21</span> | <span style="color: #006400; font-weight: bold;">13.22</span> |
-| **2006/07** | **-** | N/A | N/A | **38.2** | <span style="color: #006400; font-weight: bold;">3.21</span> | <span style="color: #006400; font-weight: bold;">12.39</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-07-28 13:47:50 CST
+- **產生時間**: 2026-08-10 00:23:08 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

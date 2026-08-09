@@ -3,7 +3,7 @@
     "stock_code": "2451",
     "company_name": "創見",
     "industry": "半導體業",
-    "generated_at": "2026-07-28T13:55:33.809896",
+    "generated_at": "2026-08-10T00:33:43.525060",
     "horizons": [
       "10y"
     ],
@@ -4187,6 +4187,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 381.5
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 307.6
     }
   ]
 }

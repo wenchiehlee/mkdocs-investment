@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-28
+date: 2026-08-10
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 禾伸堂 (3026) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 禾伸堂  
     **:identification_card: 股票代號**: 3026  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-07-28 13:47:50 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-10 00:23:08 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF4500; font-weight: bold;">+33.9</span> | <span style="color: #B22222; font-weight: bold;">+15.6</span> | **238** 個月 | 2006/07 至 2026/06 |
+| <span style="color: #FF4500; font-weight: bold;">+37</span> | <span style="color: #B22222; font-weight: bold;">+18.6</span> | **238** 個月 | 2006/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 禾伸堂 (3026) - 自動產生
 | **10月** | -- | 1,074<br/><span style="color: #002818;">(-0.58%)</span> | 1,080<br/><span style="color: #8B0000;">(+4.77%)</span> | 1,031<br/><span style="color: #002818;">(-9.18%)</span> | 1,135<br/><span style="color: #002818;">(-1.00%)</span> |
 | **9月** | -- | 1,242<br/><span style="color: #B22222;">(+12.00%)</span> | 1,108<br/><span style="color: #002818;">(-8.18%)</span> | 1,207<br/><span style="color: #002818;">(-5.32%)</span> | 1,275<br/><span style="color: #002818;">(-5.09%)</span> |
 | **8月** | -- | 1,081<br/><span style="color: #002818;">(-1.40%)</span> | 1,096<br/><span style="color: #002818;">(-1.86%)</span> | 1,117<br/><span style="color: #002818;">(-3.50%)</span> | 1,158<br/><span style="color: #004225;">(-19.70%)</span> |
-| **7月** | -- | 1,095<br/><span style="color: #002818;">(-9.26%)</span> | 1,207<br/><span style="color: #8B0000;">(+6.60%)</span> | 1,132<br/><span style="color: #002818;">(-5.16%)</span> | 1,194<br/><span style="color: #006400;">(-20.20%)</span> |
+| **7月** | 1,501<br/><span style="color: #FF4500;">(+37.00%)</span> | 1,095<br/><span style="color: #002818;">(-9.26%)</span> | 1,207<br/><span style="color: #8B0000;">(+6.60%)</span> | 1,132<br/><span style="color: #002818;">(-5.16%)</span> | 1,194<br/><span style="color: #006400;">(-20.20%)</span> |
 | **6月** | 1,378<br/><span style="color: #FF4500;">(+33.90%)</span> | 1,029<br/><span style="color: #002818;">(-1.78%)</span> | 1,048<br/><span style="color: #002818;">(-4.08%)</span> | 1,093<br/><span style="color: #004225;">(-16.40%)</span> | 1,306<br/><span style="color: #004225;">(-10.00%)</span> |
 | **5月** | 1,291<br/><span style="color: #DC143C;">(+21.30%)</span> | 1,064<br/><span style="color: #002818;">(-2.77%)</span> | 1,094<br/><span style="color: #002818;">(-5.15%)</span> | 1,154<br/><span style="color: #002818;">(-9.61%)</span> | 1,277<br/><span style="color: #004225;">(-17.00%)</span> |
 | **4月** | 1,427<br/><span style="color: #DC143C;">(+21.10%)</span> | 1,179<br/><span style="color: #8B0000;">(+7.45%)</span> | 1,097<br/><span style="color: #8B0000;">(+0.13%)</span> | 1,095<br/><span style="color: #004225;">(-12.60%)</span> | 1,253<br/><span style="color: #004225;">(-11.50%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 禾伸堂 (3026) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **15.01** | <span style="color: #FF4500; font-weight: bold;">+37</span> | <span style="color: #B22222; font-weight: bold;">+18.6</span> | **450** | <span style="color: #8B0000; font-weight: bold;">7.76</span> | <span style="color: #FF7F7F; font-weight: bold;">82.47</span> |
 | **2026/06** | **13.78** | <span style="color: #FF4500; font-weight: bold;">+33.9</span> | <span style="color: #B22222; font-weight: bold;">+15.6</span> | **842** | <span style="color: #8B0000; font-weight: bold;">7.76</span> | <span style="color: #FF7F7F; font-weight: bold;">108.5</span> |
 | **2026/05** | **12.91** | <span style="color: #DC143C; font-weight: bold;">+21.3</span> | <span style="color: #B22222; font-weight: bold;">+12.3</span> | **641** | <span style="color: #8B0000; font-weight: bold;">7.76</span> | <span style="color: #FF7F7F; font-weight: bold;">82.6</span> |
 | **2026/04** | **14.27** | <span style="color: #DC143C; font-weight: bold;">+21.1</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **212.5** | <span style="color: #8B0000; font-weight: bold;">7.76</span> | <span style="color: #B22222; font-weight: bold;">27.38</span> |
@@ -90,7 +91,7 @@ description: 月營收表 禾伸堂 (3026) - 自動產生
 | **2025/10** | **10.74** | <span style="color: #002818; font-weight: bold;">-0.58</span> | <span style="color: #8B0000; font-weight: bold;">+4.67</span> | **114** | <span style="color: #8B0000; font-weight: bold;">6.58</span> | <span style="color: #8B0000; font-weight: bold;">18.17</span> |
 | **2025/09** | **12.42** | <span style="color: #B22222; font-weight: bold;">+12</span> | <span style="color: #8B0000; font-weight: bold;">+5.27</span> | **97** | <span style="color: #8B0000; font-weight: bold;">6.12</span> | <span style="color: #8B0000; font-weight: bold;">15.85</span> |
 | **2025/08** | **10.81** | <span style="color: #002818; font-weight: bold;">-1.4</span> | <span style="color: #8B0000; font-weight: bold;">+4.38</span> | **85.5** | <span style="color: #8B0000; font-weight: bold;">6.12</span> | <span style="color: #002818; font-weight: bold;">13.87</span> |
-| **2025/07** | **10.95** | <span style="color: #002818; font-weight: bold;">-9.26</span> | <span style="color: #8B0000; font-weight: bold;">+5.24</span> | **80.1** | <span style="color: #8B0000; font-weight: bold;">6.12</span> | <span style="color: #002818; font-weight: bold;">12.91</span> |
+| **2025/07** | **10.95** | <span style="color: #002818; font-weight: bold;">-9.26</span> | <span style="color: #8B0000; font-weight: bold;">+5.19</span> | **80.1** | <span style="color: #8B0000; font-weight: bold;">6.12</span> | <span style="color: #002818; font-weight: bold;">12.91</span> |
 | **2025/06** | **10.29** | <span style="color: #002818; font-weight: bold;">-1.78</span> | <span style="color: #8B0000; font-weight: bold;">+8.02</span> | **78** | <span style="color: #8B0000; font-weight: bold;">6.25</span> | <span style="color: #004225; font-weight: bold;">12.48</span> |
 | **2025/05** | **10.64** | <span style="color: #002818; font-weight: bold;">-2.77</span> | <span style="color: #B22222; font-weight: bold;">+10</span> | **85.7** | <span style="color: #8B0000; font-weight: bold;">6.25</span> | <span style="color: #002818; font-weight: bold;">13.72</span> |
 | **2025/04** | **11.79** | <span style="color: #8B0000; font-weight: bold;">+7.45</span> | <span style="color: #B22222; font-weight: bold;">+13.5</span> | **83.5** | <span style="color: #8B0000; font-weight: bold;">6.25</span> | <span style="color: #002818; font-weight: bold;">13.37</span> |
@@ -316,7 +317,6 @@ description: 月營收表 禾伸堂 (3026) - 自動產生
 | **2006/10** | **-** | N/A | N/A | **52.8** | <span style="color: #002818; font-weight: bold;">4.74</span> | <span style="color: #004225; font-weight: bold;">11.3</span> |
 | **2006/09** | **-** | N/A | N/A | **52.5** | <span style="color: #002818; font-weight: bold;">4.64</span> | <span style="color: #004225; font-weight: bold;">11.31</span> |
 | **2006/08** | **-** | N/A | N/A | **50.2** | <span style="color: #002818; font-weight: bold;">4.64</span> | <span style="color: #006400; font-weight: bold;">10.88</span> |
-| **2006/07** | **-** | N/A | N/A | **54** | <span style="color: #002818; font-weight: bold;">4.64</span> | <span style="color: #004225; font-weight: bold;">11.77</span> |
 
 </div>
 
@@ -412,7 +412,7 @@ description: 月營收表 禾伸堂 (3026) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-07-28 13:47:50 CST
+- **產生時間**: 2026-08-10 00:23:08 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-28
+date: 2026-08-10
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 益登 (3048) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 益登  
     **:identification_card: 股票代號**: 3048  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-07-28 13:47:50 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-10 00:23:08 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+60.1</span> | <span style="color: #FF4500; font-weight: bold;">+31.1</span> | **240** 個月 | 2006/07 至 2026/06 |
+| <span style="color: #FF7F7F; font-weight: bold;">+54.6</span> | <span style="color: #FF4500; font-weight: bold;">+34.3</span> | **240** 個月 | 2006/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 益登 (3048) - 自動產生
 | **10月** | -- | 10,870<br/><span style="color: #002818;">(-9.93%)</span> | 12,070<br/><span style="color: #8B0000;">(+0.30%)</span> | 12,040<br/><span style="color: #B22222;">(+13.70%)</span> | 10,580<br/><span style="color: #B22222;">(+15.10%)</span> |
 | **9月** | -- | 10,640<br/><span style="color: #002818;">(-5.75%)</span> | 11,280<br/><span style="color: #8B0000;">(+2.31%)</span> | 11,030<br/><span style="color: #002818;">(-6.40%)</span> | 11,780<br/><span style="color: #8B0000;">(+7.30%)</span> |
 | **8月** | -- | 9,011<br/><span style="color: #002818;">(-9.96%)</span> | 10,010<br/><span style="color: #8B0000;">(+5.70%)</span> | 9,468<br/><span style="color: #004225;">(-13.20%)</span> | 10,910<br/><span style="color: #8B0000;">(+9.59%)</span> |
-| **7月** | -- | 8,891<br/><span style="color: #002818;">(-4.92%)</span> | 9,351<br/><span style="color: #DC143C;">(+22.20%)</span> | 7,654<br/><span style="color: #004225;">(-15.60%)</span> | 9,073<br/><span style="color: #8B0000;">(+7.78%)</span> |
+| **7月** | 13,750<br/><span style="color: #FF7F7F;">(+54.60%)</span> | 8,891<br/><span style="color: #002818;">(-4.92%)</span> | 9,351<br/><span style="color: #DC143C;">(+22.20%)</span> | 7,654<br/><span style="color: #004225;">(-15.60%)</span> | 9,073<br/><span style="color: #8B0000;">(+7.78%)</span> |
 | **6月** | 12,570<br/><span style="color: #FF7F7F;">(+60.10%)</span> | 7,853<br/><span style="color: #8B0000;">(+1.18%)</span> | 7,761<br/><span style="color: #8B0000;">(+2.42%)</span> | 7,577<br/><span style="color: #006400;">(-21.10%)</span> | 9,604<br/><span style="color: #DC143C;">(+22.00%)</span> |
 | **5月** | 13,850<br/><span style="color: #FF7F7F;">(+61.70%)</span> | 8,564<br/><span style="color: #8B0000;">(+1.33%)</span> | 8,451<br/><span style="color: #8B0000;">(+7.74%)</span> | 7,843<br/><span style="color: #004225;">(-19.50%)</span> | 9,740<br/><span style="color: #DC143C;">(+28.90%)</span> |
 | **4月** | 13,080<br/><span style="color: #DC143C;">(+22.20%)</span> | 10,700<br/><span style="color: #DC143C;">(+27.10%)</span> | 8,420<br/><span style="color: #B22222;">(+14.40%)</span> | 7,359<br/><span style="color: #002818;">(-9.09%)</span> | 8,095<br/><span style="color: #8B0000;">(+1.58%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 益登 (3048) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **137.5** | <span style="color: #FF7F7F; font-weight: bold;">+54.6</span> | <span style="color: #FF4500; font-weight: bold;">+34.3</span> | **46.25** | <span style="color: #B22222; font-weight: bold;">2.77</span> | <span style="color: #004225; font-weight: bold;">18.19</span> |
 | **2026/06** | **125.7** | <span style="color: #FF7F7F; font-weight: bold;">+60.1</span> | <span style="color: #FF4500; font-weight: bold;">+31.1</span> | **62.9** | <span style="color: #B22222; font-weight: bold;">2.77</span> | <span style="color: #002818; font-weight: bold;">22.71</span> |
 | **2026/05** | **138.5** | <span style="color: #FF7F7F; font-weight: bold;">+61.7</span> | <span style="color: #DC143C; font-weight: bold;">+26.3</span> | **72** | <span style="color: #B22222; font-weight: bold;">2.77</span> | <span style="color: #002818; font-weight: bold;">25.99</span> |
 | **2026/04** | **130.8** | <span style="color: #DC143C; font-weight: bold;">+22.2</span> | <span style="color: #B22222; font-weight: bold;">+18.6</span> | **38.15** | <span style="color: #B22222; font-weight: bold;">2.77</span> | <span style="color: #004225; font-weight: bold;">13.77</span> |
@@ -318,7 +319,6 @@ description: 月營收表 益登 (3048) - 自動產生
 | **2006/10** | **-** | N/A | N/A | **12.45** | <span style="color: #002818; font-weight: bold;">1.02</span> | <span style="color: #004225; font-weight: bold;">13.06</span> |
 | **2006/09** | **-** | N/A | N/A | **11.55** | <span style="color: #002818; font-weight: bold;">0.92</span> | <span style="color: #004225; font-weight: bold;">12.55</span> |
 | **2006/08** | **-** | N/A | N/A | **11.4** | <span style="color: #002818; font-weight: bold;">0.92</span> | <span style="color: #004225; font-weight: bold;">12.17</span> |
-| **2006/07** | **-** | N/A | N/A | **12.15** | <span style="color: #002818; font-weight: bold;">0.92</span> | <span style="color: #004225; font-weight: bold;">12.74</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 益登 (3048) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-07-28 13:47:50 CST
+- **產生時間**: 2026-08-10 00:23:08 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

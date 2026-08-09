@@ -3,7 +3,7 @@
     "stock_code": "2308",
     "company_name": "台達電",
     "industry": "電子零組件業",
-    "generated_at": "2026-07-28T13:55:16.794945",
+    "generated_at": "2026-08-10T00:33:11.738095",
     "horizons": [
       "10y"
     ],
@@ -3540,10 +3540,6 @@
     }
   ],
   "revenue_yoy": [
-    {
-      "date": "2006-07-16",
-      "revenue_yoy": 38.5
-    },
     {
       "date": "2006-08-16",
       "revenue_yoy": 32.2

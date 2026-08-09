@@ -3,7 +3,7 @@
     "stock_code": "3231",
     "company_name": "緯創",
     "industry": "電腦及週邊設備業",
-    "generated_at": "2026-07-28T13:55:47.027189",
+    "generated_at": "2026-08-10T00:34:09.056019",
     "horizons": [
       "10y"
     ],
@@ -4403,6 +4403,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 53.8
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 60.8
     }
   ]
 }

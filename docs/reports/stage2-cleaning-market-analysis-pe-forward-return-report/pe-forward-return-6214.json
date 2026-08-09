@@ -3,7 +3,7 @@
     "stock_code": "6214",
     "company_name": "精誠",
     "industry": "資訊服務業",
-    "generated_at": "2026-07-28T13:56:03.540107",
+    "generated_at": "2026-08-10T00:34:36.444018",
     "horizons": [
       "10y"
     ],
@@ -4058,6 +4058,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 76.9
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 31.8
     }
   ]
 }

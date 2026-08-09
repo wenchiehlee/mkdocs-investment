@@ -3,7 +3,7 @@
     "stock_code": "2603",
     "company_name": "長榮",
     "industry": "航運業",
-    "generated_at": "2026-07-28T13:55:36.753582",
+    "generated_at": "2026-08-10T00:33:49.621422",
     "horizons": [
       "10y"
     ],
@@ -3002,6 +3002,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 30.0
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 43.1
     }
   ]
 }

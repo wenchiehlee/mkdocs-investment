@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-28
+date: 2026-08-10
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 英業達 (2356) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 英業達  
     **:identification_card: 股票代號**: 2356  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-07-28 13:47:50 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-10 00:23:08 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+61.6</span> | <span style="color: #FF4500; font-weight: bold;">+36.8</span> | **240** 個月 | 2006/07 至 2026/06 |
+| <span style="color: #FF7F7F; font-weight: bold;">+65.7</span> | <span style="color: #FF6347; font-weight: bold;">+40.8</span> | **240** 個月 | 2006/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 英業達 (2356) - 自動產生
 | **10月** | -- | 54,770<br/><span style="color: #004225;">(-15.30%)</span> | 64,690<br/><span style="color: #FF7F7F;">(+60.10%)</span> | 40,400<br/><span style="color: #004225;">(-19.70%)</span> | 50,290<br/><span style="color: #8B0000;">(+5.10%)</span> |
 | **9月** | -- | 60,560<br/><span style="color: #8B0000;">(+7.65%)</span> | 56,250<br/><span style="color: #B22222;">(+18.40%)</span> | 47,530<br/><span style="color: #002818;">(-6.74%)</span> | 50,970<br/><span style="color: #8B0000;">(+0.17%)</span> |
 | **8月** | -- | 61,300<br/><span style="color: #B22222;">(+17.80%)</span> | 52,029<br/><span style="color: #B22222;">(+11.90%)</span> | 46,480<br/><span style="color: #8B0000;">(+4.74%)</span> | 44,380<br/><span style="color: #002818;">(-8.85%)</span> |
-| **7月** | -- | 54,420<br/><span style="color: #002818;">(-2.00%)</span> | 55,529<br/><span style="color: #FF4500;">(+32.80%)</span> | 41,830<br/><span style="color: #004225;">(-11.20%)</span> | 47,110<br/><span style="color: #8B0000;">(+3.51%)</span> |
+| **7月** | 90,190<br/><span style="color: #FF7F7F;">(+65.70%)</span> | 54,420<br/><span style="color: #002818;">(-2.00%)</span> | 55,529<br/><span style="color: #FF4500;">(+32.80%)</span> | 41,830<br/><span style="color: #004225;">(-11.20%)</span> | 47,110<br/><span style="color: #8B0000;">(+3.51%)</span> |
 | **6月** | 102,300<br/><span style="color: #FF7F7F;">(+61.60%)</span> | 63,270<br/><span style="color: #DC143C;">(+24.20%)</span> | 50,930<br/><span style="color: #8B0000;">(+6.72%)</span> | 47,720<br/><span style="color: #002818;">(-8.36%)</span> | 52,079<br/><span style="color: #DC143C;">(+26.20%)</span> |
 | **5月** | 82,810<br/><span style="color: #FF4500;">(+35.30%)</span> | 61,200<br/><span style="color: #B22222;">(+17.30%)</span> | 52,179<br/><span style="color: #B22222;">(+13.30%)</span> | 46,060<br/><span style="color: #B22222;">(+16.60%)</span> | 39,510<br/><span style="color: #B22222;">(+11.80%)</span> |
 | **4月** | 84,790<br/><span style="color: #FF4500;">(+36.50%)</span> | 62,100<br/><span style="color: #DC143C;">(+21.60%)</span> | 51,050<br/><span style="color: #FF4500;">(+38.40%)</span> | 36,870<br/><span style="color: #004225;">(-16.50%)</span> | 44,160<br/><span style="color: #B22222;">(+15.60%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 英業達 (2356) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **901.9** | <span style="color: #FF7F7F; font-weight: bold;">+65.7</span> | <span style="color: #FF6347; font-weight: bold;">+40.8</span> | **61.8** | <span style="color: #FF6347; font-weight: bold;">2.64</span> | <span style="color: #DC143C; font-weight: bold;">24.43</span> |
 | **2026/06** | **1023** | <span style="color: #FF7F7F; font-weight: bold;">+61.6</span> | <span style="color: #FF4500; font-weight: bold;">+36.8</span> | **66.6** | <span style="color: #FF6347; font-weight: bold;">2.64</span> | <span style="color: #DC143C; font-weight: bold;">25.23</span> |
 | **2026/05** | **828.1** | <span style="color: #FF4500; font-weight: bold;">+35.3</span> | <span style="color: #FF4500; font-weight: bold;">+31.2</span> | **70.2** | <span style="color: #FF6347; font-weight: bold;">2.64</span> | <span style="color: #FF4500; font-weight: bold;">26.59</span> |
 | **2026/04** | **847.9** | <span style="color: #FF4500; font-weight: bold;">+36.5</span> | <span style="color: #FF4500; font-weight: bold;">+30.1</span> | **45.9** | <span style="color: #FF6347; font-weight: bold;">2.64</span> | <span style="color: #8B0000; font-weight: bold;">17.39</span> |
@@ -318,7 +319,6 @@ description: 月營收表 英業達 (2356) - 自動產生
 | **2006/10** | **-** | N/A | N/A | **24** | <span style="color: #FF4500; font-weight: bold;">2.45</span> | <span style="color: #006400; font-weight: bold;">10.3</span> |
 | **2006/09** | **-** | N/A | N/A | **21.55** | <span style="color: #DC143C; font-weight: bold;">2.27</span> | <span style="color: #006400; font-weight: bold;">9.49</span> |
 | **2006/08** | **-** | N/A | N/A | **20** | <span style="color: #DC143C; font-weight: bold;">2.27</span> | <span style="color: #006400; font-weight: bold;">9.1</span> |
-| **2006/07** | **-** | N/A | N/A | **19.3** | <span style="color: #DC143C; font-weight: bold;">2.27</span> | <span style="color: #006400; font-weight: bold;">9.09</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 英業達 (2356) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-07-28 13:47:50 CST
+- **產生時間**: 2026-08-10 00:23:08 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

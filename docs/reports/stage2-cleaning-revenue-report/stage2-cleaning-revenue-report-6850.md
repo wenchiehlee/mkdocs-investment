@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-07-28
+date: 2026-08-10
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 光鼎生技 (6850) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 光鼎生技  
     **:identification_card: 股票代號**: 6850  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-07-28 13:47:50 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-10 00:23:08 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #006400; font-weight: bold;">-21.2</span> | <span style="color: #002818; font-weight: bold;">-3.93</span> | **59** 個月 | 2021/08 至 2026/06 |
+| <span style="color: #FF4500; font-weight: bold;">+37.6</span> | <span style="color: #8B0000; font-weight: bold;">+0.3</span> | **60** 個月 | 2021/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 光鼎生技 (6850) - 自動產生
 | **10月** | -- | 22<br/><span style="color: #FF4500;">(+34.40%)</span> | 17<br/><span style="color: #006400;">(-29.90%)</span> | 24<br/><span style="color: #002818;">(-7.71%)</span> | 26<br/><span style="color: #B22222;">(+19.00%)</span> |
 | **9月** | -- | 12<br/><span style="color: #228B22;">(-32.70%)</span> | 18<br/><span style="color: #004225;">(-16.20%)</span> | 22<br/><span style="color: #FF4500;">(+32.20%)</span> | 16<br/><span style="color: #002818;">(-4.54%)</span> |
 | **8月** | -- | 20<br/><span style="color: #002818;">(-5.89%)</span> | 22<br/><span style="color: #DC143C;">(+26.80%)</span> | 17<br/><span style="color: #006400;">(-20.80%)</span> | 22<br/><span style="color: #FF7F7F;">(+58.00%)</span> |
-| **7月** | -- | 12<br/><span style="color: #32CD32;">(-47.50%)</span> | 23<br/><span style="color: #FF6347;">(+46.10%)</span> | 15<br/><span style="color: #004225;">(-19.90%)</span> | 19<br/><span style="color: #FF7F7F;">(+59.50%)</span> |
+| **7月** | 16<br/><span style="color: #FF4500;">(+37.60%)</span> | 12<br/><span style="color: #32CD32;">(-47.50%)</span> | 23<br/><span style="color: #FF6347;">(+46.10%)</span> | 15<br/><span style="color: #004225;">(-19.90%)</span> | 19<br/><span style="color: #FF7F7F;">(+59.50%)</span> |
 | **6月** | 12<br/><span style="color: #006400;">(-21.20%)</span> | 16<br/><span style="color: #8B0000;">(+4.67%)</span> | 15<br/><span style="color: #006400;">(-24.00%)</span> | 20<br/><span style="color: #FF4500;">(+39.50%)</span> | 14<br/><span style="color: #B22222;">(+15.30%)</span> |
 | **5月** | 13<br/><span style="color: #002818;">(-6.73%)</span> | 14<br/><span style="color: #8B0000;">(+4.92%)</span> | 13<br/><span style="color: #228B22;">(-37.50%)</span> | 22<br/><span style="color: #004225;">(-13.20%)</span> | 25<br/><span style="color: #FF7F7F;">(+131.60%)</span> |
 | **4月** | 30<br/><span style="color: #B22222;">(+17.70%)</span> | 25<br/><span style="color: #FF7F7F;">(+274.90%)</span> | 6<br/><span style="color: #90EE90;">(-66.80%)</span> | 20<br/><span style="color: #FF6347;">(+42.70%)</span> | 14<br/><span style="color: #DC143C;">(+28.80%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 光鼎生技 (6850) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **0.168** | <span style="color: #FF4500; font-weight: bold;">+37.6</span> | <span style="color: #8B0000; font-weight: bold;">+0.3</span> | **33.8** | <span style="color: #006400; font-weight: bold;">0.04</span> | <span style="color: #B22222; font-weight: bold;">850.0</span> |
 | **2026/06** | **0.127** | <span style="color: #006400; font-weight: bold;">-21.2</span> | <span style="color: #002818; font-weight: bold;">-3.93</span> | **34** | <span style="color: #006400; font-weight: bold;">0.04</span> | <span style="color: #B22222; font-weight: bold;">850.0</span> |
 | **2026/05** | **0.135** | <span style="color: #002818; font-weight: bold;">-6.73</span> | <span style="color: #002818; font-weight: bold;">-0.86</span> | **35.5** | <span style="color: #006400; font-weight: bold;">0.04</span> | <span style="color: #DC143C; font-weight: bold;">887.5</span> |
 | **2026/04** | **0.302** | <span style="color: #B22222; font-weight: bold;">+17.7</span> | <span style="color: #8B0000; font-weight: bold;">+0.24</span> | **36.5** | <span style="color: #006400; font-weight: bold;">0.04</span> | <span style="color: #DC143C; font-weight: bold;">912.5</span> |
@@ -233,7 +234,7 @@ description: 月營收表 光鼎生技 (6850) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-07-28 13:47:50 CST
+- **產生時間**: 2026-08-10 00:23:08 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

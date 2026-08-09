@@ -3,7 +3,7 @@
     "stock_code": "2884",
     "company_name": "玉山金",
     "industry": "金融保險業",
-    "generated_at": "2026-07-28T13:55:39.598789",
+    "generated_at": "2026-08-10T00:33:55.205500",
     "horizons": [
       "10y"
     ],
@@ -4379,6 +4379,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 25.3
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 4.74
     }
   ]
 }

@@ -3,7 +3,7 @@
     "stock_code": "8016",
     "company_name": "矽創",
     "industry": "半導體業",
-    "generated_at": "2026-07-28T13:56:41.150336",
+    "generated_at": "2026-08-10T00:35:14.442963",
     "horizons": [
       "10y"
     ],
@@ -4307,6 +4307,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 26.6
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 34.5
     }
   ]
 }

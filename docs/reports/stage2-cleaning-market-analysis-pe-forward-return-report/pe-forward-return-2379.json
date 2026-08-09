@@ -3,7 +3,7 @@
     "stock_code": "2379",
     "company_name": "瑞昱",
     "industry": "半導體業",
-    "generated_at": "2026-07-28T13:55:28.105168",
+    "generated_at": "2026-08-10T00:33:32.570922",
     "horizons": [
       "10y"
     ],
@@ -4187,6 +4187,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 20.6
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 32.5
     }
   ]
 }
