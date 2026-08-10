@@ -19,8 +19,8 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 # 📈 融資餘額總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-08-10 18:17:27 CST  
-    **:building_construction: 分析股票總數**: 141 檔  
+    **:calendar: 產生時間**: 2026-08-10 19:50:12 CST  
+    **:building_construction: 分析股票總數**: 142 檔  
     **:chart_with_upwards_trend: 報告類型**: 融資餘額總覽  
     **:file_folder: 資料來源**: Stage 1 raw_margin_daily.csv + raw_margin_weekly.csv + raw_margin_monthly.csv
 
@@ -51,7 +51,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-13.23%</td>
 <td>-6.83%</td>
 <td>44928.76</td>
-<td>137.26 兆元</td>
+<td>137.84 兆元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -63,7 +63,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+81.76%</td>
 <td>-22.50%</td>
 <td>104.25</td>
-<td>2.31 兆元</td>
+<td>2.34 兆元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -75,7 +75,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+11.12%</td>
 <td>+6.99%</td>
 <td>60.95</td>
-<td>1610.0 億元</td>
+<td>1630.1 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -83,14 +83,14 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**2301**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2301/)</td>
 <td>光寶科</td>
-<td>33.3</td>
+<td>0.0</td>
 <td>-12.64%</td>
 <td>-11.68%</td>
-<td>247.00</td>
-<td>5720.8 億元</td>
-<td>0.58%</td>
-<td>🟠</td>
-<td>2026-08-07</td>
+<td>271.50</td>
+<td>6288.2 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**2303**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2303/)</td>
@@ -111,7 +111,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-6.57%</td>
 <td>+1.55%</td>
 <td>1815.00</td>
-<td>4.29 兆元</td>
+<td>4.71 兆元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -123,7 +123,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-3.18%</td>
 <td>-3.31%</td>
 <td>264.50</td>
-<td>3.65 兆元</td>
+<td>3.71 兆元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -135,7 +135,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-16.09%</td>
 <td>-12.58%</td>
 <td>36.30</td>
-<td>1610.8 億元</td>
+<td>1599.8 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -143,14 +143,14 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**2330**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2330/)</td>
 <td>台積電</td>
-<td>702.9</td>
+<td>0.0</td>
 <td>-11.97%</td>
 <td>-6.28%</td>
-<td>2370.00</td>
-<td>61.46 兆元</td>
-<td>0.11%</td>
-<td>🟢</td>
-<td>2026-08-07</td>
+<td>2380.00</td>
+<td>61.72 兆元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**2332**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2332/)</td>
@@ -159,7 +159,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+14.67%</td>
 <td>+7.64%</td>
 <td>23.60</td>
-<td>133.4 億元</td>
+<td>142.1 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -171,7 +171,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-16.12%</td>
 <td>+3.05%</td>
 <td>133.50</td>
-<td>2407.3 億元</td>
+<td>2645.1 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -183,7 +183,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-4.15%</td>
 <td>+7.90%</td>
 <td>179.50</td>
-<td>7357.5 億元</td>
+<td>8077.5 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -195,7 +195,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-17.37%</td>
 <td>+14.83%</td>
 <td>2165.00</td>
-<td>1.24 兆元</td>
+<td>1.21 兆元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -207,7 +207,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+24.49%</td>
 <td>+134.45%</td>
 <td>91.90</td>
-<td>1557.9 億元</td>
+<td>1532.8 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -219,7 +219,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-13.15%</td>
 <td>+0.23%</td>
 <td>31.00</td>
-<td>922.0 億元</td>
+<td>944.8 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -231,7 +231,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+26.53%</td>
 <td>+30.17%</td>
 <td>63.10</td>
-<td>874.1 億元</td>
+<td>892.5 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -239,14 +239,14 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**2356**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2356/)</td>
 <td>英業達</td>
-<td>18.0</td>
+<td>0.0</td>
 <td>-23.51%</td>
 <td>-7.42%</td>
-<td>64.00</td>
-<td>2296.0 億元</td>
-<td>0.78%</td>
-<td>🟠</td>
-<td>2026-08-07</td>
+<td>66.00</td>
+<td>2367.7 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**2357**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2357/)</td>
@@ -255,7 +255,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-4.84%</td>
 <td>+1.86%</td>
 <td>818.00</td>
-<td>6068.4 億元</td>
+<td>6075.8 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -267,7 +267,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+9.35%</td>
 <td>-8.51%</td>
 <td>153.50</td>
-<td>246.1 億元</td>
+<td>263.2 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -275,14 +275,14 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**2360**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2360/)</td>
 <td>致茂</td>
-<td>29.8</td>
+<td>0.0</td>
 <td>+41.40%</td>
 <td>+5.58%</td>
 <td>2030.00</td>
 <td>8632.5 億元</td>
-<td>0.35%</td>
-<td>🟡</td>
-<td>2026-08-07</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**2376**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2376/)</td>
@@ -291,7 +291,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-16.34%</td>
 <td>-12.64%</td>
 <td>349.50</td>
-<td>2304.4 億元</td>
+<td>2341.3 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -299,14 +299,14 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**2377**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2377/)</td>
 <td>微星</td>
-<td>21.2</td>
+<td>0.0</td>
 <td>+1.98%</td>
 <td>-0.62%</td>
-<td>153.00</td>
-<td>1292.6 億元</td>
-<td>1.64%</td>
-<td>🔴</td>
-<td>2026-08-07</td>
+<td>155.00</td>
+<td>1309.5 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**2379**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2379/)</td>
@@ -315,7 +315,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-30.37%</td>
 <td>-8.93%</td>
 <td>758.00</td>
-<td>3866.3 億元</td>
+<td>3907.6 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -327,7 +327,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+8.36%</td>
 <td>+7.40%</td>
 <td>313.50</td>
-<td>1.22 兆元</td>
+<td>1.29 兆元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -351,7 +351,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+25.77%</td>
 <td>+7.59%</td>
 <td>667.00</td>
-<td>5504.7 億元</td>
+<td>5791.3 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -363,7 +363,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-13.22%</td>
 <td>-6.58%</td>
 <td>16.35</td>
-<td>56.0 億元</td>
+<td>56.1 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -371,14 +371,14 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**2408**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2408/)</td>
 <td>南亞科</td>
-<td>419.6</td>
+<td>0.0</td>
 <td>+18.53%</td>
 <td>+13.33%</td>
-<td>457.00</td>
-<td>1.42 兆元</td>
-<td>2.95%</td>
-<td>🔴</td>
-<td>2026-08-07</td>
+<td>502.00</td>
+<td>1.56 兆元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**2412**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2412/)</td>
@@ -387,7 +387,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+254.62%</td>
 <td>-4.36%</td>
 <td>136.50</td>
-<td>1.07 兆元</td>
+<td>1.06 兆元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -399,7 +399,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-28.79%</td>
 <td>-11.98%</td>
 <td>248.50</td>
-<td>2959.0 億元</td>
+<td>3038.5 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -411,7 +411,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-24.28%</td>
 <td>+4.45%</td>
 <td>28.35</td>
-<td>73.1 億元</td>
+<td>73.2 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -423,7 +423,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+29.37%</td>
 <td>+13.94%</td>
 <td>295.50</td>
-<td>1281.1 億元</td>
+<td>1274.6 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -435,7 +435,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-1.40%</td>
 <td>+8.29%</td>
 <td>3960.00</td>
-<td>6.26 兆元</td>
+<td>6.35 兆元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -443,14 +443,14 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**2458**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2458/)</td>
 <td>義隆</td>
-<td>5.6</td>
+<td>0.0</td>
 <td>-43.00%</td>
 <td>-4.77%</td>
-<td>141.50</td>
-<td>430.0 億元</td>
-<td>1.30%</td>
-<td>🔴</td>
-<td>2026-08-07</td>
+<td>145.50</td>
+<td>442.1 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**2474**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2474/)</td>
@@ -459,7 +459,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-35.30%</td>
 <td>-13.29%</td>
 <td>201.00</td>
-<td>1010.3 億元</td>
+<td>1083.0 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -483,7 +483,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-5.01%</td>
 <td>+0.50%</td>
 <td>214.00</td>
-<td>4492.5 億元</td>
+<td>4633.2 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -495,7 +495,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-14.22%</td>
 <td>-1.53%</td>
 <td>20.75</td>
-<td>640.9 億元</td>
+<td>624.3 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -507,7 +507,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+24.56%</td>
 <td>+27.19%</td>
 <td>36.00</td>
-<td>283.7 億元</td>
+<td>288.1 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -515,14 +515,14 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**2881**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2881/)</td>
 <td>富邦金</td>
-<td>9.2</td>
+<td>0.0</td>
 <td>-0.75%</td>
 <td>+8.04%</td>
-<td>127.00</td>
-<td>1.78 兆元</td>
-<td>0.05%</td>
-<td>🟢</td>
-<td>2026-08-07</td>
+<td>128.50</td>
+<td>1.80 兆元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**2882**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2882/)</td>
@@ -531,7 +531,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-36.33%</td>
 <td>-15.58%</td>
 <td>101.00</td>
-<td>1.46 兆元</td>
+<td>1.48 兆元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -539,38 +539,38 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**2884**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2884/)</td>
 <td>玉山金</td>
-<td>1.8</td>
+<td>0.0</td>
 <td>+0.88%</td>
 <td>-3.73%</td>
-<td>38.15</td>
-<td>6177.2 億元</td>
-<td>0.03%</td>
-<td>🟢</td>
-<td>2026-08-07</td>
+<td>37.80</td>
+<td>6120.6 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**2891**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2891/)</td>
 <td>中信金</td>
-<td>2.4</td>
+<td>0.0</td>
 <td>-22.33%</td>
 <td>-7.53%</td>
-<td>65.60</td>
-<td>1.29 兆元</td>
-<td>0.02%</td>
-<td>🟢</td>
-<td>2026-08-07</td>
+<td>66.50</td>
+<td>1.31 兆元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**3014**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3014/)</td>
 <td>聯陽</td>
-<td>3.6</td>
+<td>0.0</td>
 <td>+2.11%</td>
 <td>+23.67%</td>
-<td>135.00</td>
-<td>224.1 億元</td>
-<td>1.63%</td>
-<td>🔴</td>
-<td>2026-08-07</td>
+<td>136.50</td>
+<td>226.6 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**3022**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3022/)</td>
@@ -579,7 +579,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+22.46%</td>
 <td>+18.99%</td>
 <td>113.00</td>
-<td>181.9 億元</td>
+<td>199.6 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -591,7 +591,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-62.91%</td>
 <td>-31.83%</td>
 <td>588.00</td>
-<td>887.5 億元</td>
+<td>975.4 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -603,7 +603,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-0.08%</td>
 <td>+0.39%</td>
 <td>109.00</td>
-<td>182.9 億元</td>
+<td>182.0 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -611,14 +611,14 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**3034**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3034/)</td>
 <td>聯詠</td>
-<td>13.4</td>
+<td>0.0</td>
 <td>-11.41%</td>
 <td>+5.92%</td>
-<td>542.00</td>
-<td>3298.1 億元</td>
-<td>0.41%</td>
-<td>🟡</td>
-<td>2026-08-07</td>
+<td>544.00</td>
+<td>3310.3 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**3035**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3035/)</td>
@@ -627,7 +627,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-33.74%</td>
 <td>-21.49%</td>
 <td>178.00</td>
-<td>448.1 億元</td>
+<td>463.8 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -639,7 +639,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+252.62%</td>
 <td>+274.08%</td>
 <td>110.50</td>
-<td>4151.4 億元</td>
+<td>4114.2 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -651,7 +651,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-21.66%</td>
 <td>+13.58%</td>
 <td>57.30</td>
-<td>155.2 億元</td>
+<td>154.6 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -663,7 +663,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-17.22%</td>
 <td>-12.24%</td>
 <td>17.75</td>
-<td>7.4 億元</td>
+<td>7.9 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -675,7 +675,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-</td>
 <td>-</td>
 <td>84.00</td>
-<td>25.6 億元</td>
+<td>25.7 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -687,7 +687,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+6.48%</td>
 <td>-17.33%</td>
 <td>193.00</td>
-<td>5835.4 億元</td>
+<td>6137.5 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -699,7 +699,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-14.61%</td>
 <td>+0.67%</td>
 <td>411.00</td>
-<td>1388.7 億元</td>
+<td>1372.0 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -711,7 +711,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-14.14%</td>
 <td>-5.56%</td>
 <td>792.00</td>
-<td>2251.6 億元</td>
+<td>2231.9 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -723,7 +723,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-11.06%</td>
 <td>-5.97%</td>
 <td>57.60</td>
-<td>44.9 億元</td>
+<td>46.4 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -735,7 +735,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+2.84%</td>
 <td>+8.34%</td>
 <td>4530.00</td>
-<td>6090.8 億元</td>
+<td>6070.7 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -747,7 +747,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-77.12%</td>
 <td>-67.79%</td>
 <td>45.05</td>
-<td>13.8 億元</td>
+<td>14.0 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -759,7 +759,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+2.97%</td>
 <td>-16.36%</td>
 <td>143.00</td>
-<td>100.6 億元</td>
+<td>103.9 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -771,7 +771,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-19.71%</td>
 <td>-4.65%</td>
 <td>130.00</td>
-<td>75.6 億元</td>
+<td>76.8 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -783,7 +783,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+29.81%</td>
 <td>+25.66%</td>
 <td>4135.00</td>
-<td>6426.9 億元</td>
+<td>6067.4 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -795,7 +795,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-13.35%</td>
 <td>+10.89%</td>
 <td>3800.00</td>
-<td>3202.5 億元</td>
+<td>3275.8 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -803,14 +803,14 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**3665**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3665/)</td>
 <td>貿聯-KY</td>
-<td>46.6</td>
+<td>0.0</td>
 <td>-27.07%</td>
 <td>-14.41%</td>
-<td>2200.00</td>
-<td>4291.7 億元</td>
-<td>1.09%</td>
-<td>🔴</td>
-<td>2026-08-07</td>
+<td>2190.00</td>
+<td>4272.2 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**3711**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3711/)</td>
@@ -819,7 +819,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+2.18%</td>
 <td>+8.21%</td>
 <td>630.00</td>
-<td>2.62 兆元</td>
+<td>2.82 兆元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -831,7 +831,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-8.73%</td>
 <td>+4.27%</td>
 <td>29.50</td>
-<td>161.0 億元</td>
+<td>162.4 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -843,7 +843,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-23.51%</td>
 <td>-5.55%</td>
 <td>786.00</td>
-<td>766.4 億元</td>
+<td>744.6 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -855,7 +855,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-21.05%</td>
 <td>-14.32%</td>
 <td>89.50</td>
-<td>2336.1 億元</td>
+<td>2400.4 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -867,7 +867,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-12.72%</td>
 <td>-8.61%</td>
 <td>127.00</td>
-<td>91.8 億元</td>
+<td>92.9 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -879,7 +879,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-14.77%</td>
 <td>-6.91%</td>
 <td>66.30</td>
-<td>52.8 億元</td>
+<td>52.6 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -903,7 +903,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+11.31%</td>
 <td>+13.51%</td>
 <td>16540.00</td>
-<td>6796.7 億元</td>
+<td>6877.8 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -915,7 +915,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-37.79%</td>
 <td>-17.08%</td>
 <td>157.50</td>
-<td>2697.2 億元</td>
+<td>2960.3 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -923,14 +923,14 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**5434**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-5434/)</td>
 <td>崇越</td>
-<td>5.1</td>
+<td>0.0</td>
 <td>+16.94%</td>
 <td>-1.34%</td>
-<td>499.00</td>
-<td>966.4 億元</td>
-<td>0.53%</td>
-<td>🟠</td>
-<td>2026-08-07</td>
+<td>514.00</td>
+<td>995.4 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**5536**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-5536/)</td>
@@ -939,7 +939,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+10.61%</td>
 <td>+8.01%</td>
 <td>1045.00</td>
-<td>1315.3 億元</td>
+<td>1296.7 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -947,14 +947,14 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**5904**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-5904/)</td>
 <td>寶雅</td>
-<td>4.3</td>
+<td>0.0</td>
 <td>+72.94%</td>
 <td>+30.23%</td>
-<td>720.00</td>
-<td>N/A</td>
+<td>79.20</td>
+<td>843.0 億元</td>
 <td>N/A</td>
 <td>-</td>
-<td>2026-07-29</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**6035**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6035/)</td>
@@ -963,7 +963,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-</td>
 <td>-</td>
 <td>52.60</td>
-<td>37.2 億元</td>
+<td>37.6 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -971,26 +971,26 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**6123**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6123/)</td>
 <td>上奇</td>
-<td>0.1</td>
+<td>0.0</td>
 <td>-1.89%</td>
 <td>-4.18%</td>
-<td>42.25</td>
-<td>26.2 億元</td>
-<td>0.44%</td>
-<td>🟡</td>
-<td>2026-08-07</td>
+<td>43.25</td>
+<td>26.9 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**6125**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6125/)</td>
 <td>廣運</td>
-<td>3.4</td>
+<td>0.0</td>
 <td>-31.03%</td>
 <td>-12.20%</td>
-<td>49.40</td>
-<td>128.0 億元</td>
-<td>2.62%</td>
-<td>🔴</td>
-<td>2026-08-07</td>
+<td>50.00</td>
+<td>129.5 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**6166**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6166/)</td>
@@ -1011,7 +1011,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-56.27%</td>
 <td>-22.23%</td>
 <td>93.00</td>
-<td>631.6 億元</td>
+<td>581.5 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1019,14 +1019,14 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**6214**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6214/)</td>
 <td>精誠</td>
-<td>3.1</td>
+<td>0.0</td>
 <td>+20.81%</td>
 <td>+33.68%</td>
-<td>146.50</td>
-<td>398.8 億元</td>
-<td>0.77%</td>
-<td>🟠</td>
-<td>2026-08-07</td>
+<td>144.50</td>
+<td>393.4 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**6231**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6231/)</td>
@@ -1035,7 +1035,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-34.83%</td>
 <td>-6.76%</td>
 <td>216.00</td>
-<td>104.1 億元</td>
+<td>98.6 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1047,7 +1047,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-15.85%</td>
 <td>-12.79%</td>
 <td>88.60</td>
-<td>123.7 億元</td>
+<td>129.9 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1059,7 +1059,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-20.80%</td>
 <td>-14.84%</td>
 <td>256.00</td>
-<td>1126.9 億元</td>
+<td>1238.2 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1071,7 +1071,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+80.46%</td>
 <td>-24.01%</td>
 <td>482.00</td>
-<td>691.5 億元</td>
+<td>703.2 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1083,7 +1083,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-44.01%</td>
 <td>-15.74%</td>
 <td>57.40</td>
-<td>28.4 億元</td>
+<td>29.5 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1095,7 +1095,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-15.45%</td>
 <td>+1.15%</td>
 <td>1425.00</td>
-<td>1066.0 億元</td>
+<td>1146.4 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1107,7 +1107,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-21.26%</td>
 <td>-10.42%</td>
 <td>101.50</td>
-<td>90.9 億元</td>
+<td>92.6 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1119,7 +1119,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-50.95%</td>
 <td>-9.22%</td>
 <td>17.20</td>
-<td>13.7 億元</td>
+<td>14.2 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1131,7 +1131,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-13.20%</td>
 <td>+7.18%</td>
 <td>2845.00</td>
-<td>887.4 億元</td>
+<td>936.8 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1143,7 +1143,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-19.48%</td>
 <td>-7.77%</td>
 <td>627.00</td>
-<td>1046.9 億元</td>
+<td>1050.3 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1155,7 +1155,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-10.78%</td>
 <td>+0.92%</td>
 <td>327.50</td>
-<td>256.1 億元</td>
+<td>255.3 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1167,7 +1167,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-32.81%</td>
 <td>-20.32%</td>
 <td>164.50</td>
-<td>290.6 億元</td>
+<td>278.8 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1179,7 +1179,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-</td>
 <td>-</td>
 <td>67.80</td>
-<td>19.7 億元</td>
+<td>20.4 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1191,7 +1191,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-20.29%</td>
 <td>-10.69%</td>
 <td>267.00</td>
-<td>214.7 億元</td>
+<td>207.7 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1203,7 +1203,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-19.04%</td>
 <td>-14.86%</td>
 <td>6010.00</td>
-<td>1.13 兆元</td>
+<td>1.12 兆元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1211,38 +1211,38 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**6690**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6690/)</td>
 <td>安碁資訊</td>
-<td>0.1</td>
+<td>0.0</td>
 <td>-23.73%</td>
 <td>-11.80%</td>
-<td>164.50</td>
-<td>49.4 億元</td>
-<td>0.29%</td>
-<td>🟢</td>
-<td>2026-08-07</td>
+<td>164.00</td>
+<td>49.2 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**6695**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6695/)</td>
 <td>芯鼎</td>
-<td>1.8</td>
+<td>0.0</td>
 <td>-8.49%</td>
 <td>-9.82%</td>
-<td>49.80</td>
-<td>53.0 億元</td>
-<td>3.35%</td>
-<td>🔴</td>
-<td>2026-08-07</td>
+<td>49.05</td>
+<td>52.2 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**6720**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6720/)</td>
 <td>久昌</td>
-<td>2.3</td>
+<td>0.0</td>
 <td>-0.09%</td>
 <td>+0.52%</td>
-<td>137.50</td>
-<td>41.6 億元</td>
-<td>5.49%</td>
-<td>🔴</td>
-<td>2026-08-07</td>
+<td>138.50</td>
+<td>41.9 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**6751**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6751/)</td>
@@ -1251,7 +1251,19 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-7.53%</td>
 <td>+4.97%</td>
 <td>41.55</td>
-<td>9.3 億元</td>
+<td>9.2 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
+</tr>
+<tr>
+<td markdown="span">[**6757**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6757/)</td>
+<td>台灣虎航</td>
+<td>0.0</td>
+<td>-5.89%</td>
+<td>+5.40%</td>
+<td>55.60</td>
+<td>255.5 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1259,14 +1271,14 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**6763**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6763/)</td>
 <td>綠界科技</td>
-<td>0.8</td>
+<td>0.0</td>
 <td>-15.16%</td>
 <td>-4.42%</td>
-<td>43.65</td>
-<td>80.3 億元</td>
-<td>1.05%</td>
-<td>🔴</td>
-<td>2026-08-07</td>
+<td>43.35</td>
+<td>79.8 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**6770**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6770/)</td>
@@ -1275,7 +1287,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-23.38%</td>
 <td>-5.37%</td>
 <td>67.60</td>
-<td>3085.1 億元</td>
+<td>3184.0 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1283,14 +1295,14 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**6811**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6811/)</td>
 <td>宏碁資訊</td>
-<td>1.4</td>
+<td>0.0</td>
 <td>+159.97%</td>
 <td>+148.98%</td>
-<td>230.50</td>
-<td>95.5 億元</td>
-<td>1.45%</td>
-<td>🔴</td>
-<td>2026-08-07</td>
+<td>235.00</td>
+<td>97.4 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**6850**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6850/)</td>
@@ -1298,11 +1310,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.0</td>
 <td>-</td>
 <td>-</td>
-<td>33.40</td>
-<td>11.1 億元</td>
+<td>33.30</td>
+<td>11.0 億元</td>
 <td>N/A</td>
 <td>-</td>
-<td>2026-08-07</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**6902**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6902/)</td>
@@ -1311,7 +1323,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-12.22%</td>
 <td>-2.67%</td>
 <td>127.50</td>
-<td>42.8 億元</td>
+<td>45.3 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1319,14 +1331,14 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**6918**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6918/)</td>
 <td>愛派司</td>
-<td>0.1</td>
+<td>0.0</td>
 <td>-16.51%</td>
 <td>-14.78%</td>
-<td>70.50</td>
-<td>24.4 億元</td>
-<td>0.25%</td>
-<td>🟢</td>
-<td>2026-08-07</td>
+<td>72.80</td>
+<td>25.2 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**6925**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6925/)</td>
@@ -1335,7 +1347,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-21.69%</td>
 <td>-9.08%</td>
 <td>54.40</td>
-<td>10.6 億元</td>
+<td>10.9 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1343,14 +1355,14 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**6962**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6962/)</td>
 <td>奕力-KY</td>
-<td>2.6</td>
+<td>0.0</td>
 <td>-19.08%</td>
 <td>-12.47%</td>
-<td>31.05</td>
-<td>152.9 億元</td>
-<td>1.71%</td>
-<td>🔴</td>
-<td>2026-08-07</td>
+<td>34.15</td>
+<td>168.2 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**6996**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6996/)</td>
@@ -1359,7 +1371,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+0.44%</td>
 <td>+8.55%</td>
 <td>178.00</td>
-<td>77.7 億元</td>
+<td>74.8 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1383,7 +1395,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+10.84%</td>
 <td>+11.40%</td>
 <td>57.10</td>
-<td>18.3 億元</td>
+<td>19.2 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1395,7 +1407,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-40.39%</td>
 <td>-31.57%</td>
 <td>185.00</td>
-<td>61.9 億元</td>
+<td>64.3 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1407,7 +1419,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+60.79%</td>
 <td>+84.58%</td>
 <td>64.20</td>
-<td>22.1 億元</td>
+<td>21.7 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1419,7 +1431,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+2.37%</td>
 <td>+4.37%</td>
 <td>31.20</td>
-<td>20.4 億元</td>
+<td>20.6 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1439,14 +1451,14 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**7709**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7709/)</td>
 <td>榮田</td>
-<td>0.2</td>
+<td>0.0</td>
 <td>-32.32%</td>
 <td>-13.07%</td>
-<td>71.30</td>
-<td>27.9 億元</td>
-<td>0.76%</td>
-<td>🟠</td>
-<td>2026-08-07</td>
+<td>73.50</td>
+<td>28.7 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**7712**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7712/)</td>
@@ -1455,7 +1467,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-45.11%</td>
 <td>-19.74%</td>
 <td>148.00</td>
-<td>45.9 億元</td>
+<td>48.2 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1466,11 +1478,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.0</td>
 <td>-</td>
 <td>-</td>
-<td>68.90</td>
-<td>31.3 億元</td>
+<td>69.50</td>
+<td>31.6 億元</td>
 <td>N/A</td>
 <td>-</td>
-<td>2026-08-07</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**7722**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7722/)</td>
@@ -1479,7 +1491,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-35.41%</td>
 <td>-19.04%</td>
 <td>293.50</td>
-<td>205.0 億元</td>
+<td>199.6 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1491,7 +1503,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-16.18%</td>
 <td>-13.53%</td>
 <td>608.00</td>
-<td>82.8 億元</td>
+<td>84.2 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1502,23 +1514,23 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.0</td>
 <td>-23.31%</td>
 <td>-27.10%</td>
-<td>35.35</td>
-<td>22.9 億元</td>
-<td>0.12%</td>
-<td>🟢</td>
-<td>2026-08-07</td>
+<td>36.10</td>
+<td>23.4 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**7734**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7734/)</td>
 <td>印能科技</td>
-<td>21.2</td>
+<td>0.0</td>
 <td>+50.19%</td>
 <td>+1.43%</td>
-<td>3375.00</td>
-<td>945.0 億元</td>
-<td>2.24%</td>
-<td>🔴</td>
-<td>2026-08-07</td>
+<td>3455.00</td>
+<td>967.4 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**7736**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7736/)</td>
@@ -1527,7 +1539,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+27.39%</td>
 <td>-3.55%</td>
 <td>70.00</td>
-<td>53.1 億元</td>
+<td>53.2 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1539,7 +1551,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-</td>
 <td>-</td>
 <td>37.50</td>
-<td>11.6 億元</td>
+<td>11.2 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1551,7 +1563,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-</td>
 <td>-</td>
 <td>115.50</td>
-<td>35.0 億元</td>
+<td>34.8 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1563,7 +1575,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-27.07%</td>
 <td>-10.87%</td>
 <td>355.50</td>
-<td>159.9 億元</td>
+<td>165.3 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1575,7 +1587,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-3.28%</td>
 <td>-3.21%</td>
 <td>225.50</td>
-<td>92.1 億元</td>
+<td>91.7 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1583,14 +1595,14 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**7769**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7769/)</td>
 <td>鴻勁</td>
-<td>21.1</td>
+<td>0.0</td>
 <td>+3.58%</td>
 <td>+4.69%</td>
-<td>6320.00</td>
-<td>1.14 兆元</td>
-<td>0.19%</td>
-<td>🟢</td>
-<td>2026-08-07</td>
+<td>6280.00</td>
+<td>1.13 兆元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**7794**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7794/)</td>
@@ -1611,7 +1623,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-9.96%</td>
 <td>+23.57%</td>
 <td>677.00</td>
-<td>213.3 億元</td>
+<td>224.3 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1623,7 +1635,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-37.39%</td>
 <td>-11.92%</td>
 <td>311.00</td>
-<td>373.0 億元</td>
+<td>373.6 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1631,14 +1643,14 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**8045**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-8045/)</td>
 <td>達運光電</td>
-<td>2.6</td>
+<td>0.0</td>
 <td>-5.43%</td>
 <td>-14.03%</td>
-<td>53.50</td>
-<td>50.9 億元</td>
-<td>5.21%</td>
-<td>🔴</td>
-<td>2026-08-07</td>
+<td>54.80</td>
+<td>52.1 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**8050**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-8050/)</td>
@@ -1647,7 +1659,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+150.82%</td>
 <td>+108.19%</td>
 <td>68.40</td>
-<td>141.6 億元</td>
+<td>140.4 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1659,7 +1671,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-28.21%</td>
 <td>+1.37%</td>
 <td>73.80</td>
-<td>98.9 億元</td>
+<td>104.2 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1670,23 +1682,23 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.0</td>
 <td>-</td>
 <td>-</td>
-<td>64.40</td>
-<td>12.2 億元</td>
+<td>64.60</td>
+<td>12.3 億元</td>
 <td>N/A</td>
 <td>-</td>
-<td>2026-08-07</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**8299**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-8299/)</td>
 <td>群聯</td>
-<td>225.1</td>
+<td>0.0</td>
 <td>-23.99%</td>
 <td>+1.18%</td>
-<td>2020.00</td>
-<td>4467.5 億元</td>
-<td>5.04%</td>
-<td>🔴</td>
-<td>2026-08-07</td>
+<td>2040.00</td>
+<td>4511.8 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**8454**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-8454/)</td>
@@ -1695,7 +1707,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>+2.73%</td>
 <td>+22.59%</td>
 <td>274.50</td>
-<td>751.2 億元</td>
+<td>727.4 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
@@ -1703,14 +1715,14 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**9914**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-9914/)</td>
 <td>美利達</td>
-<td>2.1</td>
+<td>0.0</td>
 <td>-19.30%</td>
 <td>-0.82%</td>
-<td>80.80</td>
-<td>241.6 億元</td>
-<td>0.85%</td>
-<td>🟠</td>
-<td>2026-08-07</td>
+<td>86.00</td>
+<td>257.1 億元</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-08-10</td>
 </tr>
 <tr>
 <td markdown="span">[**9917**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-9917/)</td>
@@ -1719,7 +1731,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-49.12%</td>
 <td>-21.86%</td>
 <td>107.50</td>
-<td>487.3 億元</td>
+<td>485.0 億元</td>
 <td>N/A</td>
 <td>-</td>
 <td>2026-08-10</td>
