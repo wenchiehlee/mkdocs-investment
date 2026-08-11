@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-08-11
+date: 2026-08-12
 categories:
   - 股票
   - ROE/ROA
@@ -37,4 +37,4 @@ description: ROA/ROE 報告 元大台灣50 (0050) - 資料不足
 
 ---
 *本報告由 Stock Analysis System 自動生成*
-*產生時間：2026-08-11 22:10:11 CST*
+*產生時間：2026-08-12 03:55:53 CST*
