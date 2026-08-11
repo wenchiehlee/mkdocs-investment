@@ -3,7 +3,7 @@
     "stock_code": "3045",
     "company_name": "台灣大",
     "industry": "通信網路業",
-    "generated_at": "2026-08-11T12:17:14.417521",
+    "generated_at": "2026-08-11T17:49:26.701357",
     "horizons": [
       "10y"
     ],
@@ -4495,6 +4495,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 6.56
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 7.14
     }
   ]
 }

@@ -24,14 +24,14 @@ description: 月營收表 台灣精材 (3467) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 台灣精材  
     **:identification_card: 股票代號**: 3467  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-08-11 12:06:01 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-11 17:38:22 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+23</span> | <span style="color: #DC143C; font-weight: bold;">+21.5</span> | **35** 個月 | 2023/08 至 2026/06 |
+| <span style="color: #FF4500; font-weight: bold;">+33.1</span> | <span style="color: #DC143C; font-weight: bold;">+23.2</span> | **36** 個月 | 2023/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 台灣精材 (3467) - 自動產生
 | **10月** | -- | 50<br/><span style="color: #002818;">(-0.63%)</span> | 50<br/><span style="color: #DC143C;">(+28.00%)</span> | 39<br/><span style="color: #228B22;">(-33.20%)</span> |
 | **9月** | -- | 49<br/><span style="color: #002818;">(-5.89%)</span> | 52<br/><span style="color: #B22222;">(+18.80%)</span> | 44<br/><span style="color: #006400;">(-20.10%)</span> |
 | **8月** | -- | 50<br/><span style="color: #002818;">(-1.36%)</span> | 51<br/><span style="color: #B22222;">(+17.90%)</span> | 43<br/><span style="color: #006400;">(-25.70%)</span> |
-| **7月** | -- | 51<br/><span style="color: #002818;">(-4.50%)</span> | 54<br/><span style="color: #DC143C;">(+27.50%)</span> | -- |
+| **7月** | 68<br/><span style="color: #FF4500;">(+33.10%)</span> | 51<br/><span style="color: #002818;">(-4.50%)</span> | 54<br/><span style="color: #DC143C;">(+27.50%)</span> | -- |
 | **6月** | 65<br/><span style="color: #DC143C;">(+23.00%)</span> | 53<br/><span style="color: #002818;">(-5.05%)</span> | 55<br/><span style="color: #DC143C;">(+24.00%)</span> | -- |
 | **5月** | 71<br/><span style="color: #FF4500;">(+36.80%)</span> | 52<br/><span style="color: #002818;">(-7.92%)</span> | 56<br/><span style="color: #B22222;">(+19.20%)</span> | -- |
 | **4月** | 69<br/><span style="color: #FF4500;">(+39.70%)</span> | 49<br/><span style="color: #002818;">(-8.18%)</span> | 54<br/><span style="color: #8B0000;">(+9.63%)</span> | -- |
@@ -79,6 +79,7 @@ description: 月營收表 台灣精材 (3467) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **0.687** | <span style="color: #FF4500; font-weight: bold;">+33.1</span> | <span style="color: #DC143C; font-weight: bold;">+23.2</span> | **44.8** | <span style="color: #002818; font-weight: bold;">0.68</span> | <span style="color: #8B0000; font-weight: bold;">74.85</span> |
 | **2026/06** | **0.653** | <span style="color: #DC143C; font-weight: bold;">+23</span> | <span style="color: #DC143C; font-weight: bold;">+21.5</span> | **61.9** | <span style="color: #002818; font-weight: bold;">0.68</span> | <span style="color: #DC143C; font-weight: bold;">91.03</span> |
 | **2026/05** | **0.715** | <span style="color: #FF4500; font-weight: bold;">+36.8</span> | <span style="color: #DC143C; font-weight: bold;">+21.2</span> | **74.7** | <span style="color: #002818; font-weight: bold;">0.68</span> | <span style="color: #FF6347; font-weight: bold;">109.9</span> |
 | **2026/04** | **0.694** | <span style="color: #FF4500; font-weight: bold;">+39.7</span> | <span style="color: #B22222; font-weight: bold;">+17.2</span> | **61.3** | <span style="color: #002818; font-weight: bold;">0.68</span> | <span style="color: #B22222; font-weight: bold;">90.15</span> |
@@ -209,7 +210,7 @@ description: 月營收表 台灣精材 (3467) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-08-11 12:06:01 CST
+- **產生時間**: 2026-08-11 17:38:22 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

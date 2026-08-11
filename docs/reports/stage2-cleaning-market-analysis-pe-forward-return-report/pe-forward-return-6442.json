@@ -3,7 +3,7 @@
     "stock_code": "6442",
     "company_name": "光聖",
     "industry": "通信網路業",
-    "generated_at": "2026-08-11T12:17:50.818760",
+    "generated_at": "2026-08-11T17:50:02.047269",
     "horizons": [
       "10y"
     ],
@@ -1935,6 +1935,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 1.64
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 49.2
     }
   ]
 }

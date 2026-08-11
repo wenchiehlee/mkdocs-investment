@@ -24,14 +24,14 @@ description: 月營收表 光聖 (6442) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 光聖  
     **:identification_card: 股票代號**: 6442  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-08-11 12:06:01 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-11 17:38:22 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+1.64</span> | <span style="color: #DC143C; font-weight: bold;">+27.4</span> | **152** 個月 | 2013/11 至 2026/06 |
+| <span style="color: #FF6347; font-weight: bold;">+49.2</span> | <span style="color: #FF4500; font-weight: bold;">+30.5</span> | **153** 個月 | 2013/11 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 光聖 (6442) - 自動產生
 | **10月** | -- | 1,006<br/><span style="color: #FF7F7F;">(+71.20%)</span> | 588<br/><span style="color: #FF7F7F;">(+154.20%)</span> | 231<br/><span style="color: #DC143C;">(+24.80%)</span> | 185<br/><span style="color: #004225;">(-12.90%)</span> |
 | **9月** | -- | 1,045<br/><span style="color: #FF7F7F;">(+86.00%)</span> | 562<br/><span style="color: #FF7F7F;">(+178.90%)</span> | 200<br/><span style="color: #004225;">(-14.70%)</span> | 236<br/><span style="color: #002818;">(-8.67%)</span> |
 | **8月** | -- | 645<br/><span style="color: #DC143C;">(+21.00%)</span> | 533<br/><span style="color: #FF7F7F;">(+116.50%)</span> | 246<br/><span style="color: #004225;">(-15.20%)</span> | 291<br/><span style="color: #B22222;">(+12.80%)</span> |
-| **7月** | -- | 824<br/><span style="color: #FF7F7F;">(+50.80%)</span> | 546<br/><span style="color: #FF7F7F;">(+149.60%)</span> | 219<br/><span style="color: #228B22;">(-38.00%)</span> | 353<br/><span style="color: #FF4500;">(+39.80%)</span> |
+| **7月** | 1,229<br/><span style="color: #FF6347;">(+49.20%)</span> | 824<br/><span style="color: #FF7F7F;">(+50.80%)</span> | 546<br/><span style="color: #FF7F7F;">(+149.60%)</span> | 219<br/><span style="color: #228B22;">(-38.00%)</span> | 353<br/><span style="color: #FF4500;">(+39.80%)</span> |
 | **6月** | 1,069<br/><span style="color: #8B0000;">(+1.64%)</span> | 1,052<br/><span style="color: #FF7F7F;">(+79.00%)</span> | 588<br/><span style="color: #FF7F7F;">(+120.90%)</span> | 266<br/><span style="color: #004225;">(-15.50%)</span> | 315<br/><span style="color: #FF4500;">(+36.70%)</span> |
 | **5月** | 1,726<br/><span style="color: #FF7F7F;">(+116.00%)</span> | 799<br/><span style="color: #FF7F7F;">(+61.40%)</span> | 495<br/><span style="color: #FF7F7F;">(+118.00%)</span> | 227<br/><span style="color: #002818;">(-6.16%)</span> | 242<br/><span style="color: #002818;">(-4.73%)</span> |
 | **4月** | 886<br/><span style="color: #004225;">(-16.20%)</span> | 1,058<br/><span style="color: #FF7F7F;">(+194.60%)</span> | 359<br/><span style="color: #FF7F7F;">(+74.80%)</span> | 204<br/><span style="color: #002818;">(-3.64%)</span> | 213<br/><span style="color: #004225;">(-12.30%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 光聖 (6442) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **12.29** | <span style="color: #FF6347; font-weight: bold;">+49.2</span> | <span style="color: #FF4500; font-weight: bold;">+30.5</span> | **1155** | <span style="color: #DC143C; font-weight: bold;">26.61</span> | <span style="color: #8B0000; font-weight: bold;">49.79</span> |
 | **2026/06** | **10.69** | <span style="color: #8B0000; font-weight: bold;">+1.64</span> | <span style="color: #DC143C; font-weight: bold;">+27.4</span> | **1640** | <span style="color: #DC143C; font-weight: bold;">26.61</span> | <span style="color: #8B0000; font-weight: bold;">61.63</span> |
 | **2026/05** | **17.26** | <span style="color: #FF7F7F; font-weight: bold;">+116</span> | <span style="color: #FF4500; font-weight: bold;">+34.2</span> | **1845** | <span style="color: #DC143C; font-weight: bold;">26.61</span> | <span style="color: #B22222; font-weight: bold;">69.33</span> |
 | **2026/04** | **8.86** | <span style="color: #004225; font-weight: bold;">-16.2</span> | <span style="color: #B22222; font-weight: bold;">+13.6</span> | **2110** | <span style="color: #DC143C; font-weight: bold;">26.61</span> | <span style="color: #B22222; font-weight: bold;">79.29</span> |
@@ -326,7 +327,7 @@ description: 月營收表 光聖 (6442) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-08-11 12:06:01 CST
+- **產生時間**: 2026-08-11 17:38:22 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

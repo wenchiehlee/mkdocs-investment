@@ -24,14 +24,14 @@ description: 月營收表 廣運 (6125) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 廣運  
     **:identification_card: 股票代號**: 6125  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-08-11 12:06:01 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-11 17:38:22 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+22.6</span> | <span style="color: #FF6347; font-weight: bold;">+40.4</span> | **239** 個月 | 2006/08 至 2026/06 |
+| <span style="color: #8B0000; font-weight: bold;">+4.03</span> | <span style="color: #FF4500; font-weight: bold;">+32.8</span> | **240** 個月 | 2006/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 廣運 (6125) - 自動產生
 | **10月** | -- | 318<br/><span style="color: #FF6347;">(+49.30%)</span> | 213<br/><span style="color: #32CD32;">(-41.30%)</span> | 363<br/><span style="color: #004225;">(-16.60%)</span> | 434<br/><span style="color: #FF6347;">(+41.70%)</span> |
 | **9月** | -- | 350<br/><span style="color: #FF7F7F;">(+52.10%)</span> | 229<br/><span style="color: #32CD32;">(-47.10%)</span> | 436<br/><span style="color: #8B0000;">(+2.02%)</span> | 426<br/><span style="color: #FF7F7F;">(+61.80%)</span> |
 | **8月** | -- | 344<br/><span style="color: #FF7F7F;">(+54.30%)</span> | 223<br/><span style="color: #90EE90;">(-55.60%)</span> | 503<br/><span style="color: #002818;">(-1.27%)</span> | 509<br/><span style="color: #FF7F7F;">(+63.00%)</span> |
-| **7月** | -- | 351<br/><span style="color: #FF7F7F;">(+57.90%)</span> | 222<br/><span style="color: #90EE90;">(-62.80%)</span> | 597<br/><span style="color: #B22222;">(+16.80%)</span> | 511<br/><span style="color: #FF7F7F;">(+72.30%)</span> |
+| **7月** | 365<br/><span style="color: #8B0000;">(+4.03%)</span> | 351<br/><span style="color: #FF7F7F;">(+57.90%)</span> | 222<br/><span style="color: #90EE90;">(-62.80%)</span> | 597<br/><span style="color: #B22222;">(+16.80%)</span> | 511<br/><span style="color: #FF7F7F;">(+72.30%)</span> |
 | **6月** | 363<br/><span style="color: #DC143C;">(+22.60%)</span> | 296<br/><span style="color: #FF7F7F;">(+76.30%)</span> | 168<br/><span style="color: #90EE90;">(-72.00%)</span> | 600<br/><span style="color: #B22222;">(+17.90%)</span> | 509<br/><span style="color: #FF7F7F;">(+50.60%)</span> |
 | **5月** | 352<br/><span style="color: #FF7F7F;">(+79.20%)</span> | 197<br/><span style="color: #228B22;">(-36.20%)</span> | 308<br/><span style="color: #32CD32;">(-48.50%)</span> | 598<br/><span style="color: #FF4500;">(+30.80%)</span> | 457<br/><span style="color: #FF6347;">(+46.30%)</span> |
 | **4月** | 341<br/><span style="color: #FF7F7F;">(+56.80%)</span> | 218<br/><span style="color: #006400;">(-25.20%)</span> | 291<br/><span style="color: #32CD32;">(-43.10%)</span> | 512<br/><span style="color: #DC143C;">(+24.60%)</span> | 409<br/><span style="color: #8B0000;">(+8.17%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 廣運 (6125) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **3.65** | <span style="color: #8B0000; font-weight: bold;">+4.03</span> | <span style="color: #FF4500; font-weight: bold;">+32.8</span> | **45** | <span style="color: #002818; font-weight: bold;">0.14</span> | <span style="color: #004225; font-weight: bold;">355.7</span> |
 | **2026/06** | **3.63** | <span style="color: #DC143C; font-weight: bold;">+22.6</span> | <span style="color: #FF6347; font-weight: bold;">+40.4</span> | **59.5** | <span style="color: #002818; font-weight: bold;">0.14</span> | <span style="color: #004225; font-weight: bold;">425.0</span> |
 | **2026/05** | **3.52** | <span style="color: #FF7F7F; font-weight: bold;">+79.2</span> | <span style="color: #FF6347; font-weight: bold;">+45.5</span> | **66.7** | <span style="color: #002818; font-weight: bold;">0.14</span> | <span style="color: #004225; font-weight: bold;">476.4</span> |
 | **2026/04** | **3.41** | <span style="color: #FF7F7F; font-weight: bold;">+56.8</span> | <span style="color: #FF4500; font-weight: bold;">+37.6</span> | **55.8** | <span style="color: #002818; font-weight: bold;">0.14</span> | <span style="color: #004225; font-weight: bold;">398.6</span> |
@@ -413,7 +414,7 @@ description: 月營收表 廣運 (6125) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-08-11 12:06:01 CST
+- **產生時間**: 2026-08-11 17:38:22 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -24,14 +24,14 @@ description: 月營收表 廣積 (8050) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 廣積  
     **:identification_card: 股票代號**: 8050  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-08-11 12:06:01 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-11 17:38:22 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+143.6</span> | <span style="color: #8B0000; font-weight: bold;">+9.45</span> | **239** 個月 | 2006/08 至 2026/06 |
+| <span style="color: #B22222; font-weight: bold;">+12.2</span> | <span style="color: #8B0000; font-weight: bold;">+9.8</span> | **240** 個月 | 2006/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 廣積 (8050) - 自動產生
 | **10月** | -- | 371<br/><span style="color: #002818;">(-1.85%)</span> | 378<br/><span style="color: #8B0000;">(+1.49%)</span> | 372<br/><span style="color: #228B22;">(-37.60%)</span> | 596<br/><span style="color: #8B0000;">(+5.10%)</span> |
 | **9月** | -- | 429<br/><span style="color: #8B0000;">(+2.22%)</span> | 419<br/><span style="color: #002818;">(-3.99%)</span> | 437<br/><span style="color: #228B22;">(-34.50%)</span> | 668<br/><span style="color: #FF6347;">(+45.80%)</span> |
 | **8月** | -- | 357<br/><span style="color: #32CD32;">(-40.80%)</span> | 602<br/><span style="color: #B22222;">(+13.40%)</span> | 531<br/><span style="color: #006400;">(-23.50%)</span> | 694<br/><span style="color: #FF4500;">(+37.10%)</span> |
-| **7月** | -- | 459<br/><span style="color: #B22222;">(+14.60%)</span> | 401<br/><span style="color: #006400;">(-26.10%)</span> | 542<br/><span style="color: #8B0000;">(+5.25%)</span> | 515<br/><span style="color: #B22222;">(+15.60%)</span> |
+| **7月** | 515<br/><span style="color: #B22222;">(+12.20%)</span> | 459<br/><span style="color: #B22222;">(+14.60%)</span> | 401<br/><span style="color: #006400;">(-26.10%)</span> | 542<br/><span style="color: #8B0000;">(+5.25%)</span> | 515<br/><span style="color: #B22222;">(+15.60%)</span> |
 | **6月** | 956<br/><span style="color: #FF7F7F;">(+143.60%)</span> | 392<br/><span style="color: #002818;">(-5.19%)</span> | 413<br/><span style="color: #004225;">(-12.50%)</span> | 473<br/><span style="color: #006400;">(-26.40%)</span> | 642<br/><span style="color: #B22222;">(+16.60%)</span> |
 | **5月** | 574<br/><span style="color: #8B0000;">(+4.04%)</span> | 551<br/><span style="color: #8B0000;">(+7.12%)</span> | 515<br/><span style="color: #004225;">(-10.70%)</span> | 577<br/><span style="color: #DC143C;">(+29.80%)</span> | 444<br/><span style="color: #228B22;">(-39.40%)</span> |
 | **4月** | 577<br/><span style="color: #8B0000;">(+3.72%)</span> | 557<br/><span style="color: #FF6347;">(+43.40%)</span> | 388<br/><span style="color: #006400;">(-20.70%)</span> | 488<br/><span style="color: #DC143C;">(+28.30%)</span> | 381<br/><span style="color: #32CD32;">(-45.50%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 廣積 (8050) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **5.15** | <span style="color: #B22222; font-weight: bold;">+12.2</span> | <span style="color: #8B0000; font-weight: bold;">+9.8</span> | **54.6** | N/A | N/A |
 | **2026/06** | **9.56** | <span style="color: #FF7F7F; font-weight: bold;">+143.6</span> | <span style="color: #8B0000; font-weight: bold;">+9.45</span> | **52.3** | N/A | N/A |
 | **2026/05** | **5.74** | <span style="color: #8B0000; font-weight: bold;">+4.04</span> | <span style="color: #004225; font-weight: bold;">-10.4</span> | **59** | N/A | N/A |
 | **2026/04** | **5.77** | <span style="color: #8B0000; font-weight: bold;">+3.72</span> | <span style="color: #004225; font-weight: bold;">-14.1</span> | **41.55** | N/A | N/A |
@@ -413,7 +414,7 @@ description: 月營收表 廣積 (8050) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-08-11 12:06:01 CST
+- **產生時間**: 2026-08-11 17:38:22 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -24,14 +24,14 @@ description: 月營收表 力積電 (6770) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 力積電  
     **:identification_card: 股票代號**: 6770  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-08-11 12:06:01 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-11 17:38:22 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+68.8</span> | <span style="color: #FF4500; font-weight: bold;">+37.8</span> | **74** 個月 | 2019/12 至 2026/06 |
+| <span style="color: #FF7F7F; font-weight: bold;">+70.5</span> | <span style="color: #FF6347; font-weight: bold;">+42.7</span> | **75** 個月 | 2019/12 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 力積電 (6770) - 自動產生
 | **10月** | -- | 4,134<br/><span style="color: #8B0000;">(+5.62%)</span> | 3,914<br/><span style="color: #8B0000;">(+1.74%)</span> | 3,847<br/><span style="color: #228B22;">(-32.70%)</span> | 5,720<br/><span style="color: #002818;">(-7.22%)</span> |
 | **9月** | -- | 3,952<br/><span style="color: #8B0000;">(+1.33%)</span> | 3,900<br/><span style="color: #B22222;">(+11.40%)</span> | 3,501<br/><span style="color: #32CD32;">(-41.80%)</span> | 6,018<br/><span style="color: #002818;">(-0.37%)</span> |
 | **8月** | -- | 3,978<br/><span style="color: #8B0000;">(+0.77%)</span> | 3,947<br/><span style="color: #B22222;">(+13.70%)</span> | 3,471<br/><span style="color: #32CD32;">(-46.00%)</span> | 6,433<br/><span style="color: #8B0000;">(+9.98%)</span> |
-| **7月** | -- | 3,910<br/><span style="color: #8B0000;">(+2.81%)</span> | 3,803<br/><span style="color: #B22222;">(+10.90%)</span> | 3,429<br/><span style="color: #32CD32;">(-49.00%)</span> | 6,734<br/><span style="color: #DC143C;">(+24.60%)</span> |
+| **7月** | 6,669<br/><span style="color: #FF7F7F;">(+70.50%)</span> | 3,910<br/><span style="color: #8B0000;">(+2.81%)</span> | 3,803<br/><span style="color: #B22222;">(+10.90%)</span> | 3,429<br/><span style="color: #32CD32;">(-49.00%)</span> | 6,734<br/><span style="color: #DC143C;">(+24.60%)</span> |
 | **6月** | 6,473<br/><span style="color: #FF7F7F;">(+68.80%)</span> | 3,836<br/><span style="color: #8B0000;">(+3.14%)</span> | 3,719<br/><span style="color: #8B0000;">(+8.48%)</span> | 3,429<br/><span style="color: #90EE90;">(-51.70%)</span> | 7,104<br/><span style="color: #FF4500;">(+36.50%)</span> |
 | **5月** | 5,770<br/><span style="color: #FF7F7F;">(+58.90%)</span> | 3,632<br/><span style="color: #002818;">(-2.49%)</span> | 3,725<br/><span style="color: #8B0000;">(+0.35%)</span> | 3,711<br/><span style="color: #32CD32;">(-49.80%)</span> | 7,401<br/><span style="color: #FF6347;">(+42.80%)</span> |
 | **4月** | 5,046<br/><span style="color: #FF4500;">(+32.50%)</span> | 3,809<br/><span style="color: #8B0000;">(+3.55%)</span> | 3,678<br/><span style="color: #002818;">(-4.90%)</span> | 3,868<br/><span style="color: #32CD32;">(-47.20%)</span> | 7,327<br/><span style="color: #FF6347;">(+48.00%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 力積電 (6770) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **66.69** | <span style="color: #FF7F7F; font-weight: bold;">+70.5</span> | <span style="color: #FF6347; font-weight: bold;">+42.7</span> | **54.5** | N/A | N/A |
 | **2026/06** | **64.74** | <span style="color: #FF7F7F; font-weight: bold;">+68.8</span> | <span style="color: #FF4500; font-weight: bold;">+37.8</span> | **79.7** | N/A | N/A |
 | **2026/05** | **57.7** | <span style="color: #FF7F7F; font-weight: bold;">+58.9</span> | <span style="color: #FF4500; font-weight: bold;">+31.4</span> | **88.7** | N/A | N/A |
 | **2026/04** | **50.46** | <span style="color: #FF4500; font-weight: bold;">+32.5</span> | <span style="color: #DC143C; font-weight: bold;">+24.7</span> | **51.9** | N/A | N/A |
@@ -248,7 +249,7 @@ description: 月營收表 力積電 (6770) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-08-11 12:06:01 CST
+- **產生時間**: 2026-08-11 17:38:22 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

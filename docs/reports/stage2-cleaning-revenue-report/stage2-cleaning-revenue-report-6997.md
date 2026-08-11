@@ -24,14 +24,14 @@ description: 月營收表 博弘 (6997) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 博弘  
     **:identification_card: 股票代號**: 6997  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-08-11 12:06:01 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-11 17:38:22 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF6347; font-weight: bold;">+47.2</span> | <span style="color: #DC143C; font-weight: bold;">+29.4</span> | **35** 個月 | 2023/08 至 2026/06 |
+| <span style="color: #FF6347; font-weight: bold;">+41.2</span> | <span style="color: #FF4500; font-weight: bold;">+31.2</span> | **36** 個月 | 2023/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 博弘 (6997) - 自動產生
 | **10月** | -- | 398<br/><span style="color: #B22222;">(+18.80%)</span> | 335<br/><span style="color: #004225;">(-17.60%)</span> | 407<br/><span style="color: #002818;">(-7.53%)</span> |
 | **9月** | -- | 387<br/><span style="color: #B22222;">(+18.10%)</span> | 328<br/><span style="color: #004225;">(-16.80%)</span> | 394<br/><span style="color: #002818;">(-7.53%)</span> |
 | **8月** | -- | 378<br/><span style="color: #8B0000;">(+8.64%)</span> | 348<br/><span style="color: #004225;">(-14.00%)</span> | 404<br/><span style="color: #002818;">(-5.43%)</span> |
-| **7月** | -- | 357<br/><span style="color: #8B0000;">(+0.76%)</span> | 354<br/><span style="color: #004225;">(-12.10%)</span> | -- |
+| **7月** | 504<br/><span style="color: #FF6347;">(+41.20%)</span> | 357<br/><span style="color: #8B0000;">(+0.76%)</span> | 354<br/><span style="color: #004225;">(-12.10%)</span> | -- |
 | **6月** | 492<br/><span style="color: #FF6347;">(+47.20%)</span> | 334<br/><span style="color: #8B0000;">(+0.17%)</span> | 333<br/><span style="color: #002818;">(-9.46%)</span> | -- |
 | **5月** | 536<br/><span style="color: #FF7F7F;">(+53.00%)</span> | 350<br/><span style="color: #002818;">(-0.10%)</span> | 351<br/><span style="color: #004225;">(-10.10%)</span> | -- |
 | **4月** | 552<br/><span style="color: #FF7F7F;">(+56.60%)</span> | 353<br/><span style="color: #8B0000;">(+5.95%)</span> | 333<br/><span style="color: #004225;">(-16.00%)</span> | -- |
@@ -79,6 +79,7 @@ description: 月營收表 博弘 (6997) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **5.04** | <span style="color: #FF6347; font-weight: bold;">+41.2</span> | <span style="color: #FF4500; font-weight: bold;">+31.2</span> | **71** | <span style="color: #004225; font-weight: bold;">1.35</span> | <span style="color: #B22222; font-weight: bold;">52.74</span> |
 | **2026/06** | **4.92** | <span style="color: #FF6347; font-weight: bold;">+47.2</span> | <span style="color: #DC143C; font-weight: bold;">+29.4</span> | **73** | <span style="color: #004225; font-weight: bold;">1.35</span> | <span style="color: #DC143C; font-weight: bold;">54.07</span> |
 | **2026/05** | **5.36** | <span style="color: #FF7F7F; font-weight: bold;">+53</span> | <span style="color: #DC143C; font-weight: bold;">+26.1</span> | **71.5** | <span style="color: #004225; font-weight: bold;">1.35</span> | <span style="color: #B22222; font-weight: bold;">52.96</span> |
 | **2026/04** | **5.52** | <span style="color: #FF7F7F; font-weight: bold;">+56.6</span> | <span style="color: #B22222; font-weight: bold;">+19.3</span> | **79** | <span style="color: #004225; font-weight: bold;">1.35</span> | <span style="color: #DC143C; font-weight: bold;">58.52</span> |
@@ -209,7 +210,7 @@ description: 月營收表 博弘 (6997) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-08-11 12:06:01 CST
+- **產生時間**: 2026-08-11 17:38:22 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

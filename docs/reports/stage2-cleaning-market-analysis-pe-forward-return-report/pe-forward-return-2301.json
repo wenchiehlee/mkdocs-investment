@@ -3,7 +3,7 @@
     "stock_code": "2301",
     "company_name": "光寶科",
     "industry": "電腦及週邊設備業",
-    "generated_at": "2026-08-11T12:16:18.976057",
+    "generated_at": "2026-08-11T17:48:27.439236",
     "horizons": [
       "10y"
     ],
@@ -4251,6 +4251,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 37.0
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 37.6
     }
   ]
 }

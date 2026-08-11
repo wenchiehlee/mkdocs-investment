@@ -24,14 +24,14 @@ description: 月營收表 上奇 (6123) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 上奇  
     **:identification_card: 股票代號**: 6123  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-08-11 12:06:01 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-11 17:38:22 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #002818; font-weight: bold;">-8.06</span> | <span style="color: #002818; font-weight: bold;">-8.87</span> | **239** 個月 | 2006/08 至 2026/06 |
+| <span style="color: #002818; font-weight: bold;">-1.28</span> | <span style="color: #002818; font-weight: bold;">-7.75</span> | **240** 個月 | 2006/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 上奇 (6123) - 自動產生
 | **10月** | -- | 379<br/><span style="color: #004225;">(-13.50%)</span> | 438<br/><span style="color: #002818;">(-8.73%)</span> | 480<br/><span style="color: #002818;">(-8.49%)</span> | 525<br/><span style="color: #FF7F7F;">(+63.80%)</span> |
 | **9月** | -- | 500<br/><span style="color: #004225;">(-10.40%)</span> | 558<br/><span style="color: #8B0000;">(+4.12%)</span> | 536<br/><span style="color: #8B0000;">(+0.32%)</span> | 534<br/><span style="color: #FF7F7F;">(+54.50%)</span> |
 | **8月** | -- | 546<br/><span style="color: #002818;">(-1.96%)</span> | 556<br/><span style="color: #8B0000;">(+5.67%)</span> | 527<br/><span style="color: #8B0000;">(+1.96%)</span> | 516<br/><span style="color: #DC143C;">(+21.40%)</span> |
-| **7月** | -- | 422<br/><span style="color: #004225;">(-15.50%)</span> | 500<br/><span style="color: #B22222;">(+13.90%)</span> | 438<br/><span style="color: #002818;">(-9.46%)</span> | 484<br/><span style="color: #DC143C;">(+25.40%)</span> |
+| **7月** | 417<br/><span style="color: #002818;">(-1.28%)</span> | 422<br/><span style="color: #004225;">(-15.50%)</span> | 500<br/><span style="color: #B22222;">(+13.90%)</span> | 438<br/><span style="color: #002818;">(-9.46%)</span> | 484<br/><span style="color: #DC143C;">(+25.40%)</span> |
 | **6月** | 382<br/><span style="color: #002818;">(-8.06%)</span> | 415<br/><span style="color: #002818;">(-3.04%)</span> | 428<br/><span style="color: #002818;">(-0.43%)</span> | 430<br/><span style="color: #8B0000;">(+6.12%)</span> | 405<br/><span style="color: #8B0000;">(+9.08%)</span> |
 | **5月** | 342<br/><span style="color: #002818;">(-6.46%)</span> | 366<br/><span style="color: #006400;">(-20.10%)</span> | 458<br/><span style="color: #DC143C;">(+21.30%)</span> | 378<br/><span style="color: #002818;">(-6.62%)</span> | 404<br/><span style="color: #8B0000;">(+6.20%)</span> |
 | **4月** | 362<br/><span style="color: #002818;">(-5.96%)</span> | 384<br/><span style="color: #002818;">(-4.25%)</span> | 401<br/><span style="color: #8B0000;">(+7.16%)</span> | 375<br/><span style="color: #002818;">(-9.98%)</span> | 416<br/><span style="color: #004225;">(-17.70%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 上奇 (6123) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **4.17** | <span style="color: #002818; font-weight: bold;">-1.28</span> | <span style="color: #002818; font-weight: bold;">-7.75</span> | **42.4** | <span style="color: #002818; font-weight: bold;">2.87</span> | <span style="color: #8B0000; font-weight: bold;">14.93</span> |
 | **2026/06** | **3.82** | <span style="color: #002818; font-weight: bold;">-8.06</span> | <span style="color: #002818; font-weight: bold;">-8.87</span> | **41.75** | <span style="color: #002818; font-weight: bold;">2.87</span> | <span style="color: #8B0000; font-weight: bold;">14.55</span> |
 | **2026/05** | **3.42** | <span style="color: #002818; font-weight: bold;">-6.46</span> | <span style="color: #002818; font-weight: bold;">-9.03</span> | **43.3** | <span style="color: #002818; font-weight: bold;">2.87</span> | <span style="color: #8B0000; font-weight: bold;">15.09</span> |
 | **2026/04** | **3.62** | <span style="color: #002818; font-weight: bold;">-5.96</span> | <span style="color: #002818; font-weight: bold;">-9.6</span> | **43.85** | <span style="color: #002818; font-weight: bold;">2.87</span> | <span style="color: #8B0000; font-weight: bold;">15.28</span> |
@@ -413,7 +414,7 @@ description: 月營收表 上奇 (6123) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-08-11 12:06:01 CST
+- **產生時間**: 2026-08-11 17:38:22 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

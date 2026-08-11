@@ -3,7 +3,7 @@
     "stock_code": "9921",
     "company_name": "巨大",
     "industry": "運動休閒",
-    "generated_at": "2026-08-11T12:18:30.368628",
+    "generated_at": "2026-08-11T17:50:42.327463",
     "horizons": [
       "10y"
     ],
@@ -4177,6 +4177,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 16.0
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 12.7
     }
   ]
 }

@@ -24,14 +24,14 @@ description: 月營收表 威力德生醫 (7713) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 威力德生醫  
     **:identification_card: 股票代號**: 7713  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-08-11 12:06:01 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-11 17:38:22 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+15.2</span> | <span style="color: #B22222; font-weight: bold;">+19.3</span> | **33** 個月 | 2023/10 至 2026/06 |
+| <span style="color: #DC143C; font-weight: bold;">+26.4</span> | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | **34** 個月 | 2023/10 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 威力德生醫 (7713) - 自動產生
 | **10月** | -- | 97<br/><span style="color: #DC143C;">(+22.00%)</span> | 80<br/><span style="color: #8B0000;">(+5.86%)</span> | 75<br/><span style="color: #002818;">(-6.89%)</span> |
 | **9月** | -- | 99<br/><span style="color: #DC143C;">(+25.80%)</span> | 79<br/><span style="color: #002818;">(-2.88%)</span> | -- |
 | **8月** | -- | 101<br/><span style="color: #B22222;">(+10.20%)</span> | 91<br/><span style="color: #8B0000;">(+8.92%)</span> | -- |
-| **7月** | -- | 94<br/><span style="color: #B22222;">(+12.50%)</span> | 84<br/><span style="color: #8B0000;">(+3.09%)</span> | -- |
+| **7月** | 120<br/><span style="color: #DC143C;">(+26.40%)</span> | 94<br/><span style="color: #B22222;">(+12.50%)</span> | 84<br/><span style="color: #8B0000;">(+3.09%)</span> | -- |
 | **6月** | 112<br/><span style="color: #B22222;">(+15.20%)</span> | 97<br/><span style="color: #8B0000;">(+0.08%)</span> | 97<br/><span style="color: #B22222;">(+16.00%)</span> | -- |
 | **5月** | 111<br/><span style="color: #DC143C;">(+20.60%)</span> | 92<br/><span style="color: #B22222;">(+14.90%)</span> | 80<br/><span style="color: #8B0000;">(+3.38%)</span> | -- |
 | **4月** | 114<br/><span style="color: #FF4500;">(+38.80%)</span> | 82<br/><span style="color: #B22222;">(+11.30%)</span> | 74<br/><span style="color: #8B0000;">(+1.06%)</span> | -- |
@@ -79,6 +79,7 @@ description: 月營收表 威力德生醫 (7713) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **1.2** | <span style="color: #DC143C; font-weight: bold;">+26.4</span> | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | **70** | <span style="color: #DC143C; font-weight: bold;">4.87</span> | <span style="color: #004225; font-weight: bold;">14.5</span> |
 | **2026/06** | **1.13** | <span style="color: #B22222; font-weight: bold;">+15.2</span> | <span style="color: #B22222; font-weight: bold;">+19.3</span> | **71.2** | <span style="color: #DC143C; font-weight: bold;">4.87</span> | <span style="color: #004225; font-weight: bold;">14.62</span> |
 | **2026/05** | **1.11** | <span style="color: #DC143C; font-weight: bold;">+20.6</span> | <span style="color: #DC143C; font-weight: bold;">+20.2</span> | **67.2** | <span style="color: #DC143C; font-weight: bold;">4.87</span> | <span style="color: #006400; font-weight: bold;">13.8</span> |
 | **2026/04** | **1.15** | <span style="color: #FF4500; font-weight: bold;">+38.8</span> | <span style="color: #DC143C; font-weight: bold;">+20.1</span> | **67.9** | <span style="color: #DC143C; font-weight: bold;">4.87</span> | <span style="color: #006400; font-weight: bold;">13.94</span> |
@@ -207,7 +208,7 @@ description: 月營收表 威力德生醫 (7713) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-08-11 12:06:01 CST
+- **產生時間**: 2026-08-11 17:38:22 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

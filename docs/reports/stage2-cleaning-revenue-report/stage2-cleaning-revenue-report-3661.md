@@ -24,14 +24,14 @@ description: 月營收表 世芯-KY (3661) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 世芯-KY  
     **:identification_card: 股票代號**: 3661  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-08-11 12:06:01 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-11 17:38:22 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+15.4</span> | <span style="color: #228B22; font-weight: bold;">-39.7</span> | **187** 個月 | 2010/12 至 2026/06 |
+| <span style="color: #FF7F7F; font-weight: bold;">+181.8</span> | <span style="color: #004225; font-weight: bold;">-13.8</span> | **188** 個月 | 2010/12 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 世芯-KY (3661) - 自動產生
 | **10月** | -- | 1,666<br/><span style="color: #90EE90;">(-60.30%)</span> | 4,193<br/><span style="color: #FF6347;">(+47.80%)</span> | 2,837<br/><span style="color: #FF7F7F;">(+130.70%)</span> | 1,230<br/><span style="color: #FF6347;">(+46.10%)</span> |
 | **9月** | -- | 1,673<br/><span style="color: #90EE90;">(-68.40%)</span> | 5,301<br/><span style="color: #FF7F7F;">(+82.60%)</span> | 2,903<br/><span style="color: #FF7F7F;">(+98.20%)</span> | 1,464<br/><span style="color: #FF7F7F;">(+61.80%)</span> |
 | **8月** | -- | 2,349<br/><span style="color: #32CD32;">(-49.70%)</span> | 4,669<br/><span style="color: #FF7F7F;">(+89.40%)</span> | 2,465<br/><span style="color: #FF7F7F;">(+111.40%)</span> | 1,166<br/><span style="color: #FF4500;">(+38.70%)</span> |
-| **7月** | -- | 2,638<br/><span style="color: #32CD32;">(-45.90%)</span> | 4,878<br/><span style="color: #FF7F7F;">(+116.30%)</span> | 2,255<br/><span style="color: #FF7F7F;">(+137.20%)</span> | 951<br/><span style="color: #B22222;">(+17.00%)</span> |
+| **7月** | 7,433<br/><span style="color: #FF7F7F;">(+181.80%)</span> | 2,638<br/><span style="color: #32CD32;">(-45.90%)</span> | 4,878<br/><span style="color: #FF7F7F;">(+116.30%)</span> | 2,255<br/><span style="color: #FF7F7F;">(+137.20%)</span> | 951<br/><span style="color: #B22222;">(+17.00%)</span> |
 | **6月** | 3,572<br/><span style="color: #B22222;">(+15.40%)</span> | 3,096<br/><span style="color: #32CD32;">(-40.90%)</span> | 5,236<br/><span style="color: #FF7F7F;">(+100.60%)</span> | 2,610<br/><span style="color: #FF7F7F;">(+147.00%)</span> | 1,057<br/><span style="color: #FF4500;">(+32.50%)</span> |
 | **5月** | 1,935<br/><span style="color: #228B22;">(-33.40%)</span> | 2,908<br/><span style="color: #228B22;">(-33.50%)</span> | 4,373<br/><span style="color: #FF7F7F;">(+60.60%)</span> | 2,722<br/><span style="color: #FF7F7F;">(+170.60%)</span> | 1,006<br/><span style="color: #8B0000;">(+9.35%)</span> |
 | **4月** | 2,133<br/><span style="color: #228B22;">(-32.30%)</span> | 3,151<br/><span style="color: #006400;">(-21.50%)</span> | 4,014<br/><span style="color: #FF7F7F;">(+53.90%)</span> | 2,608<br/><span style="color: #FF7F7F;">(+185.50%)</span> | 913<br/><span style="color: #002818;">(-9.42%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 世芯-KY (3661) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **74.33** | <span style="color: #FF7F7F; font-weight: bold;">+181.8</span> | <span style="color: #004225; font-weight: bold;">-13.8</span> | **3060** | <span style="color: #DC143C; font-weight: bold;">68.37</span> | <span style="color: #B22222; font-weight: bold;">49.8</span> |
 | **2026/06** | **35.72** | <span style="color: #B22222; font-weight: bold;">+15.4</span> | <span style="color: #228B22; font-weight: bold;">-39.7</span> | **4180** | <span style="color: #DC143C; font-weight: bold;">68.37</span> | <span style="color: #DC143C; font-weight: bold;">61.14</span> |
 | **2026/05** | **19.35** | <span style="color: #228B22; font-weight: bold;">-33.4</span> | <span style="color: #32CD32; font-weight: bold;">-50</span> | **4415** | <span style="color: #DC143C; font-weight: bold;">68.37</span> | <span style="color: #DC143C; font-weight: bold;">64.58</span> |
 | **2026/04** | **21.33** | <span style="color: #228B22; font-weight: bold;">-32.3</span> | <span style="color: #90EE90; font-weight: bold;">-53.6</span> | **4135** | <span style="color: #DC143C; font-weight: bold;">68.37</span> | <span style="color: #DC143C; font-weight: bold;">60.48</span> |
@@ -361,7 +362,7 @@ description: 月營收表 世芯-KY (3661) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-08-11 12:06:01 CST
+- **產生時間**: 2026-08-11 17:38:22 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

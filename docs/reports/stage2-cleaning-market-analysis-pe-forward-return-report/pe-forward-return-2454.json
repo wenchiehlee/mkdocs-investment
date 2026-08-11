@@ -3,7 +3,7 @@
     "stock_code": "2454",
     "company_name": "聯發科",
     "industry": "半導體業",
-    "generated_at": "2026-08-11T12:16:54.255424",
+    "generated_at": "2026-08-11T17:49:03.343658",
     "horizons": [
       "10y"
     ],
@@ -4427,6 +4427,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 2.79
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 12.2
     }
   ]
 }

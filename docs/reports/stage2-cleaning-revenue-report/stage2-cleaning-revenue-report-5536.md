@@ -24,14 +24,14 @@ description: 月營收表 聖暉 (5536) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 聖暉  
     **:identification_card: 股票代號**: 5536  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-08-11 12:06:01 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-11 17:38:22 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+24.9</span> | <span style="color: #DC143C; font-weight: bold;">+28.4</span> | **202** 個月 | 2009/09 至 2026/06 |
+| <span style="color: #8B0000; font-weight: bold;">+3.41</span> | <span style="color: #DC143C; font-weight: bold;">+24.3</span> | **203** 個月 | 2009/09 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 聖暉 (5536) - 自動產生
 | **10月** | -- | 3,202<br/><span style="color: #B22222;">(+17.80%)</span> | 2,717<br/><span style="color: #FF4500;">(+34.60%)</span> | 2,019<br/><span style="color: #004225;">(-12.70%)</span> | 2,314<br/><span style="color: #DC143C;">(+26.80%)</span> |
 | **9月** | -- | 3,909<br/><span style="color: #DC143C;">(+28.80%)</span> | 3,036<br/><span style="color: #B22222;">(+17.60%)</span> | 2,582<br/><span style="color: #002818;">(-6.47%)</span> | 2,760<br/><span style="color: #FF6347;">(+45.30%)</span> |
 | **8月** | -- | 3,375<br/><span style="color: #FF6347;">(+41.80%)</span> | 2,379<br/><span style="color: #DC143C;">(+21.10%)</span> | 1,964<br/><span style="color: #006400;">(-29.00%)</span> | 2,768<br/><span style="color: #FF7F7F;">(+75.20%)</span> |
-| **7月** | -- | 3,757<br/><span style="color: #FF7F7F;">(+70.40%)</span> | 2,206<br/><span style="color: #B22222;">(+15.00%)</span> | 1,917<br/><span style="color: #228B22;">(-31.80%)</span> | 2,809<br/><span style="color: #FF7F7F;">(+81.00%)</span> |
+| **7月** | 3,885<br/><span style="color: #8B0000;">(+3.41%)</span> | 3,757<br/><span style="color: #FF7F7F;">(+70.40%)</span> | 2,206<br/><span style="color: #B22222;">(+15.00%)</span> | 1,917<br/><span style="color: #228B22;">(-31.80%)</span> | 2,809<br/><span style="color: #FF7F7F;">(+81.00%)</span> |
 | **6月** | 4,774<br/><span style="color: #DC143C;">(+24.90%)</span> | 3,822<br/><span style="color: #FF4500;">(+37.60%)</span> | 2,778<br/><span style="color: #FF4500;">(+32.10%)</span> | 2,103<br/><span style="color: #006400;">(-22.10%)</span> | 2,700<br/><span style="color: #FF6347;">(+46.10%)</span> |
 | **5月** | 4,519<br/><span style="color: #DC143C;">(+27.80%)</span> | 3,536<br/><span style="color: #FF6347;">(+45.30%)</span> | 2,433<br/><span style="color: #B22222;">(+18.30%)</span> | 2,056<br/><span style="color: #8B0000;">(+4.11%)</span> | 1,975<br/><span style="color: #B22222;">(+18.80%)</span> |
 | **4月** | 4,088<br/><span style="color: #B22222;">(+15.20%)</span> | 3,550<br/><span style="color: #FF6347;">(+44.90%)</span> | 2,449<br/><span style="color: #8B0000;">(+9.43%)</span> | 2,238<br/><span style="color: #B22222;">(+19.80%)</span> | 1,869<br/><span style="color: #002818;">(-3.39%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 聖暉 (5536) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **38.85** | <span style="color: #8B0000; font-weight: bold;">+3.41</span> | <span style="color: #DC143C; font-weight: bold;">+24.3</span> | **925** | <span style="color: #FF6347; font-weight: bold;">36.0</span> | <span style="color: #DC143C; font-weight: bold;">31.11</span> |
 | **2026/06** | **47.74** | <span style="color: #DC143C; font-weight: bold;">+24.9</span> | <span style="color: #DC143C; font-weight: bold;">+28.4</span> | **1290** | <span style="color: #FF6347; font-weight: bold;">36.0</span> | <span style="color: #FF4500; font-weight: bold;">35.83</span> |
 | **2026/05** | **45.19** | <span style="color: #DC143C; font-weight: bold;">+27.8</span> | <span style="color: #DC143C; font-weight: bold;">+29.2</span> | **993** | <span style="color: #FF6347; font-weight: bold;">36.0</span> | <span style="color: #DC143C; font-weight: bold;">27.58</span> |
 | **2026/04** | **40.88** | <span style="color: #B22222; font-weight: bold;">+15.2</span> | <span style="color: #DC143C; font-weight: bold;">+29.6</span> | **825** | <span style="color: #FF6347; font-weight: bold;">36.0</span> | <span style="color: #B22222; font-weight: bold;">22.92</span> |
@@ -376,7 +377,7 @@ description: 月營收表 聖暉 (5536) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-08-11 12:06:01 CST
+- **產生時間**: 2026-08-11 17:38:22 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

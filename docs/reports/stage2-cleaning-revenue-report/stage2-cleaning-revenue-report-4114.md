@@ -24,14 +24,14 @@ description: 月營收表 健喬 (4114) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 健喬  
     **:identification_card: 股票代號**: 4114  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-08-11 12:06:01 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-11 17:38:22 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF4500; font-weight: bold;">+30.7</span> | <span style="color: #B22222; font-weight: bold;">+15.9</span> | **239** 個月 | 2006/08 至 2026/06 |
+| <span style="color: #FF7F7F; font-weight: bold;">+59.8</span> | <span style="color: #DC143C; font-weight: bold;">+22</span> | **240** 個月 | 2006/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 健喬 (4114) - 自動產生
 | **10月** | -- | 543<br/><span style="color: #8B0000;">(+9.20%)</span> | 497<br/><span style="color: #B22222;">(+10.10%)</span> | 451<br/><span style="color: #B22222;">(+12.80%)</span> | 400<br/><span style="color: #FF6347;">(+41.90%)</span> |
 | **9月** | -- | 539<br/><span style="color: #DC143C;">(+21.70%)</span> | 442<br/><span style="color: #B22222;">(+14.10%)</span> | 388<br/><span style="color: #8B0000;">(+2.61%)</span> | 378<br/><span style="color: #FF4500;">(+38.80%)</span> |
 | **8月** | -- | 503<br/><span style="color: #8B0000;">(+1.99%)</span> | 493<br/><span style="color: #B22222;">(+17.50%)</span> | 420<br/><span style="color: #B22222;">(+12.60%)</span> | 373<br/><span style="color: #FF6347;">(+44.10%)</span> |
-| **7月** | -- | 495<br/><span style="color: #8B0000;">(+1.31%)</span> | 488<br/><span style="color: #B22222;">(+16.10%)</span> | 421<br/><span style="color: #B22222;">(+18.80%)</span> | 355<br/><span style="color: #FF6347;">(+44.30%)</span> |
+| **7月** | 792<br/><span style="color: #FF7F7F;">(+59.80%)</span> | 495<br/><span style="color: #8B0000;">(+1.31%)</span> | 488<br/><span style="color: #B22222;">(+16.10%)</span> | 421<br/><span style="color: #B22222;">(+18.80%)</span> | 355<br/><span style="color: #FF6347;">(+44.30%)</span> |
 | **6月** | 751<br/><span style="color: #FF4500;">(+30.70%)</span> | 575<br/><span style="color: #FF7F7F;">(+51.50%)</span> | 379<br/><span style="color: #004225;">(-16.60%)</span> | 455<br/><span style="color: #FF4500;">(+35.40%)</span> | 336<br/><span style="color: #DC143C;">(+29.30%)</span> |
 | **5月** | 601<br/><span style="color: #B22222;">(+12.90%)</span> | 532<br/><span style="color: #B22222;">(+10.20%)</span> | 483<br/><span style="color: #8B0000;">(+6.28%)</span> | 454<br/><span style="color: #B22222;">(+17.10%)</span> | 388<br/><span style="color: #FF6347;">(+44.50%)</span> |
 | **4月** | 570<br/><span style="color: #B22222;">(+13.50%)</span> | 501<br/><span style="color: #8B0000;">(+6.62%)</span> | 471<br/><span style="color: #B22222;">(+17.30%)</span> | 401<br/><span style="color: #DC143C;">(+20.00%)</span> | 335<br/><span style="color: #FF4500;">(+33.70%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 健喬 (4114) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **7.92** | <span style="color: #FF7F7F; font-weight: bold;">+59.8</span> | <span style="color: #DC143C; font-weight: bold;">+22</span> | **29** | <span style="color: #B22222; font-weight: bold;">1.6</span> | <span style="color: #006400; font-weight: bold;">18.47</span> |
 | **2026/06** | **7.51** | <span style="color: #FF4500; font-weight: bold;">+30.7</span> | <span style="color: #B22222; font-weight: bold;">+15.9</span> | **31.35** | <span style="color: #B22222; font-weight: bold;">1.6</span> | <span style="color: #006400; font-weight: bold;">19.59</span> |
 | **2026/05** | **6.01** | <span style="color: #B22222; font-weight: bold;">+12.9</span> | <span style="color: #B22222; font-weight: bold;">+12.5</span> | **30.15** | <span style="color: #B22222; font-weight: bold;">1.6</span> | <span style="color: #006400; font-weight: bold;">18.84</span> |
 | **2026/04** | **5.7** | <span style="color: #B22222; font-weight: bold;">+13.5</span> | <span style="color: #B22222; font-weight: bold;">+12.4</span> | **30.8** | <span style="color: #B22222; font-weight: bold;">1.6</span> | <span style="color: #006400; font-weight: bold;">19.25</span> |
@@ -413,7 +414,7 @@ description: 月營收表 健喬 (4114) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-08-11 12:06:01 CST
+- **產生時間**: 2026-08-11 17:38:22 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

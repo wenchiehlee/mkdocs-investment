@@ -3,7 +3,7 @@
     "stock_code": "5904",
     "company_name": "寶雅",
     "industry": "居家生活",
-    "generated_at": "2026-08-11T12:17:40.296123",
+    "generated_at": "2026-08-11T17:49:52.083410",
     "horizons": [
       "10y"
     ],
@@ -4187,6 +4187,10 @@
     {
       "date": "2026-06-15",
       "revenue_yoy": 8.35
+    },
+    {
+      "date": "2026-07-16",
+      "revenue_yoy": 19.2
     }
   ]
 }

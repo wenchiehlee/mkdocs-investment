@@ -24,14 +24,14 @@ description: 月營收表 美利達 (9914) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 美利達  
     **:identification_card: 股票代號**: 9914  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-08-11 12:06:01 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-11 17:38:22 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #002818; font-weight: bold;">-5.5</span> | <span style="color: #004225; font-weight: bold;">-15.3</span> | **239** 個月 | 2006/08 至 2026/06 |
+| <span style="color: #002818; font-weight: bold;">-1.07</span> | <span style="color: #004225; font-weight: bold;">-13.2</span> | **240** 個月 | 2006/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 美利達 (9914) - 自動產生
 | **10月** | -- | 1,675<br/><span style="color: #004225;">(-16.10%)</span> | 1,996<br/><span style="color: #FF4500;">(+30.90%)</span> | 1,525<br/><span style="color: #90EE90;">(-54.80%)</span> | 3,377<br/><span style="color: #FF6347;">(+48.40%)</span> |
 | **9月** | -- | 2,269<br/><span style="color: #004225;">(-11.20%)</span> | 2,556<br/><span style="color: #FF4500;">(+31.80%)</span> | 1,939<br/><span style="color: #228B22;">(-38.60%)</span> | 3,157<br/><span style="color: #FF7F7F;">(+73.20%)</span> |
 | **8月** | -- | 2,470<br/><span style="color: #004225;">(-15.50%)</span> | 2,923<br/><span style="color: #FF6347;">(+43.00%)</span> | 2,043<br/><span style="color: #228B22;">(-32.40%)</span> | 3,021<br/><span style="color: #B22222;">(+17.40%)</span> |
-| **7月** | -- | 2,483<br/><span style="color: #006400;">(-23.40%)</span> | 3,243<br/><span style="color: #B22222;">(+18.10%)</span> | 2,746<br/><span style="color: #004225;">(-15.70%)</span> | 3,256<br/><span style="color: #8B0000;">(+6.16%)</span> |
+| **7月** | 2,457<br/><span style="color: #002818;">(-1.07%)</span> | 2,483<br/><span style="color: #006400;">(-23.40%)</span> | 3,243<br/><span style="color: #B22222;">(+18.10%)</span> | 2,746<br/><span style="color: #004225;">(-15.70%)</span> | 3,256<br/><span style="color: #8B0000;">(+6.16%)</span> |
 | **6月** | 2,386<br/><span style="color: #002818;">(-5.50%)</span> | 2,525<br/><span style="color: #006400;">(-21.20%)</span> | 3,203<br/><span style="color: #FF6347;">(+48.60%)</span> | 2,154<br/><span style="color: #006400;">(-28.00%)</span> | 2,992<br/><span style="color: #B22222;">(+19.10%)</span> |
 | **5月** | 2,286<br/><span style="color: #B22222;">(+18.30%)</span> | 1,930<br/><span style="color: #228B22;">(-37.70%)</span> | 3,100<br/><span style="color: #8B0000;">(+7.49%)</span> | 2,884<br/><span style="color: #002818;">(-6.47%)</span> | 3,084<br/><span style="color: #FF4500;">(+31.10%)</span> |
 | **4月** | 2,189<br/><span style="color: #004225;">(-14.30%)</span> | 2,555<br/><span style="color: #004225;">(-14.40%)</span> | 2,987<br/><span style="color: #DC143C;">(+24.20%)</span> | 2,405<br/><span style="color: #004225;">(-11.20%)</span> | 2,707<br/><span style="color: #B22222;">(+12.40%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 美利達 (9914) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **24.57** | <span style="color: #002818; font-weight: bold;">-1.07</span> | <span style="color: #004225; font-weight: bold;">-13.2</span> | **76.8** | <span style="color: #004225; font-weight: bold;">3.71</span> | <span style="color: #004225; font-weight: bold;">21.27</span> |
 | **2026/06** | **23.86** | <span style="color: #002818; font-weight: bold;">-5.5</span> | <span style="color: #004225; font-weight: bold;">-15.3</span> | **78.3** | <span style="color: #004225; font-weight: bold;">3.71</span> | <span style="color: #004225; font-weight: bold;">21.11</span> |
 | **2026/05** | **22.86** | <span style="color: #B22222; font-weight: bold;">+18.3</span> | <span style="color: #004225; font-weight: bold;">-17.3</span> | **66.7** | <span style="color: #004225; font-weight: bold;">3.71</span> | <span style="color: #004225; font-weight: bold;">17.98</span> |
 | **2026/04** | **21.89** | <span style="color: #004225; font-weight: bold;">-14.3</span> | <span style="color: #006400; font-weight: bold;">-24.1</span> | **57.9** | <span style="color: #004225; font-weight: bold;">3.71</span> | <span style="color: #004225; font-weight: bold;">15.61</span> |
@@ -413,7 +414,7 @@ description: 月營收表 美利達 (9914) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-08-11 12:06:01 CST
+- **產生時間**: 2026-08-11 17:38:22 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

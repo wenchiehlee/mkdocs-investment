@@ -24,14 +24,14 @@ description: 月營收表 立端 (6245) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 立端  
     **:identification_card: 股票代號**: 6245  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-08-11 12:06:01 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-11 17:38:22 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+14.1</span> | <span style="color: #8B0000; font-weight: bold;">+4.71</span> | **239** 個月 | 2006/08 至 2026/06 |
+| <span style="color: #FF7F7F; font-weight: bold;">+102.5</span> | <span style="color: #B22222; font-weight: bold;">+18</span> | **240** 個月 | 2006/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 立端 (6245) - 自動產生
 | **10月** | -- | 723<br/><span style="color: #B22222;">(+15.50%)</span> | 626<br/><span style="color: #B22222;">(+11.70%)</span> | 560<br/><span style="color: #32CD32;">(-42.80%)</span> | 978<br/><span style="color: #FF6347;">(+41.50%)</span> |
 | **9月** | -- | 765<br/><span style="color: #8B0000;">(+6.09%)</span> | 721<br/><span style="color: #DC143C;">(+25.90%)</span> | 573<br/><span style="color: #228B22;">(-36.20%)</span> | 898<br/><span style="color: #002818;">(-1.23%)</span> |
 | **8月** | -- | 580<br/><span style="color: #8B0000;">(+1.66%)</span> | 570<br/><span style="color: #002818;">(-3.65%)</span> | 592<br/><span style="color: #006400;">(-29.40%)</span> | 839<br/><span style="color: #FF6347;">(+46.00%)</span> |
-| **7月** | -- | 520<br/><span style="color: #228B22;">(-31.40%)</span> | 758<br/><span style="color: #DC143C;">(+20.70%)</span> | 628<br/><span style="color: #006400;">(-21.90%)</span> | 803<br/><span style="color: #FF6347;">(+45.90%)</span> |
+| **7月** | 1,053<br/><span style="color: #FF7F7F;">(+102.50%)</span> | 520<br/><span style="color: #228B22;">(-31.40%)</span> | 758<br/><span style="color: #DC143C;">(+20.70%)</span> | 628<br/><span style="color: #006400;">(-21.90%)</span> | 803<br/><span style="color: #FF6347;">(+45.90%)</span> |
 | **6月** | 709<br/><span style="color: #B22222;">(+14.10%)</span> | 621<br/><span style="color: #002818;">(-6.64%)</span> | 665<br/><span style="color: #004225;">(-11.50%)</span> | 752<br/><span style="color: #004225;">(-12.00%)</span> | 855<br/><span style="color: #FF6347;">(+44.60%)</span> |
 | **5月** | 518<br/><span style="color: #B22222;">(+14.10%)</span> | 454<br/><span style="color: #002818;">(-8.76%)</span> | 497<br/><span style="color: #004225;">(-18.30%)</span> | 609<br/><span style="color: #228B22;">(-32.00%)</span> | 894<br/><span style="color: #FF7F7F;">(+81.90%)</span> |
 | **4月** | 700<br/><span style="color: #FF4500;">(+31.50%)</span> | 533<br/><span style="color: #B22222;">(+11.60%)</span> | 478<br/><span style="color: #32CD32;">(-41.10%)</span> | 811<br/><span style="color: #FF4500;">(+37.70%)</span> | 589<br/><span style="color: #B22222;">(+10.50%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 立端 (6245) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **10.53** | <span style="color: #FF7F7F; font-weight: bold;">+102.5</span> | <span style="color: #B22222; font-weight: bold;">+18</span> | **75.7** | N/A | N/A |
 | **2026/06** | **7.09** | <span style="color: #B22222; font-weight: bold;">+14.1</span> | <span style="color: #8B0000; font-weight: bold;">+4.71</span> | **82.2** | N/A | N/A |
 | **2026/05** | **5.18** | <span style="color: #B22222; font-weight: bold;">+14.1</span> | <span style="color: #8B0000; font-weight: bold;">+2.55</span> | **87.2** | N/A | N/A |
 | **2026/04** | **7** | <span style="color: #FF4500; font-weight: bold;">+31.5</span> | <span style="color: #8B0000; font-weight: bold;">+0.2</span> | **80.1** | N/A | N/A |
@@ -413,7 +414,7 @@ description: 月營收表 立端 (6245) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-08-11 12:06:01 CST
+- **產生時間**: 2026-08-11 17:38:22 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

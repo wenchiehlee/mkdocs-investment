@@ -24,14 +24,14 @@ description: 月營收表 雙邦 (6506) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 雙邦  
     **:identification_card: 股票代號**: 6506  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-08-11 12:06:01 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-11 17:38:22 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF4500; font-weight: bold;">+30</span> | <span style="color: #B22222; font-weight: bold;">+11.3</span> | **239** 個月 | 2006/08 至 2026/06 |
+| <span style="color: #B22222; font-weight: bold;">+17.8</span> | <span style="color: #B22222; font-weight: bold;">+12.1</span> | **240** 個月 | 2006/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 雙邦 (6506) - 自動產生
 | **10月** | -- | 140<br/><span style="color: #002818;">(-8.00%)</span> | 152<br/><span style="color: #DC143C;">(+24.90%)</span> | 121<br/><span style="color: #8B0000;">(+1.59%)</span> | 120<br/><span style="color: #006400;">(-20.10%)</span> |
 | **9月** | -- | 149<br/><span style="color: #004225;">(-10.20%)</span> | 166<br/><span style="color: #FF6347;">(+44.20%)</span> | 114<br/><span style="color: #006400;">(-22.00%)</span> | 148<br/><span style="color: #002818;">(-4.64%)</span> |
 | **8月** | -- | 146<br/><span style="color: #002818;">(-9.12%)</span> | 161<br/><span style="color: #B22222;">(+12.60%)</span> | 143<br/><span style="color: #004225;">(-19.30%)</span> | 177<br/><span style="color: #B22222;">(+11.70%)</span> |
-| **7月** | -- | 145<br/><span style="color: #8B0000;">(+4.98%)</span> | 138<br/><span style="color: #DC143C;">(+23.50%)</span> | 112<br/><span style="color: #228B22;">(-38.30%)</span> | 181<br/><span style="color: #8B0000;">(+8.57%)</span> |
+| **7月** | 170<br/><span style="color: #B22222;">(+17.80%)</span> | 145<br/><span style="color: #8B0000;">(+4.98%)</span> | 138<br/><span style="color: #DC143C;">(+23.50%)</span> | 112<br/><span style="color: #228B22;">(-38.30%)</span> | 181<br/><span style="color: #8B0000;">(+8.57%)</span> |
 | **6月** | 164<br/><span style="color: #FF4500;">(+30.00%)</span> | 126<br/><span style="color: #002818;">(-3.46%)</span> | 131<br/><span style="color: #B22222;">(+13.40%)</span> | 114<br/><span style="color: #228B22;">(-30.10%)</span> | 165<br/><span style="color: #002818;">(-2.28%)</span> |
 | **5月** | 178<br/><span style="color: #8B0000;">(+7.63%)</span> | 165<br/><span style="color: #002818;">(-0.90%)</span> | 167<br/><span style="color: #FF7F7F;">(+57.70%)</span> | 106<br/><span style="color: #90EE90;">(-52.70%)</span> | 224<br/><span style="color: #B22222;">(+19.50%)</span> |
 | **4月** | 204<br/><span style="color: #8B0000;">(+6.71%)</span> | 191<br/><span style="color: #002818;">(-0.29%)</span> | 191<br/><span style="color: #FF7F7F;">(+63.10%)</span> | 117<br/><span style="color: #90EE90;">(-51.70%)</span> | 243<br/><span style="color: #DC143C;">(+26.20%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 雙邦 (6506) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **1.7** | <span style="color: #B22222; font-weight: bold;">+17.8</span> | <span style="color: #B22222; font-weight: bold;">+12.1</span> | **16.55** | <span style="color: #002818; font-weight: bold;">1.14</span> | <span style="color: #006400; font-weight: bold;">15.13</span> |
 | **2026/06** | **1.64** | <span style="color: #FF4500; font-weight: bold;">+30</span> | <span style="color: #B22222; font-weight: bold;">+11.3</span> | **18.45** | <span style="color: #002818; font-weight: bold;">1.14</span> | <span style="color: #004225; font-weight: bold;">16.18</span> |
 | **2026/05** | **1.78** | <span style="color: #8B0000; font-weight: bold;">+7.63</span> | <span style="color: #8B0000; font-weight: bold;">+8.56</span> | **18.85** | <span style="color: #002818; font-weight: bold;">1.14</span> | <span style="color: #004225; font-weight: bold;">16.54</span> |
 | **2026/04** | **2.04** | <span style="color: #8B0000; font-weight: bold;">+6.71</span> | <span style="color: #8B0000; font-weight: bold;">+8.78</span> | **17.3** | <span style="color: #002818; font-weight: bold;">1.14</span> | <span style="color: #004225; font-weight: bold;">15.18</span> |
@@ -413,7 +414,7 @@ description: 月營收表 雙邦 (6506) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-08-11 12:06:01 CST
+- **產生時間**: 2026-08-11 17:38:22 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -24,14 +24,14 @@ description: 月營收表 台灣虎航 (6757) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 台灣虎航  
     **:identification_card: 股票代號**: 6757  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-08-11 12:06:01 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-11 17:38:22 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+27.1</span> | <span style="color: #DC143C; font-weight: bold;">+22.1</span> | **82** 個月 | 2019/09 至 2026/06 |
+| <span style="color: #DC143C; font-weight: bold;">+27.2</span> | <span style="color: #DC143C; font-weight: bold;">+22.8</span> | **83** 個月 | 2019/09 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 台灣虎航 (6757) - 自動產生
 | **10月** | -- | 1,566<br/><span style="color: #DC143C;">(+20.20%)</span> | 1,303<br/><span style="color: #8B0000;">(+6.74%)</span> | 1,220<br/><span style="color: #FF7F7F;">(+1040.50%)</span> | 107<br/><span style="color: #FF7F7F;">(+514.30%)</span> |
 | **9月** | -- | 1,277<br/><span style="color: #8B0000;">(+1.00%)</span> | 1,264<br/><span style="color: #B22222;">(+17.80%)</span> | 1,074<br/><span style="color: #FF7F7F;">(+2053.70%)</span> | 49<br/><span style="color: #8B0000;">(+9.71%)</span> |
 | **8月** | -- | 1,465<br/><span style="color: #002818;">(-4.32%)</span> | 1,531<br/><span style="color: #DC143C;">(+23.60%)</span> | 1,239<br/><span style="color: #FF7F7F;">(+2992.60%)</span> | 40<br/><span style="color: #FF7F7F;">(+962.10%)</span> |
-| **7月** | -- | 1,391<br/><span style="color: #004225;">(-14.50%)</span> | 1,627<br/><span style="color: #DC143C;">(+28.70%)</span> | 1,264<br/><span style="color: #FF7F7F;">(+2223.40%)</span> | 54<br/><span style="color: #FF7F7F;">(+1687.60%)</span> |
+| **7月** | 1,770<br/><span style="color: #DC143C;">(+27.20%)</span> | 1,391<br/><span style="color: #004225;">(-14.50%)</span> | 1,627<br/><span style="color: #DC143C;">(+28.70%)</span> | 1,264<br/><span style="color: #FF7F7F;">(+2223.40%)</span> | 54<br/><span style="color: #FF7F7F;">(+1687.60%)</span> |
 | **6月** | 1,616<br/><span style="color: #DC143C;">(+27.10%)</span> | 1,271<br/><span style="color: #004225;">(-10.50%)</span> | 1,421<br/><span style="color: #FF4500;">(+30.20%)</span> | 1,091<br/><span style="color: #FF7F7F;">(+1571.70%)</span> | 65<br/><span style="color: #FF7F7F;">(+1236.30%)</span> |
 | **5月** | 1,519<br/><span style="color: #DC143C;">(+21.70%)</span> | 1,248<br/><span style="color: #8B0000;">(+2.30%)</span> | 1,220<br/><span style="color: #FF4500;">(+38.30%)</span> | 882<br/><span style="color: #FF7F7F;">(+1170.40%)</span> | 69<br/><span style="color: #FF7F7F;">(+56.40%)</span> |
 | **4月** | 1,652<br/><span style="color: #DC143C;">(+26.50%)</span> | 1,306<br/><span style="color: #002818;">(-1.59%)</span> | 1,327<br/><span style="color: #FF6347;">(+45.20%)</span> | 914<br/><span style="color: #FF7F7F;">(+1366.90%)</span> | 62<br/><span style="color: #002818;">(-2.41%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 台灣虎航 (6757) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **17.7** | <span style="color: #DC143C; font-weight: bold;">+27.2</span> | <span style="color: #DC143C; font-weight: bold;">+22.8</span> | **57.4** | <span style="color: #DC143C; font-weight: bold;">6.23</span> | <span style="color: #004225; font-weight: bold;">8.73</span> |
 | **2026/06** | **16.16** | <span style="color: #DC143C; font-weight: bold;">+27.1</span> | <span style="color: #DC143C; font-weight: bold;">+22.1</span> | **62.3** | <span style="color: #DC143C; font-weight: bold;">6.23</span> | <span style="color: #002818; font-weight: bold;">10.0</span> |
 | **2026/05** | **15.19** | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | <span style="color: #DC143C; font-weight: bold;">+21.2</span> | **56.7** | <span style="color: #DC143C; font-weight: bold;">6.23</span> | <span style="color: #004225; font-weight: bold;">9.1</span> |
 | **2026/04** | **16.52** | <span style="color: #DC143C; font-weight: bold;">+26.5</span> | <span style="color: #DC143C; font-weight: bold;">+21.1</span> | **49.65** | <span style="color: #DC143C; font-weight: bold;">6.23</span> | <span style="color: #006400; font-weight: bold;">7.97</span> |
@@ -256,7 +257,7 @@ description: 月營收表 台灣虎航 (6757) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-08-11 12:06:01 CST
+- **產生時間**: 2026-08-11 17:38:22 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

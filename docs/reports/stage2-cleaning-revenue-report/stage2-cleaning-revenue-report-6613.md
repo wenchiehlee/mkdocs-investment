@@ -24,14 +24,14 @@ description: 月營收表 朋億 (6613) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 朋億  
     **:identification_card: 股票代號**: 6613  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-08-11 12:06:01 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-11 17:38:22 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+120.4</span> | <span style="color: #FF6347; font-weight: bold;">+46.2</span> | **117** 個月 | 2016/10 至 2026/06 |
+| <span style="color: #FF7F7F; font-weight: bold;">+64.3</span> | <span style="color: #FF6347; font-weight: bold;">+49</span> | **118** 個月 | 2016/10 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 朋億 (6613) - 自動產生
 | **10月** | -- | 705<br/><span style="color: #006400;">(-20.30%)</span> | 885<br/><span style="color: #B22222;">(+11.30%)</span> | 795<br/><span style="color: #DC143C;">(+27.00%)</span> | 626<br/><span style="color: #8B0000;">(+0.04%)</span> |
 | **9月** | -- | 668<br/><span style="color: #228B22;">(-38.80%)</span> | 1,091<br/><span style="color: #FF6347;">(+41.60%)</span> | 770<br/><span style="color: #004225;">(-14.10%)</span> | 896<br/><span style="color: #FF7F7F;">(+56.00%)</span> |
 | **8月** | -- | 589<br/><span style="color: #228B22;">(-35.40%)</span> | 913<br/><span style="color: #B22222;">(+12.20%)</span> | 813<br/><span style="color: #8B0000;">(+3.58%)</span> | 785<br/><span style="color: #FF7F7F;">(+56.80%)</span> |
-| **7月** | -- | 787<br/><span style="color: #8B0000;">(+5.43%)</span> | 746<br/><span style="color: #004225;">(-10.00%)</span> | 828<br/><span style="color: #002818;">(-2.06%)</span> | 847<br/><span style="color: #FF6347;">(+48.00%)</span> |
+| **7月** | 1,293<br/><span style="color: #FF7F7F;">(+64.30%)</span> | 787<br/><span style="color: #8B0000;">(+5.43%)</span> | 746<br/><span style="color: #004225;">(-10.00%)</span> | 828<br/><span style="color: #002818;">(-2.06%)</span> | 847<br/><span style="color: #FF6347;">(+48.00%)</span> |
 | **6月** | 1,993<br/><span style="color: #FF7F7F;">(+120.40%)</span> | 903<br/><span style="color: #FF6347;">(+46.40%)</span> | 618<br/><span style="color: #228B22;">(-33.00%)</span> | 921<br/><span style="color: #B22222;">(+13.10%)</span> | 814<br/><span style="color: #FF4500;">(+33.20%)</span> |
 | **5月** | 1,083<br/><span style="color: #FF7F7F;">(+81.70%)</span> | 596<br/><span style="color: #006400;">(-24.40%)</span> | 788<br/><span style="color: #8B0000;">(+0.51%)</span> | 784<br/><span style="color: #FF6347;">(+40.20%)</span> | 559<br/><span style="color: #8B0000;">(+1.80%)</span> |
 | **4月** | 711<br/><span style="color: #FF4500;">(+30.80%)</span> | 544<br/><span style="color: #32CD32;">(-43.40%)</span> | 961<br/><span style="color: #DC143C;">(+24.80%)</span> | 770<br/><span style="color: #FF7F7F;">(+57.60%)</span> | 488<br/><span style="color: #8B0000;">(+0.03%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 朋億 (6613) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **12.93** | <span style="color: #FF7F7F; font-weight: bold;">+64.3</span> | <span style="color: #FF6347; font-weight: bold;">+49</span> | **271** | <span style="color: #002818; font-weight: bold;">14.23</span> | <span style="color: #FF6347; font-weight: bold;">21.61</span> |
 | **2026/06** | **19.93** | <span style="color: #FF7F7F; font-weight: bold;">+120.4</span> | <span style="color: #FF6347; font-weight: bold;">+46.2</span> | **364.5** | <span style="color: #002818; font-weight: bold;">14.23</span> | <span style="color: #FF7F7F; font-weight: bold;">25.61</span> |
 | **2026/05** | **10.83** | <span style="color: #FF7F7F; font-weight: bold;">+81.7</span> | <span style="color: #DC143C; font-weight: bold;">+25.8</span> | **264.5** | <span style="color: #002818; font-weight: bold;">14.23</span> | <span style="color: #FF6347; font-weight: bold;">18.59</span> |
 | **2026/04** | **7.11** | <span style="color: #FF4500; font-weight: bold;">+30.8</span> | <span style="color: #B22222; font-weight: bold;">+13.4</span> | **228** | <span style="color: #002818; font-weight: bold;">14.23</span> | <span style="color: #DC143C; font-weight: bold;">16.02</span> |
@@ -291,7 +292,7 @@ description: 月營收表 朋億 (6613) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-08-11 12:06:01 CST
+- **產生時間**: 2026-08-11 17:38:22 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
