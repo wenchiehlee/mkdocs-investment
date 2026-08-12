@@ -24,7 +24,7 @@ description: 股利分配總覽 - 所有 141 檔股票 (有效 138 檔) - 自動
 # :bar_chart: 股利分配總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-08-12 07:32:31 CST  
+    **:calendar: 產生時間**: 2026-08-12 12:35:37 CST  
     **:building_construction: 分析股票總數**: 141 檔 (有效 138 檔)  
     **:chart_with_upwards_trend: 報告類型**: 完整股利分配分析  
     **:file_folder: 資料來源**: Stage 1 raw_dividends.csv + raw_performance1.csv
@@ -35,7 +35,7 @@ description: 股利分配總覽 - 所有 141 檔股票 (有效 138 檔) - 自動
 
 | :chart: 指標 | :bar_chart: 平均值 | :1234: 中位數 | :trophy: 最佳股票 | :warning: 最弱股票 |
 |:--------:|:-------------:|:--------:|:-----------:|:------------:|
-| **現金殖利率 (5年平均)** | 3.70% | 3.65% | [**2603**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2603/): 19.08% | [**6695**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6695/): 0.00% |
+| **現金殖利率 (5年平均)** | 3.70% | 3.65% | [**2603**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2603/): 19.08% | [**2646**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2646/): 0.00% |
 | **穩定性評分** | 5.9/10 | 6.0/10 | [**6414**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6414/): 9.0/10 | [**2405**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2405/): 0.0/10 |
 
 ---
@@ -2034,7 +2034,7 @@ description: 股利分配總覽 - 所有 141 檔股票 (有效 138 檔) - 自動
     - **略過股票數**: 3 檔 (資料不足: < 3 年)
 
 !!! info "報告元資訊"
-    - **報告產生時間**: 2026-08-12 07:32:31
+    - **報告產生時間**: 2026-08-12 12:35:38
     - **資料來源**: Stage 1 原始股利報告系統
     - **主要資料**: `raw_dividends.csv` (Type 1: DividendDetail)
     - **EPS資料**: `raw_performance1.csv` (Type 7: Quarterly Performance)
