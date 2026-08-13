@@ -11,7 +11,7 @@ tags:
 title: 📊 月營收總覽 - 所有股票
 comments: false
 draft: false
-description: 月營收總覽 - 所有 139 檔股票 - 自動產生
+description: 月營收總覽 - 所有 138 檔股票 - 自動產生
 ---
 
 
@@ -23,8 +23,8 @@ description: 月營收總覽 - 所有 139 檔股票 - 自動產生
 # :bar_chart: 月營收總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-08-13 12:30:25 CST  
-    **:building_construction: 分析股票總數**: 139 檔  
+    **:calendar: 產生時間**: 2026-08-13 22:05:50 CST  
+    **:building_construction: 分析股票總數**: 138 檔  
     **:chart_with_upwards_trend: 報告類型**: 各股完整歷史資料  
     **:file_folder: 資料來源**: Stage 2 cleaned_revenue.csv + cleaned_monthly_flow.csv
 
@@ -36,25 +36,25 @@ description: 月營收總覽 - 所有 139 檔股票 - 自動產生
 
     ---
 
-    **119** 檔 (85.6%)
+    **118** 檔 (85.5%)
 
 - :chart_with_downwards_trend: **負成長股票**
 
     ---
 
-    **20** 檔 (14.4%)
+    **20** 檔 (14.5%)
 
 - :page_with_curl: **總處理股票**
 
     ---
 
-    **139** 檔
+    **138** 檔
 
 - :material-data-matrix: **有效資料股票**
 
     ---
 
-    **139** 檔
+    **138** 檔
 
 </div>
 
@@ -151,7 +151,6 @@ description: 月營收總覽 - 所有 139 檔股票 - 自動產生
 | [**6285**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6285/) | 啟碁 | **240** | 2026/07 | <span style="color: #FF7F7F; font-weight: bold;">+89.8</span> | 2006/08 ~ 2026/07 |
 | [**6414**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6414/) | 樺漢 | **165** | 2026/07 | <span style="color: #FF7F7F; font-weight: bold;">+55.1</span> | 2012/11 ~ 2026/07 |
 | [**6425**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6425/) | 易發 | **159** | 2026/07 | <span style="color: #FF7F7F; font-weight: bold;">+226.9</span> | 2013/05 ~ 2026/07 |
-| [**6442**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6442/) | 光聖 | **153** | 2026/07 | <span style="color: #FF6347; font-weight: bold;">+49.2</span> | 2013/11 ~ 2026/07 |
 | [**6462**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6462/) | 神盾 | **148** | 2026/07 | <span style="color: #FF7F7F; font-weight: bold;">+63.8</span> | 2014/04 ~ 2026/07 |
 | [**6506**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6506/) | 雙邦 | **240** | 2026/07 | <span style="color: #B22222; font-weight: bold;">+17.8</span> | 2006/08 ~ 2026/07 |
 | [**6510**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6510/) | 精測 | **140** | 2026/07 | <span style="color: #FF6347; font-weight: bold;">+49.9</span> | 2014/10 ~ 2026/07 |
@@ -260,12 +259,12 @@ description: 月營收總覽 - 所有 139 檔股票 - 自動產生
 ## :material-chart-timeline-variant: 趨勢分析
 
 !!! success "正向指標"
-    - **85.6%** 的股票呈現正成長
-    - 共有 **119** 檔股票營收增長
+    - **85.5%** 的股票呈現正成長
+    - 共有 **118** 檔股票營收增長
     - 反映整體市場樂觀氣氛
 
 !!! note "市場概況"
-    - **14.4%** 的股票出現負成長
+    - **14.5%** 的股票出現負成長
     - 共有 **20** 檔股票營收下滑
     - 建議關注產業別和個股基本面
 
@@ -275,7 +274,7 @@ description: 月營收總覽 - 所有 139 檔股票 - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-**產生時間**: 2026-08-13 12:30:25 CST  
+**產生時間**: 2026-08-13 22:05:50 CST  
 **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)  
 **報告版本**: Material for MkDocs 增強版 with EPS/P-E Integration (Asymmetric Statistics)  
 **處理模式**: 完整資料模式
