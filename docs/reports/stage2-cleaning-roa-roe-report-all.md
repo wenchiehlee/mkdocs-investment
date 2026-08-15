@@ -24,8 +24,8 @@ description: ROA/ROE 總覽 - 所有股票 - 自動產生
 # :chart: ROA/ROE 總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-08-15 05:10:27 CST  
-    **:building_construction: 分析股票總數**: 66 檔  
+    **:calendar: 產生時間**: 2026-08-15 07:06:06 CST  
+    **:building_construction: 分析股票總數**: 67 檔  
     **:chart_with_upwards_trend: 報告類型**: 各股盈利能力分析  
     **:file_folder: 資料來源**: Stage 1 raw_performance1.csv
 
@@ -43,7 +43,7 @@ description: ROA/ROE 總覽 - 所有股票 - 自動產生
 
 - :page_with_curl: **總處理股票**
     ---
-    **66** 檔
+    **67** 檔
 
 </div>
 
@@ -117,6 +117,7 @@ description: ROA/ROE 總覽 - 所有股票 - 自動產生
 | [**2395**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2395/) | 研華 | 電腦及週邊設備業 | 8.56% | 5.09% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2395/) |
 | [**2405**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2405/) | 輔信 | 電腦及週邊設備業 | 0.25% | 0.19% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2405/) |
 | [**3231**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-3231/) | 緯創 | 電腦及週邊設備業 | 8.60% | 1.56% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-3231/) |
+| [**3479**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-3479/) | 安勤 | 電腦及週邊設備業 | 3.48% | 1.53% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-3479/) |
 | [**6579**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-6579/) | 研揚 | 電腦及週邊設備業 | 3.05% | 2.31% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-6579/) |
 | [**6669**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-6669/) | 緯穎 | 電腦及週邊設備業 | 10.80% | 3.03% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-6669/) |
 

@@ -24,7 +24,7 @@ description: 股利分配總覽 - 所有 141 檔股票 (有效 138 檔) - 自動
 # :bar_chart: 股利分配總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-08-15 05:10:25 CST  
+    **:calendar: 產生時間**: 2026-08-15 07:06:04 CST  
     **:building_construction: 分析股票總數**: 141 檔 (有效 138 檔)  
     **:chart_with_upwards_trend: 報告類型**: 完整股利分配分析  
     **:file_folder: 資料來源**: Stage 1 raw_dividends.csv + raw_performance1.csv
@@ -906,8 +906,8 @@ description: 股利分配總覽 - 所有 141 檔股票 (有效 138 檔) - 自動
 <td>[**3479**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3479/)</td>
 <td>安勤</td>
 <td>4.62</td>
-<td>🔼 5.02</td>
-<td>🔼 5.02</td>
+<td>🔼 5.27</td>
+<td>🔼 5.39</td>
 <td>-</td>
 <td>3.57%</td>
 <td>08/15 03:39</td>
@@ -2034,7 +2034,7 @@ description: 股利分配總覽 - 所有 141 檔股票 (有效 138 檔) - 自動
     - **略過股票數**: 3 檔 (資料不足: < 3 年)
 
 !!! info "報告元資訊"
-    - **報告產生時間**: 2026-08-15 05:10:25
+    - **報告產生時間**: 2026-08-15 07:06:04
     - **資料來源**: Stage 1 原始股利報告系統
     - **主要資料**: `raw_dividends.csv` (Type 1: DividendDetail)
     - **EPS資料**: `raw_performance1.csv` (Type 7: Quarterly Performance)
