@@ -24,14 +24,14 @@ description: 月營收表 富邦金 (2881) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 富邦金  
     **:identification_card: 股票代號**: 2881  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-08-15 13:03:01 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-15 15:14:46 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #90EE90; font-weight: bold;">-53.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+466.4</span> | **239** 個月 | 2006/08 至 2026/06 |
+| <span style="color: #90EE90; font-weight: bold;">-79.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+4391.9</span> | **240** 個月 | 2006/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 富邦金 (2881) - 自動產生
 | **10月** | -- | 48,390<br/><span style="color: #FF7F7F;">(+63.00%)</span> | 29,680<br/><span style="color: #FF7F7F;">(+115.10%)</span> | 13,800<br/><span style="color: #FF7F7F;">(+335.50%)</span> | -5,860<br/><span style="color: #90EE90;">(-119.30%)</span> |
 | **9月** | -- | 35,650<br/><span style="color: #FF7F7F;">(+56.50%)</span> | 22,770<br/><span style="color: #FF4500;">(+31.10%)</span> | 17,370<br/><span style="color: #006400;">(-25.30%)</span> | 23,260<br/><span style="color: #004225;">(-17.80%)</span> |
 | **8月** | -- | 57,390<br/><span style="color: #FF7F7F;">(+1442.60%)</span> | 3,720<br/><span style="color: #90EE90;">(-71.30%)</span> | 12,969<br/><span style="color: #006400;">(-27.70%)</span> | 17,930<br/><span style="color: #90EE90;">(-52.90%)</span> |
-| **7月** | -- | 31,610<br/><span style="color: #006400;">(-27.20%)</span> | 43,440<br/><span style="color: #FF7F7F;">(+73.80%)</span> | 24,990<br/><span style="color: #8B0000;">(+6.84%)</span> | 23,390<br/><span style="color: #32CD32;">(-46.30%)</span> |
+| **7月** | 10,660<br/><span style="color: #90EE90;">(-79.20%)</span> | 51,140<br/><span style="color: #B22222;">(+17.70%)</span> | 43,440<br/><span style="color: #FF7F7F;">(+73.80%)</span> | 24,990<br/><span style="color: #8B0000;">(+6.84%)</span> | 23,390<br/><span style="color: #32CD32;">(-46.30%)</span> |
 | **6月** | 22,160<br/><span style="color: #90EE90;">(-53.60%)</span> | 47,810<br/><span style="color: #FF6347;">(+45.90%)</span> | 32,760<br/><span style="color: #8B0000;">(+2.15%)</span> | 32,070<br/><span style="color: #002818;">(-6.68%)</span> | 34,360<br/><span style="color: #004225;">(-19.60%)</span> |
 | **5月** | 30,410<br/><span style="color: #FF7F7F;">(+155.00%)</span> | -55,260<br/><span style="color: #90EE90;">(-320.70%)</span> | 25,040<br/><span style="color: #FF7F7F;">(+60.50%)</span> | 15,600<br/><span style="color: #006400;">(-24.20%)</span> | 20,590<br/><span style="color: #32CD32;">(-44.10%)</span> |
 | **4月** | 53,360<br/><span style="color: #FF7F7F;">(+219.80%)</span> | -44,540<br/><span style="color: #90EE90;">(-264.80%)</span> | 27,020<br/><span style="color: #FF6347;">(+44.80%)</span> | 18,670<br/><span style="color: #32CD32;">(-48.30%)</span> | 36,110<br/><span style="color: #004225;">(-16.10%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 富邦金 (2881) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **106.6** | <span style="color: #90EE90; font-weight: bold;">-79.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+4391.9</span> | **130** | <span style="color: #B22222; font-weight: bold;">7.85</span> | <span style="color: #8B0000; font-weight: bold;">16.24</span> |
 | **2026/06** | **221.6** | <span style="color: #90EE90; font-weight: bold;">-53.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+466.4</span> | **129.5** | <span style="color: #B22222; font-weight: bold;">7.85</span> | <span style="color: #8B0000; font-weight: bold;">16.5</span> |
 | **2026/05** | **304.1** | <span style="color: #FF7F7F; font-weight: bold;">+155</span> | <span style="color: #FF7F7F; font-weight: bold;">+258.4</span> | **110** | <span style="color: #B22222; font-weight: bold;">7.85</span> | <span style="color: #8B0000; font-weight: bold;">14.01</span> |
 | **2026/04** | **533.6** | <span style="color: #FF7F7F; font-weight: bold;">+219.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+402.6</span> | **90** | <span style="color: #B22222; font-weight: bold;">7.85</span> | <span style="color: #002818; font-weight: bold;">11.46</span> |
@@ -90,7 +91,7 @@ description: 月營收表 富邦金 (2881) - 自動產生
 | **2025/10** | **483.9** | <span style="color: #FF7F7F; font-weight: bold;">+63</span> | <span style="color: #8B0000; font-weight: bold;">+4.47</span> | **91.2** | <span style="color: #B22222; font-weight: bold;">8.37</span> | <span style="color: #8B0000; font-weight: bold;">18.25</span> |
 | **2025/09** | **356.5** | <span style="color: #FF7F7F; font-weight: bold;">+56.5</span> | <span style="color: #002818; font-weight: bold;">-2.64</span> | **88.3** | <span style="color: #004225; font-weight: bold;">3.31</span> | <span style="color: #B22222; font-weight: bold;">26.68</span> |
 | **2025/08** | **573.9** | <span style="color: #FF7F7F; font-weight: bold;">+1442.6</span> | <span style="color: #002818; font-weight: bold;">-8.74</span> | **83.9** | <span style="color: #004225; font-weight: bold;">3.31</span> | <span style="color: #B22222; font-weight: bold;">25.07</span> |
-| **2025/07** | **316.1** | <span style="color: #006400; font-weight: bold;">-27.2</span> | <span style="color: #228B22; font-weight: bold;">-33.6</span> | **82.4** | <span style="color: #004225; font-weight: bold;">3.31</span> | <span style="color: #B22222; font-weight: bold;">24.35</span> |
+| **2025/07** | **511.4** | <span style="color: #B22222; font-weight: bold;">+17.7</span> | <span style="color: #90EE90; font-weight: bold;">-98.1</span> | **82.4** | <span style="color: #004225; font-weight: bold;">3.31</span> | <span style="color: #B22222; font-weight: bold;">24.35</span> |
 | **2025/06** | **478.1** | <span style="color: #FF6347; font-weight: bold;">+45.9</span> | <span style="color: #90EE90; font-weight: bold;">-127.1</span> | **87.3** | <span style="color: #004225; font-weight: bold;">3.42</span> | <span style="color: #B22222; font-weight: bold;">25.53</span> |
 | **2025/05** | **-552.6** | <span style="color: #90EE90; font-weight: bold;">-320.7</span> | <span style="color: #90EE90; font-weight: bold;">-167.2</span> | **79.6** | <span style="color: #004225; font-weight: bold;">3.42</span> | <span style="color: #8B0000; font-weight: bold;">18.05</span> |
 | **2025/04** | **-445.4** | <span style="color: #90EE90; font-weight: bold;">-264.8</span> | <span style="color: #90EE90; font-weight: bold;">-134.1</span> | **84.3** | <span style="color: #004225; font-weight: bold;">3.42</span> | <span style="color: #8B0000; font-weight: bold;">15.61</span> |
@@ -413,7 +414,7 @@ description: 月營收表 富邦金 (2881) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-08-15 13:03:01 CST
+- **產生時間**: 2026-08-15 15:14:46 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

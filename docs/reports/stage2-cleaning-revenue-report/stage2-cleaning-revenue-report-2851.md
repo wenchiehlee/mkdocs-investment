@@ -24,14 +24,14 @@ description: 月營收表 中再保 (2851) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 中再保  
     **:identification_card: 股票代號**: 2851  
-    **:calendar: 最新資料**: 2026/06  
-    **:clock3: 更新時間**: 2026-08-15 13:03:01 CST
+    **:calendar: 最新資料**: 2026/07  
+    **:clock3: 更新時間**: 2026-08-15 15:14:46 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+6.04</span> | <span style="color: #FF7F7F; font-weight: bold;">+148.4</span> | **239** 個月 | 2006/08 至 2026/06 |
+| <span style="color: #228B22; font-weight: bold;">-33.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+111</span> | **240** 個月 | 2006/08 至 2026/07 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -48,7 +48,7 @@ description: 月營收表 中再保 (2851) - 自動產生
 | **10月** | -- | 2,704<br/><span style="color: #FF6347;">(+40.60%)</span> | 1,923<br/><span style="color: #8B0000;">(+6.66%)</span> | 1,803<br/><span style="color: #DC143C;">(+23.00%)</span> | 1,466<br/><span style="color: #004225;">(-11.00%)</span> |
 | **9月** | -- | 2,022<br/><span style="color: #8B0000;">(+8.23%)</span> | 1,868<br/><span style="color: #8B0000;">(+6.66%)</span> | 1,751<br/><span style="color: #8B0000;">(+1.25%)</span> | 1,730<br/><span style="color: #002818;">(-0.85%)</span> |
 | **8月** | -- | 2,062<br/><span style="color: #FF7F7F;">(+55.40%)</span> | 1,327<br/><span style="color: #228B22;">(-32.00%)</span> | 1,952<br/><span style="color: #8B0000;">(+8.93%)</span> | 1,792<br/><span style="color: #B22222;">(+13.80%)</span> |
-| **7月** | -- | 1,829<br/><span style="color: #002818;">(-2.43%)</span> | 1,873<br/><span style="color: #002818;">(-5.79%)</span> | 1,989<br/><span style="color: #FF6347;">(+40.30%)</span> | 1,418<br/><span style="color: #004225;">(-10.60%)</span> |
+| **7月** | 918<br/><span style="color: #228B22;">(-33.40%)</span> | 1,380<br/><span style="color: #006400;">(-26.40%)</span> | 1,873<br/><span style="color: #002818;">(-5.79%)</span> | 1,989<br/><span style="color: #FF6347;">(+40.30%)</span> | 1,418<br/><span style="color: #004225;">(-10.60%)</span> |
 | **6月** | 1,583<br/><span style="color: #8B0000;">(+6.04%)</span> | 1,493<br/><span style="color: #006400;">(-24.30%)</span> | 1,973<br/><span style="color: #002818;">(-0.52%)</span> | 1,982<br/><span style="color: #8B0000;">(+3.03%)</span> | 1,925<br/><span style="color: #002818;">(-5.71%)</span> |
 | **5月** | 3,084<br/><span style="color: #FF7F7F;">(+1113.10%)</span> | 254<br/><span style="color: #90EE90;">(-87.00%)</span> | 1,962<br/><span style="color: #8B0000;">(+4.55%)</span> | 1,876<br/><span style="color: #002818;">(-8.04%)</span> | 2,039<br/><span style="color: #DC143C;">(+21.80%)</span> |
 | **4月** | 3,681<br/><span style="color: #FF7F7F;">(+605.10%)</span> | 522<br/><span style="color: #90EE90;">(-73.20%)</span> | 1,947<br/><span style="color: #B22222;">(+16.70%)</span> | 1,668<br/><span style="color: #006400;">(-21.70%)</span> | 2,130<br/><span style="color: #FF4500;">(+36.30%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 中再保 (2851) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/07** | **9.18** | <span style="color: #228B22; font-weight: bold;">-33.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+111</span> | **34.5** | <span style="color: #FF6347; font-weight: bold;">5.18</span> | <span style="color: #228B22; font-weight: bold;">6.81</span> |
 | **2026/06** | **15.83** | <span style="color: #8B0000; font-weight: bold;">+6.04</span> | <span style="color: #FF7F7F; font-weight: bold;">+148.4</span> | **36.15** | <span style="color: #FF6347; font-weight: bold;">5.18</span> | <span style="color: #228B22; font-weight: bold;">6.98</span> |
 | **2026/05** | **30.84** | <span style="color: #FF7F7F; font-weight: bold;">+1113.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+203.7</span> | **35.1** | <span style="color: #FF6347; font-weight: bold;">5.18</span> | <span style="color: #228B22; font-weight: bold;">6.78</span> |
 | **2026/04** | **36.81** | <span style="color: #FF7F7F; font-weight: bold;">+605.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+139.3</span> | **30.15** | <span style="color: #FF6347; font-weight: bold;">5.18</span> | <span style="color: #228B22; font-weight: bold;">5.82</span> |
@@ -90,7 +91,7 @@ description: 月營收表 中再保 (2851) - 自動產生
 | **2025/10** | **27.04** | <span style="color: #FF6347; font-weight: bold;">+40.6</span> | <span style="color: #002818; font-weight: bold;">-3.03</span> | **24.55** | <span style="color: #DC143C; font-weight: bold;">3.66</span> | <span style="color: #002818; font-weight: bold;">10.49</span> |
 | **2025/09** | **20.22** | <span style="color: #8B0000; font-weight: bold;">+8.23</span> | <span style="color: #002818; font-weight: bold;">-7.87</span> | **24.05** | <span style="color: #002818; font-weight: bold;">1.68</span> | <span style="color: #8B0000; font-weight: bold;">14.32</span> |
 | **2025/08** | **20.62** | <span style="color: #FF7F7F; font-weight: bold;">+55.4</span> | <span style="color: #002818; font-weight: bold;">-9.81</span> | **23.55** | <span style="color: #002818; font-weight: bold;">1.68</span> | <span style="color: #8B0000; font-weight: bold;">16.28</span> |
-| **2025/07** | **18.29** | <span style="color: #002818; font-weight: bold;">-2.43</span> | <span style="color: #004225; font-weight: bold;">-15.9</span> | **23.15** | <span style="color: #002818; font-weight: bold;">1.68</span> | <span style="color: #B22222; font-weight: bold;">19.08</span> |
+| **2025/07** | **13.8** | <span style="color: #006400; font-weight: bold;">-26.4</span> | <span style="color: #90EE90; font-weight: bold;">-52.5</span> | **23.15** | <span style="color: #002818; font-weight: bold;">1.68</span> | <span style="color: #B22222; font-weight: bold;">19.08</span> |
 | **2025/06** | **14.93** | <span style="color: #006400; font-weight: bold;">-24.3</span> | <span style="color: #90EE90; font-weight: bold;">-56.5</span> | **22.8** | <span style="color: #006400; font-weight: bold;">0.98</span> | <span style="color: #B22222; font-weight: bold;">23.27</span> |
 | **2025/05** | **2.54** | <span style="color: #90EE90; font-weight: bold;">-87</span> | <span style="color: #90EE90; font-weight: bold;">-62.6</span> | **24.9** | <span style="color: #006400; font-weight: bold;">0.98</span> | <span style="color: #B22222; font-weight: bold;">20.98</span> |
 | **2025/04** | **5.22** | <span style="color: #90EE90; font-weight: bold;">-73.2</span> | <span style="color: #90EE90; font-weight: bold;">-56.9</span> | **26.25** | <span style="color: #006400; font-weight: bold;">0.98</span> | <span style="color: #B22222; font-weight: bold;">18.84</span> |
@@ -413,7 +414,7 @@ description: 月營收表 中再保 (2851) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-08-15 13:03:01 CST
+- **產生時間**: 2026-08-15 15:14:46 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
