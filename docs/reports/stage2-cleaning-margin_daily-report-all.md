@@ -19,8 +19,8 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 # 📈 融資餘額總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-08-16 11:45:50 CST  
-    **:building_construction: 分析股票總數**: 140 檔  
+    **:calendar: 產生時間**: 2026-08-16 13:21:59 CST  
+    **:building_construction: 分析股票總數**: 142 檔  
     **:chart_with_upwards_trend: 報告類型**: 融資餘額總覽  
     **:file_folder: 資料來源**: Stage 1 raw_margin_daily.csv + raw_margin_weekly.csv + raw_margin_monthly.csv
 
@@ -54,6 +54,18 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>141.03 兆元</td>
 <td>0.39%</td>
 <td>🟡</td>
+<td>2026-08-14</td>
+</tr>
+<tr>
+<td markdown="span">[**0050**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-0050/)</td>
+<td>元大台灣50</td>
+<td>20.4</td>
+<td>+11.20%</td>
+<td>-41.05%</td>
+<td>106.40</td>
+<td>2.36 兆元</td>
+<td>0.09%</td>
+<td>🟢</td>
 <td>2026-08-14</td>
 </tr>
 <tr>
@@ -305,6 +317,18 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>721.00</td>
 <td>3907.6 億元</td>
 <td>0.47%</td>
+<td>🟡</td>
+<td>2026-08-14</td>
+</tr>
+<tr>
+<td markdown="span">[**2382**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2382/)</td>
+<td>廣達</td>
+<td>57.8</td>
+<td>+46.11%</td>
+<td>+24.72%</td>
+<td>327.50</td>
+<td>1.33 兆元</td>
+<td>0.43%</td>
 <td>🟡</td>
 <td>2026-08-14</td>
 </tr>
