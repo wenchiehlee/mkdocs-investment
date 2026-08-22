@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "stock_code": "52",
+    "company_name": "富邦科技",
+    "industry": "未分類",
+    "generated_at": "2026-08-22T11:39:18.032312",
+    "horizons": [
+      "10y"
+    ]
+  },
+  "data": [],
+  "statistics": {
+    "10y": {
+      "horizon_label": "10年",
+      "avg_pe": null,
+      "avg_return": 9.66,
+      "r_squared": 0.0,
+      "slope": 0.0,
+      "intercept": 0.0,
+      "data_points": 119,
+      "best_buy": {
+        "date": "2015-10",
+        "pe": null,
+        "return": 21.48
+      },
+      "worst_buy": {
+        "date": "2015-11",
+        "pe": null,
+        "return": -0.23
+      }
+    }
+  },
+  "pe_river": [],
+  "revenue_yoy": []
+}
