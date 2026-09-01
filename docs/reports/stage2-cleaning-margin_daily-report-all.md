@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-08-31
+date: 2026-09-01
 categories:
   - 股票
   - 融資餘額
@@ -19,7 +19,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 # 📈 融資餘額總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-08-31 17:11:36 CST  
+    **:calendar: 產生時間**: 2026-09-01 16:17:26 CST  
     **:building_construction: 分析股票總數**: 142 檔  
     **:chart_with_upwards_trend: 報告類型**: 融資餘額總覽  
     **:file_folder: 資料來源**: Stage 1 raw_margin_daily.csv + raw_margin_weekly.csv + raw_margin_monthly.csv
@@ -51,8 +51,8 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-6.96%</td>
 <td>+7.80%</td>
 <td>45811.01</td>
-<td>136.10 兆元</td>
-<td>0.40%</td>
+<td>110.80 兆元</td>
+<td>0.49%</td>
 <td>🟡</td>
 <td>2026-08-14</td>
 </tr>
