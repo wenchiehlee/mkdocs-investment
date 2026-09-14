@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-09-13
+date: 2026-09-14
 categories:
   - 股票
   - ROE/ROA
@@ -37,4 +37,4 @@ description: ROA/ROE 報告 凱鈿 (7737) - 資料不足
 
 ---
 *本報告由 Stock Analysis System 自動生成*
-*產生時間：2026-09-13 15:52:36 CST*
+*產生時間：2026-09-14 16:19:43 CST*
