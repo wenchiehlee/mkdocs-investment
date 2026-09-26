@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-09-24
+date: 2026-09-26
 categories:
   - 股票
   - ROE/ROA
@@ -37,4 +37,4 @@ description: ROA/ROE 報告 富邦科技 (0052) - 資料不足
 
 ---
 *本報告由 Stock Analysis System 自動生成*
-*產生時間：2026-09-24 16:15:37 CST*
+*產生時間：2026-09-26 16:54:03 CST*
