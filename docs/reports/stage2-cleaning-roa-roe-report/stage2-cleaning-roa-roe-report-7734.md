@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-09-27
+date: 2026-09-28
 categories:
   - 股票
   - ROE/ROA
