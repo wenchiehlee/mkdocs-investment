@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     # if: github.event.pull_request.merged == true
     steps:
-      - uses: actions/checkout@v7 (chore: bump actions to latest (checkout@v7, setup-python@v7, setup-node@v7, github-script@v9))
+      - uses: actions/checkout@v7
 
       - name: Sync up
         uses: BetaHuhn/repo-file-sync-action@latest
