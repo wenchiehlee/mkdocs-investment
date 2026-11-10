@@ -24,14 +24,14 @@ description: 月營收表 研揚 (6579) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 研揚  
     **:identification_card: 股票代號**: 6579  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+19.7</span> | <span style="color: #DC143C; font-weight: bold;">+27.2</span> | **126** 個月 | 2016/04 至 2026/09 |
+| <span style="color: #FF6347; font-weight: bold;">+41.2</span> | <span style="color: #DC143C; font-weight: bold;">+28.6</span> | **127** 個月 | 2016/04 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 研揚 (6579) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 869<br/><span style="color: #FF4500;">(+30.80%)</span> | 665<br/><span style="color: #004225;">(-18.00%)</span> | 811<br/><span style="color: #8B0000;">(+4.70%)</span> | 774<br/><span style="color: #004225;">(-10.40%)</span> |
 | **11月** | -- | 691<br/><span style="color: #DC143C;">(+27.70%)</span> | 541<br/><span style="color: #002818;">(-1.05%)</span> | 547<br/><span style="color: #006400;">(-28.60%)</span> | 765<br/><span style="color: #8B0000;">(+5.18%)</span> |
-| **10月** | -- | 699<br/><span style="color: #FF4500;">(+33.20%)</span> | 525<br/><span style="color: #006400;">(-21.40%)</span> | 668<br/><span style="color: #002818;">(-6.72%)</span> | 716<br/><span style="color: #FF4500;">(+36.50%)</span> |
+| **10月** | 986<br/><span style="color: #FF6347;">(+41.20%)</span> | 699<br/><span style="color: #FF4500;">(+33.20%)</span> | 525<br/><span style="color: #006400;">(-21.40%)</span> | 668<br/><span style="color: #002818;">(-6.72%)</span> | 716<br/><span style="color: #FF4500;">(+36.50%)</span> |
 | **9月** | 974<br/><span style="color: #B22222;">(+19.70%)</span> | 814<br/><span style="color: #FF4500;">(+36.80%)</span> | 595<br/><span style="color: #006400;">(-21.40%)</span> | 758<br/><span style="color: #002818;">(-0.90%)</span> | 765<br/><span style="color: #FF4500;">(+37.00%)</span> |
 | **8月** | 985<br/><span style="color: #DC143C;">(+26.60%)</span> | 778<br/><span style="color: #FF6347;">(+42.50%)</span> | 546<br/><span style="color: #004225;">(-15.90%)</span> | 649<br/><span style="color: #002818;">(-0.52%)</span> | 653<br/><span style="color: #B22222;">(+18.70%)</span> |
 | **7月** | 914<br/><span style="color: #DC143C;">(+28.20%)</span> | 713<br/><span style="color: #DC143C;">(+20.30%)</span> | 593<br/><span style="color: #002818;">(-9.61%)</span> | 656<br/><span style="color: #8B0000;">(+2.16%)</span> | 642<br/><span style="color: #FF6347;">(+42.20%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 研揚 (6579) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **9.87** | <span style="color: #FF6347; font-weight: bold;">+41.2</span> | <span style="color: #DC143C; font-weight: bold;">+28.6</span> | **137** | <span style="color: #B22222; font-weight: bold;">160.5</span> | <span style="color: #DC143C; font-weight: bold;">148.5</span> |
 | **2026/09** | **9.74** | <span style="color: #B22222; font-weight: bold;">+19.7</span> | <span style="color: #DC143C; font-weight: bold;">+27.2</span> | **159** | <span style="color: #B22222; font-weight: bold;">161.5</span> | <span style="color: #DC143C; font-weight: bold;">142.5</span> |
 | **2026/08** | **9.85** | <span style="color: #DC143C; font-weight: bold;">+26.6</span> | <span style="color: #DC143C; font-weight: bold;">+28.4</span> | **146.5** | <span style="color: #DC143C; font-weight: bold;">187.0</span> | <span style="color: #DC143C; font-weight: bold;">142.0</span> |
 | **2026/07** | **9.14** | <span style="color: #DC143C; font-weight: bold;">+28.2</span> | <span style="color: #DC143C; font-weight: bold;">+28.7</span> | **154** | <span style="color: #DC143C; font-weight: bold;">186.5</span> | <span style="color: #DC143C; font-weight: bold;">145.5</span> |
@@ -300,7 +301,7 @@ description: 月營收表 研揚 (6579) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

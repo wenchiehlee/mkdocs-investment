@@ -25,13 +25,13 @@ description: 月營收表 台灣大 (3045) - 自動產生
     **:building_construction: 公司名稱**: 台灣大  
     **:identification_card: 股票代號**: 3045  
     **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+10.3</span> | <span style="color: #8B0000; font-weight: bold;">+5.35</span> | **240** 個月 | 2006/10 至 2026/09 |
+| <span style="color: #B22222; font-weight: bold;">+10.3</span> | <span style="color: #8B0000; font-weight: bold;">+5.35</span> | **239** 個月 | 2006/11 至 2026/09 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -318,7 +318,6 @@ description: 月營收表 台灣大 (3045) - 自動產生
 | **2007/01** | **48.97** | <span style="color: #002818; font-weight: bold;">-3.17</span> | <span style="color: #002818; font-weight: bold;">-3.17</span> | **31.9** | <span style="color: #228B22; font-weight: bold;">33.7</span> | <span style="color: #228B22; font-weight: bold;">31.8</span> |
 | **2006/12** | **49.19** | <span style="color: #002818; font-weight: bold;">-1.9</span> | <span style="color: #002818; font-weight: bold;">-1.89</span> | **33.8** | <span style="color: #228B22; font-weight: bold;">33.8</span> | <span style="color: #228B22; font-weight: bold;">31.4</span> |
 | **2006/11** | **47.1** | <span style="color: #002818; font-weight: bold;">-3.31</span> | <span style="color: #002818; font-weight: bold;">-1.89</span> | **32.35** | <span style="color: #228B22; font-weight: bold;">33.85</span> | <span style="color: #228B22; font-weight: bold;">30.9</span> |
-| **2006/10** | **48.98** | <span style="color: #002818; font-weight: bold;">-3.08</span> | <span style="color: #002818; font-weight: bold;">-1.75</span> | **33.2** | <span style="color: #228B22; font-weight: bold;">33.7</span> | <span style="color: #228B22; font-weight: bold;">30.7</span> |
 
 </div>
 
@@ -414,7 +413,7 @@ description: 月營收表 台灣大 (3045) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

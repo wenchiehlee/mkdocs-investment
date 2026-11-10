@@ -24,14 +24,14 @@ description: 月營收表 南亞科 (2408) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 南亞科  
     **:identification_card: 股票代號**: 2408  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+576.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+626.9</span> | **240** 個月 | 2006/10 至 2026/09 |
+| <span style="color: #FF7F7F; font-weight: bold;">+487.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+602.2</span> | **240** 個月 | 2006/11 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 南亞科 (2408) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 12,020<br/><span style="color: #FF7F7F;">(+444.90%)</span> | 2,206<br/><span style="color: #228B22;">(-30.20%)</span> | 3,162<br/><span style="color: #FF4500;">(+31.70%)</span> | 2,400<br/><span style="color: #90EE90;">(-65.40%)</span> |
 | **11月** | -- | 10,170<br/><span style="color: #FF7F7F;">(+364.90%)</span> | 2,187<br/><span style="color: #006400;">(-23.90%)</span> | 2,874<br/><span style="color: #8B0000;">(+3.71%)</span> | 2,771<br/><span style="color: #90EE90;">(-61.80%)</span> |
-| **10月** | -- | 7,908<br/><span style="color: #FF7F7F;">(+262.40%)</span> | 2,182<br/><span style="color: #004225;">(-18.20%)</span> | 2,668<br/><span style="color: #002818;">(-4.10%)</span> | 2,782<br/><span style="color: #90EE90;">(-61.40%)</span> |
+| **10月** | 46,480<br/><span style="color: #FF7F7F;">(+487.70%)</span> | 7,908<br/><span style="color: #FF7F7F;">(+262.40%)</span> | 2,182<br/><span style="color: #004225;">(-18.20%)</span> | 2,668<br/><span style="color: #002818;">(-4.10%)</span> | 2,782<br/><span style="color: #90EE90;">(-61.40%)</span> |
 | **9月** | 45,090<br/><span style="color: #FF7F7F;">(+576.60%)</span> | 6,664<br/><span style="color: #FF7F7F;">(+157.80%)</span> | 2,585<br/><span style="color: #002818;">(-5.11%)</span> | 2,724<br/><span style="color: #004225;">(-15.00%)</span> | 3,206<br/><span style="color: #90EE90;">(-58.20%)</span> |
 | **8月** | 44,690<br/><span style="color: #FF7F7F;">(+560.80%)</span> | 6,763<br/><span style="color: #FF7F7F;">(+141.30%)</span> | 2,802<br/><span style="color: #8B0000;">(+8.82%)</span> | 2,575<br/><span style="color: #006400;">(-24.70%)</span> | 3,419<br/><span style="color: #90EE90;">(-58.40%)</span> |
 | **7月** | 43,870<br/><span style="color: #FF7F7F;">(+719.60%)</span> | 5,352<br/><span style="color: #FF7F7F;">(+95.00%)</span> | 2,745<br/><span style="color: #B22222;">(+12.60%)</span> | 2,437<br/><span style="color: #32CD32;">(-44.60%)</span> | 4,396<br/><span style="color: #32CD32;">(-44.70%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 南亞科 (2408) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **464.8** | <span style="color: #FF7F7F; font-weight: bold;">+487.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+602.2</span> | **454.5** | <span style="color: #FF7F7F; font-weight: bold;">537.0</span> | <span style="color: #FF7F7F; font-weight: bold;">510.0</span> |
 | **2026/09** | **450.9** | <span style="color: #FF7F7F; font-weight: bold;">+576.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+626.9</span> | **519** | <span style="color: #FF7F7F; font-weight: bold;">551.0</span> | <span style="color: #FF7F7F; font-weight: bold;">465.5</span> |
 | **2026/08** | **446.9** | <span style="color: #FF7F7F; font-weight: bold;">+560.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+638.2</span> | **543** | <span style="color: #FF7F7F; font-weight: bold;">569.0</span> | <span style="color: #FF7F7F; font-weight: bold;">374.5</span> |
 | **2026/07** | **438.7** | <span style="color: #FF7F7F; font-weight: bold;">+719.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+660.9</span> | **360.5** | <span style="color: #FF7F7F; font-weight: bold;">489.5</span> | <span style="color: #FF7F7F; font-weight: bold;">322.0</span> |
@@ -318,7 +319,6 @@ description: 月營收表 南亞科 (2408) - 自動產生
 | **2007/01** | **65.2** | <span style="color: #FF6347; font-weight: bold;">+42.9</span> | <span style="color: #FF6347; font-weight: bold;">+42.9</span> | **25.85** | <span style="color: #004225; font-weight: bold;">27.85</span> | <span style="color: #004225; font-weight: bold;">25.5</span> |
 | **2006/12** | **74.42** | <span style="color: #FF7F7F; font-weight: bold;">+60.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+50.9</span> | **26.9** | <span style="color: #004225; font-weight: bold;">27.1</span> | <span style="color: #004225; font-weight: bold;">25.5</span> |
 | **2006/11** | **73.12** | <span style="color: #FF7F7F; font-weight: bold;">+58.3</span> | <span style="color: #FF6347; font-weight: bold;">+49.9</span> | **26.4** | <span style="color: #004225; font-weight: bold;">27.2</span> | <span style="color: #004225; font-weight: bold;">23.2</span> |
-| **2006/10** | **75.75** | <span style="color: #FF7F7F; font-weight: bold;">+51</span> | <span style="color: #FF6347; font-weight: bold;">+49</span> | **23.5** | <span style="color: #004225; font-weight: bold;">24.15</span> | <span style="color: #004225; font-weight: bold;">21.8</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 南亞科 (2408) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -25,13 +25,13 @@ description: 月營收表 台積電 (2330) - 自動產生
     **:building_construction: 公司名稱**: 台積電  
     **:identification_card: 股票代號**: 2330  
     **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+54.6</span> | <span style="color: #FF6347; font-weight: bold;">+41.1</span> | **240** 個月 | 2006/10 至 2026/09 |
+| <span style="color: #FF7F7F; font-weight: bold;">+54.6</span> | <span style="color: #FF6347; font-weight: bold;">+41.1</span> | **239** 個月 | 2006/11 至 2026/09 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -318,7 +318,6 @@ description: 月營收表 台積電 (2330) - 自動產生
 | **2007/01** | **213.9** | N/A | N/A | **67.4** | <span style="color: #006400; font-weight: bold;">71.7</span> | <span style="color: #006400; font-weight: bold;">64.0</span> |
 | **2006/12** | **228.7** | N/A | N/A | **67.5** | <span style="color: #006400; font-weight: bold;">68.0</span> | <span style="color: #006400; font-weight: bold;">63.4</span> |
 | **2006/11** | **250.6** | N/A | N/A | **65.5** | <span style="color: #006400; font-weight: bold;">65.5</span> | <span style="color: #006400; font-weight: bold;">59.9</span> |
-| **2006/10** | **270.3** | N/A | N/A | **61** | <span style="color: #006400; font-weight: bold;">65.2</span> | <span style="color: #006400; font-weight: bold;">58.5</span> |
 
 </div>
 
@@ -414,7 +413,7 @@ description: 月營收表 台積電 (2330) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

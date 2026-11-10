@@ -24,14 +24,14 @@ description: 月營收表 鴻勁 (7769) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 鴻勁  
     **:identification_card: 股票代號**: 7769  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+100.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+93.9</span> | **27** 個月 | 2024/07 至 2026/09 |
+| <span style="color: #FF7F7F; font-weight: bold;">+78.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+92.1</span> | **28** 個月 | 2024/07 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 鴻勁 (7769) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 3,329<br/><span style="color: #FF7F7F;">(+74.50%)</span> | 1,907<br/><span style="color: #FF7F7F;">(+207.90%)</span> |
 | **11月** | -- | 3,025<br/><span style="color: #FF7F7F;">(+94.40%)</span> | 1,556<br/><span style="color: #FF7F7F;">(+358.00%)</span> |
-| **10月** | -- | 2,921<br/><span style="color: #FF7F7F;">(+95.20%)</span> | 1,497<br/><span style="color: #FF7F7F;">(+275.70%)</span> |
+| **10月** | 5,223<br/><span style="color: #FF7F7F;">(+78.80%)</span> | 2,921<br/><span style="color: #FF7F7F;">(+95.20%)</span> | 1,497<br/><span style="color: #FF7F7F;">(+275.70%)</span> |
 | **9月** | 5,729<br/><span style="color: #FF7F7F;">(+100.20%)</span> | 2,862<br/><span style="color: #FF7F7F;">(+131.20%)</span> | 1,237<br/><span style="color: #FF7F7F;">(+134.80%)</span> |
 | **8月** | 5,219<br/><span style="color: #FF7F7F;">(+91.60%)</span> | 2,724<br/><span style="color: #FF7F7F;">(+145.90%)</span> | 1,108<br/><span style="color: #FF7F7F;">(+59.80%)</span> |
 | **7月** | 5,246<br/><span style="color: #FF7F7F;">(+100.80%)</span> | 2,612<br/><span style="color: #FF7F7F;">(+112.40%)</span> | 1,230<br/><span style="color: #FF7F7F;">(+65.90%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 鴻勁 (7769) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **52.23** | <span style="color: #FF7F7F; font-weight: bold;">+78.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+92.1</span> | **4950** | <span style="color: #8B0000; font-weight: bold;">6515.0</span> | <span style="color: #B22222; font-weight: bold;">5435.0</span> |
 | **2026/09** | **57.29** | <span style="color: #FF7F7F; font-weight: bold;">+100.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+93.9</span> | **5505** | <span style="color: #B22222; font-weight: bold;">7160.0</span> | <span style="color: #B22222; font-weight: bold;">5380.0</span> |
 | **2026/08** | **52.19** | <span style="color: #FF7F7F; font-weight: bold;">+91.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+92.9</span> | **5860** | <span style="color: #B22222; font-weight: bold;">6960.0</span> | <span style="color: #DC143C; font-weight: bold;">5845.0</span> |
 | **2026/07** | **52.46** | <span style="color: #FF7F7F; font-weight: bold;">+100.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+93.2</span> | **6180** | <span style="color: #B22222; font-weight: bold;">7115.0</span> | <span style="color: #B22222; font-weight: bold;">5060.0</span> |
@@ -201,7 +202,7 @@ description: 月營收表 鴻勁 (7769) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

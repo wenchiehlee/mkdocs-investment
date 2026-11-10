@@ -19,16 +19,16 @@ description: 融資餘額報告 昕奇雲端 (7747) - 自動產生
 !!! info "基本資訊"
     **🏗️ 名稱**: 昕奇雲端
     **🪪 代號**: 7747
-    **📅 分析期間**: 2026-04-30 ~ 2026-10-22 (共 241 個交易日)
-    **🕒 最新資料**: 2026-10-22
-    **🕒 更新時間**: 2026-11-10 00:46:10 CST
+    **📅 分析期間**: 2026-05-15 ~ 2026-11-09 (共 240 個交易日)
+    **🕒 最新資料**: 2026-11-09
+    **🕒 更新時間**: 2026-11-10 13:10:50 CST
 
 ## 💰 融資餘額現況
 
 | 📊 指標 | 🔢 數值 | 🚦 狀態 |
 |:------------:|:----------:|:-------------------:|
 | **最新融資餘額** | nan 億元 (nan 張) | - |
-| **最新收盤價** | 109.00 元 | - |
+| **最新收盤價** | 107.00 元 | - |
 | **市值** | 34 億元 | - |
 | **融資餘額/市值** | nan% | 🔴 過熱 |
 | **日變化 (DoD)** | +nan 億元 (+0.00%) | ➡️ |
@@ -73,6 +73,116 @@ description: 融資餘額報告 昕奇雲端 (7747) - 自動產生
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>2026-11-09</td>
+<td>107.00</td>
+<td>🔺 +3.00</td>
+<td>+2.88%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-11-06</td>
+<td>104.00</td>
+<td>🔻 -3.00</td>
+<td>-2.80%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-11-05</td>
+<td>107.00</td>
+<td>🔻 -2.00</td>
+<td>-1.83%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-11-04</td>
+<td>109.00</td>
+<td>➖ +0.00</td>
+<td>+0.00%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-11-03</td>
+<td>109.00</td>
+<td>➖ +0.00</td>
+<td>+0.00%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-11-02</td>
+<td>109.00</td>
+<td>🔻 -0.50</td>
+<td>-0.46%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-10-30</td>
+<td>109.50</td>
+<td>🔺 +0.50</td>
+<td>+0.46%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-10-29</td>
+<td>109.00</td>
+<td>🔻 -1.00</td>
+<td>-0.91%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-10-28</td>
+<td>110.00</td>
+<td>🔺 +2.00</td>
+<td>+1.85%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-10-27</td>
+<td>108.00</td>
+<td>🔻 -1.00</td>
+<td>-0.92%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
 <tr>
 <td>2026-10-22</td>
 <td>109.00</td>
@@ -287,116 +397,6 @@ description: 融資餘額報告 昕奇雲端 (7747) - 自動產生
 <td>114.00</td>
 <td>🔺 +1.00</td>
 <td>+0.88%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-21</td>
-<td>113.00</td>
-<td>🔻 -1.00</td>
-<td>-0.88%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-18</td>
-<td>114.00</td>
-<td>🔺 +2.00</td>
-<td>+1.79%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-17</td>
-<td>112.50</td>
-<td>➖ +0.00</td>
-<td>+0.00%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-16</td>
-<td>112.50</td>
-<td>🔻 -1.00</td>
-<td>-0.88%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-15</td>
-<td>113.50</td>
-<td>➖ +0.00</td>
-<td>+0.00%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-14</td>
-<td>113.50</td>
-<td>🔺 +1.00</td>
-<td>+0.89%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-11</td>
-<td>112.50</td>
-<td>🔻 -0.50</td>
-<td>-0.44%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-10</td>
-<td>113.00</td>
-<td>🔺 +1.00</td>
-<td>+0.89%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-09</td>
-<td>112.00</td>
-<td>🔻 -1.00</td>
-<td>-0.88%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-08</td>
-<td>114.00</td>
-<td>➖ +0.00</td>
-<td>+0.00%</td>
 <td>nan</td>
 <td>nan</td>
 <td>➡️ +nan</td>

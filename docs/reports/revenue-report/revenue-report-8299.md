@@ -24,14 +24,14 @@ description: 月營收表 群聯 (8299) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 群聯  
     **:identification_card: 股票代號**: 8299  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+370.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+290.9</span> | **240** 個月 | 2006/10 至 2026/09 |
+| <span style="color: #FF7F7F; font-weight: bold;">+346.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+297.8</span> | **240** 個月 | 2006/11 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 群聯 (8299) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 8,712<br/><span style="color: #FF7F7F;">(+92.70%)</span> | 4,521<br/><span style="color: #004225;">(-12.70%)</span> | 5,182<br/><span style="color: #DC143C;">(+29.50%)</span> | 4,002<br/><span style="color: #004225;">(-19.80%)</span> |
 | **11月** | -- | 7,022<br/><span style="color: #FF7F7F;">(+62.00%)</span> | 4,334<br/><span style="color: #004225;">(-19.80%)</span> | 5,407<br/><span style="color: #FF4500;">(+32.40%)</span> | 4,082<br/><span style="color: #006400;">(-29.60%)</span> |
-| **10月** | -- | 7,065<br/><span style="color: #FF7F7F;">(+90.10%)</span> | 3,717<br/><span style="color: #006400;">(-27.90%)</span> | 5,159<br/><span style="color: #DC143C;">(+22.60%)</span> | 4,206<br/><span style="color: #228B22;">(-30.30%)</span> |
+| **10月** | 31,530<br/><span style="color: #FF7F7F;">(+346.30%)</span> | 7,065<br/><span style="color: #FF7F7F;">(+90.10%)</span> | 3,717<br/><span style="color: #006400;">(-27.90%)</span> | 5,159<br/><span style="color: #DC143C;">(+22.60%)</span> | 4,206<br/><span style="color: #228B22;">(-30.30%)</span> |
 | **9月** | 30,639<br/><span style="color: #FF7F7F;">(+370.30%)</span> | 6,515<br/><span style="color: #FF6347;">(+47.00%)</span> | 4,431<br/><span style="color: #004225;">(-11.40%)</span> | 5,004<br/><span style="color: #8B0000;">(+4.05%)</span> | 4,809<br/><span style="color: #004225;">(-16.20%)</span> |
 | **8月** | 28,280<br/><span style="color: #FF7F7F;">(+376.50%)</span> | 5,934<br/><span style="color: #DC143C;">(+23.50%)</span> | 4,806<br/><span style="color: #DC143C;">(+20.40%)</span> | 3,990<br/><span style="color: #002818;">(-9.78%)</span> | 4,423<br/><span style="color: #006400;">(-22.50%)</span> |
 | **7月** | 27,160<br/><span style="color: #FF7F7F;">(+377.60%)</span> | 5,688<br/><span style="color: #DC143C;">(+20.80%)</span> | 4,706<br/><span style="color: #FF4500;">(+38.60%)</span> | 3,394<br/><span style="color: #228B22;">(-36.50%)</span> | 5,342<br/><span style="color: #002818;">(-2.55%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 群聯 (8299) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **315.3** | <span style="color: #FF7F7F; font-weight: bold;">+346.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+297.8</span> | **1930** | <span style="color: #FF6347; font-weight: bold;">2165.0</span> | <span style="color: #FF6347; font-weight: bold;">2030.0</span> |
 | **2026/09** | **306.4** | <span style="color: #FF7F7F; font-weight: bold;">+370.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+290.9</span> | **2150** | <span style="color: #FF6347; font-weight: bold;">2350.0</span> | <span style="color: #FF6347; font-weight: bold;">1900.0</span> |
 | **2026/08** | **282.8** | <span style="color: #FF7F7F; font-weight: bold;">+376.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+279</span> | **2165** | <span style="color: #FF6347; font-weight: bold;">2325.0</span> | <span style="color: #FF6347; font-weight: bold;">1670.0</span> |
 | **2026/07** | **271.6** | <span style="color: #FF7F7F; font-weight: bold;">+377.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+263.5</span> | **1640** | <span style="color: #FF6347; font-weight: bold;">2420.0</span> | <span style="color: #FF4500; font-weight: bold;">1445.0</span> |
@@ -318,7 +319,6 @@ description: 月營收表 群聯 (8299) - 自動產生
 | **2007/01** | **14.13** | <span style="color: #FF7F7F; font-weight: bold;">+135.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+135.6</span> | **302** | <span style="color: #002818; font-weight: bold;">355.0</span> | <span style="color: #004225; font-weight: bold;">268.0</span> |
 | **2006/12** | **14.59** | <span style="color: #FF7F7F; font-weight: bold;">+95.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+97.4</span> | **292.5** | <span style="color: #004225; font-weight: bold;">301.0</span> | <span style="color: #004225; font-weight: bold;">219.5</span> |
 | **2006/11** | **17.63** | <span style="color: #FF7F7F; font-weight: bold;">+120.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+97.7</span> | **232** | <span style="color: #004225; font-weight: bold;">260.0</span> | <span style="color: #006400; font-weight: bold;">170.5</span> |
-| **2006/10** | **17.27** | <span style="color: #FF7F7F; font-weight: bold;">+159.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+93.8</span> | **172** | <span style="color: #006400; font-weight: bold;">185.5</span> | <span style="color: #006400; font-weight: bold;">157.5</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 群聯 (8299) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

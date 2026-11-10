@@ -24,14 +24,14 @@ description: 月營收表 世界 (5347) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 世界  
     **:identification_card: 股票代號**: 5347  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+15.5</span> | <span style="color: #B22222; font-weight: bold;">+18</span> | **240** 個月 | 2006/10 至 2026/09 |
+| <span style="color: #DC143C; font-weight: bold;">+20.5</span> | <span style="color: #B22222; font-weight: bold;">+18.2</span> | **240** 個月 | 2006/11 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 世界 (5347) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 4,930<br/><span style="color: #B22222;">(+14.60%)</span> | 4,303<br/><span style="color: #DC143C;">(+22.60%)</span> | 3,510<br/><span style="color: #DC143C;">(+24.60%)</span> | 2,817<br/><span style="color: #228B22;">(-38.80%)</span> |
 | **11月** | -- | 3,754<br/><span style="color: #8B0000;">(+8.63%)</span> | 3,457<br/><span style="color: #B22222;">(+18.30%)</span> | 2,922<br/><span style="color: #002818;">(-8.72%)</span> | 3,201<br/><span style="color: #006400;">(-26.70%)</span> |
-| **10月** | -- | 3,909<br/><span style="color: #8B0000;">(+3.06%)</span> | 3,793<br/><span style="color: #B22222;">(+17.00%)</span> | 3,243<br/><span style="color: #002818;">(-8.79%)</span> | 3,554<br/><span style="color: #002818;">(-5.59%)</span> |
+| **10月** | 4,711<br/><span style="color: #DC143C;">(+20.50%)</span> | 3,909<br/><span style="color: #8B0000;">(+3.06%)</span> | 3,793<br/><span style="color: #B22222;">(+17.00%)</span> | 3,243<br/><span style="color: #002818;">(-8.79%)</span> | 3,554<br/><span style="color: #002818;">(-5.59%)</span> |
 | **9月** | 5,904<br/><span style="color: #B22222;">(+15.50%)</span> | 5,111<br/><span style="color: #B22222;">(+10.80%)</span> | 4,614<br/><span style="color: #FF4500;">(+34.00%)</span> | 3,444<br/><span style="color: #002818;">(-6.75%)</span> | 3,693<br/><span style="color: #004225;">(-11.50%)</span> |
 | **8月** | 5,093<br/><span style="color: #FF6347;">(+40.50%)</span> | 3,625<br/><span style="color: #002818;">(-0.21%)</span> | 3,633<br/><span style="color: #8B0000;">(+3.31%)</span> | 3,517<br/><span style="color: #006400;">(-29.30%)</span> | 4,972<br/><span style="color: #DC143C;">(+23.40%)</span> |
 | **7月** | 4,706<br/><span style="color: #FF4500;">(+30.20%)</span> | 3,613<br/><span style="color: #8B0000;">(+1.57%)</span> | 3,557<br/><span style="color: #002818;">(-1.11%)</span> | 3,597<br/><span style="color: #006400;">(-22.80%)</span> | 4,662<br/><span style="color: #DC143C;">(+26.80%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 世界 (5347) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **47.11** | <span style="color: #DC143C; font-weight: bold;">+20.5</span> | <span style="color: #B22222; font-weight: bold;">+18.2</span> | **144** | <span style="color: #FF6347; font-weight: bold;">195.0</span> | <span style="color: #FF7F7F; font-weight: bold;">178.5</span> |
 | **2026/09** | **59.04** | <span style="color: #B22222; font-weight: bold;">+15.5</span> | <span style="color: #B22222; font-weight: bold;">+18</span> | **181** | <span style="color: #FF6347; font-weight: bold;">185.0</span> | <span style="color: #FF6347; font-weight: bold;">147.0</span> |
 | **2026/08** | **50.93** | <span style="color: #FF6347; font-weight: bold;">+40.5</span> | <span style="color: #B22222; font-weight: bold;">+18.4</span> | **151.5** | <span style="color: #FF4500; font-weight: bold;">168.0</span> | <span style="color: #FF6347; font-weight: bold;">142.0</span> |
 | **2026/07** | **47.06** | <span style="color: #FF4500; font-weight: bold;">+30.2</span> | <span style="color: #B22222; font-weight: bold;">+15.5</span> | **151.5** | <span style="color: #FF6347; font-weight: bold;">223.0</span> | <span style="color: #FF4500; font-weight: bold;">131.0</span> |
@@ -318,7 +319,6 @@ description: 月營收表 世界 (5347) - 自動產生
 | **2007/01** | **-** | N/A | N/A | **24.5** | <span style="color: #006400; font-weight: bold;">25.8</span> | <span style="color: #004225; font-weight: bold;">22.75</span> |
 | **2006/12** | **-** | N/A | N/A | **24.45** | <span style="color: #006400; font-weight: bold;">24.7</span> | <span style="color: #004225; font-weight: bold;">22.3</span> |
 | **2006/11** | **-** | N/A | N/A | **23.25** | <span style="color: #006400; font-weight: bold;">24.7</span> | <span style="color: #006400; font-weight: bold;">21.3</span> |
-| **2006/10** | **-** | N/A | N/A | **22.3** | <span style="color: #006400; font-weight: bold;">23.7</span> | <span style="color: #006400; font-weight: bold;">20.75</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 世界 (5347) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -24,14 +24,14 @@ description: 月營收表 中保科 (9917) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 中保科  
     **:identification_card: 股票代號**: 9917  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+2.18</span> | <span style="color: #8B0000; font-weight: bold;">+2.36</span> | **240** 個月 | 2006/10 至 2026/09 |
+| <span style="color: #8B0000; font-weight: bold;">+2.18</span> | <span style="color: #8B0000; font-weight: bold;">+2.34</span> | **240** 個月 | 2006/11 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 中保科 (9917) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 1,721<br/><span style="color: #8B0000;">(+0.09%)</span> | 1,719<br/><span style="color: #B22222;">(+14.50%)</span> | 1,502<br/><span style="color: #8B0000;">(+8.39%)</span> | 1,385<br/><span style="color: #8B0000;">(+1.59%)</span> |
 | **11月** | -- | 1,661<br/><span style="color: #8B0000;">(+6.21%)</span> | 1,564<br/><span style="color: #8B0000;">(+4.73%)</span> | 1,493<br/><span style="color: #8B0000;">(+9.92%)</span> | 1,358<br/><span style="color: #B22222;">(+13.60%)</span> |
-| **10月** | -- | 1,540<br/><span style="color: #8B0000;">(+3.61%)</span> | 1,486<br/><span style="color: #8B0000;">(+2.38%)</span> | 1,451<br/><span style="color: #B22222;">(+13.70%)</span> | 1,277<br/><span style="color: #8B0000;">(+9.33%)</span> |
+| **10月** | 1,573<br/><span style="color: #8B0000;">(+2.18%)</span> | 1,540<br/><span style="color: #8B0000;">(+3.61%)</span> | 1,486<br/><span style="color: #8B0000;">(+2.38%)</span> | 1,451<br/><span style="color: #B22222;">(+13.70%)</span> | 1,277<br/><span style="color: #8B0000;">(+9.33%)</span> |
 | **9月** | 1,622<br/><span style="color: #8B0000;">(+2.18%)</span> | 1,587<br/><span style="color: #8B0000;">(+5.24%)</span> | 1,508<br/><span style="color: #8B0000;">(+6.81%)</span> | 1,412<br/><span style="color: #B22222;">(+12.60%)</span> | 1,254<br/><span style="color: #8B0000;">(+7.46%)</span> |
 | **8月** | 1,636<br/><span style="color: #8B0000;">(+4.40%)</span> | 1,567<br/><span style="color: #8B0000;">(+6.31%)</span> | 1,474<br/><span style="color: #8B0000;">(+2.03%)</span> | 1,444<br/><span style="color: #B22222;">(+11.10%)</span> | 1,301<br/><span style="color: #B22222;">(+15.40%)</span> |
 | **7月** | 1,618<br/><span style="color: #8B0000;">(+4.93%)</span> | 1,542<br/><span style="color: #8B0000;">(+3.73%)</span> | 1,486<br/><span style="color: #8B0000;">(+3.83%)</span> | 1,431<br/><span style="color: #B22222;">(+14.80%)</span> | 1,246<br/><span style="color: #B22222;">(+11.10%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 中保科 (9917) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **15.73** | <span style="color: #8B0000; font-weight: bold;">+2.18</span> | <span style="color: #8B0000; font-weight: bold;">+2.34</span> | **108** | <span style="color: #B22222; font-weight: bold;">107.5</span> | <span style="color: #DC143C; font-weight: bold;">105.5</span> |
 | **2026/09** | **16.22** | <span style="color: #8B0000; font-weight: bold;">+2.18</span> | <span style="color: #8B0000; font-weight: bold;">+2.36</span> | **105.5** | <span style="color: #DC143C; font-weight: bold;">108.5</span> | <span style="color: #DC143C; font-weight: bold;">105.0</span> |
 | **2026/08** | **16.36** | <span style="color: #8B0000; font-weight: bold;">+4.4</span> | <span style="color: #8B0000; font-weight: bold;">+2.38</span> | **106** | <span style="color: #DC143C; font-weight: bold;">111.5</span> | <span style="color: #DC143C; font-weight: bold;">105.0</span> |
 | **2026/07** | **16.18** | <span style="color: #8B0000; font-weight: bold;">+4.93</span> | <span style="color: #8B0000; font-weight: bold;">+2.09</span> | **109** | <span style="color: #DC143C; font-weight: bold;">112.5</span> | <span style="color: #DC143C; font-weight: bold;">105.0</span> |
@@ -318,7 +319,6 @@ description: 月營收表 中保科 (9917) - 自動產生
 | **2007/01** | **-** | N/A | N/A | **56.5** | <span style="color: #004225; font-weight: bold;">70.0</span> | <span style="color: #004225; font-weight: bold;">54.8</span> |
 | **2006/12** | **-** | N/A | N/A | **58.9** | <span style="color: #004225; font-weight: bold;">60.9</span> | <span style="color: #006400; font-weight: bold;">53.8</span> |
 | **2006/11** | **-** | N/A | N/A | **55.1** | <span style="color: #006400; font-weight: bold;">56.7</span> | <span style="color: #006400; font-weight: bold;">51.9</span> |
-| **2006/10** | **-** | N/A | N/A | **52.4** | <span style="color: #006400; font-weight: bold;">55.8</span> | <span style="color: #006400; font-weight: bold;">51.0</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 中保科 (9917) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -24,14 +24,14 @@ description: 月營收表 新應材 (4749) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 新應材  
     **:identification_card: 股票代號**: 4749  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+11.8</span> | <span style="color: #B22222; font-weight: bold;">+19.9</span> | **144** 個月 | 2009/08 至 2026/09 |
+| <span style="color: #DC143C; font-weight: bold;">+24.4</span> | <span style="color: #DC143C; font-weight: bold;">+20.3</span> | **145** 個月 | 2009/08 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 新應材 (4749) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 361<br/><span style="color: #B22222;">(+11.00%)</span> | 325<br/><span style="color: #FF6347;">(+41.10%)</span> | 229<br/><span style="color: #8B0000;">(+9.38%)</span> | 210<br/><span style="color: #FF6347;">(+43.80%)</span> |
 | **11月** | -- | 366<br/><span style="color: #B22222;">(+15.50%)</span> | 316<br/><span style="color: #FF7F7F;">(+62.20%)</span> | 195<br/><span style="color: #004225;">(-19.00%)</span> | 241<br/><span style="color: #FF7F7F;">(+63.30%)</span> |
-| **10月** | -- | 358<br/><span style="color: #FF4500;">(+30.80%)</span> | 274<br/><span style="color: #FF7F7F;">(+67.20%)</span> | 164<br/><span style="color: #006400;">(-25.50%)</span> | 220<br/><span style="color: #FF7F7F;">(+62.40%)</span> |
+| **10月** | 446<br/><span style="color: #DC143C;">(+24.40%)</span> | 358<br/><span style="color: #FF4500;">(+30.80%)</span> | 274<br/><span style="color: #FF7F7F;">(+67.20%)</span> | 164<br/><span style="color: #006400;">(-25.50%)</span> | 220<br/><span style="color: #FF7F7F;">(+62.40%)</span> |
 | **9月** | 430<br/><span style="color: #B22222;">(+11.80%)</span> | 385<br/><span style="color: #FF4500;">(+32.30%)</span> | 291<br/><span style="color: #FF7F7F;">(+55.90%)</span> | 187<br/><span style="color: #002818;">(-6.88%)</span> | 200<br/><span style="color: #FF6347;">(+47.00%)</span> |
 | **8月** | 484<br/><span style="color: #FF6347;">(+42.00%)</span> | 342<br/><span style="color: #DC143C;">(+22.50%)</span> | 279<br/><span style="color: #FF6347;">(+48.60%)</span> | 188<br/><span style="color: #002818;">(-8.16%)</span> | 204<br/><span style="color: #FF4500;">(+39.60%)</span> |
 | **7月** | 415<br/><span style="color: #DC143C;">(+22.50%)</span> | 339<br/><span style="color: #B22222;">(+18.10%)</span> | 287<br/><span style="color: #FF6347;">(+47.10%)</span> | 195<br/><span style="color: #002818;">(-8.78%)</span> | 214<br/><span style="color: #FF4500;">(+38.50%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 新應材 (4749) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **4.46** | <span style="color: #DC143C; font-weight: bold;">+24.4</span> | <span style="color: #DC143C; font-weight: bold;">+20.3</span> | **678** | <span style="color: #002818; font-weight: bold;">812.0</span> | <span style="color: #8B0000; font-weight: bold;">735.0</span> |
 | **2026/09** | **4.31** | <span style="color: #B22222; font-weight: bold;">+11.8</span> | <span style="color: #B22222; font-weight: bold;">+19.9</span> | **766** | <span style="color: #002818; font-weight: bold;">825.0</span> | <span style="color: #8B0000; font-weight: bold;">701.0</span> |
 | **2026/08** | **4.85** | <span style="color: #FF6347; font-weight: bold;">+42</span> | <span style="color: #DC143C; font-weight: bold;">+21</span> | **769** | <span style="color: #002818; font-weight: bold;">832.0</span> | <span style="color: #8B0000; font-weight: bold;">719.0</span> |
 | **2026/07** | **4.15** | <span style="color: #DC143C; font-weight: bold;">+22.5</span> | <span style="color: #B22222; font-weight: bold;">+18.1</span> | **722** | <span style="color: #B22222; font-weight: bold;">965.0</span> | <span style="color: #002818; font-weight: bold;">647.0</span> |
@@ -318,7 +319,7 @@ description: 月營收表 新應材 (4749) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

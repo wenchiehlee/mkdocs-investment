@@ -25,13 +25,13 @@ description: 月營收表 國泰金 (2882) - 自動產生
     **:building_construction: 公司名稱**: 國泰金  
     **:identification_card: 股票代號**: 2882  
     **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #32CD32; font-weight: bold;">-47.4</span> | <span style="color: #FF4500; font-weight: bold;">+37.6</span> | **240** 個月 | 2006/10 至 2026/09 |
+| <span style="color: #32CD32; font-weight: bold;">-47.4</span> | <span style="color: #FF4500; font-weight: bold;">+37.6</span> | **239** 個月 | 2006/11 至 2026/09 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -318,7 +318,6 @@ description: 月營收表 國泰金 (2882) - 自動產生
 | **2007/01** | **32.29** | <span style="color: #32CD32; font-weight: bold;">-49.7</span> | <span style="color: #32CD32; font-weight: bold;">-49.7</span> | **73** | <span style="color: #DC143C; font-weight: bold;">78.6</span> | <span style="color: #DC143C; font-weight: bold;">71.1</span> |
 | **2006/12** | **-57.41** | <span style="color: #004225; font-weight: bold;">-17.7</span> | <span style="color: #32CD32; font-weight: bold;">-43.7</span> | **74** | <span style="color: #DC143C; font-weight: bold;">77.0</span> | <span style="color: #DC143C; font-weight: bold;">68.5</span> |
 | **2006/11** | **-7.8** | <span style="color: #90EE90; font-weight: bold;">-209</span> | <span style="color: #228B22; font-weight: bold;">-37.7</span> | **73** | <span style="color: #B22222; font-weight: bold;">73.4</span> | <span style="color: #B22222; font-weight: bold;">63.5</span> |
-| **2006/10** | **46.66** | <span style="color: #FF7F7F; font-weight: bold;">+323.4</span> | <span style="color: #228B22; font-weight: bold;">-33.5</span> | **64.5** | <span style="color: #B22222; font-weight: bold;">67.9</span> | <span style="color: #B22222; font-weight: bold;">63.9</span> |
 
 </div>
 
@@ -414,7 +413,7 @@ description: 月營收表 國泰金 (2882) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -25,13 +25,13 @@ description: 月營收表 中再保 (2851) - 自動產生
     **:building_construction: 公司名稱**: 中再保  
     **:identification_card: 股票代號**: 2851  
     **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #004225; font-weight: bold;">-14.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+61.6</span> | **240** 個月 | 2006/10 至 2026/09 |
+| <span style="color: #004225; font-weight: bold;">-14.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+61.6</span> | **239** 個月 | 2006/11 至 2026/09 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -318,7 +318,6 @@ description: 月營收表 中再保 (2851) - 自動產生
 | **2007/01** | **4.28** | <span style="color: #8B0000; font-weight: bold;">+7.29</span> | <span style="color: #8B0000; font-weight: bold;">+7.29</span> | **12.55** | <span style="color: #006400; font-weight: bold;">13.6</span> | <span style="color: #006400; font-weight: bold;">12.5</span> |
 | **2006/12** | **17.68** | <span style="color: #004225; font-weight: bold;">-10.1</span> | <span style="color: #8B0000; font-weight: bold;">+4.67</span> | **12.75** | <span style="color: #006400; font-weight: bold;">13.0</span> | <span style="color: #006400; font-weight: bold;">12.45</span> |
 | **2006/11** | **11.84** | <span style="color: #B22222; font-weight: bold;">+17.8</span> | <span style="color: #8B0000; font-weight: bold;">+7.2</span> | **12.5** | <span style="color: #006400; font-weight: bold;">12.5</span> | <span style="color: #006400; font-weight: bold;">11.9</span> |
-| **2006/10** | **4.14** | <span style="color: #DC143C; font-weight: bold;">+22.1</span> | <span style="color: #8B0000; font-weight: bold;">+6.19</span> | **11.95** | <span style="color: #228B22; font-weight: bold;">12.1</span> | <span style="color: #006400; font-weight: bold;">11.7</span> |
 
 </div>
 
@@ -414,7 +413,7 @@ description: 月營收表 中再保 (2851) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

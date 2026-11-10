@@ -24,14 +24,14 @@ description: 月營收表 智原 (3035) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 智原  
     **:identification_card: 股票代號**: 3035  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+4.41</span> | <span style="color: #228B22; font-weight: bold;">-37</span> | **240** 個月 | 2006/10 至 2026/09 |
+| <span style="color: #FF6347; font-weight: bold;">+48.9</span> | <span style="color: #228B22; font-weight: bold;">-32.5</span> | **240** 個月 | 2006/11 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 智原 (3035) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 958<br/><span style="color: #004225;">(-13.10%)</span> | 1,102<br/><span style="color: #B22222;">(+14.30%)</span> | 964<br/><span style="color: #004225;">(-11.30%)</span> | 1,087<br/><span style="color: #B22222;">(+16.40%)</span> |
 | **11月** | -- | 1,016<br/><span style="color: #B22222;">(+10.40%)</span> | 921<br/><span style="color: #002818;">(-1.31%)</span> | 933<br/><span style="color: #004225;">(-12.20%)</span> | 1,063<br/><span style="color: #DC143C;">(+20.10%)</span> |
-| **10月** | -- | 834<br/><span style="color: #004225;">(-10.40%)</span> | 930<br/><span style="color: #8B0000;">(+0.33%)</span> | 927<br/><span style="color: #004225;">(-15.70%)</span> | 1,100<br/><span style="color: #FF4500;">(+33.20%)</span> |
+| **10月** | 1,241<br/><span style="color: #FF6347;">(+48.90%)</span> | 834<br/><span style="color: #004225;">(-10.40%)</span> | 930<br/><span style="color: #8B0000;">(+0.33%)</span> | 927<br/><span style="color: #004225;">(-15.70%)</span> | 1,100<br/><span style="color: #FF4500;">(+33.20%)</span> |
 | **9月** | 1,418<br/><span style="color: #8B0000;">(+4.41%)</span> | 1,358<br/><span style="color: #FF6347;">(+44.10%)</span> | 943<br/><span style="color: #002818;">(-4.28%)</span> | 985<br/><span style="color: #002818;">(-7.71%)</span> | 1,067<br/><span style="color: #DC143C;">(+27.10%)</span> |
 | **8月** | 1,184<br/><span style="color: #DC143C;">(+29.90%)</span> | 911<br/><span style="color: #002818;">(-6.96%)</span> | 980<br/><span style="color: #002818;">(-1.03%)</span> | 990<br/><span style="color: #002818;">(-8.86%)</span> | 1,086<br/><span style="color: #FF6347;">(+48.50%)</span> |
 | **7月** | 1,062<br/><span style="color: #8B0000;">(+9.96%)</span> | 966<br/><span style="color: #8B0000;">(+0.42%)</span> | 961<br/><span style="color: #002818;">(-2.60%)</span> | 986<br/><span style="color: #002818;">(-9.41%)</span> | 1,090<br/><span style="color: #FF7F7F;">(+68.60%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 智原 (3035) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **12.41** | <span style="color: #FF6347; font-weight: bold;">+48.9</span> | <span style="color: #228B22; font-weight: bold;">-32.5</span> | **213.5** | <span style="color: #B22222; font-weight: bold;">223.5</span> | <span style="color: #B22222; font-weight: bold;">196.0</span> |
 | **2026/09** | **14.18** | <span style="color: #8B0000; font-weight: bold;">+4.41</span> | <span style="color: #228B22; font-weight: bold;">-37</span> | **210.5** | <span style="color: #B22222; font-weight: bold;">217.0</span> | <span style="color: #B22222; font-weight: bold;">165.0</span> |
 | **2026/08** | **11.84** | <span style="color: #DC143C; font-weight: bold;">+29.9</span> | <span style="color: #32CD32; font-weight: bold;">-41.1</span> | **175** | <span style="color: #8B0000; font-weight: bold;">184.5</span> | <span style="color: #B22222; font-weight: bold;">146.5</span> |
 | **2026/07** | **10.62** | <span style="color: #8B0000; font-weight: bold;">+9.96</span> | <span style="color: #32CD32; font-weight: bold;">-46.1</span> | **149.5** | <span style="color: #B22222; font-weight: bold;">225.0</span> | <span style="color: #B22222; font-weight: bold;">148.5</span> |
@@ -318,7 +319,6 @@ description: 月營收表 智原 (3035) - 自動產生
 | **2007/01** | **-** | N/A | N/A | **73.9** | <span style="color: #002818; font-weight: bold;">87.6</span> | <span style="color: #002818; font-weight: bold;">67.7</span> |
 | **2006/12** | **-** | N/A | N/A | **78.8** | <span style="color: #002818; font-weight: bold;">85.0</span> | <span style="color: #004225; font-weight: bold;">61.0</span> |
 | **2006/11** | **-** | N/A | N/A | **58.8** | <span style="color: #004225; font-weight: bold;">58.8</span> | <span style="color: #004225; font-weight: bold;">46.9</span> |
-| **2006/10** | **-** | N/A | N/A | **47.4** | <span style="color: #004225; font-weight: bold;">53.5</span> | <span style="color: #004225; font-weight: bold;">46.2</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 智原 (3035) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

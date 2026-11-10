@@ -24,14 +24,14 @@ description: 月營收表 智聯服務 (6751) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 智聯服務  
     **:identification_card: 股票代號**: 6751  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+158.4</span> | <span style="color: #002818; font-weight: bold;">-1.57</span> | **86** 個月 | 2019/08 至 2026/09 |
+| <span style="color: #FF7F7F; font-weight: bold;">+187.9</span> | <span style="color: #B22222; font-weight: bold;">+11.6</span> | **87** 個月 | 2019/08 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 智聯服務 (6751) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 139<br/><span style="color: #228B22;">(-33.80%)</span> | 210<br/><span style="color: #FF4500;">(+36.60%)</span> | 154<br/><span style="color: #B22222;">(+16.10%)</span> | 133<br/><span style="color: #8B0000;">(+3.54%)</span> |
 | **11月** | -- | 87<br/><span style="color: #228B22;">(-38.60%)</span> | 142<br/><span style="color: #002818;">(-2.65%)</span> | 146<br/><span style="color: #FF4500;">(+33.50%)</span> | 109<br/><span style="color: #8B0000;">(+6.51%)</span> |
-| **10月** | -- | 107<br/><span style="color: #32CD32;">(-42.70%)</span> | 186<br/><span style="color: #FF4500;">(+32.00%)</span> | 141<br/><span style="color: #002818;">(-5.46%)</span> | 149<br/><span style="color: #FF7F7F;">(+59.70%)</span> |
+| **10月** | 307<br/><span style="color: #FF7F7F;">(+187.90%)</span> | 107<br/><span style="color: #32CD32;">(-42.70%)</span> | 186<br/><span style="color: #FF4500;">(+32.00%)</span> | 141<br/><span style="color: #002818;">(-5.46%)</span> | 149<br/><span style="color: #FF7F7F;">(+59.70%)</span> |
 | **9月** | 265<br/><span style="color: #FF7F7F;">(+158.40%)</span> | 103<br/><span style="color: #006400;">(-29.90%)</span> | 146<br/><span style="color: #8B0000;">(+1.62%)</span> | 144<br/><span style="color: #B22222;">(+13.80%)</span> | 127<br/><span style="color: #8B0000;">(+6.09%)</span> |
 | **8月** | 142<br/><span style="color: #DC143C;">(+25.60%)</span> | 112<br/><span style="color: #002818;">(-9.38%)</span> | 124<br/><span style="color: #006400;">(-23.30%)</span> | 162<br/><span style="color: #FF7F7F;">(+83.70%)</span> | 88<br/><span style="color: #006400;">(-28.30%)</span> |
 | **7月** | 146<br/><span style="color: #004225;">(-17.70%)</span> | 177<br/><span style="color: #FF7F7F;">(+52.00%)</span> | 115<br/><span style="color: #006400;">(-24.50%)</span> | 154<br/><span style="color: #FF4500;">(+33.20%)</span> | 115<br/><span style="color: #DC143C;">(+20.90%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 智聯服務 (6751) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **3.07** | <span style="color: #FF7F7F; font-weight: bold;">+187.9</span> | <span style="color: #B22222; font-weight: bold;">+11.6</span> | **77.3** | <span style="color: #004225; font-weight: bold;">53.4</span> | <span style="color: #006400; font-weight: bold;">43.8</span> |
 | **2026/09** | **2.65** | <span style="color: #FF7F7F; font-weight: bold;">+158.4</span> | <span style="color: #002818; font-weight: bold;">-1.57</span> | **44.5** | <span style="color: #006400; font-weight: bold;">45.25</span> | <span style="color: #006400; font-weight: bold;">40.9</span> |
 | **2026/08** | **1.42** | <span style="color: #DC143C; font-weight: bold;">+25.6</span> | <span style="color: #004225; font-weight: bold;">-14</span> | **42.75** | <span style="color: #006400; font-weight: bold;">42.95</span> | <span style="color: #006400; font-weight: bold;">39.6</span> |
 | **2026/07** | **1.46** | <span style="color: #004225; font-weight: bold;">-17.7</span> | <span style="color: #004225; font-weight: bold;">-17.6</span> | **39.55** | <span style="color: #006400; font-weight: bold;">45.85</span> | <span style="color: #006400; font-weight: bold;">39.15</span> |
@@ -260,7 +261,7 @@ description: 月營收表 智聯服務 (6751) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

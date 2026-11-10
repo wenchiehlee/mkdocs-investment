@@ -24,14 +24,14 @@ description: 月營收表 宏碁智新 (7794) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 宏碁智新  
     **:identification_card: 股票代號**: 7794  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+11.2</span> | <span style="color: #FF4500; font-weight: bold;">+38.5</span> | **24** 個月 | 2024/10 至 2026/09 |
+| <span style="color: #FF4500; font-weight: bold;">+32</span> | <span style="color: #FF4500; font-weight: bold;">+37.8</span> | **25** 個月 | 2024/10 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 宏碁智新 (7794) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 89<br/><span style="color: #FF4500;">(+32.10%)</span> | 67<br/><span style="color: #FF7F7F;">(+87.70%)</span> |
 | **11月** | -- | 65<br/><span style="color: #002818;">(-5.43%)</span> | 69<br/><span style="color: #B22222;">(+12.50%)</span> |
-| **10月** | -- | 97<br/><span style="color: #DC143C;">(+25.30%)</span> | 77<br/><span style="color: #FF7F7F;">(+57.00%)</span> |
+| **10月** | 129<br/><span style="color: #FF4500;">(+32.00%)</span> | 97<br/><span style="color: #DC143C;">(+25.30%)</span> | 77<br/><span style="color: #FF7F7F;">(+57.00%)</span> |
 | **9月** | 119<br/><span style="color: #B22222;">(+11.20%)</span> | 107<br/><span style="color: #228B22;">(-30.10%)</span> | -- |
 | **8月** | 168<br/><span style="color: #FF7F7F;">(+102.80%)</span> | 82<br/><span style="color: #DC143C;">(+26.90%)</span> | -- |
 | **7月** | 136<br/><span style="color: #FF4500;">(+32.50%)</span> | 102<br/><span style="color: #FF4500;">(+35.30%)</span> | -- |
@@ -79,6 +79,7 @@ description: 月營收表 宏碁智新 (7794) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **1.29** | <span style="color: #FF4500; font-weight: bold;">+32</span> | <span style="color: #FF4500; font-weight: bold;">+37.8</span> | **28** | <span style="color: #006400; font-weight: bold;">30.5</span> | <span style="color: #8B0000; font-weight: bold;">29.05</span> |
 | **2026/09** | **1.19** | <span style="color: #B22222; font-weight: bold;">+11.2</span> | <span style="color: #FF4500; font-weight: bold;">+38.5</span> | **30.6** | <span style="color: #8B0000; font-weight: bold;">34.8</span> | <span style="color: #004225; font-weight: bold;">27.95</span> |
 | **2026/08** | **1.68** | <span style="color: #FF7F7F; font-weight: bold;">+102.8</span> | <span style="color: #FF6347; font-weight: bold;">+43.2</span> | **28.8** | <span style="color: #006400; font-weight: bold;">30.0</span> | <span style="color: #004225; font-weight: bold;">27.75</span> |
 | **2026/07** | **1.36** | <span style="color: #FF4500; font-weight: bold;">+32.5</span> | <span style="color: #FF4500; font-weight: bold;">+34.2</span> | **28.25** | <span style="color: #004225; font-weight: bold;">31.1</span> | <span style="color: #228B22; font-weight: bold;">26.9</span> |
@@ -198,7 +199,7 @@ description: 月營收表 宏碁智新 (7794) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

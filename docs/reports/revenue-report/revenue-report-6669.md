@@ -24,14 +24,14 @@ description: 月營收表 緯穎 (6669) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 緯穎  
     **:identification_card: 股票代號**: 6669  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+100</span> | <span style="color: #FF7F7F; font-weight: bold;">+50.3</span> | **108** 個月 | 2017/10 至 2026/09 |
+| <span style="color: #FF7F7F; font-weight: bold;">+80.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+54</span> | **109** 個月 | 2017/10 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 緯穎 (6669) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 104,300<br/><span style="color: #FF7F7F;">(+143.80%)</span> | 42,770<br/><span style="color: #FF7F7F;">(+111.50%)</span> | 20,220<br/><span style="color: #228B22;">(-33.70%)</span> | 30,520<br/><span style="color: #FF6347;">(+41.10%)</span> |
 | **11月** | -- | 96,890<br/><span style="color: #FF7F7F;">(+158.60%)</span> | 37,470<br/><span style="color: #FF7F7F;">(+93.30%)</span> | 19,390<br/><span style="color: #32CD32;">(-42.00%)</span> | 33,460<br/><span style="color: #FF7F7F;">(+62.80%)</span> |
-| **10月** | -- | 91,260<br/><span style="color: #FF7F7F;">(+157.90%)</span> | 35,380<br/><span style="color: #FF7F7F;">(+86.80%)</span> | 18,940<br/><span style="color: #004225;">(-19.30%)</span> | 23,470<br/><span style="color: #FF7F7F;">(+59.60%)</span> |
+| **10月** | 165,100<br/><span style="color: #FF7F7F;">(+80.90%)</span> | 91,260<br/><span style="color: #FF7F7F;">(+157.90%)</span> | 35,380<br/><span style="color: #FF7F7F;">(+86.80%)</span> | 18,940<br/><span style="color: #004225;">(-19.30%)</span> | 23,470<br/><span style="color: #FF7F7F;">(+59.60%)</span> |
 | **9月** | 172,600<br/><span style="color: #FF7F7F;">(+100.00%)</span> | 86,320<br/><span style="color: #FF7F7F;">(+150.20%)</span> | 34,500<br/><span style="color: #FF7F7F;">(+119.70%)</span> | 15,710<br/><span style="color: #90EE90;">(-50.10%)</span> | 31,480<br/><span style="color: #FF7F7F;">(+88.00%)</span> |
 | **8月** | 144,300<br/><span style="color: #FF7F7F;">(+50.40%)</span> | 95,980<br/><span style="color: #FF7F7F;">(+198.10%)</span> | 32,189<br/><span style="color: #FF7F7F;">(+65.50%)</span> | 19,450<br/><span style="color: #006400;">(-26.20%)</span> | 26,370<br/><span style="color: #FF7F7F;">(+83.70%)</span> |
 | **7月** | 117,700<br/><span style="color: #FF4500;">(+39.20%)</span> | 84,530<br/><span style="color: #FF7F7F;">(+171.60%)</span> | 31,120<br/><span style="color: #FF7F7F;">(+76.20%)</span> | 17,660<br/><span style="color: #004225;">(-19.10%)</span> | 21,820<br/><span style="color: #FF7F7F;">(+54.00%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 緯穎 (6669) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **1651** | <span style="color: #FF7F7F; font-weight: bold;">+80.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+54</span> | **1810** | <span style="color: #8B0000; font-weight: bold;">2335.0</span> | <span style="color: #8B0000; font-weight: bold;">2080.0</span> |
 | **2026/09** | **1726** | <span style="color: #FF7F7F; font-weight: bold;">+100</span> | <span style="color: #FF7F7F; font-weight: bold;">+50.3</span> | **2090** | <span style="color: #FF6347; font-weight: bold;">7800.0</span> | <span style="color: #8B0000; font-weight: bold;">2075.0</span> |
 | **2026/08** | **1443** | <span style="color: #FF7F7F; font-weight: bold;">+50.4</span> | <span style="color: #FF6347; font-weight: bold;">+42.8</span> | **7095** | <span style="color: #FF6347; font-weight: bold;">7360.0</span> | <span style="color: #FF6347; font-weight: bold;">5475.0</span> |
 | **2026/07** | **1177** | <span style="color: #FF4500; font-weight: bold;">+39.2</span> | <span style="color: #FF6347; font-weight: bold;">+41.3</span> | **5390** | <span style="color: #FF4500; font-weight: bold;">5835.0</span> | <span style="color: #FF6347; font-weight: bold;">4620.0</span> |
@@ -282,7 +283,7 @@ description: 月營收表 緯穎 (6669) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

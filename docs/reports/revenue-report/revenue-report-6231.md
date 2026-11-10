@@ -24,14 +24,14 @@ description: 月營收表 系微 (6231) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 系微  
     **:identification_card: 股票代號**: 6231  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF4500; font-weight: bold;">+31.6</span> | <span style="color: #B22222; font-weight: bold;">+12.3</span> | **240** 個月 | 2006/10 至 2026/09 |
+| <span style="color: #002818; font-weight: bold;">-2.25</span> | <span style="color: #B22222; font-weight: bold;">+11.1</span> | **240** 個月 | 2006/11 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 系微 (6231) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 198<br/><span style="color: #8B0000;">(+3.78%)</span> | 191<br/><span style="color: #B22222;">(+17.60%)</span> | 162<br/><span style="color: #B22222;">(+11.80%)</span> | 145<br/><span style="color: #8B0000;">(+1.06%)</span> |
 | **11月** | -- | 147<br/><span style="color: #DC143C;">(+23.90%)</span> | 119<br/><span style="color: #B22222;">(+12.90%)</span> | 105<br/><span style="color: #8B0000;">(+8.40%)</span> | 97<br/><span style="color: #004225;">(-16.30%)</span> |
-| **10月** | -- | 107<br/><span style="color: #002818;">(-9.64%)</span> | 118<br/><span style="color: #B22222;">(+14.40%)</span> | 103<br/><span style="color: #002818;">(-2.88%)</span> | 106<br/><span style="color: #004225;">(-13.40%)</span> |
+| **10月** | 104<br/><span style="color: #002818;">(-2.25%)</span> | 107<br/><span style="color: #002818;">(-9.64%)</span> | 118<br/><span style="color: #B22222;">(+14.40%)</span> | 103<br/><span style="color: #002818;">(-2.88%)</span> | 106<br/><span style="color: #004225;">(-13.40%)</span> |
 | **9月** | 246<br/><span style="color: #FF4500;">(+31.60%)</span> | 187<br/><span style="color: #002818;">(-5.43%)</span> | 197<br/><span style="color: #DC143C;">(+28.00%)</span> | 154<br/><span style="color: #8B0000;">(+6.51%)</span> | 145<br/><span style="color: #B22222;">(+17.10%)</span> |
 | **8月** | 140<br/><span style="color: #8B0000;">(+6.38%)</span> | 132<br/><span style="color: #DC143C;">(+21.00%)</span> | 109<br/><span style="color: #8B0000;">(+5.22%)</span> | 103<br/><span style="color: #002818;">(-3.55%)</span> | 107<br/><span style="color: #002818;">(-3.33%)</span> |
 | **7月** | 101<br/><span style="color: #002818;">(-6.76%)</span> | 108<br/><span style="color: #8B0000;">(+0.92%)</span> | 107<br/><span style="color: #8B0000;">(+7.92%)</span> | 99<br/><span style="color: #002818;">(-5.22%)</span> | 105<br/><span style="color: #002818;">(-3.90%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 系微 (6231) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **1.04** | <span style="color: #002818; font-weight: bold;">-2.25</span> | <span style="color: #B22222; font-weight: bold;">+11.1</span> | **224** | <span style="color: #B22222; font-weight: bold;">254.5</span> | <span style="color: #DC143C; font-weight: bold;">230.5</span> |
 | **2026/09** | **2.46** | <span style="color: #FF4500; font-weight: bold;">+31.6</span> | <span style="color: #B22222; font-weight: bold;">+12.3</span> | **235** | <span style="color: #B22222; font-weight: bold;">244.5</span> | <span style="color: #B22222; font-weight: bold;">204.0</span> |
 | **2026/08** | **1.4** | <span style="color: #8B0000; font-weight: bold;">+6.38</span> | <span style="color: #8B0000; font-weight: bold;">+8.87</span> | **217** | <span style="color: #B22222; font-weight: bold;">239.0</span> | <span style="color: #B22222; font-weight: bold;">205.0</span> |
 | **2026/07** | **1.01** | <span style="color: #002818; font-weight: bold;">-6.76</span> | <span style="color: #8B0000; font-weight: bold;">+9.23</span> | **207.5** | <span style="color: #DC143C; font-weight: bold;">293.5</span> | <span style="color: #B22222; font-weight: bold;">190.0</span> |
@@ -318,7 +319,6 @@ description: 月營收表 系微 (6231) - 自動產生
 | **2007/01** | **-** | N/A | N/A | **39** | <span style="color: #006400; font-weight: bold;">51.9</span> | <span style="color: #006400; font-weight: bold;">36.0</span> |
 | **2006/12** | **-** | N/A | N/A | **37.2** | <span style="color: #006400; font-weight: bold;">41.05</span> | <span style="color: #006400; font-weight: bold;">33.8</span> |
 | **2006/11** | **-** | N/A | N/A | **38.4** | <span style="color: #006400; font-weight: bold;">39.0</span> | <span style="color: #006400; font-weight: bold;">32.0</span> |
-| **2006/10** | **-** | N/A | N/A | **36.55** | <span style="color: #006400; font-weight: bold;">42.7</span> | <span style="color: #006400; font-weight: bold;">29.0</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 系微 (6231) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

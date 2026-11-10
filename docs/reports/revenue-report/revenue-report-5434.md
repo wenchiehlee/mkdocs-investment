@@ -24,14 +24,14 @@ description: 月營收表 崇越 (5434) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 崇越  
     **:identification_card: 股票代號**: 5434  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+26.4</span> | <span style="color: #DC143C; font-weight: bold;">+25.3</span> | **240** 個月 | 2006/10 至 2026/09 |
+| <span style="color: #FF7F7F; font-weight: bold;">+61.2</span> | <span style="color: #DC143C; font-weight: bold;">+28.6</span> | **240** 個月 | 2006/11 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 崇越 (5434) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 6,480<br/><span style="color: #B22222;">(+18.90%)</span> | 5,450<br/><span style="color: #FF4500;">(+38.80%)</span> | 3,928<br/><span style="color: #004225;">(-10.00%)</span> | 4,365<br/><span style="color: #8B0000;">(+2.14%)</span> |
 | **11月** | -- | 5,740<br/><span style="color: #8B0000;">(+9.99%)</span> | 5,219<br/><span style="color: #FF4500;">(+31.70%)</span> | 3,961<br/><span style="color: #004225;">(-10.10%)</span> | 4,409<br/><span style="color: #B22222;">(+17.10%)</span> |
-| **10月** | -- | 5,079<br/><span style="color: #002818;">(-3.03%)</span> | 5,238<br/><span style="color: #DC143C;">(+20.60%)</span> | 4,343<br/><span style="color: #002818;">(-5.65%)</span> | 4,603<br/><span style="color: #DC143C;">(+23.50%)</span> |
+| **10月** | 8,186<br/><span style="color: #FF7F7F;">(+61.20%)</span> | 5,079<br/><span style="color: #002818;">(-3.03%)</span> | 5,238<br/><span style="color: #DC143C;">(+20.60%)</span> | 4,343<br/><span style="color: #002818;">(-5.65%)</span> | 4,603<br/><span style="color: #DC143C;">(+23.50%)</span> |
 | **9月** | 7,701<br/><span style="color: #DC143C;">(+26.40%)</span> | 6,092<br/><span style="color: #B22222;">(+14.60%)</span> | 5,314<br/><span style="color: #DC143C;">(+26.20%)</span> | 4,211<br/><span style="color: #002818;">(-7.23%)</span> | 4,539<br/><span style="color: #DC143C;">(+21.90%)</span> |
 | **8月** | 7,792<br/><span style="color: #FF4500;">(+36.30%)</span> | 5,715<br/><span style="color: #8B0000;">(+7.74%)</span> | 5,304<br/><span style="color: #DC143C;">(+27.70%)</span> | 4,153<br/><span style="color: #004225;">(-10.30%)</span> | 4,632<br/><span style="color: #DC143C;">(+26.90%)</span> |
 | **7月** | 8,173<br/><span style="color: #FF6347;">(+42.60%)</span> | 5,731<br/><span style="color: #DC143C;">(+20.70%)</span> | 4,748<br/><span style="color: #B22222;">(+15.00%)</span> | 4,129<br/><span style="color: #004225;">(-10.70%)</span> | 4,622<br/><span style="color: #DC143C;">(+27.80%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 崇越 (5434) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **81.86** | <span style="color: #FF7F7F; font-weight: bold;">+61.2</span> | <span style="color: #DC143C; font-weight: bold;">+28.6</span> | **559** | <span style="color: #FF6347; font-weight: bold;">634.0</span> | <span style="color: #FF7F7F; font-weight: bold;">550.0</span> |
 | **2026/09** | **77.01** | <span style="color: #DC143C; font-weight: bold;">+26.4</span> | <span style="color: #DC143C; font-weight: bold;">+25.3</span> | **555** | <span style="color: #FF6347; font-weight: bold;">565.0</span> | <span style="color: #FF6347; font-weight: bold;">518.0</span> |
 | **2026/08** | **77.92** | <span style="color: #FF4500; font-weight: bold;">+36.3</span> | <span style="color: #DC143C; font-weight: bold;">+25.2</span> | **515** | <span style="color: #FF6347; font-weight: bold;">567.0</span> | <span style="color: #FF6347; font-weight: bold;">495.0</span> |
 | **2026/07** | **81.74** | <span style="color: #FF6347; font-weight: bold;">+42.6</span> | <span style="color: #DC143C; font-weight: bold;">+23.5</span> | **500** | <span style="color: #FF6347; font-weight: bold;">602.0</span> | <span style="color: #FF6347; font-weight: bold;">473.0</span> |
@@ -318,7 +319,6 @@ description: 月營收表 崇越 (5434) - 自動產生
 | **2007/01** | **-** | N/A | N/A | **79.5** | <span style="color: #004225; font-weight: bold;">81.5</span> | <span style="color: #004225; font-weight: bold;">70.0</span> |
 | **2006/12** | **-** | N/A | N/A | **72.2** | <span style="color: #004225; font-weight: bold;">75.8</span> | <span style="color: #004225; font-weight: bold;">68.2</span> |
 | **2006/11** | **-** | N/A | N/A | **70.2** | <span style="color: #004225; font-weight: bold;">76.0</span> | <span style="color: #004225; font-weight: bold;">69.0</span> |
-| **2006/10** | **-** | N/A | N/A | **73.1** | <span style="color: #004225; font-weight: bold;">75.9</span> | <span style="color: #004225; font-weight: bold;">71.9</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 崇越 (5434) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

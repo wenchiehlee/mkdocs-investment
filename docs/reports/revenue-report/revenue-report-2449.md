@@ -24,14 +24,14 @@ description: 月營收表 京元電子 (2449) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 京元電子  
     **:identification_card: 股票代號**: 2449  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+24.4</span> | <span style="color: #FF4500; font-weight: bold;">+34.1</span> | **240** 個月 | 2006/10 至 2026/09 |
+| <span style="color: #DC143C; font-weight: bold;">+29.5</span> | <span style="color: #FF4500; font-weight: bold;">+33.5</span> | **240** 個月 | 2006/11 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 京元電子 (2449) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 3,254<br/><span style="color: #FF4500;">(+33.00%)</span> | 2,446<br/><span style="color: #B22222;">(+18.80%)</span> | 2,059<br/><span style="color: #006400;">(-29.80%)</span> | 2,933<br/><span style="color: #004225;">(-10.30%)</span> |
 | **11月** | -- | 3,293<br/><span style="color: #FF4500;">(+34.90%)</span> | 2,440<br/><span style="color: #B22222;">(+16.30%)</span> | 2,099<br/><span style="color: #006400;">(-27.10%)</span> | 2,878<br/><span style="color: #002818;">(-9.90%)</span> |
-| **10月** | -- | 3,419<br/><span style="color: #FF6347;">(+41.80%)</span> | 2,411<br/><span style="color: #B22222;">(+10.20%)</span> | 2,188<br/><span style="color: #006400;">(-28.00%)</span> | 3,039<br/><span style="color: #002818;">(-0.97%)</span> |
+| **10月** | 4,426<br/><span style="color: #DC143C;">(+29.50%)</span> | 3,419<br/><span style="color: #FF6347;">(+41.80%)</span> | 2,411<br/><span style="color: #B22222;">(+10.20%)</span> | 2,188<br/><span style="color: #006400;">(-28.00%)</span> | 3,039<br/><span style="color: #002818;">(-0.97%)</span> |
 | **9月** | 4,071<br/><span style="color: #DC143C;">(+24.40%)</span> | 3,271<br/><span style="color: #FF4500;">(+39.60%)</span> | 2,343<br/><span style="color: #B22222;">(+11.80%)</span> | 2,096<br/><span style="color: #006400;">(-28.50%)</span> | 2,932<br/><span style="color: #002818;">(-2.10%)</span> |
 | **8月** | 4,079<br/><span style="color: #FF4500;">(+31.60%)</span> | 3,101<br/><span style="color: #FF4500;">(+31.90%)</span> | 2,351<br/><span style="color: #B22222;">(+12.40%)</span> | 2,092<br/><span style="color: #006400;">(-27.70%)</span> | 2,892<br/><span style="color: #002818;">(-5.01%)</span> |
 | **7月** | 3,990<br/><span style="color: #FF4500;">(+36.70%)</span> | 2,918<br/><span style="color: #DC143C;">(+24.50%)</span> | 2,345<br/><span style="color: #B22222;">(+14.50%)</span> | 2,048<br/><span style="color: #228B22;">(-35.90%)</span> | 3,196<br/><span style="color: #8B0000;">(+8.08%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 京元電子 (2449) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **44.26** | <span style="color: #DC143C; font-weight: bold;">+29.5</span> | <span style="color: #FF4500; font-weight: bold;">+33.5</span> | **253.5** | <span style="color: #FF4500; font-weight: bold;">310.0</span> | <span style="color: #FF6347; font-weight: bold;">284.0</span> |
 | **2026/09** | **40.71** | <span style="color: #DC143C; font-weight: bold;">+24.4</span> | <span style="color: #FF4500; font-weight: bold;">+34.1</span> | **294.5** | <span style="color: #FF4500; font-weight: bold;">330.0</span> | <span style="color: #FF4500; font-weight: bold;">253.0</span> |
 | **2026/08** | **40.8** | <span style="color: #FF4500; font-weight: bold;">+31.6</span> | <span style="color: #FF4500; font-weight: bold;">+35.5</span> | **257** | <span style="color: #DC143C; font-weight: bold;">272.0</span> | <span style="color: #FF4500; font-weight: bold;">224.0</span> |
 | **2026/07** | **39.91** | <span style="color: #FF4500; font-weight: bold;">+36.7</span> | <span style="color: #FF4500; font-weight: bold;">+36.2</span> | **223.5** | <span style="color: #FF6347; font-weight: bold;">367.5</span> | <span style="color: #DC143C; font-weight: bold;">195.0</span> |
@@ -318,7 +319,6 @@ description: 月營收表 京元電子 (2449) - 自動產生
 | **2007/01** | **10.12** | <span style="color: #002818; font-weight: bold;">-4.37</span> | <span style="color: #002818; font-weight: bold;">-4.37</span> | **25.35** | <span style="color: #004225; font-weight: bold;">28.4</span> | <span style="color: #004225; font-weight: bold;">25.25</span> |
 | **2006/12** | **10.94** | <span style="color: #002818; font-weight: bold;">-4.02</span> | <span style="color: #DC143C; font-weight: bold;">+28.1</span> | **27.2** | <span style="color: #004225; font-weight: bold;">27.8</span> | <span style="color: #004225; font-weight: bold;">24.9</span> |
 | **2006/11** | **11.53** | <span style="color: #8B0000; font-weight: bold;">+3.92</span> | <span style="color: #FF4500; font-weight: bold;">+32.1</span> | **27.6** | <span style="color: #004225; font-weight: bold;">29.15</span> | <span style="color: #004225; font-weight: bold;">22.85</span> |
-| **2006/10** | **11.51** | <span style="color: #B22222; font-weight: bold;">+11.6</span> | <span style="color: #FF4500; font-weight: bold;">+36</span> | **23.5** | <span style="color: #004225; font-weight: bold;">25.15</span> | <span style="color: #004225; font-weight: bold;">23.3</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 京元電子 (2449) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

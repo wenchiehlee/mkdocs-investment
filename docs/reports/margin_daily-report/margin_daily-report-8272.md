@@ -19,16 +19,16 @@ description: 融資餘額報告 全景軟體 (8272) - 自動產生
 !!! info "基本資訊"
     **🏗️ 名稱**: 全景軟體
     **🪪 代號**: 8272
-    **📅 分析期間**: 2026-04-30 ~ 2026-10-22 (共 241 個交易日)
-    **🕒 最新資料**: 2026-10-22
-    **🕒 更新時間**: 2026-11-10 00:46:10 CST
+    **📅 分析期間**: 2026-05-15 ~ 2026-11-09 (共 240 個交易日)
+    **🕒 最新資料**: 2026-11-09
+    **🕒 更新時間**: 2026-11-10 13:10:50 CST
 
 ## 💰 融資餘額現況
 
 | 📊 指標 | 🔢 數值 | 🚦 狀態 |
 |:------------:|:----------:|:-------------------:|
 | **最新融資餘額** | nan 億元 (nan 張) | - |
-| **最新收盤價** | 67.60 元 | - |
+| **最新收盤價** | 87.00 元 | - |
 | **市值** | 12 億元 | - |
 | **融資餘額/市值** | nan% | 🔴 過熱 |
 | **日變化 (DoD)** | +nan 億元 (+0.00%) | ➡️ |
@@ -73,6 +73,116 @@ description: 融資餘額報告 全景軟體 (8272) - 自動產生
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>2026-11-09</td>
+<td>87.00</td>
+<td>🔻 -1.30</td>
+<td>-1.47%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-11-06</td>
+<td>88.30</td>
+<td>🔻 -4.40</td>
+<td>-4.75%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-11-05</td>
+<td>92.70</td>
+<td>🔻 -10.30</td>
+<td>-10.00%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-11-04</td>
+<td>103.00</td>
+<td>🔺 +8.60</td>
+<td>+9.11%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-11-03</td>
+<td>94.40</td>
+<td>🔺 +8.50</td>
+<td>+9.90%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-11-02</td>
+<td>85.90</td>
+<td>🔺 +7.80</td>
+<td>+9.99%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-10-30</td>
+<td>78.10</td>
+<td>🔺 +7.10</td>
+<td>+10.00%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-10-29</td>
+<td>71.00</td>
+<td>🔺 +6.40</td>
+<td>+9.91%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-10-28</td>
+<td>64.60</td>
+<td>🔻 -2.20</td>
+<td>-3.29%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-10-27</td>
+<td>66.80</td>
+<td>🔻 -0.80</td>
+<td>-1.18%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
 <tr>
 <td>2026-10-22</td>
 <td>67.60</td>
@@ -287,116 +397,6 @@ description: 融資餘額報告 全景軟體 (8272) - 自動產生
 <td>65.30</td>
 <td>🔺 +1.00</td>
 <td>+1.56%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-21</td>
-<td>64.30</td>
-<td>🔻 -0.60</td>
-<td>-0.92%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-18</td>
-<td>64.90</td>
-<td>➖ +0.00</td>
-<td>+0.00%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-17</td>
-<td>64.90</td>
-<td>🔻 -0.10</td>
-<td>-0.15%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-16</td>
-<td>65.00</td>
-<td>🔻 -0.40</td>
-<td>-0.61%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-15</td>
-<td>65.40</td>
-<td>🔺 +0.40</td>
-<td>+0.62%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-14</td>
-<td>65.00</td>
-<td>🔺 +2.90</td>
-<td>+4.67%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-11</td>
-<td>62.10</td>
-<td>🔻 -0.80</td>
-<td>-1.27%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-10</td>
-<td>62.90</td>
-<td>🔻 -0.10</td>
-<td>-0.16%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-09</td>
-<td>63.00</td>
-<td>🔻 -0.80</td>
-<td>-1.25%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-08</td>
-<td>63.80</td>
-<td>🔻 -0.60</td>
-<td>-0.93%</td>
 <td>nan</td>
 <td>nan</td>
 <td>➡️ +nan</td>

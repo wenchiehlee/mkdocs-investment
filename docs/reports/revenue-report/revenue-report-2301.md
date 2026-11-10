@@ -24,14 +24,14 @@ description: 月營收表 光寶科 (2301) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 光寶科  
     **:identification_card: 股票代號**: 2301  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+22.1</span> | <span style="color: #DC143C; font-weight: bold;">+26.1</span> | **237** 個月 | 2007/01 至 2026/09 |
+| <span style="color: #FF4500; font-weight: bold;">+32</span> | <span style="color: #DC143C; font-weight: bold;">+26.8</span> | **238** 個月 | 2007/01 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 光寶科 (2301) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 14,910<br/><span style="color: #B22222;">(+11.40%)</span> | 13,390<br/><span style="color: #8B0000;">(+8.62%)</span> | 12,320<br/><span style="color: #002818;">(-7.71%)</span> | 13,350<br/><span style="color: #004225;">(-11.30%)</span> |
 | **11月** | -- | 14,250<br/><span style="color: #B22222;">(+13.80%)</span> | 12,510<br/><span style="color: #8B0000;">(+1.33%)</span> | 12,350<br/><span style="color: #004225;">(-16.80%)</span> | 14,850<br/><span style="color: #002818;">(-0.48%)</span> |
-| **10月** | -- | 15,200<br/><span style="color: #DC143C;">(+22.60%)</span> | 12,400<br/><span style="color: #8B0000;">(+1.28%)</span> | 12,240<br/><span style="color: #004225;">(-17.80%)</span> | 14,900<br/><span style="color: #8B0000;">(+2.07%)</span> |
+| **10月** | 20,070<br/><span style="color: #FF4500;">(+32.00%)</span> | 15,200<br/><span style="color: #DC143C;">(+22.60%)</span> | 12,400<br/><span style="color: #8B0000;">(+1.28%)</span> | 12,240<br/><span style="color: #004225;">(-17.80%)</span> | 14,900<br/><span style="color: #8B0000;">(+2.07%)</span> |
 | **9月** | 18,850<br/><span style="color: #DC143C;">(+22.10%)</span> | 15,430<br/><span style="color: #FF4500;">(+30.20%)</span> | 11,850<br/><span style="color: #004225;">(-16.00%)</span> | 14,100<br/><span style="color: #004225;">(-11.50%)</span> | 15,940<br/><span style="color: #8B0000;">(+9.06%)</span> |
 | **8月** | 19,590<br/><span style="color: #DC143C;">(+25.20%)</span> | 15,650<br/><span style="color: #DC143C;">(+29.80%)</span> | 12,050<br/><span style="color: #002818;">(-9.29%)</span> | 13,290<br/><span style="color: #004225;">(-13.90%)</span> | 15,430<br/><span style="color: #B22222;">(+14.00%)</span> |
 | **7月** | 19,010<br/><span style="color: #FF4500;">(+37.60%)</span> | 13,810<br/><span style="color: #8B0000;">(+7.35%)</span> | 12,869<br/><span style="color: #8B0000;">(+2.36%)</span> | 12,570<br/><span style="color: #004225;">(-15.10%)</span> | 14,800<br/><span style="color: #8B0000;">(+7.96%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 光寶科 (2301) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **200.7** | <span style="color: #FF4500; font-weight: bold;">+32</span> | <span style="color: #DC143C; font-weight: bold;">+26.8</span> | **240.5** | <span style="color: #FF6347; font-weight: bold;">304.5</span> | <span style="color: #FF7F7F; font-weight: bold;">278.0</span> |
 | **2026/09** | **188.5** | <span style="color: #DC143C; font-weight: bold;">+22.1</span> | <span style="color: #DC143C; font-weight: bold;">+26.1</span> | **279.5** | <span style="color: #FF6347; font-weight: bold;">328.0</span> | <span style="color: #FF7F7F; font-weight: bold;">271.0</span> |
 | **2026/08** | **195.9** | <span style="color: #DC143C; font-weight: bold;">+25.2</span> | <span style="color: #DC143C; font-weight: bold;">+26.7</span> | **305** | <span style="color: #FF6347; font-weight: bold;">322.0</span> | <span style="color: #FF6347; font-weight: bold;">229.5</span> |
 | **2026/07** | **190.1** | <span style="color: #FF4500; font-weight: bold;">+37.6</span> | <span style="color: #DC143C; font-weight: bold;">+27</span> | **209** | <span style="color: #FF4500; font-weight: bold;">233.5</span> | <span style="color: #FF4500; font-weight: bold;">176.5</span> |
@@ -411,7 +412,7 @@ description: 月營收表 光寶科 (2301) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

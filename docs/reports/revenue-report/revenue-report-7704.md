@@ -24,14 +24,14 @@ description: 月營收表 明遠精密 (7704) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 明遠精密  
     **:identification_card: 股票代號**: 7704  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+26.8</span> | <span style="color: #B22222; font-weight: bold;">+11.3</span> | **37** 個月 | 2023/09 至 2026/09 |
+| <span style="color: #DC143C; font-weight: bold;">+26.8</span> | <span style="color: #B22222; font-weight: bold;">+12.8</span> | **38** 個月 | 2023/09 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 明遠精密 (7704) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 58<br/><span style="color: #FF4500;">(+30.30%)</span> | 44<br/><span style="color: #228B22;">(-30.50%)</span> | 64<br/><span style="color: #006400;">(-22.10%)</span> |
 | **11月** | -- | 55<br/><span style="color: #004225;">(-14.20%)</span> | 65<br/><span style="color: #DC143C;">(+25.30%)</span> | 51<br/><span style="color: #002818;">(-3.06%)</span> |
-| **10月** | -- | 55<br/><span style="color: #006400;">(-27.90%)</span> | 76<br/><span style="color: #FF6347;">(+46.30%)</span> | 52<br/><span style="color: #004225;">(-18.00%)</span> |
+| **10月** | 69<br/><span style="color: #DC143C;">(+26.80%)</span> | 55<br/><span style="color: #006400;">(-27.90%)</span> | 76<br/><span style="color: #FF6347;">(+46.30%)</span> | 52<br/><span style="color: #004225;">(-18.00%)</span> |
 | **9月** | 66<br/><span style="color: #DC143C;">(+26.80%)</span> | 52<br/><span style="color: #004225;">(-16.90%)</span> | 62<br/><span style="color: #8B0000;">(+3.09%)</span> | 60<br/><span style="color: #006400;">(-22.10%)</span> |
 | **8月** | 62<br/><span style="color: #B22222;">(+13.80%)</span> | 55<br/><span style="color: #004225;">(-15.10%)</span> | 64<br/><span style="color: #8B0000;">(+6.86%)</span> | -- |
 | **7月** | 60<br/><span style="color: #B22222;">(+17.00%)</span> | 52<br/><span style="color: #004225;">(-11.20%)</span> | 58<br/><span style="color: #002818;">(-7.17%)</span> | -- |
@@ -79,6 +79,7 @@ description: 月營收表 明遠精密 (7704) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **0.697** | <span style="color: #DC143C; font-weight: bold;">+26.8</span> | <span style="color: #B22222; font-weight: bold;">+12.8</span> | **87.3** | <span style="color: #8B0000; font-weight: bold;">63.3</span> | <span style="color: #B22222; font-weight: bold;">59.6</span> |
 | **2026/09** | **0.66** | <span style="color: #DC143C; font-weight: bold;">+26.8</span> | <span style="color: #B22222; font-weight: bold;">+11.3</span> | **61.4** | <span style="color: #8B0000; font-weight: bold;">64.5</span> | <span style="color: #B22222; font-weight: bold;">58.6</span> |
 | **2026/08** | **0.625** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #8B0000; font-weight: bold;">+9.52</span> | **62.6** | <span style="color: #8B0000; font-weight: bold;">68.4</span> | <span style="color: #8B0000; font-weight: bold;">54.0</span> |
 | **2026/07** | **0.609** | <span style="color: #B22222; font-weight: bold;">+17</span> | <span style="color: #8B0000; font-weight: bold;">+8.92</span> | **54.3** | <span style="color: #8B0000; font-weight: bold;">65.6</span> | <span style="color: #002818; font-weight: bold;">48.8</span> |
@@ -211,7 +212,7 @@ description: 月營收表 明遠精密 (7704) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

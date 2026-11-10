@@ -24,14 +24,14 @@ description: 月營收表 貿聯-KY (3665) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 貿聯-KY  
     **:identification_card: 股票代號**: 3665  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF4500; font-weight: bold;">+39.2</span> | <span style="color: #FF4500; font-weight: bold;">+39.9</span> | **187** 個月 | 2011/03 至 2026/09 |
+| <span style="color: #FF7F7F; font-weight: bold;">+80</span> | <span style="color: #FF6347; font-weight: bold;">+44.4</span> | **188** 個月 | 2011/03 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 貿聯-KY (3665) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 6,641<br/><span style="color: #FF6347;">(+43.00%)</span> | 4,642<br/><span style="color: #FF4500;">(+33.10%)</span> | 3,488<br/><span style="color: #004225;">(-13.00%)</span> | 4,011<br/><span style="color: #FF4500;">(+39.30%)</span> |
 | **11月** | -- | 6,539<br/><span style="color: #FF4500;">(+33.20%)</span> | 4,911<br/><span style="color: #B22222;">(+18.50%)</span> | 4,143<br/><span style="color: #004225;">(-13.50%)</span> | 4,788<br/><span style="color: #FF7F7F;">(+77.20%)</span> |
-| **10月** | -- | 6,581<br/><span style="color: #FF4500;">(+34.00%)</span> | 4,911<br/><span style="color: #8B0000;">(+9.46%)</span> | 4,487<br/><span style="color: #002818;">(-5.00%)</span> | 4,723<br/><span style="color: #FF7F7F;">(+89.70%)</span> |
+| **10月** | 11,850<br/><span style="color: #FF7F7F;">(+80.00%)</span> | 6,581<br/><span style="color: #FF4500;">(+34.00%)</span> | 4,911<br/><span style="color: #8B0000;">(+9.46%)</span> | 4,487<br/><span style="color: #002818;">(-5.00%)</span> | 4,723<br/><span style="color: #FF7F7F;">(+89.70%)</span> |
 | **9月** | 9,332<br/><span style="color: #FF4500;">(+39.20%)</span> | 6,706<br/><span style="color: #FF6347;">(+46.10%)</span> | 4,590<br/><span style="color: #8B0000;">(+6.61%)</span> | 4,305<br/><span style="color: #004225;">(-12.90%)</span> | 4,944<br/><span style="color: #FF7F7F;">(+85.60%)</span> |
 | **8月** | 8,892<br/><span style="color: #FF7F7F;">(+54.00%)</span> | 5,774<br/><span style="color: #DC143C;">(+26.70%)</span> | 4,559<br/><span style="color: #8B0000;">(+4.73%)</span> | 4,353<br/><span style="color: #002818;">(-4.69%)</span> | 4,567<br/><span style="color: #FF7F7F;">(+84.30%)</span> |
 | **7月** | 9,630<br/><span style="color: #FF7F7F;">(+59.60%)</span> | 6,034<br/><span style="color: #DC143C;">(+20.40%)</span> | 5,011<br/><span style="color: #B22222;">(+12.40%)</span> | 4,458<br/><span style="color: #002818;">(-9.99%)</span> | 4,953<br/><span style="color: #FF7F7F;">(+115.70%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 貿聯-KY (3665) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **118.5** | <span style="color: #FF7F7F; font-weight: bold;">+80</span> | <span style="color: #FF6347; font-weight: bold;">+44.4</span> | **1625** | <span style="color: #FF4500; font-weight: bold;">2670.0</span> | <span style="color: #FF6347; font-weight: bold;">2250.0</span> |
 | **2026/09** | **93.32** | <span style="color: #FF4500; font-weight: bold;">+39.2</span> | <span style="color: #FF4500; font-weight: bold;">+39.9</span> | **2595** | <span style="color: #FF4500; font-weight: bold;">2685.0</span> | <span style="color: #FF4500; font-weight: bold;">1810.0</span> |
 | **2026/08** | **88.92** | <span style="color: #FF7F7F; font-weight: bold;">+54</span> | <span style="color: #FF6347; font-weight: bold;">+40</span> | **2170** | <span style="color: #FF4500; font-weight: bold;">2555.0</span> | <span style="color: #FF4500; font-weight: bold;">1930.0</span> |
 | **2026/07** | **96.3** | <span style="color: #FF7F7F; font-weight: bold;">+59.6</span> | <span style="color: #FF4500; font-weight: bold;">+37.9</span> | **2100** | <span style="color: #FF4500; font-weight: bold;">2350.0</span> | <span style="color: #DC143C; font-weight: bold;">1685.0</span> |
@@ -361,7 +362,7 @@ description: 月營收表 貿聯-KY (3665) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -24,14 +24,14 @@ description: 月營收表 鴻海 (2317) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 鴻海  
     **:identification_card: 股票代號**: 2317  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF4500; font-weight: bold;">+38.4</span> | <span style="color: #FF4500; font-weight: bold;">+39.5</span> | **237** 個月 | 2007/01 至 2026/09 |
+| <span style="color: #FF6347; font-weight: bold;">+45.7</span> | <span style="color: #FF6347; font-weight: bold;">+40.4</span> | **238** 個月 | 2007/01 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 鴻海 (2317) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 862,900<br/><span style="color: #FF4500;">(+31.80%)</span> | 654,800<br/><span style="color: #FF6347;">(+42.30%)</span> | 460,100<br/><span style="color: #006400;">(-26.90%)</span> | 629,300<br/><span style="color: #004225;">(-12.30%)</span> |
 | **11月** | -- | 844,300<br/><span style="color: #DC143C;">(+25.50%)</span> | 672,600<br/><span style="color: #8B0000;">(+3.47%)</span> | 650,000<br/><span style="color: #B22222;">(+18.00%)</span> | 551,100<br/><span style="color: #004225;">(-11.40%)</span> |
-| **10月** | -- | 895,700<br/><span style="color: #B22222;">(+11.30%)</span> | 804,800<br/><span style="color: #8B0000;">(+8.58%)</span> | 741,200<br/><span style="color: #002818;">(-4.55%)</span> | 776,600<br/><span style="color: #FF6347;">(+41.00%)</span> |
+| **10月** | 1,305,300<br/><span style="color: #FF6347;">(+45.70%)</span> | 895,700<br/><span style="color: #B22222;">(+11.30%)</span> | 804,800<br/><span style="color: #8B0000;">(+8.58%)</span> | 741,200<br/><span style="color: #002818;">(-4.55%)</span> | 776,600<br/><span style="color: #FF6347;">(+41.00%)</span> |
 | **9月** | 1,158,600<br/><span style="color: #FF4500;">(+38.40%)</span> | 837,100<br/><span style="color: #B22222;">(+14.20%)</span> | 733,000<br/><span style="color: #B22222;">(+10.90%)</span> | 660,700<br/><span style="color: #004225;">(-19.60%)</span> | 822,300<br/><span style="color: #FF6347;">(+40.40%)</span> |
 | **8月** | 921,800<br/><span style="color: #FF7F7F;">(+52.00%)</span> | 606,500<br/><span style="color: #B22222;">(+10.60%)</span> | 548,300<br/><span style="color: #FF4500;">(+32.80%)</span> | 412,800<br/><span style="color: #002818;">(-8.03%)</span> | 448,900<br/><span style="color: #B22222;">(+12.20%)</span> |
 | **7月** | 946,500<br/><span style="color: #FF7F7F;">(+54.20%)</span> | 613,900<br/><span style="color: #8B0000;">(+7.25%)</span> | 572,400<br/><span style="color: #DC143C;">(+22.00%)</span> | 469,200<br/><span style="color: #002818;">(-1.23%)</span> | 475,100<br/><span style="color: #B22222;">(+13.60%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 鴻海 (2317) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **13053** | <span style="color: #FF6347; font-weight: bold;">+45.7</span> | <span style="color: #FF6347; font-weight: bold;">+40.4</span> | **245.5** | <span style="color: #DC143C; font-weight: bold;">266.5</span> | <span style="color: #FF4500; font-weight: bold;">243.5</span> |
 | **2026/09** | **11586** | <span style="color: #FF4500; font-weight: bold;">+38.4</span> | <span style="color: #FF4500; font-weight: bold;">+39.5</span> | **251.5** | <span style="color: #DC143C; font-weight: bold;">259.0</span> | <span style="color: #FF4500; font-weight: bold;">243.5</span> |
 | **2026/08** | **9218** | <span style="color: #FF7F7F; font-weight: bold;">+52</span> | <span style="color: #FF4500; font-weight: bold;">+39.7</span> | **250** | <span style="color: #FF4500; font-weight: bold;">274.5</span> | <span style="color: #FF4500; font-weight: bold;">238.0</span> |
 | **2026/07** | **9465** | <span style="color: #FF7F7F; font-weight: bold;">+54.2</span> | <span style="color: #FF4500; font-weight: bold;">+37.9</span> | **250.5** | <span style="color: #DC143C; font-weight: bold;">259.5</span> | <span style="color: #DC143C; font-weight: bold;">226.5</span> |
@@ -411,7 +412,7 @@ description: 月營收表 鴻海 (2317) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

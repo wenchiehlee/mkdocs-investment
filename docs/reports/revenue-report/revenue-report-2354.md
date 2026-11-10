@@ -24,14 +24,14 @@ description: 月營收表 鴻準 (2354) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 鴻準  
     **:identification_card: 股票代號**: 2354  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+11.2</span> | <span style="color: #002818; font-weight: bold;">-0.21</span> | **240** 個月 | 2006/10 至 2026/09 |
+| <span style="color: #004225; font-weight: bold;">-19.3</span> | <span style="color: #002818; font-weight: bold;">-2.43</span> | **240** 個月 | 2006/11 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 鴻準 (2354) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 13,850<br/><span style="color: #002818;">(-8.56%)</span> | 15,150<br/><span style="color: #FF7F7F;">(+382.00%)</span> | 3,143<br/><span style="color: #90EE90;">(-71.90%)</span> | 11,200<br/><span style="color: #FF4500;">(+39.70%)</span> |
 | **11月** | -- | 13,830<br/><span style="color: #DC143C;">(+20.80%)</span> | 11,450<br/><span style="color: #FF7F7F;">(+223.20%)</span> | 3,544<br/><span style="color: #90EE90;">(-65.60%)</span> | 10,300<br/><span style="color: #DC143C;">(+24.90%)</span> |
-| **10月** | -- | 14,919<br/><span style="color: #FF7F7F;">(+127.00%)</span> | 6,570<br/><span style="color: #DC143C;">(+21.80%)</span> | 5,397<br/><span style="color: #228B22;">(-37.70%)</span> | 8,669<br/><span style="color: #006400;">(-25.60%)</span> |
+| **10月** | 12,040<br/><span style="color: #004225;">(-19.30%)</span> | 14,919<br/><span style="color: #FF7F7F;">(+127.00%)</span> | 6,570<br/><span style="color: #DC143C;">(+21.80%)</span> | 5,397<br/><span style="color: #228B22;">(-37.70%)</span> | 8,669<br/><span style="color: #006400;">(-25.60%)</span> |
 | **9月** | 14,419<br/><span style="color: #B22222;">(+11.20%)</span> | 12,960<br/><span style="color: #FF7F7F;">(+131.20%)</span> | 5,606<br/><span style="color: #004225;">(-18.50%)</span> | 6,880<br/><span style="color: #8B0000;">(+1.77%)</span> | 6,759<br/><span style="color: #32CD32;">(-45.90%)</span> |
 | **8月** | 21,870<br/><span style="color: #FF7F7F;">(+58.40%)</span> | 13,800<br/><span style="color: #FF7F7F;">(+103.50%)</span> | 6,784<br/><span style="color: #004225;">(-14.00%)</span> | 7,893<br/><span style="color: #FF6347;">(+42.10%)</span> | 5,554<br/><span style="color: #90EE90;">(-51.00%)</span> |
 | **7月** | 21,420<br/><span style="color: #FF4500;">(+37.40%)</span> | 15,580<br/><span style="color: #FF7F7F;">(+99.20%)</span> | 7,826<br/><span style="color: #8B0000;">(+3.51%)</span> | 7,559<br/><span style="color: #FF4500;">(+38.80%)</span> | 5,448<br/><span style="color: #32CD32;">(-42.50%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 鴻準 (2354) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **120.4** | <span style="color: #004225; font-weight: bold;">-19.3</span> | <span style="color: #002818; font-weight: bold;">-2.43</span> | **59.6** | <span style="color: #006400; font-weight: bold;">69.5</span> | <span style="color: #006400; font-weight: bold;">61.5</span> |
 | **2026/09** | **144.2** | <span style="color: #B22222; font-weight: bold;">+11.2</span> | <span style="color: #002818; font-weight: bold;">-0.21</span> | **65.7** | <span style="color: #006400; font-weight: bold;">69.0</span> | <span style="color: #004225; font-weight: bold;">63.3</span> |
 | **2026/08** | **218.7** | <span style="color: #FF7F7F; font-weight: bold;">+58.4</span> | <span style="color: #002818; font-weight: bold;">-1.68</span> | **64.7** | <span style="color: #006400; font-weight: bold;">65.3</span> | <span style="color: #006400; font-weight: bold;">55.2</span> |
 | **2026/07** | **214.2** | <span style="color: #FF4500; font-weight: bold;">+37.4</span> | <span style="color: #004225; font-weight: bold;">-11.2</span> | **56.5** | <span style="color: #006400; font-weight: bold;">60.3</span> | <span style="color: #006400; font-weight: bold;">51.2</span> |
@@ -318,7 +319,6 @@ description: 月營收表 鴻準 (2354) - 自動產生
 | **2007/01** | **99.23** | <span style="color: #FF7F7F; font-weight: bold;">+224.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+224.6</span> | **393** | <span style="color: #FF6347; font-weight: bold;">440.5</span> | <span style="color: #FF6347; font-weight: bold;">383.0</span> |
 | **2006/12** | **130** | <span style="color: #FF7F7F; font-weight: bold;">+290.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+67.2</span> | **390.5** | <span style="color: #FF6347; font-weight: bold;">393.5</span> | <span style="color: #FF6347; font-weight: bold;">318.5</span> |
 | **2006/11** | **117.4** | <span style="color: #FF7F7F; font-weight: bold;">+178.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+50.1</span> | **324** | <span style="color: #FF4500; font-weight: bold;">333.0</span> | <span style="color: #FF4500; font-weight: bold;">294.5</span> |
-| **2006/10** | **72.83** | <span style="color: #FF4500; font-weight: bold;">+39</span> | <span style="color: #FF4500; font-weight: bold;">+36.3</span> | **324.5** | <span style="color: #FF4500; font-weight: bold;">337.5</span> | <span style="color: #FF4500; font-weight: bold;">292.5</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 鴻準 (2354) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

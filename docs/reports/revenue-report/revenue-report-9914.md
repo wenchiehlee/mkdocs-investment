@@ -25,13 +25,13 @@ description: 月營收表 美利達 (9914) - 自動產生
     **:building_construction: 公司名稱**: 美利達  
     **:identification_card: 股票代號**: 9914  
     **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #006400; font-weight: bold;">-25.5</span> | <span style="color: #004225; font-weight: bold;">-15.3</span> | **240** 個月 | 2006/10 至 2026/09 |
+| <span style="color: #006400; font-weight: bold;">-25.5</span> | <span style="color: #004225; font-weight: bold;">-15.3</span> | **239** 個月 | 2006/11 至 2026/09 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -318,7 +318,6 @@ description: 月營收表 美利達 (9914) - 自動產生
 | **2007/01** | **7.11** | <span style="color: #FF7F7F; font-weight: bold;">+51.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+51.2</span> | **35.45** | <span style="color: #228B22; font-weight: bold;">38.9</span> | <span style="color: #228B22; font-weight: bold;">32.55</span> |
 | **2006/12** | **7.48** | <span style="color: #DC143C; font-weight: bold;">+20.2</span> | <span style="color: #B22222; font-weight: bold;">+13.2</span> | **36.2** | <span style="color: #228B22; font-weight: bold;">36.9</span> | <span style="color: #228B22; font-weight: bold;">30.8</span> |
 | **2006/11** | **9.01** | <span style="color: #FF7F7F; font-weight: bold;">+71.9</span> | <span style="color: #B22222; font-weight: bold;">+12.4</span> | **32.05** | <span style="color: #228B22; font-weight: bold;">32.3</span> | <span style="color: #228B22; font-weight: bold;">28.95</span> |
-| **2006/10** | **8** | <span style="color: #FF6347; font-weight: bold;">+41.2</span> | <span style="color: #8B0000; font-weight: bold;">+6.12</span> | **30.45** | <span style="color: #228B22; font-weight: bold;">30.6</span> | <span style="color: #228B22; font-weight: bold;">25.5</span> |
 
 </div>
 
@@ -414,7 +413,7 @@ description: 月營收表 美利達 (9914) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -24,14 +24,14 @@ description: 月營收表 威聯通 (7805) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 威聯通  
     **:identification_card: 股票代號**: 7805  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+19.1</span> | <span style="color: #B22222; font-weight: bold;">+13.3</span> | **23** 個月 | 2024/11 至 2026/09 |
+| <span style="color: #FF4500; font-weight: bold;">+31.4</span> | <span style="color: #B22222; font-weight: bold;">+15.2</span> | **24** 個月 | 2024/11 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 威聯通 (7805) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 508<br/><span style="color: #B22222;">(+17.90%)</span> | 430<br/><span style="color: #004225;">(-14.20%)</span> |
 | **11月** | -- | 597<br/><span style="color: #B22222;">(+11.40%)</span> | 536<br/><span style="color: #002818;">(-3.09%)</span> |
-| **10月** | -- | 547<br/><span style="color: #002818;">(-9.83%)</span> | -- |
+| **10月** | 719<br/><span style="color: #FF4500;">(+31.40%)</span> | 547<br/><span style="color: #002818;">(-9.83%)</span> | -- |
 | **9月** | 621<br/><span style="color: #B22222;">(+19.10%)</span> | 522<br/><span style="color: #B22222;">(+11.60%)</span> | -- |
 | **8月** | 553<br/><span style="color: #B22222;">(+19.20%)</span> | 463<br/><span style="color: #8B0000;">(+9.71%)</span> | -- |
 | **7月** | 584<br/><span style="color: #B22222;">(+13.60%)</span> | 514<br/><span style="color: #8B0000;">(+5.49%)</span> | -- |
@@ -79,6 +79,7 @@ description: 月營收表 威聯通 (7805) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **7.19** | <span style="color: #FF4500; font-weight: bold;">+31.4</span> | <span style="color: #B22222; font-weight: bold;">+15.2</span> | **449.5** | <span style="color: #006400; font-weight: bold;">509.0</span> | <span style="color: #228B22; font-weight: bold;">488.0</span> |
 | **2026/09** | **6.21** | <span style="color: #B22222; font-weight: bold;">+19.1</span> | <span style="color: #B22222; font-weight: bold;">+13.3</span> | **494** | <span style="color: #006400; font-weight: bold;">525.0</span> | <span style="color: #228B22; font-weight: bold;">489.0</span> |
 | **2026/08** | **5.53** | <span style="color: #B22222; font-weight: bold;">+19.2</span> | <span style="color: #B22222; font-weight: bold;">+12.6</span> | **508** | <span style="color: #8B0000; font-weight: bold;">725.0</span> | <span style="color: #006400; font-weight: bold;">506.0</span> |
 | **2026/07** | **5.84** | <span style="color: #B22222; font-weight: bold;">+13.6</span> | <span style="color: #B22222; font-weight: bold;">+11.7</span> | **606** | <span style="color: #002818; font-weight: bold;">676.0</span> | <span style="color: #002818; font-weight: bold;">565.0</span> |
@@ -197,7 +198,7 @@ description: 月營收表 威聯通 (7805) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

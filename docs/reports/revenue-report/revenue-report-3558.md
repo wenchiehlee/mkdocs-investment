@@ -24,14 +24,14 @@ description: 月營收表 神準 (3558) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 神準  
     **:identification_card: 股票代號**: 3558  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF6347; font-weight: bold;">+45.9</span> | <span style="color: #002818; font-weight: bold;">-2.81</span> | **234** 個月 | 2007/04 至 2026/09 |
+| <span style="color: #FF6347; font-weight: bold;">+48.1</span> | <span style="color: #8B0000; font-weight: bold;">+1.92</span> | **235** 個月 | 2007/04 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 神準 (3558) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 1,251<br/><span style="color: #002818;">(-1.13%)</span> | 1,266<br/><span style="color: #DC143C;">(+24.40%)</span> | 1,018<br/><span style="color: #32CD32;">(-45.10%)</span> | 1,855<br/><span style="color: #FF7F7F;">(+94.70%)</span> |
 | **11月** | -- | 1,040<br/><span style="color: #004225;">(-13.20%)</span> | 1,197<br/><span style="color: #004225;">(-12.50%)</span> | 1,368<br/><span style="color: #006400;">(-27.70%)</span> | 1,892<br/><span style="color: #FF7F7F;">(+150.00%)</span> |
-| **10月** | -- | 1,186<br/><span style="color: #002818;">(-0.73%)</span> | 1,194<br/><span style="color: #004225;">(-13.10%)</span> | 1,375<br/><span style="color: #004225;">(-15.60%)</span> | 1,629<br/><span style="color: #FF7F7F;">(+116.30%)</span> |
+| **10月** | 1,755<br/><span style="color: #FF6347;">(+48.10%)</span> | 1,186<br/><span style="color: #002818;">(-0.73%)</span> | 1,194<br/><span style="color: #004225;">(-13.10%)</span> | 1,375<br/><span style="color: #004225;">(-15.60%)</span> | 1,629<br/><span style="color: #FF7F7F;">(+116.30%)</span> |
 | **9月** | 1,714<br/><span style="color: #FF6347;">(+45.90%)</span> | 1,175<br/><span style="color: #B22222;">(+16.80%)</span> | 1,007<br/><span style="color: #006400;">(-21.40%)</span> | 1,281<br/><span style="color: #004225;">(-19.40%)</span> | 1,589<br/><span style="color: #FF7F7F;">(+104.10%)</span> |
 | **8月** | 1,599<br/><span style="color: #FF4500;">(+36.80%)</span> | 1,169<br/><span style="color: #B22222;">(+16.00%)</span> | 1,008<br/><span style="color: #228B22;">(-30.40%)</span> | 1,447<br/><span style="color: #002818;">(-2.18%)</span> | 1,480<br/><span style="color: #FF7F7F;">(+69.30%)</span> |
 | **7月** | 1,292<br/><span style="color: #8B0000;">(+3.16%)</span> | 1,253<br/><span style="color: #FF4500;">(+33.60%)</span> | 936<br/><span style="color: #228B22;">(-35.60%)</span> | 1,457<br/><span style="color: #002818;">(-4.40%)</span> | 1,524<br/><span style="color: #FF7F7F;">(+75.30%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 神準 (3558) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **17.56** | <span style="color: #FF6347; font-weight: bold;">+48.1</span> | <span style="color: #8B0000; font-weight: bold;">+1.92</span> | **135** | <span style="color: #004225; font-weight: bold;">139.5</span> | <span style="color: #004225; font-weight: bold;">124.0</span> |
 | **2026/09** | **17.15** | <span style="color: #FF6347; font-weight: bold;">+45.9</span> | <span style="color: #002818; font-weight: bold;">-2.81</span> | **125** | <span style="color: #004225; font-weight: bold;">129.5</span> | <span style="color: #004225; font-weight: bold;">116.5</span> |
 | **2026/08** | **15.99** | <span style="color: #FF4500; font-weight: bold;">+36.8</span> | <span style="color: #002818; font-weight: bold;">-8.32</span> | **122.5** | <span style="color: #004225; font-weight: bold;">134.0</span> | <span style="color: #004225; font-weight: bold;">117.0</span> |
 | **2026/07** | **12.92** | <span style="color: #8B0000; font-weight: bold;">+3.16</span> | <span style="color: #004225; font-weight: bold;">-14</span> | **118.5** | <span style="color: #004225; font-weight: bold;">146.5</span> | <span style="color: #004225; font-weight: bold;">114.0</span> |
@@ -408,7 +409,7 @@ description: 月營收表 神準 (3558) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

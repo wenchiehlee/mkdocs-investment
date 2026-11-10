@@ -25,13 +25,13 @@ description: 月營收表 友訊 (2332) - 自動產生
     **:building_construction: 公司名稱**: 友訊  
     **:identification_card: 股票代號**: 2332  
     **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+2.58</span> | <span style="color: #8B0000; font-weight: bold;">+7.87</span> | **240** 個月 | 2006/10 至 2026/09 |
+| <span style="color: #8B0000; font-weight: bold;">+2.58</span> | <span style="color: #8B0000; font-weight: bold;">+7.87</span> | **239** 個月 | 2006/11 至 2026/09 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -318,7 +318,6 @@ description: 月營收表 友訊 (2332) - 自動產生
 | **2007/01** | **33.35** | <span style="color: #8B0000; font-weight: bold;">+8.44</span> | <span style="color: #8B0000; font-weight: bold;">+8.44</span> | **46.35** | <span style="color: #DC143C; font-weight: bold;">53.7</span> | <span style="color: #DC143C; font-weight: bold;">41.5</span> |
 | **2006/12** | **34** | <span style="color: #FF4500; font-weight: bold;">+32.3</span> | <span style="color: #B22222; font-weight: bold;">+14.6</span> | **42.7** | <span style="color: #B22222; font-weight: bold;">42.7</span> | <span style="color: #B22222; font-weight: bold;">37.35</span> |
 | **2006/11** | **40.44** | <span style="color: #8B0000; font-weight: bold;">+5.06</span> | <span style="color: #B22222; font-weight: bold;">+13.2</span> | **39** | <span style="color: #B22222; font-weight: bold;">41.6</span> | <span style="color: #B22222; font-weight: bold;">35.8</span> |
-| **2006/10** | **38.72** | <span style="color: #B22222; font-weight: bold;">+11.7</span> | <span style="color: #B22222; font-weight: bold;">+14.2</span> | **36.95** | <span style="color: #B22222; font-weight: bold;">37.1</span> | <span style="color: #B22222; font-weight: bold;">33.8</span> |
 
 </div>
 
@@ -414,7 +413,7 @@ description: 月營收表 友訊 (2332) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -19,16 +19,16 @@ description: 融資餘額報告 悠遊卡 (6035) - 自動產生
 !!! info "基本資訊"
     **🏗️ 名稱**: 悠遊卡
     **🪪 代號**: 6035
-    **📅 分析期間**: 2026-04-30 ~ 2026-10-22 (共 241 個交易日)
-    **🕒 最新資料**: 2026-10-22
-    **🕒 更新時間**: 2026-11-10 00:46:08 CST
+    **📅 分析期間**: 2026-05-15 ~ 2026-11-09 (共 240 個交易日)
+    **🕒 最新資料**: 2026-11-09
+    **🕒 更新時間**: 2026-11-10 13:10:46 CST
 
 ## 💰 融資餘額現況
 
 | 📊 指標 | 🔢 數值 | 🚦 狀態 |
 |:------------:|:----------:|:-------------------:|
 | **最新融資餘額** | nan 億元 (nan 張) | - |
-| **最新收盤價** | 50.60 元 | - |
+| **最新收盤價** | 50.10 元 | - |
 | **市值** | 36 億元 | - |
 | **融資餘額/市值** | nan% | 🔴 過熱 |
 | **日變化 (DoD)** | +nan 億元 (+0.00%) | ➡️ |
@@ -73,6 +73,116 @@ description: 融資餘額報告 悠遊卡 (6035) - 自動產生
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>2026-11-09</td>
+<td>50.10</td>
+<td>🔺 +2.35</td>
+<td>+4.92%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-11-06</td>
+<td>47.75</td>
+<td>🔻 -0.60</td>
+<td>-1.24%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-11-05</td>
+<td>48.35</td>
+<td>🔻 -1.85</td>
+<td>-3.69%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-11-04</td>
+<td>50.20</td>
+<td>🔻 -0.40</td>
+<td>-0.79%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-11-03</td>
+<td>50.60</td>
+<td>➖ +0.00</td>
+<td>+0.00%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-11-02</td>
+<td>50.60</td>
+<td>🔺 +2.30</td>
+<td>+4.76%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-10-30</td>
+<td>48.30</td>
+<td>🔻 -2.30</td>
+<td>-4.55%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-10-29</td>
+<td>50.60</td>
+<td>➖ +0.00</td>
+<td>+0.00%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-10-28</td>
+<td>50.60</td>
+<td>🔻 -0.10</td>
+<td>-0.20%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
+<tr>
+<td>2026-10-27</td>
+<td>50.70</td>
+<td>🔺 +0.10</td>
+<td>+0.20%</td>
+<td>nan</td>
+<td>nan</td>
+<td>➡️ +nan</td>
+<td>nan</td>
+<td>nan%</td>
+</tr>
 <tr>
 <td>2026-10-22</td>
 <td>50.60</td>
@@ -285,116 +395,6 @@ description: 融資餘額報告 悠遊卡 (6035) - 自動產生
 <tr>
 <td>2026-09-22</td>
 <td>51.40</td>
-<td>➖ +0.00</td>
-<td>+0.00%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-21</td>
-<td>51.40</td>
-<td>🔺 +0.40</td>
-<td>+0.78%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-18</td>
-<td>51.00</td>
-<td>➖ +0.00</td>
-<td>+0.00%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-17</td>
-<td>51.00</td>
-<td>🔻 -0.40</td>
-<td>-0.78%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-16</td>
-<td>51.40</td>
-<td>➖ +0.00</td>
-<td>+0.00%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-15</td>
-<td>51.40</td>
-<td>🔺 +0.20</td>
-<td>+0.39%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-14</td>
-<td>51.20</td>
-<td>🔺 +1.20</td>
-<td>+2.40%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-11</td>
-<td>50.00</td>
-<td>➖ +0.00</td>
-<td>+0.00%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-10</td>
-<td>50.00</td>
-<td>🔻 -0.50</td>
-<td>-0.99%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-09</td>
-<td>50.50</td>
-<td>➖ +0.00</td>
-<td>+0.00%</td>
-<td>nan</td>
-<td>nan</td>
-<td>➡️ +nan</td>
-<td>nan</td>
-<td>nan%</td>
-</tr>
-<tr>
-<td>2026-09-08</td>
-<td>50.50</td>
 <td>➖ +0.00</td>
 <td>+0.00%</td>
 <td>nan</td>

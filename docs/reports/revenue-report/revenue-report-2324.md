@@ -24,14 +24,14 @@ description: 月營收表 仁寶 (2324) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 仁寶  
     **:identification_card: 股票代號**: 2324  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF4500; font-weight: bold;">+35.4</span> | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | **237** 個月 | 2007/01 至 2026/09 |
+| <span style="color: #FF6347; font-weight: bold;">+40.7</span> | <span style="color: #DC143C; font-weight: bold;">+22.4</span> | **238** 個月 | 2007/01 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 仁寶 (2324) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 65,960<br/><span style="color: #8B0000;">(+2.97%)</span> | 64,060<br/><span style="color: #002818;">(-7.88%)</span> | 69,540<br/><span style="color: #002818;">(-4.11%)</span> | 72,520<br/><span style="color: #32CD32;">(-43.20%)</span> |
 | **11月** | -- | 62,970<br/><span style="color: #006400;">(-21.00%)</span> | 79,670<br/><span style="color: #002818;">(-5.87%)</span> | 84,640<br/><span style="color: #8B0000;">(+4.06%)</span> | 81,340<br/><span style="color: #228B22;">(-34.00%)</span> |
-| **10月** | -- | 61,920<br/><span style="color: #006400;">(-27.50%)</span> | 85,450<br/><span style="color: #002818;">(-2.33%)</span> | 87,490<br/><span style="color: #002818;">(-7.75%)</span> | 94,850<br/><span style="color: #004225;">(-18.80%)</span> |
+| **10月** | 87,150<br/><span style="color: #FF6347;">(+40.70%)</span> | 61,920<br/><span style="color: #006400;">(-27.50%)</span> | 85,450<br/><span style="color: #002818;">(-2.33%)</span> | 87,490<br/><span style="color: #002818;">(-7.75%)</span> | 94,850<br/><span style="color: #004225;">(-18.80%)</span> |
 | **9月** | 94,430<br/><span style="color: #FF4500;">(+35.40%)</span> | 69,720<br/><span style="color: #004225;">(-16.80%)</span> | 83,770<br/><span style="color: #002818;">(-1.60%)</span> | 85,130<br/><span style="color: #004225;">(-18.60%)</span> | 104,600<br/><span style="color: #004225;">(-17.30%)</span> |
 | **8月** | 67,340<br/><span style="color: #B22222;">(+14.50%)</span> | 58,810<br/><span style="color: #228B22;">(-30.10%)</span> | 84,110<br/><span style="color: #8B0000;">(+2.90%)</span> | 81,740<br/><span style="color: #002818;">(-7.99%)</span> | 88,840<br/><span style="color: #004225;">(-13.20%)</span> |
 | **7月** | 81,010<br/><span style="color: #FF4500;">(+38.20%)</span> | 58,590<br/><span style="color: #006400;">(-23.40%)</span> | 76,440<br/><span style="color: #002818;">(-9.90%)</span> | 84,850<br/><span style="color: #004225;">(-13.10%)</span> | 97,630<br/><span style="color: #002818;">(-9.59%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 仁寶 (2324) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **871.5** | <span style="color: #FF6347; font-weight: bold;">+40.7</span> | <span style="color: #DC143C; font-weight: bold;">+22.4</span> | **35.2** | <span style="color: #B22222; font-weight: bold;">37.3</span> | <span style="color: #DC143C; font-weight: bold;">35.4</span> |
 | **2026/09** | **944.3** | <span style="color: #FF4500; font-weight: bold;">+35.4</span> | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | **37.1** | <span style="color: #FF4500; font-weight: bold;">42.1</span> | <span style="color: #DC143C; font-weight: bold;">36.05</span> |
 | **2026/08** | **673.4** | <span style="color: #B22222; font-weight: bold;">+14.5</span> | <span style="color: #B22222; font-weight: bold;">+18.3</span> | **40.35** | <span style="color: #FF4500; font-weight: bold;">44.95</span> | <span style="color: #DC143C; font-weight: bold;">34.55</span> |
 | **2026/07** | **810.1** | <span style="color: #FF4500; font-weight: bold;">+38.2</span> | <span style="color: #B22222; font-weight: bold;">+18.8</span> | **36** | <span style="color: #DC143C; font-weight: bold;">38.2</span> | <span style="color: #DC143C; font-weight: bold;">33.2</span> |
@@ -411,7 +412,7 @@ description: 月營收表 仁寶 (2324) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

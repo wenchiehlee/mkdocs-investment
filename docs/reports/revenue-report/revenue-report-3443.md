@@ -24,14 +24,14 @@ description: 月營收表 創意 (3443) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 創意  
     **:identification_card: 股票代號**: 3443  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+97.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+102.8</span> | **240** 個月 | 2006/10 至 2026/09 |
+| <span style="color: #FF7F7F; font-weight: bold;">+127</span> | <span style="color: #FF7F7F; font-weight: bold;">+106.4</span> | **240** 個月 | 2006/11 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 創意 (3443) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 4,748<br/><span style="color: #FF7F7F;">(+75.70%)</span> | 2,702<br/><span style="color: #DC143C;">(+22.40%)</span> | 2,208<br/><span style="color: #006400;">(-29.20%)</span> | 3,118<br/><span style="color: #FF7F7F;">(+104.70%)</span> |
 | **11月** | -- | 3,936<br/><span style="color: #FF7F7F;">(+114.20%)</span> | 1,837<br/><span style="color: #002818;">(-7.13%)</span> | 1,979<br/><span style="color: #006400;">(-22.20%)</span> | 2,542<br/><span style="color: #FF7F7F;">(+51.70%)</span> |
-| **10月** | -- | 3,715<br/><span style="color: #FF7F7F;">(+150.60%)</span> | 1,483<br/><span style="color: #228B22;">(-30.30%)</span> | 2,128<br/><span style="color: #004225;">(-12.20%)</span> | 2,423<br/><span style="color: #FF6347;">(+41.60%)</span> |
+| **10月** | 8,433<br/><span style="color: #FF7F7F;">(+127.00%)</span> | 3,715<br/><span style="color: #FF7F7F;">(+150.60%)</span> | 1,483<br/><span style="color: #228B22;">(-30.30%)</span> | 2,128<br/><span style="color: #004225;">(-12.20%)</span> | 2,423<br/><span style="color: #FF6347;">(+41.60%)</span> |
 | **9月** | 7,145<br/><span style="color: #FF7F7F;">(+97.80%)</span> | 3,613<br/><span style="color: #FF7F7F;">(+104.90%)</span> | 1,764<br/><span style="color: #006400;">(-24.10%)</span> | 2,325<br/><span style="color: #B22222;">(+10.30%)</span> | 2,108<br/><span style="color: #FF7F7F;">(+60.40%)</span> |
 | **8月** | 5,840<br/><span style="color: #FF7F7F;">(+111.00%)</span> | 2,768<br/><span style="color: #FF6347;">(+42.30%)</span> | 1,945<br/><span style="color: #004225;">(-14.40%)</span> | 2,272<br/><span style="color: #B22222;">(+12.80%)</span> | 2,014<br/><span style="color: #FF7F7F;">(+92.50%)</span> |
 | **7月** | 5,769<br/><span style="color: #FF7F7F;">(+158.40%)</span> | 2,233<br/><span style="color: #006400;">(-23.10%)</span> | 2,903<br/><span style="color: #FF4500;">(+31.20%)</span> | 2,213<br/><span style="color: #B22222;">(+14.10%)</span> | 1,939<br/><span style="color: #FF7F7F;">(+58.40%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 創意 (3443) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **84.33** | <span style="color: #FF7F7F; font-weight: bold;">+127</span> | <span style="color: #FF7F7F; font-weight: bold;">+106.4</span> | **7635** | <span style="color: #FF7F7F; font-weight: bold;">8750.0</span> | <span style="color: #FF7F7F; font-weight: bold;">7730.0</span> |
 | **2026/09** | **71.45** | <span style="color: #FF7F7F; font-weight: bold;">+97.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+102.8</span> | **8040** | <span style="color: #FF7F7F; font-weight: bold;">8545.0</span> | <span style="color: #FF6347; font-weight: bold;">5680.0</span> |
 | **2026/08** | **58.4** | <span style="color: #FF7F7F; font-weight: bold;">+111</span> | <span style="color: #FF7F7F; font-weight: bold;">+103.8</span> | **6100** | <span style="color: #FF6347; font-weight: bold;">6370.0</span> | <span style="color: #FF6347; font-weight: bold;">4030.0</span> |
 | **2026/07** | **57.69** | <span style="color: #FF7F7F; font-weight: bold;">+158.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+102.5</span> | **3805** | <span style="color: #FF4500; font-weight: bold;">5345.0</span> | <span style="color: #FF4500; font-weight: bold;">3175.0</span> |
@@ -318,7 +319,6 @@ description: 月營收表 創意 (3443) - 自動產生
 | **2007/01** | **4.88** | <span style="color: #FF7F7F; font-weight: bold;">+183.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+183.5</span> | **188** | <span style="color: #004225; font-weight: bold;">269.0</span> | <span style="color: #004225; font-weight: bold;">156.0</span> |
 | **2006/12** | **6.03** | <span style="color: #FF7F7F; font-weight: bold;">+190.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+111.1</span> | **151** | <span style="color: #006400; font-weight: bold;">155.0</span> | <span style="color: #006400; font-weight: bold;">64.1</span> |
 | **2006/11** | **4.81** | <span style="color: #FF7F7F; font-weight: bold;">+195.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+99.2</span> | **66.6** | <span style="color: #006400; font-weight: bold;">71.5</span> | <span style="color: #006400; font-weight: bold;">50.0</span> |
-| **2006/10** | **3.35** | <span style="color: #FF7F7F; font-weight: bold;">+119.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+86.4</span> | **-** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 創意 (3443) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

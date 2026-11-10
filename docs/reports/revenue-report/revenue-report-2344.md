@@ -24,14 +24,14 @@ description: 月營收表 華邦電 (2344) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 華邦電  
     **:identification_card: 股票代號**: 2344  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+256.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+187.4</span> | **240** 個月 | 2006/10 至 2026/09 |
+| <span style="color: #FF7F7F; font-weight: bold;">+257</span> | <span style="color: #FF7F7F; font-weight: bold;">+195.4</span> | **240** 個月 | 2006/11 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 華邦電 (2344) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 9,770<br/><span style="color: #FF7F7F;">(+53.30%)</span> | 6,372<br/><span style="color: #002818;">(-2.07%)</span> | 6,506<br/><span style="color: #8B0000;">(+0.45%)</span> | 6,478<br/><span style="color: #006400;">(-24.70%)</span> |
 | **11月** | -- | 8,630<br/><span style="color: #FF4500;">(+38.70%)</span> | 6,222<br/><span style="color: #002818;">(-2.30%)</span> | 6,368<br/><span style="color: #002818;">(-2.32%)</span> | 6,520<br/><span style="color: #006400;">(-23.80%)</span> |
-| **10月** | -- | 8,225<br/><span style="color: #FF4500;">(+34.90%)</span> | 6,098<br/><span style="color: #002818;">(-3.17%)</span> | 6,298<br/><span style="color: #8B0000;">(+1.15%)</span> | 6,226<br/><span style="color: #006400;">(-29.50%)</span> |
+| **10月** | 29,360<br/><span style="color: #FF7F7F;">(+257.00%)</span> | 8,225<br/><span style="color: #FF4500;">(+34.90%)</span> | 6,098<br/><span style="color: #002818;">(-3.17%)</span> | 6,298<br/><span style="color: #8B0000;">(+1.15%)</span> | 6,226<br/><span style="color: #006400;">(-29.50%)</span> |
 | **9月** | 28,250<br/><span style="color: #FF7F7F;">(+256.70%)</span> | 7,920<br/><span style="color: #8B0000;">(+9.52%)</span> | 7,231<br/><span style="color: #8B0000;">(+6.87%)</span> | 6,766<br/><span style="color: #002818;">(-7.96%)</span> | 7,352<br/><span style="color: #004225;">(-19.30%)</span> |
 | **8月** | 27,310<br/><span style="color: #FF7F7F;">(+289.40%)</span> | 7,013<br/><span style="color: #8B0000;">(+0.21%)</span> | 6,998<br/><span style="color: #8B0000;">(+8.91%)</span> | 6,425<br/><span style="color: #004225;">(-13.20%)</span> | 7,403<br/><span style="color: #004225;">(-16.00%)</span> |
 | **7月** | 26,770<br/><span style="color: #FF7F7F;">(+291.50%)</span> | 6,838<br/><span style="color: #002818;">(-3.46%)</span> | 7,083<br/><span style="color: #B22222;">(+12.20%)</span> | 6,315<br/><span style="color: #004225;">(-14.60%)</span> | 7,391<br/><span style="color: #004225;">(-18.70%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 華邦電 (2344) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **293.6** | <span style="color: #FF7F7F; font-weight: bold;">+257</span> | <span style="color: #FF7F7F; font-weight: bold;">+195.4</span> | **164.5** | <span style="color: #FF6347; font-weight: bold;">184.0</span> | <span style="color: #FF7F7F; font-weight: bold;">172.0</span> |
 | **2026/09** | **282.5** | <span style="color: #FF7F7F; font-weight: bold;">+256.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+187.4</span> | **179.5** | <span style="color: #FF6347; font-weight: bold;">192.0</span> | <span style="color: #FF7F7F; font-weight: bold;">158.5</span> |
 | **2026/08** | **273.1** | <span style="color: #FF7F7F; font-weight: bold;">+289.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+177.4</span> | **182.5** | <span style="color: #FF6347; font-weight: bold;">193.0</span> | <span style="color: #FF6347; font-weight: bold;">133.5</span> |
 | **2026/07** | **267.7** | <span style="color: #FF7F7F; font-weight: bold;">+291.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+161</span> | **130** | <span style="color: #FF7F7F; font-weight: bold;">207.5</span> | <span style="color: #FF6347; font-weight: bold;">117.0</span> |
@@ -318,7 +319,6 @@ description: 月營收表 華邦電 (2344) - 自動產生
 | **2007/01** | **-** | N/A | N/A | **12.6** | <span style="color: #004225; font-weight: bold;">13.75</span> | <span style="color: #004225; font-weight: bold;">12.05</span> |
 | **2006/12** | **-** | N/A | N/A | **13.3** | <span style="color: #004225; font-weight: bold;">13.6</span> | <span style="color: #004225; font-weight: bold;">12.0</span> |
 | **2006/11** | **-** | N/A | N/A | **13.55** | <span style="color: #004225; font-weight: bold;">13.55</span> | <span style="color: #004225; font-weight: bold;">10.0</span> |
-| **2006/10** | **-** | N/A | N/A | **10.1** | <span style="color: #004225; font-weight: bold;">10.85</span> | <span style="color: #004225; font-weight: bold;">9.74</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 華邦電 (2344) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

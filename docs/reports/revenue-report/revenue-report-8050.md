@@ -25,13 +25,13 @@ description: 月營收表 廣積 (8050) - 自動產生
     **:building_construction: 公司名稱**: 廣積  
     **:identification_card: 股票代號**: 8050  
     **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+167.1</span> | <span style="color: #FF4500; font-weight: bold;">+32.6</span> | **240** 個月 | 2006/10 至 2026/09 |
+| <span style="color: #FF7F7F; font-weight: bold;">+167.1</span> | <span style="color: #FF4500; font-weight: bold;">+32.6</span> | **239** 個月 | 2006/11 至 2026/09 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -318,7 +318,6 @@ description: 月營收表 廣積 (8050) - 自動產生
 | **2007/01** | **1.11** | <span style="color: #002818; font-weight: bold;">-2.84</span> | <span style="color: #002818; font-weight: bold;">-2.84</span> | **66.6** | <span style="color: #8B0000; font-weight: bold;">72.5</span> | <span style="color: #B22222; font-weight: bold;">65.0</span> |
 | **2006/12** | **1.11** | <span style="color: #002818; font-weight: bold;">-3.78</span> | <span style="color: #B22222; font-weight: bold;">+11.7</span> | **69** | <span style="color: #8B0000; font-weight: bold;">75.0</span> | <span style="color: #8B0000; font-weight: bold;">61.3</span> |
 | **2006/11** | **1.09** | <span style="color: #8B0000; font-weight: bold;">+2.06</span> | <span style="color: #B22222; font-weight: bold;">+13.4</span> | **65** | <span style="color: #8B0000; font-weight: bold;">67.7</span> | <span style="color: #002818; font-weight: bold;">52.1</span> |
-| **2006/10** | **0.985** | <span style="color: #002818; font-weight: bold;">-6.23</span> | <span style="color: #B22222; font-weight: bold;">+14.7</span> | **53.3** | <span style="color: #002818; font-weight: bold;">55.7</span> | <span style="color: #002818; font-weight: bold;">50.5</span> |
 
 </div>
 
@@ -414,7 +413,7 @@ description: 月營收表 廣積 (8050) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

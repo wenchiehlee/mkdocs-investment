@@ -24,14 +24,14 @@ description: 月營收表 銳澤 (7703) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 銳澤  
     **:identification_card: 股票代號**: 7703  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+25.5</span> | <span style="color: #DC143C; font-weight: bold;">+27.6</span> | **37** 個月 | 2023/09 至 2026/09 |
+| <span style="color: #FF4500; font-weight: bold;">+35.7</span> | <span style="color: #DC143C; font-weight: bold;">+28.6</span> | **38** 個月 | 2023/09 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 銳澤 (7703) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 227<br/><span style="color: #002818;">(-3.31%)</span> | 236<br/><span style="color: #FF7F7F;">(+68.90%)</span> | 139<br/><span style="color: #228B22;">(-34.70%)</span> |
 | **11月** | -- | 306<br/><span style="color: #FF6347;">(+42.30%)</span> | 215<br/><span style="color: #FF6347;">(+41.30%)</span> | 152<br/><span style="color: #228B22;">(-36.50%)</span> |
-| **10月** | -- | 252<br/><span style="color: #FF4500;">(+38.90%)</span> | 182<br/><span style="color: #FF7F7F;">(+115.60%)</span> | 84<br/><span style="color: #32CD32;">(-45.70%)</span> |
+| **10月** | 343<br/><span style="color: #FF4500;">(+35.70%)</span> | 252<br/><span style="color: #FF4500;">(+38.90%)</span> | 182<br/><span style="color: #FF7F7F;">(+115.60%)</span> | 84<br/><span style="color: #32CD32;">(-45.70%)</span> |
 | **9月** | 276<br/><span style="color: #DC143C;">(+25.50%)</span> | 220<br/><span style="color: #B22222;">(+10.60%)</span> | 199<br/><span style="color: #FF7F7F;">(+102.50%)</span> | 98<br/><span style="color: #90EE90;">(-59.10%)</span> |
 | **8月** | 369<br/><span style="color: #FF7F7F;">(+83.20%)</span> | 200<br/><span style="color: #DC143C;">(+21.90%)</span> | 165<br/><span style="color: #8B0000;">(+3.42%)</span> | -- |
 | **7月** | 314<br/><span style="color: #FF7F7F;">(+74.70%)</span> | 180<br/><span style="color: #FF7F7F;">(+71.30%)</span> | 105<br/><span style="color: #228B22;">(-30.40%)</span> | -- |
@@ -79,6 +79,7 @@ description: 月營收表 銳澤 (7703) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **3.43** | <span style="color: #FF4500; font-weight: bold;">+35.7</span> | <span style="color: #DC143C; font-weight: bold;">+28.6</span> | **171.5** | <span style="color: #8B0000; font-weight: bold;">208.0</span> | <span style="color: #B22222; font-weight: bold;">196.5</span> |
 | **2026/09** | **2.76** | <span style="color: #DC143C; font-weight: bold;">+25.5</span> | <span style="color: #DC143C; font-weight: bold;">+27.6</span> | **201.5** | <span style="color: #8B0000; font-weight: bold;">217.0</span> | <span style="color: #8B0000; font-weight: bold;">179.0</span> |
 | **2026/08** | **3.69** | <span style="color: #FF7F7F; font-weight: bold;">+83.2</span> | <span style="color: #DC143C; font-weight: bold;">+27.9</span> | **179** | <span style="color: #002818; font-weight: bold;">189.0</span> | <span style="color: #002818; font-weight: bold;">161.5</span> |
 | **2026/07** | **3.14** | <span style="color: #FF7F7F; font-weight: bold;">+74.7</span> | <span style="color: #B22222; font-weight: bold;">+19.7</span> | **162** | <span style="color: #8B0000; font-weight: bold;">220.0</span> | <span style="color: #004225; font-weight: bold;">152.0</span> |
@@ -211,7 +212,7 @@ description: 月營收表 銳澤 (7703) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

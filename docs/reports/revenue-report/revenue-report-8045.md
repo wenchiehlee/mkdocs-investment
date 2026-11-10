@@ -25,13 +25,13 @@ description: 月營收表 達運光電 (8045) - 自動產生
     **:building_construction: 公司名稱**: 達運光電  
     **:identification_card: 股票代號**: 8045  
     **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+19.9</span> | <span style="color: #FF4500; font-weight: bold;">+32.1</span> | **237** 個月 | 2006/10 至 2026/09 |
+| <span style="color: #B22222; font-weight: bold;">+19.9</span> | <span style="color: #FF4500; font-weight: bold;">+32.1</span> | **236** 個月 | 2006/11 至 2026/09 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -315,7 +315,6 @@ description: 月營收表 達運光電 (8045) - 自動產生
 | **2007/01** | **-** | N/A | N/A | **-** | N/A | N/A |
 | **2006/12** | **-** | N/A | N/A | **-** | N/A | N/A |
 | **2006/11** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/10** | **-** | N/A | N/A | **-** | N/A | N/A |
 
 </div>
 
@@ -411,7 +410,7 @@ description: 月營收表 達運光電 (8045) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

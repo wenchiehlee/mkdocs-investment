@@ -24,14 +24,14 @@ description: 月營收表 長榮 (2603) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 長榮  
     **:identification_card: 股票代號**: 2603  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+63.7</span> | <span style="color: #B22222; font-weight: bold;">+15.4</span> | **237** 個月 | 2007/01 至 2026/09 |
+| <span style="color: #FF7F7F; font-weight: bold;">+96.1</span> | <span style="color: #DC143C; font-weight: bold;">+22.2</span> | **238** 個月 | 2007/01 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 長榮 (2603) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 30,710<br/><span style="color: #004225;">(-19.60%)</span> | 38,190<br/><span style="color: #FF7F7F;">(+61.60%)</span> | 23,630<br/><span style="color: #004225;">(-19.30%)</span> | 29,289<br/><span style="color: #32CD32;">(-43.90%)</span> |
 | **11月** | -- | 27,630<br/><span style="color: #006400;">(-23.40%)</span> | 36,090<br/><span style="color: #FF7F7F;">(+59.00%)</span> | 22,700<br/><span style="color: #228B22;">(-37.10%)</span> | 36,090<br/><span style="color: #006400;">(-29.30%)</span> |
-| **10月** | -- | 27,330<br/><span style="color: #228B22;">(-34.20%)</span> | 41,530<br/><span style="color: #FF7F7F;">(+77.70%)</span> | 23,360<br/><span style="color: #32CD32;">(-48.80%)</span> | 45,650<br/><span style="color: #004225;">(-13.40%)</span> |
+| **10月** | 53,600<br/><span style="color: #FF7F7F;">(+96.10%)</span> | 27,330<br/><span style="color: #228B22;">(-34.20%)</span> | 41,530<br/><span style="color: #FF7F7F;">(+77.70%)</span> | 23,360<br/><span style="color: #32CD32;">(-48.80%)</span> | 45,650<br/><span style="color: #004225;">(-13.40%)</span> |
 | **9月** | 49,710<br/><span style="color: #FF7F7F;">(+63.70%)</span> | 30,360<br/><span style="color: #228B22;">(-32.00%)</span> | 44,630<br/><span style="color: #FF7F7F;">(+82.40%)</span> | 24,470<br/><span style="color: #90EE90;">(-51.20%)</span> | 50,190<br/><span style="color: #8B0000;">(+5.49%)</span> |
 | **8月** | 48,990<br/><span style="color: #FF6347;">(+48.60%)</span> | 32,960<br/><span style="color: #228B22;">(-38.70%)</span> | 53,760<br/><span style="color: #FF7F7F;">(+115.70%)</span> | 24,920<br/><span style="color: #90EE90;">(-56.60%)</span> | 57,440<br/><span style="color: #B22222;">(+14.80%)</span> |
 | **7月** | 48,080<br/><span style="color: #FF6347;">(+43.10%)</span> | 33,610<br/><span style="color: #228B22;">(-38.20%)</span> | 54,400<br/><span style="color: #FF7F7F;">(+132.20%)</span> | 23,420<br/><span style="color: #90EE90;">(-62.70%)</span> | 62,800<br/><span style="color: #FF4500;">(+36.90%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 長榮 (2603) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **536** | <span style="color: #FF7F7F; font-weight: bold;">+96.1</span> | <span style="color: #DC143C; font-weight: bold;">+22.2</span> | **271.5** | <span style="color: #FF4500; font-weight: bold;">255.5</span> | <span style="color: #FF4500; font-weight: bold;">231.0</span> |
 | **2026/09** | **497.1** | <span style="color: #FF7F7F; font-weight: bold;">+63.7</span> | <span style="color: #B22222; font-weight: bold;">+15.4</span> | **239.5** | <span style="color: #DC143C; font-weight: bold;">245.5</span> | <span style="color: #FF4500; font-weight: bold;">227.0</span> |
 | **2026/08** | **489.9** | <span style="color: #FF6347; font-weight: bold;">+48.6</span> | <span style="color: #8B0000; font-weight: bold;">+9.77</span> | **233.5** | <span style="color: #FF4500; font-weight: bold;">256.5</span> | <span style="color: #DC143C; font-weight: bold;">202.0</span> |
 | **2026/07** | **480.8** | <span style="color: #FF6347; font-weight: bold;">+43.1</span> | <span style="color: #8B0000; font-weight: bold;">+4.21</span> | **204** | <span style="color: #DC143C; font-weight: bold;">208.5</span> | <span style="color: #DC143C; font-weight: bold;">183.5</span> |
@@ -411,7 +412,7 @@ description: 月營收表 長榮 (2603) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
