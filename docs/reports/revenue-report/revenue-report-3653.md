@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-11-10
+date: 2026-11-11
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 健策 (3653) - 自動產生
     **:building_construction: 公司名稱**: 健策  
     **:identification_card: 股票代號**: 3653  
     **:calendar: 最新資料**: 2026/10  
-    **:clock3: 更新時間**: 2026-11-10 15:04:13 CST
+    **:clock3: 更新時間**: 2026-11-11 06:02:28 CST
 
 ## :bar_chart: 績效概覽
 
@@ -386,7 +386,7 @@ description: 月營收表 健策 (3653) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 15:04:13 CST
+- **產生時間**: 2026-11-11 06:02:28 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
