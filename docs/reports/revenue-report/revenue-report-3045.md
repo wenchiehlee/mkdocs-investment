@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-11-11
+date: 2026-11-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 台灣大 (3045) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 台灣大  
     **:identification_card: 股票代號**: 3045  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-11 06:02:28 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-12 05:38:13 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+10.3</span> | <span style="color: #8B0000; font-weight: bold;">+5.35</span> | **239** 個月 | 2006/11 至 2026/09 |
+| <span style="color: #8B0000; font-weight: bold;">+9.21</span> | <span style="color: #8B0000; font-weight: bold;">+5.73</span> | **240** 個月 | 2006/11 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 台灣大 (3045) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 18,050<br/><span style="color: #8B0000;">(+5.20%)</span> | 17,160<br/><span style="color: #8B0000;">(+0.44%)</span> | 17,080<br/><span style="color: #8B0000;">(+9.52%)</span> | 15,590<br/><span style="color: #B22222;">(+13.00%)</span> |
 | **11月** | -- | 23,110<br/><span style="color: #8B0000;">(+0.20%)</span> | 23,070<br/><span style="color: #8B0000;">(+6.28%)</span> | 21,700<br/><span style="color: #8B0000;">(+5.02%)</span> | 20,660<br/><span style="color: #B22222;">(+12.90%)</span> |
-| **10月** | -- | 15,619<br/><span style="color: #002818;">(-1.91%)</span> | 15,930<br/><span style="color: #8B0000;">(+7.50%)</span> | 14,819<br/><span style="color: #8B0000;">(+3.30%)</span> | 14,340<br/><span style="color: #B22222;">(+11.40%)</span> |
+| **10月** | 17,070<br/><span style="color: #8B0000;">(+9.21%)</span> | 15,619<br/><span style="color: #002818;">(-1.91%)</span> | 15,930<br/><span style="color: #8B0000;">(+7.50%)</span> | 14,819<br/><span style="color: #8B0000;">(+3.30%)</span> | 14,340<br/><span style="color: #B22222;">(+11.40%)</span> |
 | **9月** | 17,410<br/><span style="color: #B22222;">(+10.30%)</span> | 15,780<br/><span style="color: #002818;">(-0.84%)</span> | 15,910<br/><span style="color: #B22222;">(+10.90%)</span> | 14,350<br/><span style="color: #8B0000;">(+5.63%)</span> | 13,580<br/><span style="color: #B22222;">(+11.20%)</span> |
 | **8月** | 16,780<br/><span style="color: #8B0000;">(+8.49%)</span> | 15,469<br/><span style="color: #002818;">(-2.21%)</span> | 15,819<br/><span style="color: #8B0000;">(+8.62%)</span> | 14,560<br/><span style="color: #8B0000;">(+7.49%)</span> | 13,550<br/><span style="color: #8B0000;">(+7.59%)</span> |
 | **7月** | 16,169<br/><span style="color: #8B0000;">(+7.14%)</span> | 15,090<br/><span style="color: #002818;">(-2.44%)</span> | 15,469<br/><span style="color: #8B0000;">(+8.37%)</span> | 14,269<br/><span style="color: #8B0000;">(+7.03%)</span> | 13,340<br/><span style="color: #8B0000;">(+6.00%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 台灣大 (3045) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **170.7** | <span style="color: #8B0000; font-weight: bold;">+9.21</span> | <span style="color: #8B0000; font-weight: bold;">+5.73</span> | **133.5** | <span style="color: #FF4500; font-weight: bold;">124.0</span> | <span style="color: #FF6347; font-weight: bold;">119.5</span> |
 | **2026/09** | **174.1** | <span style="color: #B22222; font-weight: bold;">+10.3</span> | <span style="color: #8B0000; font-weight: bold;">+5.35</span> | **119.5** | <span style="color: #FF6347; font-weight: bold;">125.5</span> | <span style="color: #FF4500; font-weight: bold;">113.5</span> |
 | **2026/08** | **167.8** | <span style="color: #8B0000; font-weight: bold;">+8.49</span> | <span style="color: #8B0000; font-weight: bold;">+4.72</span> | **116** | <span style="color: #DC143C; font-weight: bold;">116.0</span> | <span style="color: #DC143C; font-weight: bold;">107.5</span> |
 | **2026/07** | **161.7** | <span style="color: #8B0000; font-weight: bold;">+7.14</span> | <span style="color: #8B0000; font-weight: bold;">+4.19</span> | **112.5** | <span style="color: #FF4500; font-weight: bold;">120.0</span> | <span style="color: #DC143C; font-weight: bold;">106.0</span> |
@@ -413,7 +414,7 @@ description: 月營收表 台灣大 (3045) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-11 06:02:28 CST
+- **產生時間**: 2026-11-12 05:38:13 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

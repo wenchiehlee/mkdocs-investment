@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-11-11
+date: 2026-11-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 達發 (6526) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 達發  
     **:identification_card: 股票代號**: 6526  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-11 06:02:28 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-12 05:38:13 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+26.6</span> | <span style="color: #B22222; font-weight: bold;">+14.1</span> | **82** 個月 | 2015/04 至 2026/09 |
+| <span style="color: #FF7F7F; font-weight: bold;">+56</span> | <span style="color: #B22222; font-weight: bold;">+17.6</span> | **83** 個月 | 2015/04 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 達發 (6526) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 1,494<br/><span style="color: #002818;">(-4.38%)</span> | 1,562<br/><span style="color: #FF7F7F;">(+58.40%)</span> | 986<br/><span style="color: #8B0000;">(+1.39%)</span> | 973<br/><span style="color: #006400;">(-24.00%)</span> |
 | **11月** | -- | 1,548<br/><span style="color: #002818;">(-5.76%)</span> | 1,643<br/><span style="color: #FF7F7F;">(+61.10%)</span> | 1,019<br/><span style="color: #8B0000;">(+7.03%)</span> | 952<br/><span style="color: #006400;">(-21.70%)</span> |
-| **10月** | -- | 1,509<br/><span style="color: #002818;">(-7.25%)</span> | 1,627<br/><span style="color: #FF4500;">(+37.80%)</span> | 1,181<br/><span style="color: #8B0000;">(+1.96%)</span> | 1,158<br/><span style="color: #B22222;">(+16.70%)</span> |
+| **10月** | 2,354<br/><span style="color: #FF7F7F;">(+56.00%)</span> | 1,509<br/><span style="color: #002818;">(-7.25%)</span> | 1,627<br/><span style="color: #FF4500;">(+37.80%)</span> | 1,181<br/><span style="color: #8B0000;">(+1.96%)</span> | 1,158<br/><span style="color: #B22222;">(+16.70%)</span> |
 | **9月** | 2,313<br/><span style="color: #DC143C;">(+26.60%)</span> | 1,827<br/><span style="color: #002818;">(-1.49%)</span> | 1,854<br/><span style="color: #B22222;">(+13.00%)</span> | 1,641<br/><span style="color: #B22222;">(+10.40%)</span> | 1,485<br/><span style="color: #FF7F7F;">(+51.10%)</span> |
 | **8月** | 2,339<br/><span style="color: #DC143C;">(+26.10%)</span> | 1,855<br/><span style="color: #002818;">(-1.80%)</span> | 1,889<br/><span style="color: #FF7F7F;">(+61.00%)</span> | 1,173<br/><span style="color: #006400;">(-22.20%)</span> | 1,509<br/><span style="color: #FF6347;">(+42.80%)</span> |
 | **7月** | 2,289<br/><span style="color: #B22222;">(+17.40%)</span> | 1,948<br/><span style="color: #8B0000;">(+7.01%)</span> | 1,821<br/><span style="color: #FF7F7F;">(+76.90%)</span> | 1,029<br/><span style="color: #228B22;">(-38.20%)</span> | 1,664<br/><span style="color: #FF7F7F;">(+56.40%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 達發 (6526) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **23.54** | <span style="color: #FF7F7F; font-weight: bold;">+56</span> | <span style="color: #B22222; font-weight: bold;">+17.6</span> | **765** | <span style="color: #FF6347; font-weight: bold;">885.0</span> | <span style="color: #FF6347; font-weight: bold;">762.0</span> |
 | **2026/09** | **23.13** | <span style="color: #DC143C; font-weight: bold;">+26.6</span> | <span style="color: #B22222; font-weight: bold;">+14.1</span> | **840** | <span style="color: #FF4500; font-weight: bold;">862.0</span> | <span style="color: #B22222; font-weight: bold;">607.0</span> |
 | **2026/08** | **23.39** | <span style="color: #DC143C; font-weight: bold;">+26.1</span> | <span style="color: #B22222; font-weight: bold;">+12.5</span> | **607** | <span style="color: #8B0000; font-weight: bold;">656.0</span> | <span style="color: #002818; font-weight: bold;">523.0</span> |
 | **2026/07** | **22.89** | <span style="color: #B22222; font-weight: bold;">+17.4</span> | <span style="color: #B22222; font-weight: bold;">+10.5</span> | **520** | <span style="color: #B22222; font-weight: bold;">719.0</span> | <span style="color: #004225; font-weight: bold;">485.0</span> |
@@ -256,7 +257,7 @@ description: 月營收表 達發 (6526) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-11 06:02:28 CST
+- **產生時間**: 2026-11-12 05:38:13 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

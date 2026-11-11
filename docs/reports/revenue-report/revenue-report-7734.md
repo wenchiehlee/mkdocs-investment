@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-11-11
+date: 2026-11-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 印能科技 (7734) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 印能科技  
     **:identification_card: 股票代號**: 7734  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-11 06:02:28 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-12 05:38:13 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+122.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+60.4</span> | **34** 個月 | 2023/12 至 2026/09 |
+| <span style="color: #FF7F7F; font-weight: bold;">+215.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+70.8</span> | **35** 個月 | 2023/12 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 印能科技 (7734) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 202<br/><span style="color: #8B0000;">(+9.09%)</span> | 185<br/><span style="color: #8B0000;">(+3.83%)</span> | 179<br/><span style="color: #DC143C;">(+26.10%)</span> |
 | **11月** | -- | 160<br/><span style="color: #8B0000;">(+6.30%)</span> | 151<br/><span style="color: #B22222;">(+11.60%)</span> | -- |
-| **10月** | -- | 130<br/><span style="color: #228B22;">(-34.10%)</span> | 197<br/><span style="color: #FF7F7F;">(+158.50%)</span> | -- |
+| **10月** | 409<br/><span style="color: #FF7F7F;">(+215.80%)</span> | 130<br/><span style="color: #228B22;">(-34.10%)</span> | 197<br/><span style="color: #FF7F7F;">(+158.50%)</span> | -- |
 | **9月** | 449<br/><span style="color: #FF7F7F;">(+122.30%)</span> | 202<br/><span style="color: #FF7F7F;">(+95.80%)</span> | 103<br/><span style="color: #FF7F7F;">(+284.40%)</span> | -- |
 | **8月** | 256<br/><span style="color: #002818;">(-1.26%)</span> | 259<br/><span style="color: #FF7F7F;">(+75.30%)</span> | 148<br/><span style="color: #FF7F7F;">(+50.20%)</span> | -- |
 | **7月** | 409<br/><span style="color: #FF7F7F;">(+62.30%)</span> | 252<br/><span style="color: #FF7F7F;">(+76.00%)</span> | 143<br/><span style="color: #FF6347;">(+43.20%)</span> | -- |
@@ -79,6 +79,7 @@ description: 月營收表 印能科技 (7734) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **4.1** | <span style="color: #FF7F7F; font-weight: bold;">+215.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+70.8</span> | **2065** | <span style="color: #B22222; font-weight: bold;">2980.0</span> | <span style="color: #B22222; font-weight: bold;">2640.0</span> |
 | **2026/09** | **4.49** | <span style="color: #FF7F7F; font-weight: bold;">+122.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+60.4</span> | **2665** | <span style="color: #B22222; font-weight: bold;">3130.0</span> | <span style="color: #B22222; font-weight: bold;">2405.0</span> |
 | **2026/08** | **2.56** | <span style="color: #002818; font-weight: bold;">-1.26</span> | <span style="color: #FF7F7F; font-weight: bold;">+52.6</span> | **2825** | <span style="color: #DC143C; font-weight: bold;">3875.0</span> | <span style="color: #DC143C; font-weight: bold;">2710.0</span> |
 | **2026/07** | **4.09** | <span style="color: #FF7F7F; font-weight: bold;">+62.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+62.9</span> | **3370** | <span style="color: #B22222; font-weight: bold;">3530.0</span> | <span style="color: #B22222; font-weight: bold;">2530.0</span> |
@@ -208,7 +209,7 @@ description: 月營收表 印能科技 (7734) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-11 06:02:28 CST
+- **產生時間**: 2026-11-12 05:38:13 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

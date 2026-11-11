@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-11-11
+date: 2026-11-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 LINEPAY (7722) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: LINEPAY  
     **:identification_card: 股票代號**: 7722  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-11 06:02:28 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-12 05:38:13 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+6.84</span> | <span style="color: #B22222; font-weight: bold;">+13</span> | **35** 個月 | 2023/11 至 2026/09 |
+| <span style="color: #8B0000; font-weight: bold;">+4.13</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **36** 個月 | 2023/11 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 LINEPAY (7722) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 718<br/><span style="color: #B22222;">(+16.30%)</span> | 617<br/><span style="color: #FF6347;">(+40.70%)</span> | 438<br/><span style="color: #B22222;">(+14.50%)</span> |
 | **11月** | -- | 757<br/><span style="color: #DC143C;">(+27.80%)</span> | 592<br/><span style="color: #FF4500;">(+31.60%)</span> | 450<br/><span style="color: #DC143C;">(+25.10%)</span> |
-| **10月** | -- | 704<br/><span style="color: #DC143C;">(+26.40%)</span> | 557<br/><span style="color: #B22222;">(+19.50%)</span> | -- |
+| **10月** | 733<br/><span style="color: #8B0000;">(+4.13%)</span> | 704<br/><span style="color: #DC143C;">(+26.40%)</span> | 557<br/><span style="color: #B22222;">(+19.50%)</span> | -- |
 | **9月** | 725<br/><span style="color: #8B0000;">(+6.84%)</span> | 679<br/><span style="color: #DC143C;">(+24.40%)</span> | 546<br/><span style="color: #FF6347;">(+42.20%)</span> | -- |
 | **8月** | 756<br/><span style="color: #8B0000;">(+8.65%)</span> | 696<br/><span style="color: #FF4500;">(+30.80%)</span> | 532<br/><span style="color: #DC143C;">(+29.20%)</span> | -- |
 | **7月** | 725<br/><span style="color: #B22222;">(+13.20%)</span> | 640<br/><span style="color: #DC143C;">(+23.90%)</span> | 517<br/><span style="color: #DC143C;">(+20.20%)</span> | -- |
@@ -79,6 +79,7 @@ description: 月營收表 LINEPAY (7722) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **7.33** | <span style="color: #8B0000; font-weight: bold;">+4.13</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **239** | <span style="color: #006400; font-weight: bold;">274.5</span> | <span style="color: #006400; font-weight: bold;">259.0</span> |
 | **2026/09** | **7.25** | <span style="color: #8B0000; font-weight: bold;">+6.84</span> | <span style="color: #B22222; font-weight: bold;">+13</span> | **259** | <span style="color: #006400; font-weight: bold;">285.5</span> | <span style="color: #006400; font-weight: bold;">256.5</span> |
 | **2026/08** | **7.56** | <span style="color: #8B0000; font-weight: bold;">+8.65</span> | <span style="color: #B22222; font-weight: bold;">+13.8</span> | **285** | <span style="color: #006400; font-weight: bold;">309.0</span> | <span style="color: #006400; font-weight: bold;">267.5</span> |
 | **2026/07** | **7.25** | <span style="color: #B22222; font-weight: bold;">+13.2</span> | <span style="color: #B22222; font-weight: bold;">+14.6</span> | **270** | <span style="color: #006400; font-weight: bold;">337.0</span> | <span style="color: #006400; font-weight: bold;">264.5</span> |
@@ -209,7 +210,7 @@ description: 月營收表 LINEPAY (7722) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-11 06:02:28 CST
+- **產生時間**: 2026-11-12 05:38:13 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

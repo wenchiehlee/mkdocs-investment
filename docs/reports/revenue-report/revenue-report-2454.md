@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-11-11
+date: 2026-11-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 聯發科 (2454) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 聯發科  
     **:identification_card: 股票代號**: 2454  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-11 06:02:28 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-12 05:38:13 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+1.96</span> | <span style="color: #8B0000; font-weight: bold;">+5.29</span> | **239** 個月 | 2006/11 至 2026/09 |
+| <span style="color: #8B0000; font-weight: bold;">+5.76</span> | <span style="color: #8B0000; font-weight: bold;">+5.34</span> | **240** 個月 | 2006/11 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 聯發科 (2454) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 51,270<br/><span style="color: #DC143C;">(+23.00%)</span> | 41,680<br/><span style="color: #002818;">(-4.57%)</span> | 43,680<br/><span style="color: #B22222;">(+12.90%)</span> | 38,690<br/><span style="color: #004225;">(-16.30%)</span> |
 | **11月** | -- | 46,900<br/><span style="color: #8B0000;">(+3.65%)</span> | 45,240<br/><span style="color: #8B0000;">(+5.04%)</span> | 43,070<br/><span style="color: #B22222;">(+19.20%)</span> | 36,120<br/><span style="color: #004225;">(-19.80%)</span> |
-| **10月** | -- | 52,029<br/><span style="color: #8B0000;">(+1.77%)</span> | 51,120<br/><span style="color: #B22222;">(+19.40%)</span> | 42,810<br/><span style="color: #DC143C;">(+28.20%)</span> | 33,380<br/><span style="color: #004225;">(-10.80%)</span> |
+| **10月** | 55,029<br/><span style="color: #8B0000;">(+5.76%)</span> | 52,029<br/><span style="color: #8B0000;">(+1.77%)</span> | 51,120<br/><span style="color: #B22222;">(+19.40%)</span> | 42,810<br/><span style="color: #DC143C;">(+28.20%)</span> | 33,380<br/><span style="color: #004225;">(-10.80%)</span> |
 | **9月** | 55,400<br/><span style="color: #8B0000;">(+1.96%)</span> | 54,329<br/><span style="color: #DC143C;">(+21.60%)</span> | 44,680<br/><span style="color: #DC143C;">(+23.80%)</span> | 36,080<br/><span style="color: #228B22;">(-36.20%)</span> | 56,570<br/><span style="color: #B22222;">(+18.10%)</span> |
 | **8月** | 64,179<br/><span style="color: #FF6347;">(+44.10%)</span> | 44,550<br/><span style="color: #8B0000;">(+7.26%)</span> | 41,530<br/><span style="color: #002818;">(-1.72%)</span> | 42,260<br/><span style="color: #002818;">(-5.46%)</span> | 44,700<br/><span style="color: #8B0000;">(+4.41%)</span> |
 | **7月** | 48,470<br/><span style="color: #B22222;">(+12.20%)</span> | 43,220<br/><span style="color: #002818;">(-5.23%)</span> | 45,610<br/><span style="color: #FF6347;">(+43.60%)</span> | 31,760<br/><span style="color: #006400;">(-22.30%)</span> | 40,890<br/><span style="color: #8B0000;">(+1.31%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 聯發科 (2454) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **550.3** | <span style="color: #8B0000; font-weight: bold;">+5.76</span> | <span style="color: #8B0000; font-weight: bold;">+5.34</span> | **3915** | <span style="color: #FF7F7F; font-weight: bold;">5165.0</span> | <span style="color: #FF7F7F; font-weight: bold;">4545.0</span> |
 | **2026/09** | **554** | <span style="color: #8B0000; font-weight: bold;">+1.96</span> | <span style="color: #8B0000; font-weight: bold;">+5.29</span> | **4920** | <span style="color: #FF7F7F; font-weight: bold;">5480.0</span> | <span style="color: #FF7F7F; font-weight: bold;">4230.0</span> |
 | **2026/08** | **641.8** | <span style="color: #FF6347; font-weight: bold;">+44.1</span> | <span style="color: #8B0000; font-weight: bold;">+5.75</span> | **3925** | <span style="color: #FF6347; font-weight: bold;">4400.0</span> | <span style="color: #FF6347; font-weight: bold;">3655.0</span> |
 | **2026/07** | **484.7** | <span style="color: #B22222; font-weight: bold;">+12.2</span> | <span style="color: #8B0000; font-weight: bold;">+0.83</span> | **3555** | <span style="color: #FF6347; font-weight: bold;">4380.0</span> | <span style="color: #FF6347; font-weight: bold;">2990.0</span> |
@@ -413,7 +414,7 @@ description: 月營收表 聯發科 (2454) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-11 06:02:28 CST
+- **產生時間**: 2026-11-12 05:38:13 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

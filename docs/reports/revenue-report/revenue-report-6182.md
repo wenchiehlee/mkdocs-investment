@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-11-11
+date: 2026-11-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 合晶 (6182) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 合晶  
     **:identification_card: 股票代號**: 6182  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-11 06:02:28 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-12 05:38:13 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+13.5</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **239** 個月 | 2006/11 至 2026/09 |
+| <span style="color: #DC143C; font-weight: bold;">+20.2</span> | <span style="color: #B22222; font-weight: bold;">+12.8</span> | **240** 個月 | 2006/11 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 合晶 (6182) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 761<br/><span style="color: #DC143C;">(+22.10%)</span> | 623<br/><span style="color: #002818;">(-8.53%)</span> | 682<br/><span style="color: #228B22;">(-30.20%)</span> | 977<br/><span style="color: #002818;">(-1.41%)</span> |
 | **11月** | -- | 817<br/><span style="color: #B22222;">(+15.00%)</span> | 710<br/><span style="color: #8B0000;">(+0.06%)</span> | 710<br/><span style="color: #228B22;">(-30.00%)</span> | 1,014<br/><span style="color: #8B0000;">(+2.60%)</span> |
-| **10月** | -- | 861<br/><span style="color: #B22222;">(+15.00%)</span> | 749<br/><span style="color: #8B0000;">(+3.34%)</span> | 725<br/><span style="color: #228B22;">(-34.70%)</span> | 1,111<br/><span style="color: #B22222;">(+16.30%)</span> |
+| **10月** | 1,036<br/><span style="color: #DC143C;">(+20.20%)</span> | 861<br/><span style="color: #B22222;">(+15.00%)</span> | 749<br/><span style="color: #8B0000;">(+3.34%)</span> | 725<br/><span style="color: #228B22;">(-34.70%)</span> | 1,111<br/><span style="color: #B22222;">(+16.30%)</span> |
 | **9月** | 1,011<br/><span style="color: #B22222;">(+13.50%)</span> | 890<br/><span style="color: #B22222;">(+10.20%)</span> | 807<br/><span style="color: #002818;">(-9.85%)</span> | 896<br/><span style="color: #006400;">(-22.50%)</span> | 1,156<br/><span style="color: #DC143C;">(+28.30%)</span> |
 | **8月** | 1,003<br/><span style="color: #DC143C;">(+20.00%)</span> | 836<br/><span style="color: #8B0000;">(+6.03%)</span> | 790<br/><span style="color: #002818;">(-8.52%)</span> | 863<br/><span style="color: #006400;">(-23.80%)</span> | 1,133<br/><span style="color: #DC143C;">(+28.90%)</span> |
 | **7月** | 994<br/><span style="color: #B22222;">(+18.90%)</span> | 836<br/><span style="color: #8B0000;">(+7.08%)</span> | 781<br/><span style="color: #004225;">(-10.90%)</span> | 877<br/><span style="color: #006400;">(-23.30%)</span> | 1,144<br/><span style="color: #FF4500;">(+36.20%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 合晶 (6182) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **10.36** | <span style="color: #DC143C; font-weight: bold;">+20.2</span> | <span style="color: #B22222; font-weight: bold;">+12.8</span> | **93.9** | <span style="color: #DC143C; font-weight: bold;">140.0</span> | <span style="color: #FF4500; font-weight: bold;">123.0</span> |
 | **2026/09** | **10.11** | <span style="color: #B22222; font-weight: bold;">+13.5</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **133** | <span style="color: #DC143C; font-weight: bold;">133.0</span> | <span style="color: #DC143C; font-weight: bold;">100.0</span> |
 | **2026/08** | **10.04** | <span style="color: #DC143C; font-weight: bold;">+20</span> | <span style="color: #B22222; font-weight: bold;">+11.7</span> | **105.5** | <span style="color: #DC143C; font-weight: bold;">131.0</span> | <span style="color: #B22222; font-weight: bold;">82.1</span> |
 | **2026/07** | **9.94** | <span style="color: #B22222; font-weight: bold;">+18.9</span> | <span style="color: #B22222; font-weight: bold;">+10.5</span> | **89** | <span style="color: #FF6347; font-weight: bold;">194.5</span> | <span style="color: #DC143C; font-weight: bold;">84.0</span> |
@@ -413,7 +414,7 @@ description: 月營收表 合晶 (6182) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-11 06:02:28 CST
+- **產生時間**: 2026-11-12 05:38:13 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

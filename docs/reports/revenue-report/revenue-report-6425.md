@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-11-11
+date: 2026-11-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 易發 (6425) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 易發  
     **:identification_card: 股票代號**: 6425  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-11 06:02:28 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-12 05:38:13 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+66.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+57.8</span> | **161** 個月 | 2013/05 至 2026/09 |
+| <span style="color: #FF7F7F; font-weight: bold;">+253.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+82.2</span> | **162** 個月 | 2013/05 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 易發 (6425) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 199<br/><span style="color: #8B0000;">(+0.85%)</span> | 197<br/><span style="color: #004225;">(-18.90%)</span> | 243<br/><span style="color: #FF6347;">(+46.20%)</span> | 166<br/><span style="color: #DC143C;">(+27.60%)</span> |
 | **11月** | -- | 150<br/><span style="color: #002818;">(-4.32%)</span> | 157<br/><span style="color: #FF7F7F;">(+171.90%)</span> | 57<br/><span style="color: #006400;">(-26.60%)</span> | 78<br/><span style="color: #90EE90;">(-59.60%)</span> |
-| **10月** | -- | 133<br/><span style="color: #DC143C;">(+24.40%)</span> | 107<br/><span style="color: #DC143C;">(+27.30%)</span> | 83<br/><span style="color: #228B22;">(-38.80%)</span> | 137<br/><span style="color: #006400;">(-22.80%)</span> |
+| **10月** | 469<br/><span style="color: #FF7F7F;">(+253.40%)</span> | 133<br/><span style="color: #DC143C;">(+24.40%)</span> | 107<br/><span style="color: #DC143C;">(+27.30%)</span> | 83<br/><span style="color: #228B22;">(-38.80%)</span> | 137<br/><span style="color: #006400;">(-22.80%)</span> |
 | **9月** | 252<br/><span style="color: #FF7F7F;">(+66.10%)</span> | 152<br/><span style="color: #DC143C;">(+29.20%)</span> | 118<br/><span style="color: #DC143C;">(+22.10%)</span> | 96<br/><span style="color: #32CD32;">(-43.20%)</span> | 170<br/><span style="color: #8B0000;">(+1.42%)</span> |
 | **8月** | 159<br/><span style="color: #FF7F7F;">(+94.00%)</span> | 82<br/><span style="color: #006400;">(-23.00%)</span> | 107<br/><span style="color: #FF6347;">(+41.70%)</span> | 75<br/><span style="color: #32CD32;">(-46.80%)</span> | 142<br/><span style="color: #004225;">(-18.90%)</span> |
 | **7月** | 179<br/><span style="color: #FF7F7F;">(+226.90%)</span> | 54<br/><span style="color: #90EE90;">(-60.20%)</span> | 137<br/><span style="color: #FF7F7F;">(+101.10%)</span> | 68<br/><span style="color: #004225;">(-14.00%)</span> | 79<br/><span style="color: #002818;">(-6.31%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 易發 (6425) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **4.69** | <span style="color: #FF7F7F; font-weight: bold;">+253.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+82.2</span> | **74.8** | <span style="color: #DC143C; font-weight: bold;">84.3</span> | <span style="color: #FF4500; font-weight: bold;">72.0</span> |
 | **2026/09** | **2.52** | <span style="color: #FF7F7F; font-weight: bold;">+66.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+57.8</span> | **79** | <span style="color: #DC143C; font-weight: bold;">79.8</span> | <span style="color: #DC143C; font-weight: bold;">59.6</span> |
 | **2026/08** | **1.59** | <span style="color: #FF7F7F; font-weight: bold;">+94</span> | <span style="color: #FF7F7F; font-weight: bold;">+56.1</span> | **67.8** | <span style="color: #B22222; font-weight: bold;">68.0</span> | <span style="color: #B22222; font-weight: bold;">51.4</span> |
 | **2026/07** | **1.79** | <span style="color: #FF7F7F; font-weight: bold;">+226.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+51.6</span> | **50.7** | <span style="color: #B22222; font-weight: bold;">75.3</span> | <span style="color: #B22222; font-weight: bold;">48.5</span> |
@@ -335,7 +336,7 @@ description: 月營收表 易發 (6425) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-11 06:02:28 CST
+- **產生時間**: 2026-11-12 05:38:13 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

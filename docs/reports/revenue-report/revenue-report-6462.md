@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-11-11
+date: 2026-11-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 神盾 (6462) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 神盾  
     **:identification_card: 股票代號**: 6462  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-11 06:02:28 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-12 05:38:13 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #002818; font-weight: bold;">-0.27</span> | <span style="color: #FF7F7F; font-weight: bold;">+53.4</span> | **150** 個月 | 2014/04 至 2026/09 |
+| <span style="color: #FF6347; font-weight: bold;">+45</span> | <span style="color: #FF7F7F; font-weight: bold;">+52.7</span> | **151** 個月 | 2014/04 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 神盾 (6462) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 738<br/><span style="color: #FF4500;">(+39.00%)</span> | 531<br/><span style="color: #B22222;">(+13.00%)</span> | 470<br/><span style="color: #FF7F7F;">(+63.80%)</span> | 287<br/><span style="color: #004225;">(-10.60%)</span> |
 | **11月** | -- | 535<br/><span style="color: #002818;">(-8.31%)</span> | 584<br/><span style="color: #FF7F7F;">(+63.30%)</span> | 358<br/><span style="color: #B22222;">(+18.70%)</span> | 301<br/><span style="color: #B22222;">(+14.30%)</span> |
-| **10月** | -- | 316<br/><span style="color: #228B22;">(-31.50%)</span> | 462<br/><span style="color: #FF7F7F;">(+54.50%)</span> | 299<br/><span style="color: #B22222;">(+16.00%)</span> | 258<br/><span style="color: #B22222;">(+13.70%)</span> |
+| **10月** | 459<br/><span style="color: #FF6347;">(+45.00%)</span> | 316<br/><span style="color: #228B22;">(-31.50%)</span> | 462<br/><span style="color: #FF7F7F;">(+54.50%)</span> | 299<br/><span style="color: #B22222;">(+16.00%)</span> | 258<br/><span style="color: #B22222;">(+13.70%)</span> |
 | **9月** | 496<br/><span style="color: #002818;">(-0.27%)</span> | 498<br/><span style="color: #8B0000;">(+9.05%)</span> | 455<br/><span style="color: #DC143C;">(+29.90%)</span> | 351<br/><span style="color: #FF4500;">(+31.60%)</span> | 267<br/><span style="color: #228B22;">(-37.00%)</span> |
 | **8月** | 532<br/><span style="color: #B22222;">(+11.10%)</span> | 479<br/><span style="color: #8B0000;">(+9.66%)</span> | 437<br/><span style="color: #FF6347;">(+43.60%)</span> | 304<br/><span style="color: #B22222;">(+13.10%)</span> | 269<br/><span style="color: #8B0000;">(+2.72%)</span> |
 | **7月** | 796<br/><span style="color: #FF7F7F;">(+63.80%)</span> | 486<br/><span style="color: #FF4500;">(+37.80%)</span> | 353<br/><span style="color: #DC143C;">(+21.10%)</span> | 291<br/><span style="color: #B22222;">(+12.40%)</span> | 259<br/><span style="color: #FF7F7F;">(+100.00%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 神盾 (6462) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **4.59** | <span style="color: #FF6347; font-weight: bold;">+45</span> | <span style="color: #FF7F7F; font-weight: bold;">+52.7</span> | **95.7** | <span style="color: #006400; font-weight: bold;">110.5</span> | <span style="color: #004225; font-weight: bold;">99.3</span> |
 | **2026/09** | **4.96** | <span style="color: #002818; font-weight: bold;">-0.27</span> | <span style="color: #FF7F7F; font-weight: bold;">+53.4</span> | **106** | <span style="color: #006400; font-weight: bold;">106.5</span> | <span style="color: #006400; font-weight: bold;">95.1</span> |
 | **2026/08** | **5.32** | <span style="color: #B22222; font-weight: bold;">+11.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+61.6</span> | **99.9** | <span style="color: #006400; font-weight: bold;">105.0</span> | <span style="color: #006400; font-weight: bold;">91.7</span> |
 | **2026/07** | **7.96** | <span style="color: #FF7F7F; font-weight: bold;">+63.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+70.4</span> | **93.7** | <span style="color: #006400; font-weight: bold;">121.5</span> | <span style="color: #006400; font-weight: bold;">88.0</span> |
@@ -324,7 +325,7 @@ description: 月營收表 神盾 (6462) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-11 06:02:28 CST
+- **產生時間**: 2026-11-12 05:38:13 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

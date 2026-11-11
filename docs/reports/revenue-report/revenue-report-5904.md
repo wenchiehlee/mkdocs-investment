@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-11-11
+date: 2026-11-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 寶雅 (5904) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 寶雅  
     **:identification_card: 股票代號**: 5904  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-11 06:02:28 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-12 05:38:13 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+15.7</span> | <span style="color: #B22222; font-weight: bold;">+14.1</span> | **239** 個月 | 2006/11 至 2026/09 |
+| <span style="color: #B22222; font-weight: bold;">+14.4</span> | <span style="color: #B22222; font-weight: bold;">+14.1</span> | **240** 個月 | 2006/11 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 寶雅 (5904) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 2,255<br/><span style="color: #8B0000;">(+2.50%)</span> | 2,200<br/><span style="color: #B22222;">(+11.10%)</span> | 1,980<br/><span style="color: #8B0000;">(+2.26%)</span> | 1,936<br/><span style="color: #B22222;">(+18.40%)</span> |
 | **11月** | -- | 2,176<br/><span style="color: #B22222;">(+14.30%)</span> | 1,905<br/><span style="color: #8B0000;">(+9.10%)</span> | 1,746<br/><span style="color: #B22222;">(+13.00%)</span> | 1,545<br/><span style="color: #8B0000;">(+4.29%)</span> |
-| **10月** | -- | 2,147<br/><span style="color: #B22222;">(+13.20%)</span> | 1,898<br/><span style="color: #002818;">(-0.61%)</span> | 1,909<br/><span style="color: #B22222;">(+15.10%)</span> | 1,659<br/><span style="color: #8B0000;">(+1.84%)</span> |
+| **10月** | 2,458<br/><span style="color: #B22222;">(+14.40%)</span> | 2,147<br/><span style="color: #B22222;">(+13.20%)</span> | 1,898<br/><span style="color: #002818;">(-0.61%)</span> | 1,909<br/><span style="color: #B22222;">(+15.10%)</span> | 1,659<br/><span style="color: #8B0000;">(+1.84%)</span> |
 | **9月** | 2,422<br/><span style="color: #B22222;">(+15.70%)</span> | 2,093<br/><span style="color: #8B0000;">(+2.19%)</span> | 2,048<br/><span style="color: #8B0000;">(+5.82%)</span> | 1,935<br/><span style="color: #B22222;">(+14.60%)</span> | 1,689<br/><span style="color: #B22222;">(+15.00%)</span> |
 | **8月** | 2,465<br/><span style="color: #B22222;">(+10.30%)</span> | 2,235<br/><span style="color: #8B0000;">(+8.80%)</span> | 2,054<br/><span style="color: #8B0000;">(+6.18%)</span> | 1,934<br/><span style="color: #8B0000;">(+9.59%)</span> | 1,764<br/><span style="color: #DC143C;">(+20.30%)</span> |
 | **7月** | 2,472<br/><span style="color: #B22222;">(+19.20%)</span> | 2,073<br/><span style="color: #8B0000;">(+2.49%)</span> | 2,023<br/><span style="color: #8B0000;">(+1.12%)</span> | 2,000<br/><span style="color: #B22222;">(+11.30%)</span> | 1,797<br/><span style="color: #FF6347;">(+41.10%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 寶雅 (5904) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **24.58** | <span style="color: #B22222; font-weight: bold;">+14.4</span> | <span style="color: #B22222; font-weight: bold;">+14.1</span> | **72.5** | <span style="color: #004225; font-weight: bold;">73.0</span> | <span style="color: #004225; font-weight: bold;">68.2</span> |
 | **2026/09** | **24.22** | <span style="color: #B22222; font-weight: bold;">+15.7</span> | <span style="color: #B22222; font-weight: bold;">+14.1</span> | **69.7** | <span style="color: #004225; font-weight: bold;">75.0</span> | <span style="color: #004225; font-weight: bold;">68.6</span> |
 | **2026/08** | **24.65** | <span style="color: #B22222; font-weight: bold;">+10.3</span> | <span style="color: #B22222; font-weight: bold;">+13.9</span> | **75** | <span style="color: #004225; font-weight: bold;">92.3</span> | <span style="color: #004225; font-weight: bold;">73.2</span> |
 | **2026/07** | **24.72** | <span style="color: #B22222; font-weight: bold;">+19.2</span> | <span style="color: #B22222; font-weight: bold;">+14.5</span> | **720** | <span style="color: #FF6347; font-weight: bold;">767.0</span> | <span style="color: #FF4500; font-weight: bold;">601.0</span> |
@@ -413,7 +414,7 @@ description: 月營收表 寶雅 (5904) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-11 06:02:28 CST
+- **產生時間**: 2026-11-12 05:38:13 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

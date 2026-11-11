@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-11-11
+date: 2026-11-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 友訊 (2332) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 友訊  
     **:identification_card: 股票代號**: 2332  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-11 06:02:28 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-12 05:38:13 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+2.58</span> | <span style="color: #8B0000; font-weight: bold;">+7.87</span> | **239** 個月 | 2006/11 至 2026/09 |
+| <span style="color: #002818; font-weight: bold;">-4.79</span> | <span style="color: #8B0000; font-weight: bold;">+6.56</span> | **240** 個月 | 2006/11 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 友訊 (2332) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 1,200<br/><span style="color: #8B0000;">(+4.10%)</span> | 1,153<br/><span style="color: #8B0000;">(+2.49%)</span> | 1,125<br/><span style="color: #004225;">(-14.30%)</span> | 1,313<br/><span style="color: #002818;">(-9.05%)</span> |
 | **11月** | -- | 1,094<br/><span style="color: #002818;">(-5.86%)</span> | 1,162<br/><span style="color: #004225;">(-10.20%)</span> | 1,294<br/><span style="color: #004225;">(-16.30%)</span> | 1,547<br/><span style="color: #8B0000;">(+6.53%)</span> |
-| **10月** | -- | 1,143<br/><span style="color: #8B0000;">(+2.35%)</span> | 1,116<br/><span style="color: #004225;">(-13.50%)</span> | 1,290<br/><span style="color: #004225;">(-17.30%)</span> | 1,561<br/><span style="color: #B22222;">(+11.10%)</span> |
+| **10月** | 1,088<br/><span style="color: #002818;">(-4.79%)</span> | 1,143<br/><span style="color: #8B0000;">(+2.35%)</span> | 1,116<br/><span style="color: #004225;">(-13.50%)</span> | 1,290<br/><span style="color: #004225;">(-17.30%)</span> | 1,561<br/><span style="color: #B22222;">(+11.10%)</span> |
 | **9月** | 1,255<br/><span style="color: #8B0000;">(+2.58%)</span> | 1,223<br/><span style="color: #002818;">(-2.78%)</span> | 1,258<br/><span style="color: #002818;">(-4.10%)</span> | 1,312<br/><span style="color: #004225;">(-19.70%)</span> | 1,632<br/><span style="color: #8B0000;">(+9.79%)</span> |
 | **8月** | 1,176<br/><span style="color: #8B0000;">(+5.24%)</span> | 1,117<br/><span style="color: #002818;">(-9.43%)</span> | 1,233<br/><span style="color: #8B0000;">(+2.90%)</span> | 1,199<br/><span style="color: #004225;">(-17.20%)</span> | 1,448<br/><span style="color: #B22222;">(+17.10%)</span> |
 | **7月** | 1,156<br/><span style="color: #8B0000;">(+4.68%)</span> | 1,104<br/><span style="color: #002818;">(-7.13%)</span> | 1,189<br/><span style="color: #002818;">(-9.50%)</span> | 1,314<br/><span style="color: #002818;">(-6.41%)</span> | 1,404<br/><span style="color: #B22222;">(+13.80%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 友訊 (2332) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **10.88** | <span style="color: #002818; font-weight: bold;">-4.79</span> | <span style="color: #8B0000; font-weight: bold;">+6.56</span> | **19.4** | <span style="color: #002818; font-weight: bold;">21.3</span> | <span style="color: #002818; font-weight: bold;">20.0</span> |
 | **2026/09** | **12.55** | <span style="color: #8B0000; font-weight: bold;">+2.58</span> | <span style="color: #8B0000; font-weight: bold;">+7.87</span> | **20.6** | <span style="color: #002818; font-weight: bold;">21.15</span> | <span style="color: #002818; font-weight: bold;">18.65</span> |
 | **2026/08** | **11.76** | <span style="color: #8B0000; font-weight: bold;">+5.24</span> | <span style="color: #8B0000; font-weight: bold;">+8.61</span> | **19.9** | <span style="color: #8B0000; font-weight: bold;">24.95</span> | <span style="color: #002818; font-weight: bold;">19.8</span> |
 | **2026/07** | **11.56** | <span style="color: #8B0000; font-weight: bold;">+4.68</span> | <span style="color: #8B0000; font-weight: bold;">+9.11</span> | **21.25** | <span style="color: #8B0000; font-weight: bold;">26.45</span> | <span style="color: #002818; font-weight: bold;">17.35</span> |
@@ -413,7 +414,7 @@ description: 月營收表 友訊 (2332) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-11 06:02:28 CST
+- **產生時間**: 2026-11-12 05:38:13 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
