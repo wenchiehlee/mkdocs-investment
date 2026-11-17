@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-11-16
+date: 2026-11-18
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 中信金 (2891) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 中信金  
     **:identification_card: 股票代號**: 2891  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-16 05:43:22 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-18 07:23:33 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+12.8</span> | <span style="color: #FF4500; font-weight: bold;">+33.2</span> | **239** 個月 | 2006/11 至 2026/09 |
+| <span style="color: #228B22; font-weight: bold;">-35.4</span> | <span style="color: #DC143C; font-weight: bold;">+21.8</span> | **240** 個月 | 2006/11 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 中信金 (2891) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 22,850<br/><span style="color: #FF6347;">(+44.10%)</span> | 15,850<br/><span style="color: #FF7F7F;">(+62.50%)</span> | 9,755<br/><span style="color: #FF7F7F;">(+500.10%)</span> | 1,626<br/><span style="color: #90EE90;">(-90.10%)</span> |
 | **11月** | -- | 23,880<br/><span style="color: #FF6347;">(+45.80%)</span> | 16,380<br/><span style="color: #FF7F7F;">(+101.00%)</span> | 8,150<br/><span style="color: #FF7F7F;">(+433.90%)</span> | -2,441<br/><span style="color: #90EE90;">(-114.80%)</span> |
-| **10月** | -- | 24,210<br/><span style="color: #FF7F7F;">(+52.30%)</span> | 15,890<br/><span style="color: #FF4500;">(+34.80%)</span> | 11,790<br/><span style="color: #FF7F7F;">(+249.30%)</span> | 3,374<br/><span style="color: #90EE90;">(-79.70%)</span> |
+| **10月** | 17,630<br/><span style="color: #228B22;">(-35.40%)</span> | 27,300<br/><span style="color: #FF7F7F;">(+71.80%)</span> | 15,890<br/><span style="color: #FF4500;">(+34.80%)</span> | 11,790<br/><span style="color: #FF7F7F;">(+249.30%)</span> | 3,374<br/><span style="color: #90EE90;">(-79.70%)</span> |
 | **9月** | 21,330<br/><span style="color: #B22222;">(+12.80%)</span> | 18,910<br/><span style="color: #B22222;">(+16.00%)</span> | 16,300<br/><span style="color: #DC143C;">(+26.80%)</span> | 12,850<br/><span style="color: #FF6347;">(+40.10%)</span> | 9,171<br/><span style="color: #32CD32;">(-45.00%)</span> |
 | **8月** | 24,400<br/><span style="color: #228B22;">(-32.00%)</span> | 35,890<br/><span style="color: #FF7F7F;">(+211.90%)</span> | 11,510<br/><span style="color: #004225;">(-14.80%)</span> | 13,500<br/><span style="color: #DC143C;">(+21.00%)</span> | 11,160<br/><span style="color: #32CD32;">(-40.00%)</span> |
 | **7月** | 18,050<br/><span style="color: #004225;">(-18.40%)</span> | 22,120<br/><span style="color: #002818;">(-1.19%)</span> | 22,390<br/><span style="color: #DC143C;">(+24.10%)</span> | 18,040<br/><span style="color: #B22222;">(+15.80%)</span> | 15,580<br/><span style="color: #8B0000;">(+0.25%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 中信金 (2891) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **176.3** | <span style="color: #228B22; font-weight: bold;">-35.4</span> | <span style="color: #DC143C; font-weight: bold;">+21.8</span> | **75.8** | <span style="color: #FF6347; font-weight: bold;">70.2</span> | <span style="color: #FF6347; font-weight: bold;">67.1</span> |
 | **2026/09** | **213.3** | <span style="color: #B22222; font-weight: bold;">+12.8</span> | <span style="color: #FF4500; font-weight: bold;">+33.2</span> | **68.4** | <span style="color: #FF6347; font-weight: bold;">72.0</span> | <span style="color: #FF6347; font-weight: bold;">65.1</span> |
 | **2026/08** | **244** | <span style="color: #228B22; font-weight: bold;">-32</span> | <span style="color: #FF4500; font-weight: bold;">+36.5</span> | **64.7** | <span style="color: #FF6347; font-weight: bold;">67.3</span> | <span style="color: #FF6347; font-weight: bold;">62.1</span> |
 | **2026/07** | **180.5** | <span style="color: #004225; font-weight: bold;">-18.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+66.4</span> | **64.9** | <span style="color: #FF6347; font-weight: bold;">72.2</span> | <span style="color: #FF6347; font-weight: bold;">60.7</span> |
@@ -90,7 +91,7 @@ description: 月營收表 中信金 (2891) - 自動產生
 | **2026/01** | **258.6** | <span style="color: #FF6347; font-weight: bold;">+48.2</span> | <span style="color: #FF6347; font-weight: bold;">+48.2</span> | **50.9** | <span style="color: #FF4500; font-weight: bold;">52.4</span> | <span style="color: #FF4500; font-weight: bold;">49.1</span> |
 | **2025/12** | **228.5** | <span style="color: #FF6347; font-weight: bold;">+44.1</span> | <span style="color: #DC143C; font-weight: bold;">+29.3</span> | **50.2** | <span style="color: #DC143C; font-weight: bold;">50.9</span> | <span style="color: #DC143C; font-weight: bold;">43.25</span> |
 | **2025/11** | **238.8** | <span style="color: #FF6347; font-weight: bold;">+45.8</span> | <span style="color: #DC143C; font-weight: bold;">+27.9</span> | **43.45** | <span style="color: #DC143C; font-weight: bold;">44.1</span> | <span style="color: #DC143C; font-weight: bold;">41.85</span> |
-| **2025/10** | **242.1** | <span style="color: #FF7F7F; font-weight: bold;">+52.3</span> | <span style="color: #DC143C; font-weight: bold;">+26.1</span> | **41.85** | <span style="color: #DC143C; font-weight: bold;">43.2</span> | <span style="color: #DC143C; font-weight: bold;">41.75</span> |
+| **2025/10** | **273** | <span style="color: #FF7F7F; font-weight: bold;">+71.8</span> | <span style="color: #8B0000; font-weight: bold;">+4.46</span> | **41.85** | <span style="color: #DC143C; font-weight: bold;">43.2</span> | <span style="color: #DC143C; font-weight: bold;">41.75</span> |
 | **2025/09** | **189.1** | <span style="color: #B22222; font-weight: bold;">+16</span> | <span style="color: #002818; font-weight: bold;">-3.11</span> | **42.9** | <span style="color: #DC143C; font-weight: bold;">43.8</span> | <span style="color: #DC143C; font-weight: bold;">41.2</span> |
 | **2025/08** | **358.9** | <span style="color: #FF7F7F; font-weight: bold;">+211.9</span> | <span style="color: #002818; font-weight: bold;">-5.6</span> | **41.15** | <span style="color: #DC143C; font-weight: bold;">43.4</span> | <span style="color: #DC143C; font-weight: bold;">40.7</span> |
 | **2025/07** | **221.2** | <span style="color: #002818; font-weight: bold;">-1.19</span> | <span style="color: #006400; font-weight: bold;">-27.7</span> | **41.25** | <span style="color: #DC143C; font-weight: bold;">44.95</span> | <span style="color: #DC143C; font-weight: bold;">40.9</span> |
@@ -413,7 +414,7 @@ description: 月營收表 中信金 (2891) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-16 05:43:22 CST
+- **產生時間**: 2026-11-18 07:23:33 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

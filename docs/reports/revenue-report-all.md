@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-11-16
+date: 2026-11-18
 categories:
   - 股票
   - 月營收
@@ -23,7 +23,7 @@ description: 月營收總覽 - 所有 139 檔股票 - 自動產生
 # :bar_chart: 月營收總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-11-16 05:43:22 CST  
+    **:calendar: 產生時間**: 2026-11-18 07:23:33 CST  
     **:building_construction: 分析股票總數**: 139 檔  
     **:chart_with_upwards_trend: 報告類型**: 各股完整歷史資料  
     **:file_folder: 資料來源**: raw_revenue.csv + raw_monthly_flow.csv
@@ -36,13 +36,13 @@ description: 月營收總覽 - 所有 139 檔股票 - 自動產生
 
     ---
 
-    **122** 檔 (87.8%)
+    **120** 檔 (86.3%)
 
 - :chart_with_downwards_trend: **負成長股票**
 
     ---
 
-    **17** 檔 (12.2%)
+    **19** 檔 (13.7%)
 
 - :page_with_curl: **總處理股票**
 
@@ -102,11 +102,11 @@ description: 月營收總覽 - 所有 139 檔股票 - 自動產生
 | [**2480**](../revenue-report/revenue-report-2480/) | 敦陽科 | **240** | 2026/10 | <span style="color: #FF7F7F; font-weight: bold;">+69.8</span> | 2006/11 ~ 2026/10 |
 | [**2603**](../revenue-report/revenue-report-2603/) | 長榮 | **238** | 2026/10 | <span style="color: #FF7F7F; font-weight: bold;">+96.1</span> | 2007/01 ~ 2026/10 |
 | [**2646**](../revenue-report/revenue-report-2646/) | 星宇航空 | **49** | 2026/07 | <span style="color: #FF6347; font-weight: bold;">+42.8</span> | 2022/07 ~ 2026/07 |
-| [**2851**](../revenue-report/revenue-report-2851/) | 中再保 | **239** | 2026/09 | <span style="color: #004225; font-weight: bold;">-14.9</span> | 2006/11 ~ 2026/09 |
-| [**2881**](../revenue-report/revenue-report-2881/) | 富邦金 | **239** | 2026/09 | <span style="color: #90EE90; font-weight: bold;">-63.8</span> | 2006/11 ~ 2026/09 |
-| [**2882**](../revenue-report/revenue-report-2882/) | 國泰金 | **239** | 2026/09 | <span style="color: #32CD32; font-weight: bold;">-47.4</span> | 2006/11 ~ 2026/09 |
-| [**2884**](../revenue-report/revenue-report-2884/) | 玉山金 | **239** | 2026/09 | <span style="color: #8B0000; font-weight: bold;">+7.18</span> | 2006/11 ~ 2026/09 |
-| [**2891**](../revenue-report/revenue-report-2891/) | 中信金 | **239** | 2026/09 | <span style="color: #B22222; font-weight: bold;">+12.8</span> | 2006/11 ~ 2026/09 |
+| [**2851**](../revenue-report/revenue-report-2851/) | 中再保 | **240** | 2026/10 | <span style="color: #32CD32; font-weight: bold;">-47.9</span> | 2006/11 ~ 2026/10 |
+| [**2881**](../revenue-report/revenue-report-2881/) | 富邦金 | **240** | 2026/10 | <span style="color: #90EE90; font-weight: bold;">-83.4</span> | 2006/11 ~ 2026/10 |
+| [**2882**](../revenue-report/revenue-report-2882/) | 國泰金 | **240** | 2026/10 | <span style="color: #90EE90; font-weight: bold;">-61.4</span> | 2006/11 ~ 2026/10 |
+| [**2884**](../revenue-report/revenue-report-2884/) | 玉山金 | **240** | 2026/10 | <span style="color: #004225; font-weight: bold;">-16</span> | 2006/11 ~ 2026/10 |
+| [**2891**](../revenue-report/revenue-report-2891/) | 中信金 | **240** | 2026/10 | <span style="color: #228B22; font-weight: bold;">-35.4</span> | 2006/11 ~ 2026/10 |
 | [**3014**](../revenue-report/revenue-report-3014/) | 聯陽 | **240** | 2026/10 | <span style="color: #8B0000; font-weight: bold;">+7.04</span> | 2006/11 ~ 2026/10 |
 | [**3022**](../revenue-report/revenue-report-3022/) | 威強電 | **240** | 2026/10 | <span style="color: #B22222; font-weight: bold;">+11.8</span> | 2006/11 ~ 2026/10 |
 | [**3026**](../revenue-report/revenue-report-3026/) | 禾伸堂 | **238** | 2026/10 | <span style="color: #FF4500; font-weight: bold;">+33.4</span> | 2006/11 ~ 2026/10 |
@@ -260,13 +260,13 @@ description: 月營收總覽 - 所有 139 檔股票 - 自動產生
 ## :material-chart-timeline-variant: 趨勢分析
 
 !!! success "正向指標"
-    - **87.8%** 的股票呈現正成長
-    - 共有 **122** 檔股票營收增長
+    - **86.3%** 的股票呈現正成長
+    - 共有 **120** 檔股票營收增長
     - 反映整體市場樂觀氣氛
 
 !!! note "市場概況"
-    - **12.2%** 的股票出現負成長
-    - 共有 **17** 檔股票營收下滑
+    - **13.7%** 的股票出現負成長
+    - 共有 **19** 檔股票營收下滑
     - 建議關注產業別和個股基本面
 
 ---
@@ -275,7 +275,7 @@ description: 月營收總覽 - 所有 139 檔股票 - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-**產生時間**: 2026-11-16 05:43:22 CST  
+**產生時間**: 2026-11-18 07:23:33 CST  
 **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 **報告版本**: Material for MkDocs 增強版 with EPS/P-E Integration (Asymmetric Statistics)  
 **處理模式**: 完整資料模式

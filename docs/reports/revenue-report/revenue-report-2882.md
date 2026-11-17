@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-11-16
+date: 2026-11-18
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 國泰金 (2882) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 國泰金  
     **:identification_card: 股票代號**: 2882  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-16 05:43:22 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-18 07:23:33 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #32CD32; font-weight: bold;">-47.4</span> | <span style="color: #FF4500; font-weight: bold;">+37.6</span> | **239** 個月 | 2006/11 至 2026/09 |
+| <span style="color: #90EE90; font-weight: bold;">-61.4</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **240** 個月 | 2006/11 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 國泰金 (2882) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 26,689<br/><span style="color: #002818;">(-6.38%)</span> | 28,510<br/><span style="color: #8B0000;">(+9.22%)</span> | 26,110<br/><span style="color: #FF7F7F;">(+59.00%)</span> | 16,420<br/><span style="color: #90EE90;">(-76.90%)</span> |
 | **11月** | -- | 32,139<br/><span style="color: #DC143C;">(+25.60%)</span> | 25,590<br/><span style="color: #FF7F7F;">(+169.40%)</span> | 9,497<br/><span style="color: #FF7F7F;">(+499.40%)</span> | 1,584<br/><span style="color: #90EE90;">(-96.30%)</span> |
-| **10月** | -- | 42,270<br/><span style="color: #FF7F7F;">(+114.20%)</span> | 19,740<br/><span style="color: #006400;">(-24.50%)</span> | 26,130<br/><span style="color: #FF7F7F;">(+54.20%)</span> | 16,940<br/><span style="color: #90EE90;">(-50.60%)</span> |
+| **10月** | 22,930<br/><span style="color: #90EE90;">(-61.40%)</span> | 59,410<br/><span style="color: #FF7F7F;">(+201.00%)</span> | 19,740<br/><span style="color: #006400;">(-24.50%)</span> | 26,130<br/><span style="color: #FF7F7F;">(+54.20%)</span> | 16,940<br/><span style="color: #90EE90;">(-50.60%)</span> |
 | **9月** | 20,410<br/><span style="color: #32CD32;">(-47.40%)</span> | 38,780<br/><span style="color: #FF7F7F;">(+92.60%)</span> | 20,130<br/><span style="color: #FF6347;">(+44.70%)</span> | 13,910<br/><span style="color: #004225;">(-13.10%)</span> | 16,010<br/><span style="color: #90EE90;">(-56.20%)</span> |
 | **8月** | 29,489<br/><span style="color: #90EE90;">(-69.50%)</span> | 96,570<br/><span style="color: #FF7F7F;">(+347.20%)</span> | 21,590<br/><span style="color: #004225;">(-12.00%)</span> | 24,540<br/><span style="color: #002818;">(-8.75%)</span> | 26,889<br/><span style="color: #32CD32;">(-42.60%)</span> |
 | **7月** | 25,140<br/><span style="color: #90EE90;">(-69.70%)</span> | 82,980<br/><span style="color: #FF7F7F;">(+53.50%)</span> | 54,070<br/><span style="color: #FF4500;">(+30.00%)</span> | 41,580<br/><span style="color: #FF7F7F;">(+61.20%)</span> | 25,800<br/><span style="color: #32CD32;">(-46.70%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 國泰金 (2882) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **229.3** | <span style="color: #90EE90; font-weight: bold;">-61.4</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **116** | <span style="color: #FF6347; font-weight: bold;">114.0</span> | <span style="color: #FF7F7F; font-weight: bold;">109.0</span> |
 | **2026/09** | **204.1** | <span style="color: #32CD32; font-weight: bold;">-47.4</span> | <span style="color: #FF4500; font-weight: bold;">+37.6</span> | **111** | <span style="color: #FF6347; font-weight: bold;">117.0</span> | <span style="color: #FF7F7F; font-weight: bold;">108.0</span> |
 | **2026/08** | **294.9** | <span style="color: #90EE90; font-weight: bold;">-69.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+62.5</span> | **110.5** | <span style="color: #FF6347; font-weight: bold;">111.0</span> | <span style="color: #FF6347; font-weight: bold;">97.0</span> |
 | **2026/07** | **251.4** | <span style="color: #90EE90; font-weight: bold;">-69.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+422.1</span> | **101.5** | <span style="color: #FF6347; font-weight: bold;">102.5</span> | <span style="color: #FF6347; font-weight: bold;">92.5</span> |
@@ -90,7 +91,7 @@ description: 月營收表 國泰金 (2882) - 自動產生
 | **2026/01** | **260** | <span style="color: #8B0000; font-weight: bold;">+1.37</span> | <span style="color: #8B0000; font-weight: bold;">+1.37</span> | **75.4** | <span style="color: #DC143C; font-weight: bold;">78.4</span> | <span style="color: #DC143C; font-weight: bold;">74.5</span> |
 | **2025/12** | **266.9** | <span style="color: #002818; font-weight: bold;">-6.38</span> | <span style="color: #002818; font-weight: bold;">-3.65</span> | **75.8** | <span style="color: #DC143C; font-weight: bold;">77.3</span> | <span style="color: #B22222; font-weight: bold;">64.1</span> |
 | **2025/11** | **321.4** | <span style="color: #DC143C; font-weight: bold;">+25.6</span> | <span style="color: #002818; font-weight: bold;">-3.41</span> | **64.2** | <span style="color: #B22222; font-weight: bold;">66.5</span> | <span style="color: #B22222; font-weight: bold;">63.5</span> |
-| **2025/10** | **422.7** | <span style="color: #FF7F7F; font-weight: bold;">+114.2</span> | <span style="color: #002818; font-weight: bold;">-5.82</span> | **64** | <span style="color: #B22222; font-weight: bold;">67.1</span> | <span style="color: #B22222; font-weight: bold;">64.0</span> |
+| **2025/10** | **594.1** | <span style="color: #FF7F7F; font-weight: bold;">+201</span> | <span style="color: #006400; font-weight: bold;">-25.3</span> | **64** | <span style="color: #B22222; font-weight: bold;">67.1</span> | <span style="color: #B22222; font-weight: bold;">64.0</span> |
 | **2025/09** | **387.8** | <span style="color: #FF7F7F; font-weight: bold;">+92.6</span> | <span style="color: #32CD32; font-weight: bold;">-40.8</span> | **65.6** | <span style="color: #B22222; font-weight: bold;">67.0</span> | <span style="color: #B22222; font-weight: bold;">61.8</span> |
 | **2025/08** | **965.7** | <span style="color: #FF7F7F; font-weight: bold;">+347.2</span> | <span style="color: #90EE90; font-weight: bold;">-50.8</span> | **61.5** | <span style="color: #8B0000; font-weight: bold;">64.8</span> | <span style="color: #B22222; font-weight: bold;">60.0</span> |
 | **2025/07** | **829.8** | <span style="color: #FF7F7F; font-weight: bold;">+53.5</span> | <span style="color: #90EE90; font-weight: bold;">-85.6</span> | **60.9** | <span style="color: #8B0000; font-weight: bold;">64.7</span> | <span style="color: #B22222; font-weight: bold;">60.8</span> |
@@ -413,7 +414,7 @@ description: 月營收表 國泰金 (2882) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-16 05:43:22 CST
+- **產生時間**: 2026-11-18 07:23:33 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
